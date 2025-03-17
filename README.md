@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 🔧 Использование
 
-Перейдите в папку crawler м запустите `crawler.py`:
+Перейдите в папку crawler и запустите `crawler.py`:
 ```bash
 python crawler.py
 ```
