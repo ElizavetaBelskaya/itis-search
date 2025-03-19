@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>A.Jia | Kpop Wiki | Fandom</title>
+<title>Yet to Come in Busan | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-A_Jia rootpage-A_Jia skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Yet_to_Come_in_Busan rootpage-Yet_to_Come_in_Busan skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,19 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:February_births" title="Category:February births">February births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Concert_article_stubs" title="Category:Concert article stubs">Concert article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:BTS" title="Category:BTS">BTS</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2022_concerts" title="Category:2022 concerts">2022 concerts</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">4 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:LIVE_HIGH" title="Category:LIVE HIGH">LIVE HIGH</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Solo_concerts" title="Category:Solo concerts">Solo concerts</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:A.Jia" title="Category:A.Jia">A.Jia</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Female_soloists" title="Category:Female soloists">Female soloists</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:2011_debuts" title="Category:2011 debuts">2011 debuts</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2022_solo_concerts" title="Category:2022 solo concerts">2022 solo concerts</a> </li>
 </ul>
 </div>
 </div>
@@ -2375,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">A.Jia</span> </h1>
+<span class="mw-page-title-main">Yet to Come in Busan</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2386,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/A.Jia?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Yet_to_Come_in_Busan?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/A.Jia?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Yet_to_Come_in_Busan?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:A.Jia?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Yet_to_Come_in_Busan?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2418,139 +2414,152 @@
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">A.Jia</h2>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-concert pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Yet to Come in Busan</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/93/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%281%29.png/revision/latest?cb=20200812054942" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%281%29.png" data-image-name="LIVE HIGH A.Jia Hakuna Matata promo photo (1).png" data-relevant="1" height="377" src="https://static.wikia.nocookie.net/kpop/images/9/93/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%281%29.png/revision/latest/scale-to-width-down/267?cb=20200812054942" srcset="https://static.wikia.nocookie.net/kpop/images/9/93/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%281%29.png/revision/latest/scale-to-width-down/267?cb=20200812054942 1x, https://static.wikia.nocookie.net/kpop/images/9/93/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%281%29.png/revision/latest/scale-to-width-down/536?cb=20200812054942 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/fb/BTS_Yet_to_Come_in_Busan_concert_poster.png/revision/latest?cb=20230210102310" title="BTS Yet to Come in Busan concert poster">
+<img alt="BTS Yet to Come in Busan concert poster" class="pi-image-thumbnail" data-image-key="BTS_Yet_to_Come_in_Busan_concert_poster.png" data-image-name="BTS Yet to Come in Busan concert poster.png" data-relevant="1" height="180" src="https://static.wikia.nocookie.net/kpop/images/f/fb/BTS_Yet_to_Come_in_Busan_concert_poster.png/revision/latest/scale-to-width-down/267?cb=20230210102310" srcset="https://static.wikia.nocookie.net/kpop/images/f/fb/BTS_Yet_to_Come_in_Busan_concert_poster.png/revision/latest/scale-to-width-down/267?cb=20230210102310 1x, https://static.wikia.nocookie.net/kpop/images/f/fb/BTS_Yet_to_Come_in_Busan_concert_poster.png/revision/latest/scale-to-width-down/536?cb=20230210102310 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Promotional photo for "<a class="mw-disambig" href="/wiki/Hakuna_Matata" title="Hakuna Matata">Hakuna Matata</a>"</figcaption>
 </figure>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
-<h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">Agia (아지아) <small>(former)</small></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Yoon Young-ah (윤영아)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">February 27, 1990<span style="display:none"> (<span class="bday">1990-02-27</span>)</span><span class="noprint"> (age 35)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
-<h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">164 cm (5 ft 5 in)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
-<h3 class="pi-data-label pi-secondary-font">Weight</h3>
-<div class="pi-data-value pi-font">45 kg (99 lb)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
-<h3 class="pi-data-label pi-secondary-font">Blood type</h3>
-<div class="pi-data-value pi-font">B</div>
-</div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Singer</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
-<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">July 30, 2013</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
-<h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2013</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font">Woodpecker Entertainment <small>(2011-2012)</small><br/><span class="new" data-uncrawlable-url="L3dpa2kvUmVkX0NyZWF0aXZlX0NvbXBhbnk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Red Creative Company (page does not exist)">Red Creative Company</span> <small>(2013)</small></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/BTS" title="BTS">BTS</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
-<h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/LIVE_HIGH" title="LIVE HIGH">LIVE HIGH</a></div>
+<h3 class="pi-data-label pi-secondary-font">Associated release</h3>
+<div class="pi-data-value pi-font"><i><a href="/wiki/Proof" title="Proof">Proof</a></i></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+<h3 class="pi-data-label pi-secondary-font">Date(s)</h3>
+<div class="pi-data-value pi-font">October 15, 2022</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="venue">
+<h3 class="pi-data-label pi-secondary-font">Venue</h3>
+<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Busan_Asiad_Main_Stadium" title="wikipedia:en:Busan Asiad Main Stadium">Busan Asiad Main Stadium</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="platform">
+<h3 class="pi-data-label pi-secondary-font">Platform</h3>
+<div class="pi-data-value pi-font">Weverse<br/>Zepeto<br/>Naver Now</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="shows">
+<h3 class="pi-data-label pi-secondary-font">Shows</h3>
+<div class="pi-data-value pi-font">1</div>
 </div>
 </section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Chronology</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.instagram.com/agia0213/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span> </td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><a href="/wiki/Permission_To_Dance_:_On_Stage" title="Permission To Dance : On Stage">Permission To Dance : On Stage</a></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<b>A.Jia</b> (에이지아) is a South Korean singer. She is a former member of the girl group <a href="/wiki/LIVE_HIGH" title="LIVE HIGH">LIVE HIGH</a>.
-</p><p>She made her solo debut on December 2, 2011 with the mini album <span class="new" data-uncrawlable-url="L3dpa2kvQWdpYV8xc3RfTWluaV9BbGJ1bT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Agia 1st Mini Album (page does not exist)"><i>Agia 1st Mini Album</i></span>.
+<b>Yet to Come in Busan</b>, also known as <b>World Expo 2030 Busan Korea Concert BTS &lt;Yet to Come in Busan&gt;</b>, was the scond solo concert held by <a href="/wiki/BTS" title="BTS">BTS</a>. It was held on October 15, 2022 at 6PM KST offline at <a class="extiw" href="https://en.wikipedia.org/wiki/en:Busan_Asiad_Main_Stadium" title="wikipedia:en:Busan Asiad Main Stadium">Busan Asiad Main Stadium</a> and online via Weverse, Zepeto and Naver Now.
+</p><p>This was their last concert before entering hiatus for their military service.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>It was re-streamed on October 23, 2022.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#2011:_Solo_debut"><span class="tocnumber">1.1</span> <span class="toctext">2011: Solo debut</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#2013:_LIVE_HIGH"><span class="tocnumber">1.2</span> <span class="toctext">2013: LIVE HIGH</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-4"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-5"><a href="#Mini_album"><span class="tocnumber">2.1</span> <span class="toctext">Mini album</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Set_list"><span class="tocnumber">2</span> <span class="toctext">Set list</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">3</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Video_links"><span class="tocnumber">5</span> <span class="toctext">Video links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="2011:_Solo_debut">2011: Solo debut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On December 2, 2011 she made her solo debut with the mini album <span class="new" data-uncrawlable-url="L3dpa2kvQWdpYV8xc3RfTWluaV9BbGJ1bT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Agia 1st Mini Album (page does not exist)"><i>Agia 1st Mini Album</i></span>.
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On August 24, it was reported that <a href="/wiki/BTS" title="BTS">BTS</a> would be performing in Busan on October 15, for a benefit concert in support of the city's efforts to have a World Exposition in 2030.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> They participated under the banner <i>Yet to Come</i>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> The in-person concert at Busan Asiad Main Stadium was attended by approximately 50,000 people,<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> and the estimated number of viewers at the in-person live broadcast in Busan Port reached about 10,000.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>While there were an estimated 2,000 people watching the Live Play in Haeundae, the area was further crowded as it was open to the public.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> The online live stream through <a class="extiw" href="https://en.wikipedia.org/wiki/en:Weverse" title="wikipedia:en:Weverse">Weverse</a> generated approximately 49 million views alone. The TV broadcast on Korea's <a class="extiw" href="https://en.wikipedia.org/wiki/en:JTBC" title="wikipedia:en:JTBC">JTBC</a> reached an exceptionally high rating of 3.3%.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>Unofficial live streams generated approximately 735,000 views due to the constant crashing of the official ones.
 </p>
-<h3><span class="mw-headline" id="2013:_LIVE_HIGH">2013: LIVE HIGH</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On July 30, 2013, A.Jia made her debut as a member of <a href="/wiki/LIVE_HIGH" title="LIVE HIGH">LIVE HIGH</a> with their debut single "<a class="mw-disambig" href="/wiki/Hakuna_Matata" title="Hakuna Matata">Hakuna Matata</a>". Unfortunately, she left the group within the same year.
-</p>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Mini_album">Mini album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><span class="new" data-uncrawlable-url="L3dpa2kvQWdpYV8xc3RfTWluaV9BbGJ1bT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Agia 1st Mini Album (page does not exist)"><i>Agia 1st Mini Album</i></span> (2011)</li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA.Jia%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="7b8ec0eedb2c9cc294016477c17a4fc8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="LIVE_HIGH_A-Jia_Hakuna_Matata_promo_photo_-2--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_(2).png" style="height:150px; width:150px;" title="LIVE HIGH A.Jia Hakuna Matata promo photo (2).png (1.7 MB)"><noscript><img alt='"Hakuna Matata"' class="thumbimage" data-caption='""' data-image-key="LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%282%29.png" data-image-name="LIVE HIGH A.Jia Hakuna Matata promo photo (2).png" data-relevant="1" height="210" src="https://static.wikia.nocookie.net/kpop/images/4/41/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20200812054943" style="" title="LIVE HIGH A.Jia Hakuna Matata promo photo (2).png (1.7 MB)" width="150"/></noscript><img alt='"Hakuna Matata"' class="thumbimage lazyload" data-caption='""' data-image-key="LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%282%29.png" data-image-name="LIVE HIGH A.Jia Hakuna Matata promo photo (2).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/41/LIVE_HIGH_A.Jia_Hakuna_Matata_promo_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20200812054943" height="210" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="LIVE HIGH A.Jia Hakuna Matata promo photo (2).png (1.7 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a class="mw-disambig" href="/wiki/Hakuna_Matata" title="Hakuna Matata">Hakuna Matata</a>"</div></div></div>
-<p>{{Stub|person))
-</p>
+<h2><span class="mw-headline" id="Set_list">Set list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Mic Drop"</li>
+<li>"Run BTS"</li>
+<li>"Run"</li>
+<li>"Save Me"</li>
+<li>"00:00 (Zero O'Clock)"</li>
+<li>"Butterfly"</li>
+<li>"Ugh"</li>
+<li>"BTS Cypher PT.3 : Killer"</li>
+<li>"Dynamite"</li>
+<li>"Boy With Luv"</li>
+<li>"Butter"</li>
+<li>"Ma City"</li>
+<li>"Dope"</li>
+<li>"Fire"</li>
+<li>"Idol"</li>
+<li>"Epilogue : Young Forever"</li>
+<li>"For Youth"</li>
+<li>"Spring Day" <small><b>(Encore)</b></small></li>
+<li>"Yet To Come (The Most Beautiful Moment)" <small><b>(Encore)</b></small></li></ol>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="a4c9065b5388cf5541f3bb9bd01171a8" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="BTS_Yet_to_Come_in_Busan_concert_promotional_poster-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:BTS_Yet_to_Come_in_Busan_concert_promotional_poster.png" style="height:150px; width:150px;" title="BTS Yet to Come in Busan concert promotional poster.png (644 KB)"><noscript><img alt="Promotional" class="thumbimage" data-caption="Promotional" data-image-key="BTS_Yet_to_Come_in_Busan_concert_promotional_poster.png" data-image-name="BTS Yet to Come in Busan concert promotional poster.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/b/b8/BTS_Yet_to_Come_in_Busan_concert_promotional_poster.png/revision/latest/scale-to-width-down/150?cb=20250308155726" style="" title="BTS Yet to Come in Busan concert promotional poster.png (644 KB)" width="150"/></noscript><img alt="Promotional" class="thumbimage lazyload" data-caption="Promotional" data-image-key="BTS_Yet_to_Come_in_Busan_concert_promotional_poster.png" data-image-name="BTS Yet to Come in Busan concert promotional poster.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/b8/BTS_Yet_to_Come_in_Busan_concert_promotional_poster.png/revision/latest/scale-to-width-down/150?cb=20250308155726" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="BTS Yet to Come in Busan concert promotional poster.png (644 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Promotional</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
+<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/BIGHIT_MUSIC/status/1581905317545533440" rel="nofollow noreferrer noopener" target="_blank">@BIGHIT_MUSIC on Twitter (October 17, 2022)</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.billboard.com/music/music-news/bts-yet-to-come-busan-south-korea-free-concert-recap-1235156683/" rel="nofollow noreferrer noopener" target="_blank">Billboard: BTS Takes Over Busan With Massive Free ‘Yet to Come’ Concert in Support of South Korea’s Bid for World Expo 2023</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.billboard.com/music/pop/bts-date-venue-concert-in-busan-1235130156/" rel="nofollow noreferrer noopener" target="_blank">Billboard: BTS Unveils Date and Venue for Concert In Busan</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.hankookilbo.com/News/Read/A2022101517130003266" rel="nofollow noreferrer noopener" target="_blank">(KR) Hankook Ilbo: BTS 부산 콘서트 현장…5만5000명 몰리면서 '북새통'</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://busan.breaknews.com/37202" rel="nofollow noreferrer noopener" target="_blank">(KR) Busan BreakNews: BTS "가장 빛나는 그 순간에 다시 함께하길"..'2030부산엑스포 유치' 염원 전 세계에 전해:브레이크뉴스 부산</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://entertain.naver.com/read?oid=109&amp;aid=0004720245" rel="nofollow noreferrer noopener" target="_blank">(KR) Osen: <bdi>방탄소년단, 부산을 대통합의 장으로..전세계 229개 국가+지역서 함께</bdi></a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.etnews.com/20221019000150" rel="nofollow noreferrer noopener" target="_blank">(KR) Electronic Times: [데이터뉴스] BTS 부산 공연 라이브 스트리밍 6325만건</a></span>
+</li>
+</ol></div></div>
+</div>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FYet_to_Come_in_Busan%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=FkUlpSQ4EhI" rel="nofollow noreferrer noopener" target="_blank">Sketch</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=Cb70gcTVvYI" rel="nofollow noreferrer noopener" target="_blank">"Run BTS" at Yet to Come in Busan</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=XigGbzte8Wg" rel="nofollow noreferrer noopener" target="_blank">"Mic Drop" and "Run BTS" at Yet to Come in Busan</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Yet_to_Come_in_Busan?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#886ce4; color:white;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:BTS" title="Template:BTS"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BTS?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/BTS" title="BTS">BTS</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Jin_(BTS)" title="Jin (BTS)">Jin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Suga" title="Suga">Suga</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/J-Hope" title="J-Hope">J-Hope</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/RM" title="RM">RM</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/V_(BTS)" title="V (BTS)">V</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Kook" title="Jung Kook">Jung Kook</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Dark_%26_Wild" title="Dark &amp; Wild">Dark &amp; Wild</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Wings_(BTS)" title="Wings (BTS)">Wings</a></i> <small>(<i><a href="/wiki/You_Never_Walk_Alone" title="You Never Walk Alone">You Never Walk Alone</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Tear" title="Love Yourself: Tear">Love Yourself: Tear</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_7" title="Map of the Soul : 7">Map of the Soul : 7</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Compilation albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Proof" title="Proof">Proof</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/O!RUL8,2%3F" title="O!RUL8,2?">O!RUL8,2?</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Skool_Luv_Affair" title="Skool Luv Affair">Skool Luv Affair</a></i> <small>(<i><a href="/wiki/Skool_Luv_Affair_Special_Addition" title="Skool Luv Affair Special Addition">Skool Luv Affair Special Addition</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life,_Pt._1" title="The Most Beautiful Moment In Life, Pt. 1">The Most Beautiful Moment In Life, Pt. 1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life,_Pt._2" title="The Most Beautiful Moment In Life, Pt. 2">The Most Beautiful Moment In Life, Pt. 2</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Her" title="Love Yourself: Her">Love Yourself: Her</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_Persona" title="Map of the Soul : Persona">Map of the Soul : Persona</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Be_(BTS)" title="Be (BTS)">Be</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">OST albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/BTS_World_Original_Soundtrack" title="BTS World Original Soundtrack">BTS World Original Soundtrack</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life:_Young_Forever" title="The Most Beautiful Moment In Life: Young Forever">The Most Beautiful Moment In Life: Young Forever</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Answer" title="Love Yourself: Answer">Love Yourself: Answer</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2_Cool_4_Skool" title="2 Cool 4 Skool">2 Cool 4 Skool</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Come_Back_Home_(BTS)" title="Come Back Home (BTS)">Come Back Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/MIC_Drop_(Steve_Aoki_Remix)" title="MIC Drop (Steve Aoki Remix)">MIC Drop (Steve Aoki Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fake_Love_(Rocking_Vibe_Mix)" title="Fake Love (Rocking Vibe Mix)">Fake Love (Rocking Vibe Mix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Black_Swan_(BTS)" title="Black Swan (BTS)">Black Swan</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Take_Two" title="Take Two">Take Two</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Yet_To_Come_(Hyundai_Ver.)" title="Yet To Come (Hyundai Ver.)">Yet To Come (Hyundai Ver.)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/The_Planet" title="The Planet">The Planet</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Other releases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/With_Seoul" title="With Seoul">With Seoul</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Wake_Up_(BTS)" title="Wake Up (BTS)">Wake Up</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Youth_(BTS)" title="Youth (BTS)">Youth</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Face_Yourself" title="Face Yourself">Face Yourself</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_7_~_The_Journey_~" title="Map of the Soul : 7 ~ The Journey ~">Map of the Soul : 7 ~ The Journey ~</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2_Cool_4_Skool_/_O!RUL8,2%3F" title="2 Cool 4 Skool / O!RUL8,2?">2 Cool 4 Skool / O!RUL8,2?</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_of_BTS:_Japan_Edition" title="The Best of BTS: Japan Edition">The Best of BTS: Japan Edition</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_of_BTS:_Korea_Edition" title="The Best of BTS: Korea Edition">The Best of BTS: Korea Edition</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/BTS,_The_Best" title="BTS, The Best">BTS, The Best</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/No_More_Dream_(Japanese_Ver.)" title="No More Dream (Japanese Ver.)">No More Dream</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Boy_In_Luv_(single)" title="Boy In Luv (single)">Boy In Luv</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Danger_(single)" title="Danger (single)">Danger</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/For_You_(BTS)" title="For You (BTS)">For You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/I_Need_U_(single)" title="I Need U (single)">I Need U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Run_(BTS)" title="Run (BTS)">Run</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Blood_Sweat_%26_Tears_(single)" title="Blood Sweat &amp; Tears (single)">Blood Sweat &amp; Tears</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/MIC_Drop/DNA/Crystal_Snow" title="MIC Drop/DNA/Crystal Snow">MIC Drop/DNA/Crystal Snow</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fake_Love/Airplane_Pt.2" title="Fake Love/Airplane Pt.2">Fake Love/Airplane Pt.2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lights/Boy_With_Luv" title="Lights/Boy With Luv">Lights/Boy With Luv</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Stay_Gold_(BTS)" title="Stay Gold (BTS)">Stay Gold</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Film_Out" title="Film Out">Film Out</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Butter_(single_album)" title="Butter (single album)">Butter</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Dynamite_(BTS)" title="Dynamite (BTS)">Dynamite</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Butter_(digital_single)" title="Butter (digital single)">Butter</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Remix singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a class="mw-redirect" href="/wiki/Dynamite_(Holiday_Remix)" title="Dynamite (Holiday Remix)">Dynamite (Holiday Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a class="mw-redirect" href="/wiki/Butter_(Hotter_Remix)" title="Butter (Hotter Remix)">Butter (Hotter Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Permission_to_Dance_(R%26B_Remix)" title="Permission to Dance (R&amp;B Remix)">Permission to Dance (R&amp;B Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Butter_(Megan_Thee_Stallion_Remix)" title="Butter (Megan Thee Stallion Remix)">Butter (Megan Thee Stallion Remix)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Savage_Love_(Laxed_-_Siren_Beat)_%27BTS_Remix%27" title="Savage Love (Laxed - Siren Beat) 'BTS Remix'">Savage Love (Laxed - Siren Beat) [BTS Remix]</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/My_Universe_(Coldplay_%26_BTS)" title="My Universe (Coldplay &amp; BTS)">My Universe</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bad_Decisions" title="Bad Decisions">Bad Decisions</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Features</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/Steve_Aoki" title="wikipedia:Steve Aoki">Steve Aoki</a> - "<a href="/wiki/Waste_It_On_Me" title="Waste It On Me">Waste It On Me</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Def_Jam_Recordings" title="wikipedia:en:Def Jam Recordings">Def Jam Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Universal_Music_Group" title="wikipedia:en:Universal Music Group">Universal Music Group</a></span>  •  <span style="white-space:nowrap"><i><a class="extiw" href="https://en.wikipedia.org/wiki/en:BTS_World" title="wikipedia:en:BTS World">BTS World (soundtrack)</a></i></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Save_Me_(webtoon)" title="wikipedia:en:Save Me (webtoon)"><i>Save Me</i> (webtoon)</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Youth_(TV_series)" title="wikipedia:en:Youth (TV series)"><i>Youth</i> (TV series)</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Line_Friends#BT21" title="wikipedia:en:Line Friends">BT21</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:BTS_Meal" title="wikipedia:en:BTS Meal">BTS Meal</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://bts.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="http://bts-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a> • <a class="external text" href="https://shop.bts-official.us/" rel="nofollow noreferrer noopener" target="_blank">US Store</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://btsblog.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Blog</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/BANGTAN" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/bangtan.official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/bts.bighitofficial/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.soundcloud.com/bangtan" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@bts_official_bighit" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/bts_bighit" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/BTS_twt" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/BTS_jp_official" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/BTSbighit" rel="nofollow noreferrer noopener" target="_blank">Weibo</a> <span style="font-size:85%;">(<a class="external text" href="https://www.weibo.com/BTSmembers" rel="nofollow noreferrer noopener" target="_blank">Members</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/bts/feed/" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://youtube.com/@bts" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <span style="font-size:85%;">(<a class="external text" href="https://youtube.com/@btsjapanofficial" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312121512
+Cached time: 20250315121848
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.118 seconds
-Real time usage: 0.127 seconds
-Preprocessor visited node count: 2496/1000000
-Post‐expand include size: 632/2097152 bytes
-Template argument size: 58/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.247 seconds
+Real time usage: 0.267 seconds
+Preprocessor visited node count: 9898/1000000
+Post‐expand include size: 186750/2097152 bytes
+Template argument size: 153217/2097152 bytes
+Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 2039/5000000 bytes
-Lua time usage: 0.019/7.000 seconds
-Lua memory usage: 1726657/52428800 bytes
+Unstrip post‐expand size: 5863/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  115.892      1 Template:Infobox_person
-100.00%  115.892      1 -total
- 35.57%   41.220      1 Template:Related_Wikis
- 33.05%   38.302      2 Template:Cvt
-  6.41%    7.429      1 Template:Birth_date_and_age
-  2.96%    3.425      2 Template:MONTHNAME
-  1.69%    1.960      2 Template:MONTHNUMBER
-  1.58%    1.834      1 Template:Age
-  0.95%    1.103      1 Template:Instagram
+113.17%  226.078      8 Template:Navbox
+100.00%  199.764      1 -total
+ 45.21%   90.311      1 Template:Infobox_concert
+ 44.33%   88.546      1 Template:BTS
+ 43.06%   86.026      1 Template:Navbox_with_collapsible_groups
+ 28.41%   56.751      1 Template:Related_Wikis
+ 22.09%   44.131     22 Template:List
+ 18.92%   37.792     22 Template:Element_List
+  4.55%    9.094      1 Template:Reflist
+  3.47%    6.931      1 Template:Scroll_Box
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:68558-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312121512 and revision id 1175855. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:152825-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315121848 and revision id 1182702. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2562,32 +2571,24 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="1990 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a></span>
+<li class="category normal" data-name="Concert article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Concert_article_stubs" title="Category:Concert article stubs">Concert article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="February births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:February_births" title="Category:February births">February births</a></span>
+<li class="category normal" data-name="BTS" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:BTS" title="Category:BTS">BTS</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Female singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a></span>
+<li class="category normal" data-name="2022 concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2022_concerts" title="Category:2022 concerts">2022 concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="LIVE HIGH" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:LIVE_HIGH" title="Category:LIVE HIGH">LIVE HIGH</a></span>
+<li class="category normal" data-name="Solo concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Solo_concerts" title="Category:Solo concerts">Solo concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="A.Jia" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:A.Jia" title="Category:A.Jia">A.Jia</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Female soloists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Female_soloists" title="Category:Female soloists">Female soloists</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2011 debuts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2011_debuts" title="Category:2011 debuts">2011 debuts</a></span>
+<li class="category normal" data-name="2022 solo concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2022_solo_concerts" title="Category:2022 solo concerts">2022 solo concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2773,7 +2774,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9BLkppYT90aXRsZT1BLkppYSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9ZZXRfdG9fQ29tZV9pbl9CdXNhbj90aXRsZT1ZZXRfdG9fQ29tZV9pbl9CdXNhbiZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

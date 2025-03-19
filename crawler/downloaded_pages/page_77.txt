@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Super (Workout Remix) | Kpop Wiki | Fandom</title>
+<title>Every DAY6 November | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Super_Workout_Remix rootpage-Super_Workout_Remix skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Every_DAY6_November rootpage-Every_DAY6_November skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,19 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Remix_singles" title="Category:Remix singles">Remix singles</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:DAY6" title="Category:DAY6">DAY6</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">4 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:SEVENTEEN" title="Category:SEVENTEEN">SEVENTEEN</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2017_releases" title="Category:2017 releases">2017 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2024_remix_singles" title="Category:2024 remix singles">2024 remix singles</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:2024_digital_singles" title="Category:2024 digital singles">2024 digital singles</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2017_digital_singles" title="Category:2017 digital singles">2017 digital singles</a> </li>
 </ul>
 </div>
 </div>
@@ -2375,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Super (Workout Remix)</span> </h1>
+<span class="mw-page-title-main">Every DAY6 November</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2386,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Super_(Workout_Remix)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Every_DAY6_November?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Super_(Workout_Remix)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Every_DAY6_November?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Super_(Workout_Remix)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Every_DAY6_November?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2420,18 +2416,22 @@
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 <aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/e/ed/SEVENTEEN_Super_%28Workout_Remix%29_album_cover.png/revision/latest?cb=20240415030006" title="SEVENTEEN Super (Workout Remix) album cover">
-<img alt="SEVENTEEN Super (Workout Remix) album cover" class="pi-image-thumbnail" data-image-key="SEVENTEEN_Super_%28Workout_Remix%29_album_cover.png" data-image-name="SEVENTEEN Super (Workout Remix) album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/e/ed/SEVENTEEN_Super_%28Workout_Remix%29_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240415030006" srcset="https://static.wikia.nocookie.net/kpop/images/e/ed/SEVENTEEN_Super_%28Workout_Remix%29_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240415030006 1x, https://static.wikia.nocookie.net/kpop/images/e/ed/SEVENTEEN_Super_%28Workout_Remix%29_album_cover.png/revision/latest/scale-to-width-down/536?cb=20240415030006 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/fa/DAY6_-_Every_DAY6_November_cover_art.png/revision/latest?cb=20171106060116" title="DAY6 - Every DAY6 November cover art">
+<img alt="DAY6 - Every DAY6 November cover art" class="pi-image-thumbnail" data-image-key="DAY6_-_Every_DAY6_November_cover_art.png" data-image-name="DAY6 - Every DAY6 November cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/f/fa/DAY6_-_Every_DAY6_November_cover_art.png/revision/latest/scale-to-width-down/268?cb=20171106060116" srcset="https://static.wikia.nocookie.net/kpop/images/f/fa/DAY6_-_Every_DAY6_November_cover_art.png/revision/latest/scale-to-width-down/268?cb=20171106060116 1x, https://static.wikia.nocookie.net/kpop/images/f/fa/DAY6_-_Every_DAY6_November_cover_art.png/revision/latest/scale-to-width-down/536?cb=20171106060116 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Super (Workout Remix)"</center></h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Every DAY6 November"</center></h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/DAY6" title="DAY6">DAY6</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="bside">
+<h3 class="pi-data-label pi-secondary-font">B-side</h3>
+<div class="pi-data-value pi-font">"Pouring"</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">February 16, 2024</div>
+<div class="pi-data-value pi-font">November 6, 2017</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
@@ -2439,48 +2439,34 @@
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
 <h3 class="pi-data-label pi-secondary-font">Recorded<b></b></h3>
-<div class="pi-data-value pi-font">2024</div>
+<div class="pi-data-value pi-font">2017</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Dance</div>
+<div class="pi-data-value pi-font">Rock</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">3:13</div>
+<div class="pi-data-value pi-font">7:49</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
-<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></div>
 </div>
 <section class="pi-item pi-group pi-border-color">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="writer">
 <h3 class="pi-data-label pi-secondary-font">Writer(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Woozi" title="Woozi">Woozi</a>, <a href="/wiki/Bumzu" title="Bumzu">Bumzu</a>, <a href="/wiki/S.Coups" title="S.Coups">S.Coups</a>, <a href="/wiki/Vernon" title="Vernon">Vernon</a></div>
+<div class="pi-data-value pi-font">Young K</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="composer">
 <h3 class="pi-data-label pi-secondary-font">Composer(s)</h3>
-<div class="pi-data-value pi-font">Woozi, Bumzu, Dan August Rigo</div>
+<div class="pi-data-value pi-font">Hong Ji Sang, Jae, Sung Jin, Young K, Won Pil <small>(Track 1)</small><br/>Hong Ji Sang, Lee Woo Min "collapsedone", Jae, Sung Jin, Young K, Won Pil <small>(Track 2)</small></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arranger">
 <h3 class="pi-data-label pi-secondary-font">Arranger(s)</h3>
-<div class="pi-data-value pi-font">Park Ki-tae</div>
+<div class="pi-data-value pi-font">Hong Ji Sang <small>(Track 1)</small><br/>Hong Ji Sang, Lee Woo Min "collapsedone" <small>(Track 2)</small></div>
 </div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Music services</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="services"> <span typeof="mw:File"><a href="https://music.apple.com/us/album/1728927806/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Apple_Music_Icon.png" data-image-name="Apple Music Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/6/65/Apple_Music_Icon.png/revision/latest?cb=20230524103054" width="20"/></a></span>  <span typeof="mw:File"><a href="https://music.bugs.co.kr/album/4096224" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Bugs_Icon.png" data-image-name="Bugs Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/e/e0/Bugs_Icon.png/revision/latest?cb=20230524104544" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.deezer.com/album/547655352" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Deezer_Icon.png" data-image-name="Deezer Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/0/0a/Deezer_Icon.png/revision/latest/scale-to-width-down/20?cb=20240616172820" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.music-flo.com/detail/album/422131753" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="FLO_Icon.png" data-image-name="FLO Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/e/ea/FLO_Icon.png/revision/latest?cb=20230524103603" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://genie.co.kr/detail/albumInfo?axnm=84805135" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Genie_Music_Icon.png" data-image-name="Genie Music Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a2/Genie_Music_Icon.png/revision/latest?cb=20230524151108" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.melon.com/album/detail.htm?albumId=11419125" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Melon_Icon.png" data-image-name="Melon Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/9/98/Melon_Icon.png/revision/latest?cb=20230524151106" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Spotify_Icon.png" data-image-name="Spotify Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a8/Spotify_Icon.png/revision/latest?cb=20230524151104" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://music.youtube.com/playlist?list=OLAK5uy_nmNanAQJlGtdcYrpPL00IiPrCyHSczAIo" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Music_Icon.png" data-image-name="YouTube Music Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/f/fb/YouTube_Music_Icon.png/revision/latest?cb=20230524103420" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://vibe.naver.com/album/30872057" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="VIBE_Icon.png" data-image-name="VIBE Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a7/VIBE_Icon.png/revision/latest?cb=20230524103224" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
 </section>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
@@ -2493,37 +2479,38 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Xi%C4%81ng_Y%C3%B9_De_Y%C3%AC_Y%C3%AC" title="Xiāng Yù De Yì Yì">相遇的意义</a>"</td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/17_Is_Right_Here" title="17 Is Right Here">17 Is Right Here</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Every_DAY6_October" title="Every DAY6 October">Every DAY6 October</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/Moonrise" title="Moonrise">Moonrise</a></i></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-
-"<b>Super (Workout Remix)</b>" (손오공 (Workout Remix)) is the first remix single by <a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>. It was released on February 16, 2024.
+<b>"Every DAY6 November"</b> is the tenth digital single by <a href="/wiki/DAY6" title="DAY6">DAY6</a>. It was released on November 6, 2017.
 </p>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSuper_%28Workout_Remix%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=OgQ8p-bxnNA" rel="nofollow noreferrer noopener" target="_blank">Official visualizer</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Super_(Workout_Remix)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#91A8D0; color:#F7CAC9;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:SEVENTEEN" title="Template:SEVENTEEN"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:SEVENTEEN?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/S.Coups" title="S.Coups">S.Coups</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jeonghan" title="Jeonghan">Jeonghan</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Joshua" title="Joshua">Joshua</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jun_(SEVENTEEN)" title="Jun (SEVENTEEN)">Jun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hoshi" title="Hoshi">Hoshi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Wonwoo" title="Wonwoo">Wonwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Woozi" title="Woozi">Woozi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/DK_(SEVENTEEN)" title="DK (SEVENTEEN)">DK</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mingyu_(SEVENTEEN)" title="Mingyu (SEVENTEEN)">Mingyu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/The8" title="The8">The8</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seungkwan" title="Seungkwan">Seungkwan</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Vernon" title="Vernon">Vernon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Dino_(SEVENTEEN)" title="Dino (SEVENTEEN)">Dino</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/First_%27Love_%26_Letter%27" title="First 'Love &amp; Letter'">First 'Love &amp; Letter'</a></i> <small>(<i><a href="/wiki/Love_%26_Letter_Repackage_Album" title="Love &amp; Letter Repackage Album">Love &amp; Letter Repackage Album</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Teen,_Age" title="Teen, Age">Teen, Age</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/An_Ode" title="An Ode">An Ode</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Face_the_Sun" title="Face the Sun">Face the Sun</a></i> <small>(<i><a href="/wiki/Sector_17" title="Sector 17">Sector 17</a></i>)</small></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Is_Right_Here" title="17 Is Right Here">17 Is Right Here</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Carat" title="17 Carat">17 Carat</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Boys_Be" title="Boys Be">Boys Be</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Going_Seventeen" title="Going Seventeen">Going Seventeen</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Al1" title="Al1">Al1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/You_Make_My_Day" title="You Make My Day">You Make My Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/You_Made_My_Dawn" title="You Made My Dawn">You Made My Dawn</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Heng:gar%C3%A6" title="Heng:garæ">Heng:garæ</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Your_Choice" title="Your Choice">Your Choice</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Attacca" title="Attacca">Attacca</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/FML" title="FML">FML</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Seventeenth_Heaven" title="Seventeenth Heaven">Seventeenth Heaven</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Spill_the_Feels" title="Spill the Feels">Spill the Feels</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Special albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Director%27s_Cut" title="Director's Cut">Director's Cut</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Semicolon" title="Semicolon">Semicolon</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mixtapes</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Check-In_(SEVENTEEN)" title="Check-In (SEVENTEEN)">Check-In</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Hit" title="Hit">Hit</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/World_(Feat._Anne-Marie)" title="World (Feat. Anne-Marie)">_World (Feat. Anne-Marie)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/God_of_Light_Music" title="God of Light Music">God of Light Music</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Remix singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<strong class="mw-selflink selflink">Super (Workout Remix)</strong>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Maestro_(Orchestra_Remix)" title="Maestro (Orchestra Remix)">Maestro (Orchestra Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Remixes)" title="Love, Money, Fame (Remixes)">Love, Money, Fame (Remixes)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Timbaland_Remix)" title="Love, Money, Fame (Timbaland Remix)">Love, Money, Fame (Timbaland Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Kenia_Os_Remix)" title="Love, Money, Fame (Kenia Os Remix)">Love, Money, Fame (Kenia Os Remix)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Q%26A_(SEVENTEEN_%26_Ailee)" title="Q&amp;A (SEVENTEEN &amp; Ailee)">Q&amp;A</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Monthly_Project_2016_February_Yoon_Jong_Shin" title="Monthly Project 2016 February Yoon Jong Shin">Monthly Project 2016 February Yoon Jong Shin</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Always_Yours" title="Always Yours">Always Yours</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/We_Make_You" title="We Make You">We Make You</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/24H" title="24H">24H</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Dream_(SEVENTEEN)" title="Dream (SEVENTEEN)">Dream</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Happy_Ending_(SEVENTEEN)" title="Happy Ending (SEVENTEEN)">Happy Ending</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fallin%27_Flower" title="Fallin' Flower">Fallin' Flower</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Not_Alone_(SEVENTEEN)" title="Not Alone (SEVENTEEN)">Not Alone</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sh%C5%8Dhi_Kigen_(single)" title="Shōhi Kigen (single)">消費期限</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Special singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Power_of_Love_(SEVENTEEN)" title="Power of Love (SEVENTEEN)">Power of Love</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"24H"</span>  •  <span style="white-space:nowrap">"Sara Sara"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sh%C5%8Dhi_Kigen_(digital_single)" title="Shōhi Kigen (digital single)">消費期限</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Chinese</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Oh_My!_(SEVENTEEN)" title="Oh My! (SEVENTEEN)">Oh My!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Home_(SEVENTEEN_Chinese_single)" title="Home (SEVENTEEN Chinese single)">Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Xi%C4%81ng_Y%C3%B9_De_Y%C3%AC_Y%C3%AC" title="Xiāng Yù De Yì Yì">相遇的意义</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Taiwanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Hits" title="17 Hits">17 Hits</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Darl%2Bing" title="Darl+ing">Darl+ing</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Solo concerts</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3Qm95c19XaXNoJTI3X0NvbmNlcnQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Like SEVENTEEN 'Boys Wish' Concert (page does not exist)">Boys Wish</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3Qm95c19XaXNoX0VuY29yZSUyN19Db25jZXJ0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Like SEVENTEEN 'Boys Wish Encore' Concert (page does not exist)">Boys Wish Encore</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3U2hpbmluZ19EaWFtb25kcyUyN19Db25jZXJ0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Like SEVENTEEN 'Shining Diamonds' Concert (page does not exist)">Shining Diamonds</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3U2hpbmluZ19EaWFtb25kcyUyN19pbl9KYXBhbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Like SEVENTEEN 'Shining Diamonds' in Japan (page does not exist)">Shining Diamonds in Japan</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMTdfSmFwYW5fQ29uY2VydF8lMjdTYXlfdGhlX05hbWVfU0VWRU5URUVOJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="17 Japan Concert 'Say the Name SEVENTEEN' (page does not exist)">17 Japan Concert 'Say the Name #SEVENTEEN'</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SEVENTEEN_Online_Concert_%27In-Complete%27" title="2021 SEVENTEEN Online Concert 'In-Complete'">In-Complete</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SEVENTEEN_Concert_%27Power_of_Love%27" title="2021 SEVENTEEN Concert 'Power of Love'">Power of Love</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Seoul" title="SEVENTEEN Tour 'Follow' to Seoul">Follow to Seoul</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX1RvdXJfJTI3Rm9sbG93JTI3X0FnYWluP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Tour 'Follow' Again (page does not exist)">Follow Again</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Asia tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzFzdF9Bc2lhX1RvdXJfJTI3U2hpbmluZ19EaWFtb25kcyUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN 1st Asia Tour 'Shining Diamonds' (page does not exist)">Shining Diamonds</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0NvbmNlcnRfJTI3SWRlYWxfQ3V0JTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Concert 'Ideal Cut' (page does not exist)">Ideal Cut</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Asia" title="SEVENTEEN Tour 'Follow' to Asia">Follow to Asia</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japan tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0FyZW5hX1RvdXJfJTI3U1ZUJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Arena Tour 'SVT' (page does not exist)">SVT</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzIwMTlfSmFwYW5fVG91cl8lMjdIYXJ1JTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN 2019 Japan Tour 'Haru' (page does not exist)">Haru</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzIwMjBfSmFwYW5fRG9tZV9Ub3VyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN 2020 Japan Dome Tour (page does not exist)">SEVENTEEN 2020 Japan Dome Tour</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Japan" title="SEVENTEEN Tour 'Follow' to Japan">Follow to Japan</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">World tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzFzdF9Xb3JsZF9Ub3VyXyUyN0RpYW1vbmRfRWRnZSUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN 1st World Tour 'Diamond Edge' (page does not exist)">Diamond Edge</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_World_Tour_%27Ode_to_You%27" title="SEVENTEEN World Tour 'Ode to You'">Ode to You</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_World_Tour_%27Be_the_Sun%27" title="SEVENTEEN World Tour 'Be the Sun'">Be the Sun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_%27Right_Here%27_World_Tour" title="SEVENTEEN 'Right Here' World Tour">Right Here</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Concert participations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/2022_Weverse_Con_%22New_Era%22" title='2022 Weverse Con "New Era"'>2022 Weverse Con [New Era]</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2024_Weverse_Con_Festival" title="2024 Weverse Con Festival">2024 Weverse Con Festival</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Lollapalooza" title="wikipedia:en:Lollapalooza">Lollapalooza Berlin 2024</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Glastonbury_Festival" title="wikipedia:en:Glastonbury Festival">Glastonbury Festival 2024</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX01pbmlfRmFubWVldGluZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN Mini Fanmeeting (page does not exist)">SEVENTEEN Mini Fanmeeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxN19TVlRfMXN0X0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2017 SVT 1st Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2017 SVT 1st Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOF9TVlRfMm5kX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2018 SVT 2nd Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2018 SVT 2nd Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOV9TVlRfM3JkX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2019 SVT 3rd Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2019 SVT 3rd Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/2020_SVT_4th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2020 SVT 4th Fan Meeting 'SEVENTEEN in Carat Land'">2020 SVT 4th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SVT_5th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2021 SVT 5th Fan Meeting 'SEVENTEEN in Carat Land'">2021 SVT 5th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2022_SVT_6th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2022 SVT 6th Fan Meeting 'SEVENTEEN in Carat Land'">2022 SVT 6th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2023_SVT_7th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2023 SVT 7th Fan Meeting 'SEVENTEEN in Carat Land'">2023 SVT 7th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAyNF9TVlRfOHRoX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2024 SVT 8th Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2024 SVT 8th Fan Meeting 'SEVENTEEN in Carat Land'</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX09mZmljaWFsX0ZhbmNsdWJfTWVldGluZ18lMjdDYXJhdF9DYW1wJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Official Fanclub Meeting 'Carat Camp' (page does not exist)">Carat Camp</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0Zhbm1lZXRpbmdfJTI3Q2FyYXRfU3VtbWVyX0NhbXAlMjc/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="SEVENTEEN Japan Fanmeeting 'Carat Summer Camp' (page does not exist)">Carat Summer Camp</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0Zhbm1lZXRpbmdfJTI3SGFuYSUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN Japan Fanmeeting 'Hana' (page does not exist)">Hana</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX1NwZWNpYWxfRmFubWVldGluZ18lMjdIYXJlJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Special Fanmeeting 'Hare' (page does not exist)">Hare</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_2022_Japan_Fanmeeting_%27Hanabi%27" title="SEVENTEEN 2022 Japan Fanmeeting 'Hanabi'">Hanabi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_2023_Japan_Fanmeeting_%27Love%27" title="SEVENTEEN 2023 Japan Fanmeeting 'Love'">Love</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Geffen_Records" title="wikipedia:en:Geffen Records">Geffen Records</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Universal_Music_Group" title="wikipedia:en:Universal Music Group">Universal Music Group</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BSS" title="BSS">BSS</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jeonghan_X_Wonwoo" title="Jeonghan X Wonwoo">Jeonghan X Wonwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hoshi_X_Woozi" title="Hoshi X Woozi">Hoshi X Woozi</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://seventeen-17.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="https://www.seventeen-17.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://space.bilibili.com/692206640" rel="nofollow noreferrer noopener" target="_blank">Bilibili</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/seventeen.17" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/seventeennews" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://i.instagram.com/saythename_17/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://soundcloud.com/pledis_seventeen/" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@seventeen17_official/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/pledis_17" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/pledis_17jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weibo.com/u/5518837994" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/seventeen/feed/" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/pledis17" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <span style="font-size:85%;">(<a class="external text" href="https://www.youtube.com/channel/UCpbTKp4B80rE2zHWvQvZpvA" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"All Alone (혼자야)" - 3:44</li>
+<li>"Pouring (쏟아진다)" - 4:05</li></ol>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FEvery_DAY6_November%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=Fd-elEnkInw" rel="nofollow noreferrer noopener" target="_blank">"All Alone" music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=tQgUXmxAvx4" rel="nofollow noreferrer noopener" target="_blank">Teaser</a></li></ul></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Every_DAY6_November?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#0DADCF; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:DAY6" title="Template:DAY6"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:DAY6?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/DAY6" title="DAY6">DAY6</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Sungjin_(DAY6)" title="Sungjin (DAY6)">Sungjin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Young_K" title="Young K">Young K</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Wonpil" title="Wonpil">Wonpil</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Dowoon" title="Dowoon">Dowoon</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Jae" title="Jae">Jae</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Jun_Hyeok" title="Lim Jun Hyeok">Jun Hyeok</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Sunrise_(DAY6)" title="Sunrise (DAY6)">Sunrise</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Moonrise" title="Moonrise">Moonrise</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Entropy" title="The Book of Us : Entropy">The Book of Us : Entropy</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Day_(DAY6)" title="The Day (DAY6)">The Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Daydream_(DAY6)" title="Daydream (DAY6)">Daydream</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Shoot_Me_:_Youth_Part_1" title="Shoot Me : Youth Part 1">Shoot Me : Youth Part 1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Remember_Us_:_Youth_Part_2" title="Remember Us : Youth Part 2">Remember Us : Youth Part 2</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Gravity" title="The Book of Us : Gravity">The Book of Us : Gravity</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_The_Demon" title="The Book of Us : The Demon">The Book of Us : The Demon</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Negentropy_-_Chaos_Swallowed_Up_in_Love" title="The Book of Us : Negentropy - Chaos Swallowed Up in Love">The Book of Us : Negentropy - Chaos Swallowed Up in Love</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fourever" title="Fourever">Fourever</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Band_Aid" title="Band Aid">Band Aid</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_January" title="Every DAY6 January">Every DAY6 January</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_February" title="Every DAY6 February">Every DAY6 February</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_March" title="Every DAY6 March">Every DAY6 March</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_April" title="Every DAY6 April">Every DAY6 April</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_May" title="Every DAY6 May">Every DAY6 May</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_July" title="Every DAY6 July">Every DAY6 July</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_August" title="Every DAY6 August">Every DAY6 August</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_September" title="Every DAY6 September">Every DAY6 September</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_October" title="Every DAY6 October">Every DAY6 October</a>"</span>  •  <span style="white-space:nowrap">"<strong class="mw-selflink selflink">Every DAY6 November</strong>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Beautiful_Feeling" title="Beautiful Feeling">Beautiful Feeling</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Unlock_(DAY6)" title="Unlock (DAY6)">Unlock</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Best_Day" title="The Best Day">The Best Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_Day2" title="The Best Day2">The Best Day2</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/If_%EF%BD%9EMata_Aetara%EF%BD%9E" title="If ～Mata Aetara～">If ～Mata Aetara～</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Stop_The_Rain" title="Stop The Rain">Stop The Rain</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Finale_(DAY6)" title="Finale (DAY6)">Finale</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/DAY6_(Even_of_Day)" title="DAY6 (Even of Day)">DAY6 (Even of Day)</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Studio_J" title="Studio J">Studio J</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://day6.jype.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="http://day6japan.com/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/day6official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://fans.jype.com/DAY6" rel="nofollow noreferrer noopener" target="_blank">JYP Fan's</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@day6_official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/DAY6Official" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/day6_japan" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <small>(<a class="external text" href="https://www.youtube.com/c/day6japanofficial" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250316142848
+Cached time: 20250319105208
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.133 seconds
-Real time usage: 0.150 seconds
-Preprocessor visited node count: 9831/1000000
-Post‐expand include size: 253962/2097152 bytes
-Template argument size: 195370/2097152 bytes
+CPU time usage: 0.110 seconds
+Real time usage: 0.128 seconds
+Preprocessor visited node count: 4233/1000000
+Post‐expand include size: 94163/2097152 bytes
+Template argument size: 69057/2097152 bytes
 Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
@@ -2531,18 +2518,18 @@ Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-151.21%  168.132     14 Template:Navbox
-100.00%  111.192      1 -total
- 62.71%   69.727      1 Template:SEVENTEEN
- 60.57%   67.346      1 Template:Navbox_with_collapsible_groups
- 35.06%   38.983      1 Template:Infobox_single
- 29.05%   32.300     27 Template:List
- 24.38%   27.110     27 Template:Element_List
-  2.04%    2.266      1 Template:Stub
-  1.84%    2.042      1 Template:Tnavbar
-  1.35%    1.505      4 Template:WP
+121.64%  104.669      7 Template:Navbox
+100.00%   86.047      1 -total
+ 73.52%   63.265      1 Template:DAY6
+ 63.69%   54.802      1 Template:Navbox_with_collapsible_groups
+ 23.83%   20.502      1 Template:Infobox_single
+ 22.19%   19.098      9 Template:List
+ 19.37%   16.663     10 Template:Element_List
+  4.12%    3.545      1 Template:List2
+  2.93%    2.520      1 Template:Tnavbar
+  2.43%    2.092      1 Template:Stub
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:217346-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250316142848 and revision id 939056. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:17188-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250319105208 and revision id 821313. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2562,24 +2549,16 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Remix singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Remix_singles" title="Category:Remix singles">Remix singles</a></span>
+<li class="category normal" data-name="DAY6" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:DAY6" title="Category:DAY6">DAY6</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="SEVENTEEN" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:SEVENTEEN" title="Category:SEVENTEEN">SEVENTEEN</a></span>
+<li class="category normal" data-name="2017 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2017_releases" title="Category:2017 releases">2017 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2024 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2024 remix singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_remix_singles" title="Category:2024 remix singles">2024 remix singles</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2024 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_digital_singles" title="Category:2024 digital singles">2024 digital singles</a></span>
+<li class="category normal" data-name="2017 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2017_digital_singles" title="Category:2017 digital singles">2017 digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2765,7 +2744,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9TdXBlcl8oV29ya291dF9SZW1peCk/dGl0bGU9U3VwZXJfJTI4V29ya291dF9SZW1peCUyOSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9FdmVyeV9EQVk2X05vdmVtYmVyP3RpdGxlPUV2ZXJ5X0RBWTZfTm92ZW1iZXImbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

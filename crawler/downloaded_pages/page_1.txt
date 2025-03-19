@@ -1115,18 +1115,13 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1130,23 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
+<span>Kim Do Hun</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
 </a>
 </li>
 </ul>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,035</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,057</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,13 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2299,23 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
+<span>Kim Do Hun</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
 </a>
 </li>
 </ul>
@@ -3458,12 +3458,12 @@ Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td cla
 <a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:50px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><strong class="mw-selflink selflink">BTS</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/TXT" title="TXT">TXT</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:50px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Lee_Hyun" title="Lee Hyun">Lee Hyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/J-Hope" title="J-Hope">J-Hope</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jin_(BTS)" title="Jin (BTS)">Jin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/RM" title="RM">RM</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Suga" title="Suga">Agust D</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Kook" title="Jung Kook">Jung Kook</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/V_(BTS)" title="V (BTS)">V</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yeonjun_(TXT)" title="Yeonjun (TXT)">Yeonjun</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:50px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Moon_Maden" title="Moon Maden">Moon Maden</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:50px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/2AM" title="2AM">2AM</a> <small>(with <a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/8eight" title="8eight">8eight</a> <small>(with <a href="/wiki/Source_Music" title="Source Music">Source Music</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/GLAM" title="GLAM">GLAM</a> <small>(with Source Music)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/Homme" title="Homme">Homme</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:50px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/K.Will" title="K.Will">K.Will</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Jeong_Hee" title="Lim Jeong Hee">Lim Jeong Hee</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRGF2aWRfT2g/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="David Oh (page does not exist)">David Oh</span> <small>(with GON Entertainment)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Chang_Min" title="Lee Chang Min">Changmin</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:50px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Jo_Ga_Bin" title="Jo Ga Bin">Jo Ga Bin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Joo_Mi" title="Kim Joo Mi">Kim Joo Mi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kyung_Jun_(TNX)" title="Kyung Jun (TNX)">Woo Kyung Joon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Steve" title="Steve">Steve</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Eunho_(YOUNITE)" title="Eunho (YOUNITE)">Eunho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jay_(ENHYPEN)" title="Jay (ENHYPEN)">Jay</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Sunghoon_(ENHYPEN)" title="Sunghoon (ENHYPEN)">Sunghoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jungwon_(ENHYPEN)" title="Jungwon (ENHYPEN)">Jungwon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Heeseung" title="Heeseung">Heeseung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/EJ_(%26TEAM)" title="EJ (&amp;TEAM)">EJ</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Reia_Omiya" title="Reia Omiya">Reia Omiya</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Trainee_A" title="Trainee A">Trainee A</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Minhyung" title="Minhyung">Minhyung</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><a href="/wiki/HYBE" title="HYBE">HYBE</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BIGHIT.MUSIC" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://post.naver.com/bighitent_official" rel="nofollow noreferrer noopener" target="_blank">Naver Post</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/BIGHIT_MUSIC" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/bighitaudition" rel="nofollow noreferrer noopener" target="_blank">Audition</a>)</small></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315085335
-Cache expiry: 1209600
+Cached time: 20250318155459
+Cache expiry: 2592000
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.686 seconds
-Real time usage: 0.749 seconds
+CPU time usage: 0.390 seconds
+Real time usage: 0.466 seconds
 Preprocessor visited node count: 13360/1000000
 Post‐expand include size: 239267/2097152 bytes
 Template argument size: 183187/2097152 bytes
@@ -3474,18 +3474,18 @@ Unstrip post‐expand size: 71522/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  484.249      1 -total
- 63.19%  305.985     11 Template:Navbox
- 31.69%  153.463      1 Template:Infobox_musical_artist
- 22.65%  109.692      3 Template:Scroll_Box
- 21.38%  103.522      1 Template:BTS
- 20.74%  100.449      1 Template:Navbox_with_collapsible_groups
- 19.52%   94.518     29 Template:List
- 18.12%   87.759     29 Template:Element_List
- 12.36%   59.863      2 Template:Reflist
- 10.35%   50.133      1 Template:Related_Wikis
+100.00%  279.000      1 -total
+ 49.78%  138.894     11 Template:Navbox
+ 37.03%  103.311      1 Template:Infobox_musical_artist
+ 21.56%   60.154      3 Template:Scroll_Box
+ 18.76%   52.329      1 Template:BTS
+ 17.31%   48.290      1 Template:Navbox_with_collapsible_groups
+ 12.04%   33.596      2 Template:Reflist
+ 10.75%   29.983      1 Template:Related_Wikis
+ 10.66%   29.752     29 Template:List
+  8.87%   24.759     29 Template:Element_List
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:3024-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315085334 and revision id 1190152. Rendering was triggered because: edit-page
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:3024-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250318155459 and revision id 1190152. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">

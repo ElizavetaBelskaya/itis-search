@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>T－ARA's Best of Best 2009～2012 ～Korean ver～ | Kpop Wiki | Fandom</title>
+<title>Favorite (NCT 127) | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-T－ARA_s_Best_of_Best_2009～2012_～Korean_ver～ rootpage-T－ARA_s_Best_of_Best_2009～2012_～Korean_ver～ skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Favorite_NCT_127 rootpage-Favorite_NCT_127 skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,21 +2353,30 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:T-ARA" title="Category:T-ARA">T-ARA</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Best_albums" title="Category:Best albums">Best albums</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Repackage_albums" title="Category:Repackage albums">Repackage albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:NCT_127" title="Category:NCT 127">NCT 127</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">4 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2012_releases" title="Category:2012 releases">2012 releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:2012_Japanese_best_albums" title="Category:2012 Japanese best albums">2012 Japanese best albums</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2021_repackage_albums" title="Category:2021 repackage albums">2021 repackage albums</a> </li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Favorite_(NCT_127)">Tagalog</a>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2375,10 +2384,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">T－ARA's Best of Best 2009～2012 ～Korean ver～</span> </h1>
+<span class="mw-page-title-main">Favorite (NCT 127)</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2386,15 +2395,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/T%EF%BC%8DARA%27s_Best_of_Best_2009%EF%BD%9E2012_%EF%BD%9EKorean_ver%EF%BD%9E?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Favorite_(NCT_127)?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/T%EF%BC%8DARA%27s_Best_of_Best_2009%EF%BD%9E2012_%EF%BD%9EKorean_ver%EF%BD%9E?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Favorite_(NCT_127)?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:T%EF%BC%8DARA%27s_Best_of_Best_2009%EF%BD%9E2012_%EF%BD%9EKorean_ver%EF%BD%9E?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Favorite_(NCT_127)?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2424,19 +2433,19 @@
 <ul class="wds-tabs">
 <li class="wds-tabs__tab wds-is-current">
 <span class="wds-tabs__tab-label">
-							Music ed.
+							Digital
 							
 						</span>
 </li>
 <li class="wds-tabs__tab">
 <span class="wds-tabs__tab-label">
-							Music+Clips ed.
+							Classic ver.
 							
 						</span>
 </li>
 <li class="wds-tabs__tab">
 <span class="wds-tabs__tab-label">
-							Music+Photobook+Movie ed.
+							Catharsis ver.
 							
 						</span>
 </li>
@@ -2444,62 +2453,62 @@
 </div>
 <div class="wds-tab__content wds-is-current">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/05/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_regular_album_cover.png/revision/latest?cb=20211226003525" title="Music ed.">
-<img alt="Music ed." class="pi-image-thumbnail" data-image-key="T－ARA's Best of Best 2009-2012 -Korean ver- regular album cover.png" data-image-name="T－ARA's Best of Best 2009-2012 -Korean ver- regular album cover.png" data-relevant="1" height="268" src="https://static.wikia.nocookie.net/kpop/images/0/05/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_regular_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003525" srcset="https://static.wikia.nocookie.net/kpop/images/0/05/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_regular_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003525 1x, https://static.wikia.nocookie.net/kpop/images/0/05/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_regular_album_cover.png/revision/latest/scale-to-width-down/535?cb=20211226003525 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/5/5e/NCT_127_Favorite_digital_album_cover.png/revision/latest?cb=20211025181819" title="Digital">
+<img alt="Digital" class="pi-image-thumbnail" data-image-key="NCT 127 Favorite digital album cover.png" data-image-name="NCT 127 Favorite digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/5/5e/NCT_127_Favorite_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211025181819" srcset="https://static.wikia.nocookie.net/kpop/images/5/5e/NCT_127_Favorite_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211025181819 1x, https://static.wikia.nocookie.net/kpop/images/5/5e/NCT_127_Favorite_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20211025181819 2x" width="270">
 </img></a>
 </figure>
 </div>
 <div class="wds-tab__content">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/97/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_Music_Clips_Edition_album_cover.png/revision/latest?cb=20211226003523" title="Music+Clips ed.">
-<img alt="Music+Clips ed." class="pi-image-thumbnail" data-image-key="T－ARA's Best of Best 2009-2012 -Korean ver- Music Clips Edition album cover.png" data-image-name="T－ARA's Best of Best 2009-2012 -Korean ver- Music Clips Edition album cover.png" data-relevant="1" height="268" src="https://static.wikia.nocookie.net/kpop/images/9/97/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_Music_Clips_Edition_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003523" srcset="https://static.wikia.nocookie.net/kpop/images/9/97/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_Music_Clips_Edition_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003523 1x, https://static.wikia.nocookie.net/kpop/images/9/97/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ver-_Music_Clips_Edition_album_cover.png/revision/latest/scale-to-width-down/536?cb=20211226003523 2x" width="270"/>
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/f2/NCT_127_Favorite_physical_album_cover_%28Classic_ver.%29.png/revision/latest?cb=20211025185527" title="Classic ver.">
+<img alt="Classic ver." class="pi-image-thumbnail" data-image-key="NCT 127 Favorite physical album cover (Classic ver.).png" data-image-name="NCT 127 Favorite physical album cover (Classic ver.).png" data-relevant="1" height="384" src="https://static.wikia.nocookie.net/kpop/images/f/f2/NCT_127_Favorite_physical_album_cover_%28Classic_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211025185527" srcset="https://static.wikia.nocookie.net/kpop/images/f/f2/NCT_127_Favorite_physical_album_cover_%28Classic_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211025185527 1x, https://static.wikia.nocookie.net/kpop/images/f/f2/NCT_127_Favorite_physical_album_cover_%28Classic_ver.%29.png/revision/latest?cb=20211025185527 2x" width="270"/>
 </a>
 </figure>
 </div>
 <div class="wds-tab__content">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/8/85/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ve-_Music_Photobook_Movie_Edition_album_cover.png/revision/latest?cb=20211226003459" title="Music+Photobook+Movie ed.">
-<img alt="Music+Photobook+Movie ed." class="pi-image-thumbnail" data-image-key="T－ARA's Best of Best 2009-2012 -Korean ve- Music Photobook Movie Edition album cover.png" data-image-name="T－ARA's Best of Best 2009-2012 -Korean ve- Music Photobook Movie Edition album cover.png" data-relevant="1" height="347" src="https://static.wikia.nocookie.net/kpop/images/8/85/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ve-_Music_Photobook_Movie_Edition_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003459" srcset="https://static.wikia.nocookie.net/kpop/images/8/85/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ve-_Music_Photobook_Movie_Edition_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211226003459 1x, https://static.wikia.nocookie.net/kpop/images/8/85/T%EF%BC%8DARA%27s_Best_of_Best_2009-2012_-Korean_ve-_Music_Photobook_Movie_Edition_album_cover.png/revision/latest/scale-to-width-down/535?cb=20211226003459 2x" width="270"/>
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/cf/NCT_127_Favorite_physical_album_cover_%28Catharsis_ver.%29.png/revision/latest?cb=20211025185449" title="Catharsis ver.">
+<img alt="Catharsis ver." class="pi-image-thumbnail" data-image-key="NCT 127 Favorite physical album cover (Catharsis ver.).png" data-image-name="NCT 127 Favorite physical album cover (Catharsis ver.).png" data-relevant="1" height="383" src="https://static.wikia.nocookie.net/kpop/images/c/cf/NCT_127_Favorite_physical_album_cover_%28Catharsis_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211025185449" srcset="https://static.wikia.nocookie.net/kpop/images/c/cf/NCT_127_Favorite_physical_album_cover_%28Catharsis_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211025185449 1x, https://static.wikia.nocookie.net/kpop/images/c/cf/NCT_127_Favorite_physical_album_cover_%28Catharsis_ver.%29.png/revision/latest/scale-to-width-down/536?cb=20211025185449 2x" width="270"/>
 </a>
 </figure>
 </div>
 </div>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">T－ARA's Best of Best 2009～2012 ～Korean ver～</h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Favorite</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
 <h3 class="pi-data-label pi-secondary-font">Type</h3>
-<div class="pi-data-value pi-font">Best</div>
+<div class="pi-data-value pi-font">Repackage</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/T-ARA" title="T-ARA">T-ARA</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/NCT_127" title="NCT 127">NCT 127</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">October 10, 2012 <span style="font-size:85%;">(Music+Clips/Music edition)</span><br/>October 17, 2012 <small>(Music+Photobook+Movie edition)</small></div>
+<div class="pi-data-value pi-font">October 25, 2021<br/>October 29, 2021 <span style="font-size:85%;">(KiT)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">CD, CD+DVD, download, streaming</div>
+<div class="pi-data-value pi-font">CD, Kit, download, streaming</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
 <h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2009–2012</div>
+<div class="pi-data-value pi-font">2021</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Dance pop, electropop</div>
+<div class="pi-data-value pi-font">Dance, pop, R&amp;B, soul</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">50:09</div>
+<div class="pi-data-value pi-font">49:26</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/EMI_Music_Japan_Inc." title="wikipedia:EMI Music Japan Inc.">EMI Music Japan</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font">EMI Music Japan</div>
+<div class="pi-data-value pi-font"><a href="/wiki/Dreamus" title="Dreamus">Dreamus</a></div>
 </div>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
@@ -2512,82 +2521,84 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Love_All_(T-ARA,_Gavy_NJ,_%26_Shannon)" title="Love All (T-ARA, Gavy NJ, &amp; Shannon)">Love All</a>"<br/><span style="font-size:85%;">(with <a href="/wiki/Gavy_NJ" title="Gavy NJ">Gavy NJ</a>, <a class="mw-disambig" href="/wiki/Shannon" title="Shannon">Shannon</a>)</span></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/T-ARA%27s_Free_Time_in_Paris_and_Swiss" title="T-ARA's Free Time in Paris and Swiss">T-ARA's Free Time in Paris and Swiss</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Sticker" title="Sticker">Sticker</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/IScreaM_Vol.13_:_Sticker_Remixes" title="IScreaM Vol.13 : Sticker Remixes">iScreaM Vol.13 : Sticker Remixes</a>"</td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>T－ARA's Best of Best 2009～2012 ～Korean ver～</b></i> is the first Japanese best album by <a href="/wiki/T-ARA" title="T-ARA">T-ARA</a>. It was released on October 10, 2012.
-</p><p>The physical release comes in three versions: a two CD+DVD editions, Music+Photobook+Movie and Music+Clips, and a CD Only Music Edition. All the songs are in the Korean language. The album was released to commemorate the first anniversary of their Japanese debut.
+<i><b>Favorite</b></i> is a repackage of <a href="/wiki/NCT_127" title="NCT 127">NCT 127</a>'s third full-length album <i><a href="/wiki/Sticker" title="Sticker">Sticker</a></i>. It was released on October 25, 2021 with "Favorite (Vampire)" serving as the album's title track.
+</p><p>The physical album comes in two CD versions (Classic and Catharsis) and two Kihno versions (Poetic and Tragic).
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FT%25EF%25BC%258DARA%2527s_Best_of_Best_2009%25EF%25BD%259E2012_%25EF%25BD%259EKorean_ver%25EF%25BD%259E%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Bo Peep Bo Peep" - 3:46</li>
-<li>"Uso (嘘, Lies)" - 3:48</li>
-<li>"T.T.L (Time To Love)" - 3:39</li>
-<li>"T.T.L Listen 2" - 3:32</li>
-<li>"Anata no Sei de Kurui Sou (あなたのせいで狂いそう, Because You're So Crazy)" - 3:15</li>
-<li>"Yayaya" - 3:28</li>
-<li>"Wae Ireoni -Doushite Souna no- (ウェイロニ -どうしてそうなの-, Why Are You Like This?)" - 3:59</li>
-<li>"Watashi ga Totemo Itakute (私がとても痛くて, I'm Really Hurt)" - 3:15</li>
-<li>"We Are The One" - 3:22</li>
-<li>"Hajimete no You ni (初めてのように, Like The First Time)" - 4:06</li>
-<li>"Roly-Poly" - 3:35</li>
-<li>"Roly-Poly in Copacabanna (Roly-Poly in コパカバーナ)" - 3:29</li>
-<li>"Cry Cry" - 3:18</li>
-<li>"Lovey-Dovey" - 3:37</li></ol>
-<dl><dt>DVD <span style="font-size:85%;">(Music+Clip Edition)</span></dt></dl>
-<ul><li>"Bo Peep Bo Peep" music video (Sexy ver.)</li>
-<li>"Bo Peep Bo Peep" music video (Dance ver.)</li>
-<li>"Uso (嘘)" music video</li>
-<li>"T.T.L (Time To Love)" music video</li>
-<li>"T.T.L Listen 2" music video</li>
-<li>"Anata no Sei de Kurui Sou (あなたのせいで狂いそう)" music video</li>
-<li>"Yayaya" music video</li>
-<li>"Wae Ireoni -Doushite Souna no- (ウェイロニ -どうしてそうなの-)" music video</li>
-<li>"Watashi ga Totemo Itakute (私がとても痛くて)" music video</li>
-<li>"We Are The One" music video</li>
-<li>"Hajimete no You ni (初めてのように)" music video</li>
-<li>"Roly-Poly" music video (Ver.1)</li>
-<li>"Roly-Poly" music video (Ver.2)</li>
-<li>"Roly-Poly in Copacabanna (Roly-Poly in コパカバーナ)" music video</li></ul>
-<dl><dt>DVD <span style="font-size:85%;">(Music+Photobook+Movie Edition)</span></dt></dl>
-<ul><li>"Free Time in Europe Documentary" (120 minutes)</li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/T%EF%BC%8DARA%27s_Best_of_Best_2009%EF%BD%9E2012_%EF%BD%9EKorean_ver%EF%BD%9E?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:radial-gradient(circle,#f6e8ca,#ffd700,#0000ff); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:T-ARA" title="Template:T-ARA"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:T-ARA?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/T-ARA" title="T-ARA">T-ARA</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Qri" title="Qri">Qri</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Eunjung_(T-ARA)" title="Eunjung (T-ARA)">Eunjung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hyomin" title="Hyomin">Hyomin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jiyeon_(T-ARA)" title="Jiyeon (T-ARA)">Jiyeon</a>
-<br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvSHdheW91bmdfKFQtQVJBKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Hwayoung (T-ARA) (page does not exist)">Hwayoung</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Areum_(T-ARA)" title="Areum (T-ARA)">Areum</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Boram_(T-ARA)" title="Boram (T-ARA)">Boram</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Soyeon_(singer)" title="Soyeon (singer)">Soyeon</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Absolute_First_Album" title="Absolute First Album">Absolute First Album</a></i> <small>(<i><a href="/wiki/Breaking_Heart" title="Breaking Heart">Breaking Heart</a></i>)</small></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Temptastic" title="Temptastic">Temptastic</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/John_Travolta_Wannabe" title="John Travolta Wannabe">John Travolta Wannabe</a></i> <small>(<i><a href="/wiki/Roly-Poly_in_Copacabana" title="Roly-Poly in Copacabana">Roly-Poly in Copacabana</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Black_Eyes" title="Black Eyes">Black Eyes</a></i> <small>(<i><a href="/wiki/Funky_Town" title="Funky Town">Funky Town</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Day_by_Day_(T-ARA)" title="Day by Day (T-ARA)">Day by Day</a></i> <small>(<i><a href="/wiki/Mirage_(T-ARA)" title="Mirage (T-ARA)">Mirage</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Again_(T-ARA)" title="Again (T-ARA)">Again</a></i> <small>(<i><a href="/wiki/Again_1977" title="Again 1977">Again 1977</a></i>)</small> <small>(<i><a href="/wiki/White_Winter_(T-ARA)" title="White Winter (T-ARA)">White Winter</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/And_%26_End" title="And &amp; End">And &amp; End</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/So_Good_(T-ARA)" title="So Good (T-ARA)">So Good</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Remember_(T-ARA)" title="Remember (T-ARA)">Remember</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/What%27s_My_Name%3F" title="What's My Name?">What's My Name?</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Remix albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/T-ARA%27s_Free_Time_in_Paris_and_Swiss" title="T-ARA's Free Time in Paris and Swiss">T-ARA's Free Time in Paris and Swiss</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/EDM_Club_Sugar_Free_Edition" title="EDM Club Sugar Free Edition">EDM Club Sugar Free Edition</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Little_Apple" title="Little Apple">Little Apple</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Re:T-ARA" title="Re:T-ARA">Re:T-ARA</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Lie_(T-ARA)" title="Lie (T-ARA)">Lie</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Are_The_One_(T-ARA)" title="We Are The One (T-ARA)">We Are The One</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Twentyth_Urban" title="Twentyth Urban">Twentyth Urban</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Why_Are_You_Like_This%3F" title="Why Are You Like This?">Why Are You Like This?</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Beautiful_Girl_(T-ARA)" title="Beautiful Girl (T-ARA)">Beautiful Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Roly-Poly_in_Copacabana_(single)" title="Roly-Poly in Copacabana (single)">Roly-Poly in Copacabana</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Log-In" title="Log-In">Log-In</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Round_and_Round_(T-ARA)" title="Round and Round (T-ARA)">Round and Round</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/First_Love_(T-ARA)" title="First Love (T-ARA)">First Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sugar_Free_(DJ_Chuckie)" title="Sugar Free (DJ Chuckie)">Sugar Free (DJ Chuckie)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Women%27s_Generation" title="Women's Generation">Women's Generation</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/TTL_(Time_To_Love)" title="TTL (Time To Love)">TTL (Time To Love)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/TTL_Listen_2" title="TTL Listen 2">TTL Listen 2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wonder_Woman_(collaboration)" title="Wonder Woman (collaboration)">Wonder Woman</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Were_In_Love" title="We Were In Love">We Were In Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_All_(T-ARA,_Gavy_NJ,_%26_Shannon)" title="Love All (T-ARA, Gavy NJ, &amp; Shannon)">Love All</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Tears_of_Mind" title="Tears of Mind">Tears of Mind</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bikini" title="Bikini">Bikini</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/White_Snow_(T-ARA,_SPEED,_The_SeeYa,_%26_Seunghee)" title="White Snow (T-ARA, SPEED, The SeeYa, &amp; Seunghee)">White Snow</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Jewelry_Box" title="Jewelry Box">Jewelry Box</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Treasure_Box" title="Treasure Box">Treasure Box</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Gossip_Girls" title="Gossip Girls">Gossip Girls</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><strong class="mw-selflink selflink">T－ARA's Best of Best 2009～2012 ～Korean ver～</strong></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/T-ARA_Single_Complete_Best_%22Queen_of_Pops%22" title='T-ARA Single Complete Best "Queen of Pops"'>T-ARA Single Complete Best「Queen of Pops」</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Bo_Peep_Bo_Peep" title="Bo Peep Bo Peep">Bo Peep Bo Peep</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Yayaya" title="Yayaya">Yayaya</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Roly-Poly" title="Roly-Poly">Roly-Poly</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lovey-Dovey" title="Lovey-Dovey">Lovey-Dovey</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sexy_Love" title="Sexy Love">Sexy Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bunny_Style!" title="Bunny Style!">Bunny Style!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Target_(T-ARA)" title="Target (T-ARA)">Target</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Number_Nine_(Japanese_ver.)_/_Kioku_~Kimi_ga_Kureta_Michishirube~" title="Number Nine (Japanese ver.) / Kioku ~Kimi ga Kureta Michishirube~">Number Nine (Japanese ver.) / Kioku ~Kimi ga Kureta Michishirube~</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lead_The_Way_/_La%E2%80%99boon" title="Lead The Way / La’boon">Lead The Way / La’boon</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Day_by_Day_(Japanese_ver.)" title="Day by Day (Japanese ver.)">Day by Day (Japanese ver.)</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/MBK_Entertainment" title="MBK Entertainment">MBK Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/T-ARA_N4" title="T-ARA N4">T-ARA N4</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/T-ARA_QBS" title="T-ARA QBS">T-ARA QBS</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/fant-ara" rel="nofollow noreferrer noopener" target="_blank">Fancafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/officialtara/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Favorite (Vampire)" - 3:36</li>
+<li>"Sticker" - 3:47</li>
+<li>"Love on the Floor" - 3:38</li>
+<li>"Lemonade" - 3:10</li>
+<li>"Breakfast" - 3:32</li>
+<li>"Pilot" - 3:29</li>
+<li>"Focus (같은 시선)" - 3:24</li>
+<li>"The Rainy Night (내일의 나에게)" - 3:19</li>
+<li>"Far" - 3:36</li>
+<li>"Bring The Noize" - 3:42</li>
+<li>"Magic Carpet Ride" - 3:38</li>
+<li>"Road Trip" - 3:35</li>
+<li>"Dreamer" - 3:29</li>
+<li>"Promise You (다시 만나는 날)" - 3:31</li></ol>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="ca5c889d971c71f1e8255b1fc2186917" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="NCT_127_Favorite_schedule_poster-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:NCT_127_Favorite_schedule_poster.png" style="height:150px; width:150px;" title="NCT 127 Favorite schedule poster.png (8.43 MB)"><noscript><img alt="Schedule poster" class="thumbimage" data-caption="Schedule poster" data-image-key="NCT_127_Favorite_schedule_poster.png" data-image-name="NCT 127 Favorite schedule poster.png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/c/c9/NCT_127_Favorite_schedule_poster.png/revision/latest/scale-to-width-down/150?cb=20211009171259" style="" title="NCT 127 Favorite schedule poster.png (8.43 MB)" width="150"/></noscript><img alt="Schedule poster" class="thumbimage lazyload" data-caption="Schedule poster" data-image-key="NCT_127_Favorite_schedule_poster.png" data-image-name="NCT 127 Favorite schedule poster.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c9/NCT_127_Favorite_schedule_poster.png/revision/latest/scale-to-width-down/150?cb=20211009171259" height="200" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="NCT 127 Favorite schedule poster.png (8.43 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Schedule poster</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="NCT_127_Favorite_album_packaging_-Classic_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:NCT_127_Favorite_album_packaging_(Classic_ver.).png" style="height:150px; width:150px;" title="NCT 127 Favorite album packaging (Classic ver.).png (3.68 MB)"><noscript><img alt="Album packaging (Classic ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Classic ver.)&lt;/span&gt;' data-image-key="NCT_127_Favorite_album_packaging_%28Classic_ver.%29.png" data-image-name="NCT 127 Favorite album packaging (Classic ver.).png" data-relevant="1" height="1793" src="https://static.wikia.nocookie.net/kpop/images/d/da/NCT_127_Favorite_album_packaging_%28Classic_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211025185405" style="" title="NCT 127 Favorite album packaging (Classic ver.).png (3.68 MB)" width="150"/></noscript><img alt="Album packaging (Classic ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Classic ver.)&lt;/span&gt;' data-image-key="NCT_127_Favorite_album_packaging_%28Classic_ver.%29.png" data-image-name="NCT 127 Favorite album packaging (Classic ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/da/NCT_127_Favorite_album_packaging_%28Classic_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211025185405" height="1793" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="NCT 127 Favorite album packaging (Classic ver.).png (3.68 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Classic ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="NCT_127_Favorite_album_packaging_-Catharsis_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:NCT_127_Favorite_album_packaging_(Catharsis_ver.).png" style="height:150px; width:150px;" title="NCT 127 Favorite album packaging (Catharsis ver.).png (4.55 MB)"><noscript><img alt="Album packaging (Catharsis ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Catharsis ver.)&lt;/span&gt;' data-image-key="NCT_127_Favorite_album_packaging_%28Catharsis_ver.%29.png" data-image-name="NCT 127 Favorite album packaging (Catharsis ver.).png" data-relevant="1" height="1793" src="https://static.wikia.nocookie.net/kpop/images/c/c9/NCT_127_Favorite_album_packaging_%28Catharsis_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211025185331" style="" title="NCT 127 Favorite album packaging (Catharsis ver.).png (4.55 MB)" width="150"/></noscript><img alt="Album packaging (Catharsis ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Catharsis ver.)&lt;/span&gt;' data-image-key="NCT_127_Favorite_album_packaging_%28Catharsis_ver.%29.png" data-image-name="NCT 127 Favorite album packaging (Catharsis ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c9/NCT_127_Favorite_album_packaging_%28Catharsis_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211025185331" height="1793" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="NCT 127 Favorite album packaging (Catharsis ver.).png (4.55 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Catharsis ver.)</span></div></div></div>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFavorite_%28NCT_127%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=7uxu4Z2HAnA" rel="nofollow noreferrer noopener" target="_blank">"Favorite (Vampire)" music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=HqKpTVw2a4Y" rel="nofollow noreferrer noopener" target="_blank">MV teaser</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=nLa8K3AMAPQ" rel="nofollow noreferrer noopener" target="_blank">MV reaction</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=fwiwZNu2Jko" rel="nofollow noreferrer noopener" target="_blank">MV behind the scene</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=BAGCwU4xu6M" rel="nofollow noreferrer noopener" target="_blank">Recording behind the scene</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=oMGRxF7_Z20" rel="nofollow noreferrer noopener" target="_blank">"Favorite (Vampire)" dance practice</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=BXP-WgkMmzg" rel="nofollow noreferrer noopener" target="_blank">Halloween costume ver.</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=NxNNlREnQ0I" rel="nofollow noreferrer noopener" target="_blank">Behind the scene</a></li></ul></li>
+<li>"Favorite" mood sampler
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=Lg_PzxCsWE4" rel="nofollow noreferrer noopener" target="_blank">Classic</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=MEFiaAxgq4I" rel="nofollow noreferrer noopener" target="_blank">Catharsis</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=y4aqvSrYYoc" rel="nofollow noreferrer noopener" target="_blank">Jacket behind the scene</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Favorite_(NCT_127)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#07080C; color:white"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:white;;border:none;;"><a href="/wiki/Template:NCT_127" title="Template:NCT 127"><span style=";color:white;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:NCT_127?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:white;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/NCT_127" title="NCT 127">NCT 127</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Johnny_(NCT)" title="Johnny (NCT)">Johnny</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Taeyong_(NCT)" title="Taeyong (NCT)">Taeyong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yuta" title="Yuta">Yuta</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Doyoung_(NCT)" title="Doyoung (NCT)">Doyoung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jaehyun_(NCT)" title="Jaehyun (NCT)">Jaehyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Winwin" title="Winwin">Winwin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jungwoo_(NCT)" title="Jungwoo (NCT)">Jungwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mark_(NCT)" title="Mark (NCT)">Mark</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Haechan" title="Haechan">Haechan</a><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Taeil_(NCT)" title="Taeil (NCT)">Taeil</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Regular-Irregular" title="NCT 127 Regular-Irregular">NCT #127 Regular-Irregular</a></i> <span style="font-size:85%;">(<i><a href="/wiki/NCT_127_Regulate" title="NCT 127 Regulate">NCT #127 Regulate</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Neo_Zone" title="NCT 127 Neo Zone">NCT #127 Neo Zone</a></i> <span style="font-size:85%;">(<i><a href="/wiki/NCT_127_Neo_Zone:_The_Final_Round" title="NCT 127 Neo Zone: The Final Round">NCT #127 Neo Zone: The Final Round</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sticker" title="Sticker">Sticker</a></i> <span style="font-size:85%;">(<i><strong class="mw-selflink selflink">Favorite</strong></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/2_Baddies" title="2 Baddies">2 Baddies</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Ay-Yo" title="Ay-Yo">Ay-Yo</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fact_Check" title="Fact Check">Fact Check</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Walk" title="Walk">Walk</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Live albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Neo_City_:_Seoul_%E2%80%93_The_Origin" title="Neo City : Seoul – The Origin">Neo City : Seoul – The Origin</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/NCT_127_(album)" title="NCT 127 (album)">NCT #127</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Limitless" title="NCT 127 Limitless">NCT #127 Limitless</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Cherry_Bomb" title="NCT 127 Cherry Bomb">NCT #127 Cherry Bomb</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_We_Are_Superhuman" title="NCT 127 We Are Superhuman">NCT #127 We Are Superhuman</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Be_There_For_Me" title="Be There For Me">Be There For Me</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Taste_The_Feeling_(NCT_127)" title="Taste The Feeling (NCT 127)">Taste The Feeling</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Remix singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.1_:_Kick_It_Remixes" title="IScreaM Vol.1 : Kick It Remixes">iScreaM Vol.1 : Kick It Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.13_:_Sticker_Remixes" title="IScreaM Vol.13 : Sticker Remixes">iScreaM Vol.13 : Sticker Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.21_:_2_Baddies_Remixes" title="IScreaM Vol.21 : 2 Baddies Remixes">iScreaM Vol.21 : 2 Baddies Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.29_:_Fact_Check_Remixes" title="IScreaM Vol.29 : Fact Check Remixes">iScreaM Vol.29 : Fact Check Remixes</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Save" title="Save">Save</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Awaken" title="Awaken">Awaken</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Live albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2nd_Tour_%27Neo_City_:_Japan_-_The_Link%27" title="2nd Tour 'Neo City : Japan - The Link'">2nd Tour 'Neo City : Japan - The Link'</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Chain" title="Chain">Chain</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Loveholic" title="Loveholic">Loveholic</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Touch_(Japanese_single)" title="Touch (Japanese single)">Touch</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/First_Love_(NCT_127)" title="First Love (NCT 127)">First Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sunny_Road" title="Sunny Road">Sunny Road</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Colors_(NCT_127)" title="Colors (NCT 127)">Colors</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Digital EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Up_Next_Session:_NCT_127" title="Up Next Session: NCT 127">Up Next Session: NCT 127</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Highway_to_Heaven_(English_Version)" title="Highway to Heaven (English Version)">Highway to Heaven</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaboration singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Let%27s_Shut_Up_%26_Dance" title="Let's Shut Up &amp; Dance">Let's Shut Up &amp; Dance</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Online concerts</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/NCT_127_-_Beyond_the_Origin" title="NCT 127 - Beyond the Origin">Beyond the Origin</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japan showcases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19KYXBhbl9TaG93Y2FzZV9Ub3VyXyUyMkNoYWluJTIyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title='NCT 127 Japan Showcase Tour "Chain" (page does not exist)'>Chain</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">World tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/NCT_127_1st_Tour:_Neo_City_-_The_Origin" title="NCT 127 1st Tour: Neo City - The Origin">Neo City - The Origin</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN18ybmRfVG91cjpfTmVvX0NpdHlfLV9UaGVfQXdhcmRzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="NCT 127 2nd Tour: Neo City - The Awards (page does not exist)">Neo City - The Awards</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_2nd_Tour:_Neo_City_-_The_Link" title="NCT 127 2nd Tour: Neo City - The Link">Neo City - The Link</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_3rd_Tour:_Neo_City_-_The_Unity" title="NCT 127 3rd Tour: Neo City - The Unity">Neo City - The Unity</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_4th_Tour:_Neo_City_-_The_Momentum" title="NCT 127 4th Tour: Neo City - The Momentum">Neo City - The Momentum</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19MaW1pdGxlc3NfLV9NaW5pX0Zhbl9NZWV0aW5nP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="NCT 127 Limitless - Mini Fan Meeting (page does not exist)">NCT 127 Limitless - Mini Fan Meeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN18xc3RfWWVhcl9Bbm5pdmVyc2FyeV9GYW5fRXZlbnQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="NCT 127 1st Year Anniversary Fan Event (page does not exist)">NCT 127 1st Year Anniversary Fan Event</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19GYW5fTWVldGluZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="NCT 127 Fan Meeting (page does not exist)">NCT 127 Fan Meeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19UaGVfSW50cm9kdWN0aW9uXyUyMkNvbm5lY3QlMjJfaW5fSmFwYW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title='NCT 127 The Introduction "Connect" in Japan (page does not exist)'>NCT 127 The Introduction "Connect" in Japan</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUemVuXzEyNy1KYXBhbl8xc3RfTWVldGluZ18yMDE5XyVFMiU4MCU5OFdlbGNvbWVfVG9fT3VyX1BsYXlncm91bmQlRTIlODAlOTk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="NCTzen 127-Japan 1st Meeting 2019 ‘Welcome To Our Playground’ (page does not exist)">NCTzen 127-Japan 1st Meeting 2019 ‘Welcome To Our Playground’</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOV9OQ1RfMTI3X0Zhbm1lZXRpbmdfJUUyJTgwJTk4V2ludGVyXzEyN193aXRoX05DVHplbl8xMjclRTIlODAlOTk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="2019 NCT 127 Fanmeeting ‘Winter 127 with NCTzen 127’ (page does not exist)">2019 NCT 127 Fanmeeting ‘Winter 127 with NCTzen 127’</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Beyond_LIVE_%E2%80%93_NCT_127_Online_Fanmeeting_%27Office_:_Foundation_Day%27" title="Beyond LIVE – NCT 127 Online Fanmeeting 'Office : Foundation Day'">NCT 127 Online Fanmeeting 'Office : Foundation Day'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22" title='2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"'>2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Avex_Trax" title="wikipedia:en:Avex Trax">Avex Trax</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Capitol_Music_Group" title="wikipedia:en:Capitol Music Group">Capitol Music Group</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Caroline_Distribution" title="wikipedia:en:Caroline Distribution">Caroline</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT" title="NCT">NCT</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_U" title="NCT U">NCT U</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_DREAM" title="NCT DREAM">NCT DREAM</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/WayV" title="WayV">WayV</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_DOJAEJUNG" title="NCT DOJAEJUNG">NCT DOJAEJUNG</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_WISH" title="NCT WISH">NCT WISH</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SuperM" title="SuperM">SuperM</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:SM_Town" title="wikipedia:en:SM Town">SM Town</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SMROOKIES" title="SMROOKIES">SM Rookies</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Cultural_technology" title="wikipedia:en:Cultural technology">Cultural technology</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://nct127.smtown.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/NCT127.smtown" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/nct127/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/NCTsmtown_127" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/nct127/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCk2E0dbAyEJWnrN2bbQOcbg" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315155026
-Cache expiry: 1209600
+Cached time: 20250312121016
+Cache expiry: 2592000
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.088 seconds
-Real time usage: 0.098 seconds
-Preprocessor visited node count: 4547/1000000
-Post‐expand include size: 87960/2097152 bytes
-Template argument size: 75309/2097152 bytes
-Highest expansion depth: 17/100
+CPU time usage: 0.115 seconds
+Real time usage: 0.148 seconds
+Preprocessor visited node count: 7937/1000000
+Post‐expand include size: 174580/2097152 bytes
+Template argument size: 132016/2097152 bytes
+Highest expansion depth: 26/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28/5000000 bytes
+Unstrip post‐expand size: 5801/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-121.39%   88.988      4 Template:Navbox
-100.00%   73.309      1 -total
- 63.39%   46.469      1 Template:T-ARA
- 39.02%   28.606     13 Template:List
- 34.48%   25.278     14 Template:Element_List
- 33.40%   24.482      1 Template:Infobox_album
-  5.69%    4.174      1 Template:List2
-  2.60%    1.907      1 Template:Stub
-  2.53%    1.856      1 Template:Tnavbar
-  1.85%    1.354      4 Template:Small
+132.41%  121.357     11 Template:Navbox
+100.00%   91.652      1 -total
+ 62.61%   57.386      1 Template:NCT_127
+ 60.68%   55.612      1 Template:Navbox_with_collapsible_groups
+ 29.23%   26.791      1 Template:Infobox_album
+ 29.15%   26.712     21 Template:List
+ 25.20%   23.098     22 Template:Element_List
+  3.24%    2.967      1 Template:List2
+  2.14%    1.962      1 Template:Tnavbar
+  1.77%    1.625      7 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:110373-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315155026 and revision id 677607. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:104121-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312121016 and revision id 456131. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2603,33 +2614,32 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="T-ARA" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:T-ARA" title="Category:T-ARA">T-ARA</a></span>
+<li class="category normal" data-name="Repackage albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Repackage_albums" title="Category:Repackage albums">Repackage albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Best albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Best_albums" title="Category:Best albums">Best albums</a></span>
+<li class="category normal" data-name="NCT 127" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:NCT_127" title="Category:NCT 127">NCT 127</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a></span>
+<li class="category normal" data-name="2021 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2012 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2012_releases" title="Category:2012 releases">2012 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2012 Japanese best albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2012_Japanese_best_albums" title="Category:2012 Japanese best albums">2012 Japanese best albums</a></span>
+<li class="category normal" data-name="2021 repackage albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2021_repackage_albums" title="Category:2021 repackage albums">2021 repackage albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Favorite_(NCT_127)">Tagalog</a>
 </div>
 </div>
 <div class="license-description">
@@ -2810,7 +2820,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9UJUVGJUJDJThEQVJBJTI3c19CZXN0X29mX0Jlc3RfMjAwOSVFRiVCRCU5RTIwMTJfJUVGJUJEJTlFS29yZWFuX3ZlciVFRiVCRCU5RT90aXRsZT1UJUVGJUJDJThEQVJBJTI3c19CZXN0X29mX0Jlc3RfMjAwOSVFRiVCRCU5RTIwMTJfJUVGJUJEJTlFS29yZWFuX3ZlciVFRiVCRCU5RSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9GYXZvcml0ZV8oTkNUXzEyNyk/dGl0bGU9RmF2b3JpdGVfJTI4TkNUXzEyNyUyOSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Film Out | Kpop Wiki | Fandom</title>
+<title>Minisode 3: Tomorrow With Remixes | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Film_Out rootpage-Film_Out skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Minisode_3_Tomorrow_With_Remixes rootpage-Minisode_3_Tomorrow_With_Remixes skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,41 +2353,17 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:TXT" title="Category:TXT">TXT</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Remix_albums" title="Category:Remix albums">Remix albums</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">6 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Japanese_digital_singles" title="Category:Japanese digital singles">Japanese digital singles</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2024_remix_albums" title="Category:2024 remix albums">2024 remix albums</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:BTS" title="Category:BTS">BTS</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:2021_Japanese_releases" title="Category:2021 Japanese releases">2021 Japanese releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:2021_Japanese_digital_singles" title="Category:2021 Japanese digital singles">2021 Japanese digital singles</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a> </li>
 </ul>
 </div>
-</div>
-</div>
-</div>
-<div class="page-header__languages">
-<div class="wds-dropdown">
-<div class="wds-dropdown__toggle">
-			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
-<div class="wds-dropdown__content">
-<ul class="wds-list wds-is-linked">
-<li>
-<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/Film_out">Français</a>
-</li>
-<li>
-<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Film_Out">Tagalog</a>
-</li>
-</ul>
 </div>
 </div>
 </div>
@@ -2395,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Film Out</span> </h1>
+<span class="mw-page-title-main">Minisode 3: Tomorrow With Remixes</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2406,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Film_Out?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Minisode_3:_Tomorrow_With_Remixes?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Film_Out?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Minisode_3:_Tomorrow_With_Remixes?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Film_Out?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Minisode_3:_Tomorrow_With_Remixes?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2438,66 +2414,49 @@
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/b/b0/BTS_Film_Out_album_cover.png/revision/latest?cb=20210412044403" title="BTS Film Out album cover">
-<img alt="BTS Film Out album cover" class="pi-image-thumbnail" data-image-key="BTS_Film_Out_album_cover.png" data-image-name="BTS Film Out album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/b/b0/BTS_Film_Out_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210412044403" srcset="https://static.wikia.nocookie.net/kpop/images/b/b0/BTS_Film_Out_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210412044403 1x, https://static.wikia.nocookie.net/kpop/images/b/b0/BTS_Film_Out_album_cover.png/revision/latest/scale-to-width-down/536?cb=20210412044403 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/2/2e/TXT_Minisode_3_Tomorrow_With_Remixes_digital_album_cover.png/revision/latest?cb=20250106150743" title="TXT Minisode 3 Tomorrow With Remixes digital album cover">
+<img alt="TXT Minisode 3 Tomorrow With Remixes digital album cover" class="pi-image-thumbnail" data-image-key="TXT_Minisode_3_Tomorrow_With_Remixes_digital_album_cover.png" data-image-name="TXT Minisode 3 Tomorrow With Remixes digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/2/2e/TXT_Minisode_3_Tomorrow_With_Remixes_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20250106150743" srcset="https://static.wikia.nocookie.net/kpop/images/2/2e/TXT_Minisode_3_Tomorrow_With_Remixes_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20250106150743 1x, https://static.wikia.nocookie.net/kpop/images/2/2e/TXT_Minisode_3_Tomorrow_With_Remixes_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20250106150743 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Film Out"</center></h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Minisode 3: Tomorrow With Remixes</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+<h3 class="pi-data-label pi-secondary-font">Type</h3>
+<div class="pi-data-value pi-font">Remix</div>
+</div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/BTS" title="BTS">BTS</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/TXT" title="TXT">TXT</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">April 2, 2021</div>
+<div class="pi-data-value pi-font">April 5, 2024</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
 <div class="pi-data-value pi-font">Download, streaming</div>
 </div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
+<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
+<div class="pi-data-value pi-font">2023-2024<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
+</div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Pop</div>
+<div class="pi-data-value pi-font">Dance, UK house, rage, trap, afrobeats, pop, emo rock, electronic rock, stadium rock, alternative rock</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">3:34</div>
+<div class="pi-data-value pi-font">22:41</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font">Def Jam Japan <span style="font-size:85%;">(Japan)</span><br/><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a> <span style="font-size:85%;">(Korea)</span></div>
+<div class="pi-data-value pi-font"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font">Universal Music Japan <span style="font-size:85%;">(Japan)</span><br/><a href="/wiki/HYBE" title="HYBE">HYBE</a><br/><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a> <span style="font-size:85%;">(Korea)</span></div>
+<div class="pi-data-value pi-font"><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a></div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="writer">
-<h3 class="pi-data-label pi-secondary-font">Writer(s)</h3>
-<div class="pi-data-value pi-font">Iyori Shimizu</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="composer">
-<h3 class="pi-data-label pi-secondary-font">Composer(s)</h3>
-<div class="pi-data-value pi-font">Iyori Shimizu, <a href="/wiki/Jung_Kook" title="Jung Kook">Jung Kook</a>, uta</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arranger">
-<h3 class="pi-data-label pi-secondary-font">Arranger(s)</h3>
-<div class="pi-data-value pi-font">UTA</div>
-</div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Music services</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="services"> <span typeof="mw:File"><a href="https://music.apple.com/us/album/1560265259/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Apple_Music_Icon.png" data-image-name="Apple Music Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/6/65/Apple_Music_Icon.png/revision/latest?cb=20230524103054" width="20"/></a></span>  <span typeof="mw:File"><a href="https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Spotify_Icon.png" data-image-name="Spotify Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/a/a8/Spotify_Icon.png/revision/latest?cb=20230524151104" width="20"/></a></span>  <span typeof="mw:File"><a href="https://music.youtube.com/playlist?list=OLAK5uy_loL8CB9WOejXYVFRp3nYosYcQloGc_7Tg" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="YouTube_Music_Icon.png" data-image-name="YouTube Music Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/f/fb/YouTube_Music_Icon.png/revision/latest?cb=20230524103420" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
-</section>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
@@ -2509,54 +2468,75 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Be_(BTS)" title="Be (BTS)">Be</a></i></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Butter_(digital_single)" title="Butter (digital single)">Butter</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Minisode_3:_Tomorrow" title="Minisode 3: Tomorrow">Minisode 3: Tomorrow</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Chikai" title="Chikai">Chikai</a>"</td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-
-"<b>Film Out</b>" is the second Japanese digital single by <a href="/wiki/BTS" title="BTS">BTS</a>. It was released on April 2, 2021 as a pre-release for their fourth Japanese best album <i><a href="/wiki/BTS,_The_Best" title="BTS, The Best">BTS, The Best</a></i>.
+<i><b>Minisode 3: Tomorrow With Remixes</b></i> (stylized as <b>minisode 3: Tomorrow with Remixes</b>) is the first remix album by <a href="/wiki/TXT" title="TXT">TXT</a>. It was released on April 5, 2024 with "Deja Vu" serving as the album's title track.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
 </p>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FFilm_Out%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=zFT3f9biz68" rel="nofollow noreferrer noopener" target="_blank">Music video</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Film_Out?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#886ce4; color:white;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:BTS" title="Template:BTS"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BTS?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/BTS" title="BTS">BTS</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Jin_(BTS)" title="Jin (BTS)">Jin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Suga" title="Suga">Suga</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/J-Hope" title="J-Hope">J-Hope</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/RM" title="RM">RM</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/V_(BTS)" title="V (BTS)">V</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Kook" title="Jung Kook">Jung Kook</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Dark_%26_Wild" title="Dark &amp; Wild">Dark &amp; Wild</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Wings_(BTS)" title="Wings (BTS)">Wings</a></i> <small>(<i><a href="/wiki/You_Never_Walk_Alone" title="You Never Walk Alone">You Never Walk Alone</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Tear" title="Love Yourself: Tear">Love Yourself: Tear</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_7" title="Map of the Soul : 7">Map of the Soul : 7</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Compilation albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Proof" title="Proof">Proof</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/O!RUL8,2%3F" title="O!RUL8,2?">O!RUL8,2?</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Skool_Luv_Affair" title="Skool Luv Affair">Skool Luv Affair</a></i> <small>(<i><a href="/wiki/Skool_Luv_Affair_Special_Addition" title="Skool Luv Affair Special Addition">Skool Luv Affair Special Addition</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life,_Pt._1" title="The Most Beautiful Moment In Life, Pt. 1">The Most Beautiful Moment In Life, Pt. 1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life,_Pt._2" title="The Most Beautiful Moment In Life, Pt. 2">The Most Beautiful Moment In Life, Pt. 2</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Her" title="Love Yourself: Her">Love Yourself: Her</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_Persona" title="Map of the Soul : Persona">Map of the Soul : Persona</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Be_(BTS)" title="Be (BTS)">Be</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">OST albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/BTS_World_Original_Soundtrack" title="BTS World Original Soundtrack">BTS World Original Soundtrack</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Most_Beautiful_Moment_In_Life:_Young_Forever" title="The Most Beautiful Moment In Life: Young Forever">The Most Beautiful Moment In Life: Young Forever</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Yourself:_Answer" title="Love Yourself: Answer">Love Yourself: Answer</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2_Cool_4_Skool" title="2 Cool 4 Skool">2 Cool 4 Skool</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Come_Back_Home_(BTS)" title="Come Back Home (BTS)">Come Back Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/MIC_Drop_(Steve_Aoki_Remix)" title="MIC Drop (Steve Aoki Remix)">MIC Drop (Steve Aoki Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fake_Love_(Rocking_Vibe_Mix)" title="Fake Love (Rocking Vibe Mix)">Fake Love (Rocking Vibe Mix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Black_Swan_(BTS)" title="Black Swan (BTS)">Black Swan</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Take_Two" title="Take Two">Take Two</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Yet_To_Come_(Hyundai_Ver.)" title="Yet To Come (Hyundai Ver.)">Yet To Come (Hyundai Ver.)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/The_Planet" title="The Planet">The Planet</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Other releases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/With_Seoul" title="With Seoul">With Seoul</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Wake_Up_(BTS)" title="Wake Up (BTS)">Wake Up</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Youth_(BTS)" title="Youth (BTS)">Youth</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Face_Yourself" title="Face Yourself">Face Yourself</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Map_of_the_Soul_:_7_~_The_Journey_~" title="Map of the Soul : 7 ~ The Journey ~">Map of the Soul : 7 ~ The Journey ~</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2_Cool_4_Skool_/_O!RUL8,2%3F" title="2 Cool 4 Skool / O!RUL8,2?">2 Cool 4 Skool / O!RUL8,2?</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_of_BTS:_Japan_Edition" title="The Best of BTS: Japan Edition">The Best of BTS: Japan Edition</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_of_BTS:_Korea_Edition" title="The Best of BTS: Korea Edition">The Best of BTS: Korea Edition</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/BTS,_The_Best" title="BTS, The Best">BTS, The Best</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/No_More_Dream_(Japanese_Ver.)" title="No More Dream (Japanese Ver.)">No More Dream</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Boy_In_Luv_(single)" title="Boy In Luv (single)">Boy In Luv</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Danger_(single)" title="Danger (single)">Danger</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/For_You_(BTS)" title="For You (BTS)">For You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/I_Need_U_(single)" title="I Need U (single)">I Need U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Run_(BTS)" title="Run (BTS)">Run</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Blood_Sweat_%26_Tears_(single)" title="Blood Sweat &amp; Tears (single)">Blood Sweat &amp; Tears</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/MIC_Drop/DNA/Crystal_Snow" title="MIC Drop/DNA/Crystal Snow">MIC Drop/DNA/Crystal Snow</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fake_Love/Airplane_Pt.2" title="Fake Love/Airplane Pt.2">Fake Love/Airplane Pt.2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lights/Boy_With_Luv" title="Lights/Boy With Luv">Lights/Boy With Luv</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Stay_Gold_(BTS)" title="Stay Gold (BTS)">Stay Gold</a>"</span>  •  <span style="white-space:nowrap">"<strong class="mw-selflink selflink">Film Out</strong>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Butter_(single_album)" title="Butter (single album)">Butter</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Dynamite_(BTS)" title="Dynamite (BTS)">Dynamite</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Butter_(digital_single)" title="Butter (digital single)">Butter</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Remix singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a class="mw-redirect" href="/wiki/Dynamite_(Holiday_Remix)" title="Dynamite (Holiday Remix)">Dynamite (Holiday Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a class="mw-redirect" href="/wiki/Butter_(Hotter_Remix)" title="Butter (Hotter Remix)">Butter (Hotter Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Permission_to_Dance_(R%26B_Remix)" title="Permission to Dance (R&amp;B Remix)">Permission to Dance (R&amp;B Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Butter_(Megan_Thee_Stallion_Remix)" title="Butter (Megan Thee Stallion Remix)">Butter (Megan Thee Stallion Remix)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Savage_Love_(Laxed_-_Siren_Beat)_%27BTS_Remix%27" title="Savage Love (Laxed - Siren Beat) 'BTS Remix'">Savage Love (Laxed - Siren Beat) [BTS Remix]</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/My_Universe_(Coldplay_%26_BTS)" title="My Universe (Coldplay &amp; BTS)">My Universe</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bad_Decisions" title="Bad Decisions">Bad Decisions</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Features</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/Steve_Aoki" title="wikipedia:Steve Aoki">Steve Aoki</a> - "<a href="/wiki/Waste_It_On_Me" title="Waste It On Me">Waste It On Me</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Def_Jam_Recordings" title="wikipedia:en:Def Jam Recordings">Def Jam Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Universal_Music_Group" title="wikipedia:en:Universal Music Group">Universal Music Group</a></span>  •  <span style="white-space:nowrap"><i><a class="extiw" href="https://en.wikipedia.org/wiki/en:BTS_World" title="wikipedia:en:BTS World">BTS World (soundtrack)</a></i></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Save_Me_(webtoon)" title="wikipedia:en:Save Me (webtoon)"><i>Save Me</i> (webtoon)</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Youth_(TV_series)" title="wikipedia:en:Youth (TV series)"><i>Youth</i> (TV series)</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Line_Friends#BT21" title="wikipedia:en:Line Friends">BT21</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:BTS_Meal" title="wikipedia:en:BTS Meal">BTS Meal</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://bts.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="http://bts-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a> • <a class="external text" href="https://shop.bts-official.us/" rel="nofollow noreferrer noopener" target="_blank">US Store</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://btsblog.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Blog</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/BANGTAN" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/bangtan.official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/bts.bighitofficial/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.soundcloud.com/bangtan" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@bts_official_bighit" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/bts_bighit" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/BTS_twt" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/BTS_jp_official" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/BTSbighit" rel="nofollow noreferrer noopener" target="_blank">Weibo</a> <span style="font-size:85%;">(<a class="external text" href="https://www.weibo.com/BTSmembers" rel="nofollow noreferrer noopener" target="_blank">Members</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/bts/feed/" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://youtube.com/@bts" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <span style="font-size:85%;">(<a class="external text" href="https://youtube.com/@btsjapanofficial" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"I'll See You There Tomorrow (내일에서 기다릴게)" - 3:16</li>
+<li>"- --- -- --- .-. .-. --- .--" - 0:07</li>
+<li>"Deja Vu" - 2:57</li>
+<li>"Miracle (기적은 너와 내가 함께하는 순간마다 일어나고 있어)" - 2:43</li>
+<li>"The Killa (I Belong to You)" <span style="font-size:85%;">(<a href="/wiki/Soobin_(TXT)" title="Soobin (TXT)">Soobin</a> &amp; <a href="/wiki/Yeonjun_(TXT)" title="Yeonjun (TXT)">Yeonjun</a>)</span> - 2:42</li>
+<li>"Quarter Life" <span style="font-size:85%;">(<a href="/wiki/Beomgyu" title="Beomgyu">Beomgyu</a>, <a href="/wiki/Taehyun_(TXT)" title="Taehyun (TXT)">Taehyun</a> &amp; <a href="/wiki/Hueningkai" title="Hueningkai">Hueningkai</a>)</span> - 2:29</li>
+<li>"Deja Vu (Anemoia Remix)" - 2:50</li>
+<li>"Deja Vu (Sped Up Ver.)" - 2:22</li>
+<li>"Deja Vu (Slowed + Reverb Ver.)" - 3:15</li></ol>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The title of "- --- -- --- .-. .-. --- .--" is translated from <a class="extiw" href="https://en.wikipedia.org/wiki/Morse_code" title="wikipedia:Morse code">Morse code</a> as "tomorow".</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMinisode_3%3A_Tomorrow_With_Remixes%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
+<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=FyQ_O4cK0lA" rel="nofollow noreferrer noopener" target="_blank">TXT's YouTube video: EP.43 'minisode 3: TOMORROW' Recording Behind the Scene #1 | ++line | TXT (투모로우바이투게더)</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/TXT_bighit/status/1776100446496776602" rel="nofollow noreferrer noopener" target="_blank">@TXT_bighit on Twitter (April 5, 2024)</a></span>
+</li>
+</ol></div></div>
+</div>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Minisode_3:_Tomorrow_With_Remixes?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#78c7ff; color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:TXT" title="Template:TXT"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:TXT?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/TXT" title="TXT">TXT</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Soobin_(TXT)" title="Soobin (TXT)">Soobin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yeonjun_(TXT)" title="Yeonjun (TXT)">Yeonjun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Beomgyu" title="Beomgyu">Beomgyu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Taehyun_(TXT)" title="Taehyun (TXT)">Taehyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hueningkai" title="Hueningkai">Hueningkai</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:80px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Dream_Chapter:_Magic" title="The Dream Chapter: Magic">The Dream Chapter: Magic</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Chaos_Chapter:_Freeze" title="The Chaos Chapter: Freeze">The Chaos Chapter: Freeze</a></i> <small>(<i><a href="/wiki/The_Chaos_Chapter:_Fight_or_Escape" title="The Chaos Chapter: Fight or Escape">The Chaos Chapter: Fight or Escape</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Name_Chapter:_Freefall" title="The Name Chapter: Freefall">The Name Chapter: Freefall</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Dream_Chapter:_Star" title="The Dream Chapter: Star">The Dream Chapter: Star</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Dream_Chapter:_Eternity" title="The Dream Chapter: Eternity">The Dream Chapter: Eternity</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Minisode1_:_Blue_Hour" title="Minisode1 : Blue Hour">Minisode1 : Blue Hour</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Minisode_2:_Thursday%27s_Child" title="Minisode 2: Thursday's Child">Minisode 2: Thursday's Child</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Name_Chapter:_Temptation" title="The Name Chapter: Temptation">The Name Chapter: Temptation</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Minisode_3:_Tomorrow" title="Minisode 3: Tomorrow">Minisode 3: Tomorrow</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Star_Chapter:_Sanctuary" title="The Star Chapter: Sanctuary">The Star Chapter: Sanctuary</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Remix albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Minisode 3: Tomorrow With Remixes</strong></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Star_Chapter:_Sanctuary_(Expanded_Edition)" title="The Star Chapter: Sanctuary (Expanded Edition)">The Star Chapter: Sanctuary (Expanded Edition)</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Our_Summer_(Acoustic_Mix)" title="Our Summer (Acoustic Mix)">Our Summer (Acoustic Mix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/0X1%3DLovesong_(I_Know_I_Love_You)_(Remix)" title="0X1=Lovesong (I Know I Love You) (Remix)">0X1=Lovesong (I Know I Love You) [Remix]</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/0X1%3DLovesong_(I_Know_I_Love_You)_feat._Mod_Sun" title="0X1=Lovesong (I Know I Love You) feat. Mod Sun">0X1=Lovesong (I Know I Love You) feat. Mod Sun</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Live_On_OST" title="Live On OST">Your Light (Live On X TXT)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Doom_at_Your_Service_OST" title="Doom at Your Service OST">Doom at Your Service OST Part.2</a>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvQXJtb3JlZF9TYXVydXNfT1NUP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Armored Saurus OST (page does not exist)">Armored Saurus OST</span>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Free_Falling_(TXT)" title="Free Falling (TXT)">Free Falling</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Other official releases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Sweet_Dreams_(TXT)" title="Sweet Dreams (TXT)">Sweet Dreams</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:80px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Cat_%26_Dog" title="Cat &amp; Dog">Cat &amp; Dog</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Valley_of_Lies" title="Valley of Lies">Valley of Lies</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Open_Always_Wins" title="Open Always Wins">Open Always Wins</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/PS5" title="PS5">PS5</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Do_It_Like_That" title="Do It Like That">Do It Like That</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Do_It_Like_That_(Jersey_Club_Remix)" title="Do It Like That (Jersey Club Remix)">Do It Like That (Jersey Club Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Do_It_Like_That_(Pop_R%26B_Remix)" title="Do It Like That (Pop R&amp;B Remix)">Do It Like That (Pop R&amp;B Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Do_It_Like_That_(Alan_Walker_Remix)" title="Do It Like That (Alan Walker Remix)">Do It Like That (Alan Walker Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Do_It_Like_That_(Jax_Jones_Remix)" title="Do It Like That (Jax Jones Remix)">Do It Like That (Jax Jones Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Back_for_More" title="Back for More">Back for More</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:80px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Still_Dreaming" title="Still Dreaming">Still Dreaming</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sweet_(TXT)" title="Sweet (TXT)">Sweet</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">EPs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Chaotic_Wonderland" title="Chaotic Wonderland">Chaotic Wonderland</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Magic_Hour_(TXT)" title="Magic Hour (TXT)">Magic Hour</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Drama_(TXT)" title="Drama (TXT)">Drama</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Good_Boy_Gone_Bad" title="Good Boy Gone Bad">Good Boy Gone Bad</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Chikai" title="Chikai">Chikai</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:80px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Force" title="Force">Force</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Ito" title="Ito">Ito</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Ring_(TXT)" title="Ring (TXT)">Ring</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Hydrangea_Love" title="Hydrangea Love">Hydrangea Love</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Online concerts</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Act_:_Boy" title="Act : Boy">Act : Boy</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Showcase tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvVE9NT1JST1dfWF9UT0dFVEhFUl9TaG93Y2FzZTpfU3Rhcl9pbl9VUz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="TOMORROW X TOGETHER Showcase: Star in US (page does not exist)">TOMORROW X TOGETHER Showcase: Star in US</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">World tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Act_:_Love_Sick" title="Act : Love Sick">Act : Love Sick</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Act_:_Sweet_Mirage" title="Act : Sweet Mirage">Act : Sweet Mirage</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Act_:_Promise" title="Act : Promise">Act : Promise</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Concert participation</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/2021_New_Year%27s_Eve_Live_presented_by_Weverse" title="2021 New Year's Eve Live presented by Weverse">2021 New Year's Eve Live presented by Weverse</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2022_Weverse_Con_%22New_Era%22" title='2022 Weverse Con "New Era"'>2022 Weverse Con [New Era]</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/2020_TXT_Fanlive_Dream_X_Together" title="2020 TXT Fanlive Dream X Together">Dream X Together</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_TXT_Fanlive_Shine_X_Together" title="2021 TXT Fanlive Shine X Together">Shine X Together</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2022_TXT_Fanlive_MOA_X_Together" title="2022 TXT Fanlive MOA X Together">MOA X Together</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2024_TXT_Fanlive_Present_X_Together" title="2024 TXT Fanlive Present X Together">Present X Together</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Universal_Music_Japan" title="wikipedia:en:Universal Music Japan">Universal Music Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Republic_Records" title="wikipedia:en:Republic Records">Republic Records</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://txt.ibighit.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="https://txt-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://m.cafe.daum.net/TXT.MOA/_rec" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/TXT.bighit" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/txt_bighit/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://soundcloud.com/txt190304/" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@txt.bighitent/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/TXT_bighit" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/TXT_members" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/TXT_bighit_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/TXTbighit/" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weverse.io/txt/feed/" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/txt_bighit" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250316140954
+Cached time: 20250314235828
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.141 seconds
-Real time usage: 0.160 seconds
-Preprocessor visited node count: 7639/1000000
-Post‐expand include size: 186287/2097152 bytes
-Template argument size: 153187/2097152 bytes
+CPU time usage: 0.154 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 7773/1000000
+Post‐expand include size: 170811/2097152 bytes
+Template argument size: 129228/2097152 bytes
 Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28/5000000 bytes
+Unstrip post‐expand size: 1099/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-169.53%  189.901      8 Template:Navbox
-100.00%  112.014      1 -total
- 64.65%   72.416      1 Template:BTS
- 62.59%   70.112      1 Template:Navbox_with_collapsible_groups
- 32.38%   36.273     22 Template:List
- 30.84%   34.541      1 Template:Infobox_single
- 26.83%   30.050     22 Template:Element_List
-  2.13%    2.384      1 Template:Language
-  2.10%    2.357      1 Template:Tnavbar
-  2.06%    2.302      1 Template:Stub
+109.66%  149.932     11 Template:Navbox
+100.00%  136.723      1 -total
+ 55.29%   75.600      1 Template:TXT
+ 51.90%   70.953      1 Template:Navbox_with_collapsible_groups
+ 32.62%   44.598      1 Template:Infobox_album
+ 21.36%   29.201     21 Template:List
+ 16.42%   22.455     21 Template:Element_List
+  5.68%    7.770      1 Template:Reflist
+  3.85%    5.266      1 Template:Scroll_Box
+  3.44%    4.706      1 Template:Stub
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:88447-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250316140954 and revision id 662902. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:232933-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250314235828 and revision id 1119411. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2568,53 +2548,29 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
+<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
+<li class="category normal" data-name="TXT" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:TXT" title="Category:TXT">TXT</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a></span>
+<li class="category normal" data-name="Remix albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Remix_albums" title="Category:Remix albums">Remix albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_digital_singles" title="Category:Japanese digital singles">Japanese digital singles</a></span>
+<li class="category normal" data-name="2024 remix albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2024_remix_albums" title="Category:2024 remix albums">2024 remix albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="BTS" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:BTS" title="Category:BTS">BTS</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2021 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2021 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2021 Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_Japanese_releases" title="Category:2021 Japanese releases">2021 Japanese releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2021 Japanese digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_Japanese_digital_singles" title="Category:2021 Japanese digital singles">2021 Japanese digital singles</a></span>
+<li class="category normal" data-name="2024 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
-</div>
-</div>
-<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
-<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
-			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
-<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
-<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/Film_out">Français</a>
-<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Film_Out">Tagalog</a>
 </div>
 </div>
 <div class="license-description">
@@ -2795,7 +2751,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9GaWxtX091dD90aXRsZT1GaWxtX091dCZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9NaW5pc29kZV8zOl9Ub21vcnJvd19XaXRoX1JlbWl4ZXM/dGl0bGU9TWluaXNvZGVfMyUzQV9Ub21vcnJvd19XaXRoX1JlbWl4ZXMmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

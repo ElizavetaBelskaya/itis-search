@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>'Hello' Chapter Ø. Hello, Strange Dream | Kpop Wiki | Fandom</title>
+<title>Rumination | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-_Hello_Chapter_Ø_Hello_Strange_Dream rootpage-_Hello_Chapter_Ø_Hello_Strange_Dream skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rumination rootpage-Rumination skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,7 +2353,7 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:EPs" title="Category:EPs">EPs</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:CIX" title="Category:CIX">CIX</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Mini_albums" title="Category:Mini albums">Mini albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:SF9" title="Category:SF9">SF9</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
 <a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
@@ -2361,7 +2361,7 @@
 <li>
 <a data-tracking-label="categories-top-more-3" href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2021_EPs" title="Category:2021 EPs">2021 EPs</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2021_mini_albums" title="Category:2021 mini albums">2021 mini albums</a> </li>
 </ul>
 </div>
 </div>
@@ -2371,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">'Hello' Chapter Ø. Hello, Strange Dream</span> </h1>
+<span class="mw-page-title-main">Rumination</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2382,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Rumination?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Rumination?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Rumination?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2415,47 +2415,113 @@
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 <aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/4/42/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_digital_album_cover.png/revision/latest?cb=20210125044418" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream digital album cover">
-<img alt="CIX 'Hello' Chapter Ø. Hello, Strange Dream digital album cover" class="pi-image-thumbnail" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_digital_album_cover.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/4/42/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210125044418" srcset="https://static.wikia.nocookie.net/kpop/images/4/42/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210125044418 1x, https://static.wikia.nocookie.net/kpop/images/4/42/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20210125044418 2x" width="270">
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Digital
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Scar ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Blood ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Connect ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Kit ver.
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/c5/SF9_Rumination_digital_album_cover.png/revision/latest?cb=20211122194335" title="Digital">
+<img alt="Digital" class="pi-image-thumbnail" data-image-key="SF9 Rumination digital album cover.png" data-image-name="SF9 Rumination digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/c/c5/SF9_Rumination_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211122194335" srcset="https://static.wikia.nocookie.net/kpop/images/c/c5/SF9_Rumination_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211122194335 1x, https://static.wikia.nocookie.net/kpop/images/c/c5/SF9_Rumination_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20211122194335 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">'Hello' Chapter Ø. Hello, Strange Dream</h2>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/cc/SF9_Rumination_physical_album_cover_%28Scar_ver.%29.png/revision/latest?cb=20211120181050" title="Scar ver.">
+<img alt="Scar ver." class="pi-image-thumbnail" data-image-key="SF9 Rumination physical album cover (Scar ver.).png" data-image-name="SF9 Rumination physical album cover (Scar ver.).png" data-relevant="1" height="375" src="https://static.wikia.nocookie.net/kpop/images/c/cc/SF9_Rumination_physical_album_cover_%28Scar_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120181050" srcset="https://static.wikia.nocookie.net/kpop/images/c/cc/SF9_Rumination_physical_album_cover_%28Scar_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120181050 1x, https://static.wikia.nocookie.net/kpop/images/c/cc/SF9_Rumination_physical_album_cover_%28Scar_ver.%29.png/revision/latest?cb=20211120181050 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/ff/SF9_Rumination_physical_album_cover_%28Blood_ver.%29.png/revision/latest?cb=20211120180839" title="Blood ver.">
+<img alt="Blood ver." class="pi-image-thumbnail" data-image-key="SF9 Rumination physical album cover (Blood ver.).png" data-image-name="SF9 Rumination physical album cover (Blood ver.).png" data-relevant="1" height="375" src="https://static.wikia.nocookie.net/kpop/images/f/ff/SF9_Rumination_physical_album_cover_%28Blood_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180839" srcset="https://static.wikia.nocookie.net/kpop/images/f/ff/SF9_Rumination_physical_album_cover_%28Blood_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180839 1x, https://static.wikia.nocookie.net/kpop/images/f/ff/SF9_Rumination_physical_album_cover_%28Blood_ver.%29.png/revision/latest?cb=20211120180839 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/f3/SF9_Rumination_physical_album_cover_%28Connect_ver.%29.png/revision/latest?cb=20211120180808" title="Connect ver.">
+<img alt="Connect ver." class="pi-image-thumbnail" data-image-key="SF9 Rumination physical album cover (Connect ver.).png" data-image-name="SF9 Rumination physical album cover (Connect ver.).png" data-relevant="1" height="375" src="https://static.wikia.nocookie.net/kpop/images/f/f3/SF9_Rumination_physical_album_cover_%28Connect_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180808" srcset="https://static.wikia.nocookie.net/kpop/images/f/f3/SF9_Rumination_physical_album_cover_%28Connect_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180808 1x, https://static.wikia.nocookie.net/kpop/images/f/f3/SF9_Rumination_physical_album_cover_%28Connect_ver.%29.png/revision/latest?cb=20211120180808 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/d/d4/SF9_Rumination_physical_album_cover_%28Kit_ver.%29.png/revision/latest?cb=20211120180737" title="Kit ver.">
+<img alt="Kit ver." class="pi-image-thumbnail" data-image-key="SF9 Rumination physical album cover (Kit ver.).png" data-image-name="SF9 Rumination physical album cover (Kit ver.).png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/d/d4/SF9_Rumination_physical_album_cover_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180737" srcset="https://static.wikia.nocookie.net/kpop/images/d/d4/SF9_Rumination_physical_album_cover_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20211120180737 1x, https://static.wikia.nocookie.net/kpop/images/d/d4/SF9_Rumination_physical_album_cover_%28Kit_ver.%29.png/revision/latest?cb=20211120180737 2x" width="270"/>
+</a>
+</figure>
+</div>
+</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Rumination</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
 <h3 class="pi-data-label pi-secondary-font">Type</h3>
-<div class="pi-data-value pi-font">EP</div>
+<div class="pi-data-value pi-font">Mini</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/CIX" title="CIX">CIX</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/SF9" title="SF9">SF9</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">February 2, 2021</div>
+<div class="pi-data-value pi-font">November 22, 2021</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">CD, download, streaming</div>
+<div class="pi-data-value pi-font">CD, KiT, download, streaming</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
 <h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2020</div>
+<div class="pi-data-value pi-font">2021</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Dance, pop, ballad</div>
+<div class="pi-data-value pi-font">Dance, pop, R&amp;B, ballad</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">18:03</div>
+<div class="pi-data-value pi-font">24:19</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/C9_Entertainment" title="C9 Entertainment">C9 Entertainment</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/FNC_Entertainment" title="FNC Entertainment">FNC Entertainment</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Warner_Music_Korea" title="Warner Music Korea">Warner Music Korea</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/Kakao_Entertainment" title="Kakao Entertainment">Kakao Entertainment</a></div>
 </div>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
@@ -2468,80 +2534,93 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/%27Hello%27_Chapter_3._Hello,_Strange_Time" title="'Hello' Chapter 3. Hello, Strange Time">'Hello' Chapter 3. Hello, Strange Time</a></i></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/All_For_You_(CIX)" title="All For You (CIX)">All For You</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Turn_Over_(SF9)" title="Turn Over (SF9)">Turn Over</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Savior_(SF9)" title="Savior (SF9)">Savior</a>"</td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>Hello Chapter Ø. Hello, Strange Dream</b></i> is the fourth EP album by <a href="/wiki/CIX" title="CIX">CIX</a>. It was released on February 2, 2021 with "Cinema" serving as the album's title track.
-</p><p>The physical release comes in two versions: Hello and Strange Dream.
+<i><b>Rumination</b></i> is the 10th mini album by <a href="/wiki/SF9" title="SF9">SF9</a>. It was released on November 22, 2021 with "Trauma" serving as the album's title track.
+</p><p>The album had one week of promotions following its release.
+</p><p>The physical album comes in four versions: Scar, Blood, Connect and Kit.
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Stairway To Heaven" - 4:39</li>
-<li>"Cinema" - 3:12</li>
-<li>"Round 2" - 3:22</li>
-<li>"Young" - 3:25</li>
-<li>"Everything" - 3:25</li></ol>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="0c0f97ca7c2667e23bdf66a249fb8965" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="CIX_-Hello-_Chapter_---_Hello-_Strange_Dream_teaser-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:CIX_%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream_teaser.png" style="height:150px; width:150px;" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream teaser.png (1.39 MB)"><noscript><img alt="Teaser" class="thumbimage" data-caption="Teaser" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_teaser.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream teaser.png" data-relevant="1" height="152" src="https://static.wikia.nocookie.net/kpop/images/4/48/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_teaser.png/revision/latest/scale-to-width-down/150?cb=20210113175857" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream teaser.png (1.39 MB)" width="150"/></noscript><img alt="Teaser" class="thumbimage lazyload" data-caption="Teaser" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_teaser.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream teaser.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/48/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_teaser.png/revision/latest/scale-to-width-down/150?cb=20210113175857" height="152" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream teaser.png (1.39 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Teaser</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="CIX_-Hello-_Chapter_---_Hello-_Strange_Dream_Town_Scene_0_T_Castle_Town-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:CIX_%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream_Town_Scene_0_T_Castle_Town.png" style="height:150px; width:150px;" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream Town Scene 0 T Castle Town.png (2.47 MB)"><noscript><img alt="CIX Town Scene #0 T Castle Town" class="thumbimage" data-caption="CIX Town Scene #0&lt;br /&gt;T Castle Town" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_Town_Scene_0_T_Castle_Town.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream Town Scene 0 T Castle Town.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/c/cd/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_Town_Scene_0_T_Castle_Town.png/revision/latest/scale-to-width-down/150?cb=20210113180111" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream Town Scene 0 T Castle Town.png (2.47 MB)" width="150"/></noscript><img alt="CIX Town Scene #0 T Castle Town" class="thumbimage lazyload" data-caption="CIX Town Scene #0&lt;br /&gt;T Castle Town" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_Town_Scene_0_T_Castle_Town.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream Town Scene 0 T Castle Town.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/cd/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_Town_Scene_0_T_Castle_Town.png/revision/latest/scale-to-width-down/150?cb=20210113180111" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream Town Scene 0 T Castle Town.png (2.47 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">CIX Town Scene #0<br/>T Castle Town</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="CIX_-Hello-_Chapter_---_Hello-_Strange_Dream_scheduler-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:CIX_%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream_scheduler.png" style="height:150px; width:150px;" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream scheduler.png (1.65 MB)"><noscript><img alt="Scheduler" class="thumbimage" data-caption="Scheduler" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_scheduler.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream scheduler.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/f/fb/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_scheduler.png/revision/latest/scale-to-width-down/150?cb=20210113175805" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream scheduler.png (1.65 MB)" width="150"/></noscript><img alt="Scheduler" class="thumbimage lazyload" data-caption="Scheduler" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_scheduler.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream scheduler.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/fb/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_scheduler.png/revision/latest/scale-to-width-down/150?cb=20210113175805" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream scheduler.png (1.65 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Scheduler</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="CIX_-Hello-_Chapter_---_Hello-_Strange_Dream_D-day_poster-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:CIX_%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream_D-day_poster.png" style="height:150px; width:150px;" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream D-day poster.png (3.09 MB)"><noscript><img alt="D-day poster" class="thumbimage" data-caption="D-day poster" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_D-day_poster.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream D-day poster.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/b/b3/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_D-day_poster.png/revision/latest/scale-to-width-down/150?cb=20210201180213" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream D-day poster.png (3.09 MB)" width="150"/></noscript><img alt="D-day poster" class="thumbimage lazyload" data-caption="D-day poster" data-image-key="CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_D-day_poster.png" data-image-name="CIX 'Hello' Chapter Ø. Hello, Strange Dream D-day poster.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/b3/CIX_%27Hello%27_Chapter_%C3%98._Hello%2C_Strange_Dream_D-day_poster.png/revision/latest/scale-to-width-down/150?cb=20210201180213" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="CIX 'Hello' Chapter Ø. Hello, Strange Dream D-day poster.png (3.09 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-day poster</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="CIX_Hello_Strange_Dream_album_packaging-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:CIX_Hello_Strange_Dream_album_packaging.png" style="height:150px; width:150px;" title="CIX Hello Strange Dream album packaging.png (1.59 MB)"><noscript><img alt="Album packaging" class="thumbimage" data-caption="Album packaging" data-image-key="CIX_Hello_Strange_Dream_album_packaging.png" data-image-name="CIX Hello Strange Dream album packaging.png" data-relevant="1" height="948" src="https://static.wikia.nocookie.net/kpop/images/f/f4/CIX_Hello_Strange_Dream_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20210115071546" style="" title="CIX Hello Strange Dream album packaging.png (1.59 MB)" width="150"/></noscript><img alt="Album packaging" class="thumbimage lazyload" data-caption="Album packaging" data-image-key="CIX_Hello_Strange_Dream_album_packaging.png" data-image-name="CIX Hello Strange Dream album packaging.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f4/CIX_Hello_Strange_Dream_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20210115071546" height="948" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="CIX Hello Strange Dream album packaging.png (1.59 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging</div></div></div>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Hello%2527_Chapter_%25C3%2598._Hello%2C_Strange_Dream%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Trauma" - 3:22</li>
+<li>"Memory" - 3:13</li>
+<li>"Dreams" - 3:29</li>
+<li>"Gentleman" - 3:09</li>
+<li>"On And On (잠시)" <span style="font-size:85%;">(<a href="/wiki/Young_Bin_(SF9)" title="Young Bin (SF9)">Young Bin</a> &amp; <a href="/wiki/In_Seong_(SF9)" title="In Seong (SF9)">In Seong</a>)</span> - 3:35</li>
+<li>"Scenario" - 3:22</li>
+<li>"For Fantasy (오늘이라서)" - 4:09</li></ol>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="258a4adf3e5c73bfd84b6c004fd835e4" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_title_poster-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_title_poster.png" style="height:150px; width:150px;" title="SF9 Rumination title poster.png (6.62 MB)"><noscript><img alt="Title poster" class="thumbimage" data-caption="Title poster" data-image-key="SF9_Rumination_title_poster.png" data-image-name="SF9 Rumination title poster.png" data-relevant="1" height="213" src="https://static.wikia.nocookie.net/kpop/images/4/40/SF9_Rumination_title_poster.png/revision/latest/scale-to-width-down/150?cb=20211110220858" style="" title="SF9 Rumination title poster.png (6.62 MB)" width="150"/></noscript><img alt="Title poster" class="thumbimage lazyload" data-caption="Title poster" data-image-key="SF9_Rumination_title_poster.png" data-image-name="SF9 Rumination title poster.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/40/SF9_Rumination_title_poster.png/revision/latest/scale-to-width-down/150?cb=20211110220858" height="213" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination title poster.png (6.62 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Title poster</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_schedule_announcement-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_schedule_announcement.png" style="height:150px; width:150px;" title="SF9 Rumination schedule announcement.png (3.75 MB)"><noscript><img alt="Schedule announcement" class="thumbimage" data-caption="Schedule announcement" data-image-key="SF9_Rumination_schedule_announcement.png" data-image-name="SF9 Rumination schedule announcement.png" data-relevant="1" height="202" src="https://static.wikia.nocookie.net/kpop/images/2/28/SF9_Rumination_schedule_announcement.png/revision/latest/scale-to-width-down/150?cb=20211110220817" style="" title="SF9 Rumination schedule announcement.png (3.75 MB)" width="150"/></noscript><img alt="Schedule announcement" class="thumbimage lazyload" data-caption="Schedule announcement" data-image-key="SF9_Rumination_schedule_announcement.png" data-image-name="SF9 Rumination schedule announcement.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/2/28/SF9_Rumination_schedule_announcement.png/revision/latest/scale-to-width-down/150?cb=20211110220817" height="202" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination schedule announcement.png (3.75 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Schedule announcement</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_track_list-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_track_list.png" style="height:150px; width:150px;" title="SF9 Rumination track list.png (3.59 MB)"><noscript><img alt="Track list" class="thumbimage" data-caption="Track list" data-image-key="SF9_Rumination_track_list.png" data-image-name="SF9 Rumination track list.png" data-relevant="1" height="202" src="https://static.wikia.nocookie.net/kpop/images/e/ef/SF9_Rumination_track_list.png/revision/latest/scale-to-width-down/150?cb=20211119105147" style="" title="SF9 Rumination track list.png (3.59 MB)" width="150"/></noscript><img alt="Track list" class="thumbimage lazyload" data-caption="Track list" data-image-key="SF9_Rumination_track_list.png" data-image-name="SF9 Rumination track list.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/ef/SF9_Rumination_track_list.png/revision/latest/scale-to-width-down/150?cb=20211119105147" height="202" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination track list.png (3.59 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_album_packaging_-Scar_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_album_packaging_(Scar_ver.).png" style="height:150px; width:150px;" title="SF9 Rumination album packaging (Scar ver.).png (3.42 MB)"><noscript><img alt="Album packaging (Scar ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Scar ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Scar_ver.%29.png" data-image-name="SF9 Rumination album packaging (Scar ver.).png" data-relevant="1" height="1083" src="https://static.wikia.nocookie.net/kpop/images/2/24/SF9_Rumination_album_packaging_%28Scar_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180637" style="" title="SF9 Rumination album packaging (Scar ver.).png (3.42 MB)" width="150"/></noscript><img alt="Album packaging (Scar ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Scar ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Scar_ver.%29.png" data-image-name="SF9 Rumination album packaging (Scar ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/2/24/SF9_Rumination_album_packaging_%28Scar_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180637" height="1083" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination album packaging (Scar ver.).png (3.42 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Scar ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_album_packaging_-Blood_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_album_packaging_(Blood_ver.).png" style="height:150px; width:150px;" title="SF9 Rumination album packaging (Blood ver.).png (3.38 MB)"><noscript><img alt="Album packaging (Blood ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Blood ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Blood_ver.%29.png" data-image-name="SF9 Rumination album packaging (Blood ver.).png" data-relevant="1" height="1083" src="https://static.wikia.nocookie.net/kpop/images/5/54/SF9_Rumination_album_packaging_%28Blood_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180509" style="" title="SF9 Rumination album packaging (Blood ver.).png (3.38 MB)" width="150"/></noscript><img alt="Album packaging (Blood ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Blood ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Blood_ver.%29.png" data-image-name="SF9 Rumination album packaging (Blood ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/54/SF9_Rumination_album_packaging_%28Blood_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180509" height="1083" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination album packaging (Blood ver.).png (3.38 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Blood ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_album_packaging_-Connect_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_album_packaging_(Connect_ver.).png" style="height:150px; width:150px;" title="SF9 Rumination album packaging (Connect ver.).png (3.06 MB)"><noscript><img alt="Album packaging (Connect ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Connect ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Connect_ver.%29.png" data-image-name="SF9 Rumination album packaging (Connect ver.).png" data-relevant="1" height="1083" src="https://static.wikia.nocookie.net/kpop/images/f/f6/SF9_Rumination_album_packaging_%28Connect_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180533" style="" title="SF9 Rumination album packaging (Connect ver.).png (3.06 MB)" width="150"/></noscript><img alt="Album packaging (Connect ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Connect ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Connect_ver.%29.png" data-image-name="SF9 Rumination album packaging (Connect ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f6/SF9_Rumination_album_packaging_%28Connect_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180533" height="1083" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination album packaging (Connect ver.).png (3.06 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Connect ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SF9_Rumination_album_packaging_-Kit_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SF9_Rumination_album_packaging_(Kit_ver.).png" style="height:150px; width:150px;" title="SF9 Rumination album packaging (Kit ver.).png (2.14 MB)"><noscript><img alt="Album packaging (Kit ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Kit ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Kit_ver.%29.png" data-image-name="SF9 Rumination album packaging (Kit ver.).png" data-relevant="1" height="644" src="https://static.wikia.nocookie.net/kpop/images/3/37/SF9_Rumination_album_packaging_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180610" style="" title="SF9 Rumination album packaging (Kit ver.).png (2.14 MB)" width="150"/></noscript><img alt="Album packaging (Kit ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Kit ver.)&lt;/span&gt;' data-image-key="SF9_Rumination_album_packaging_%28Kit_ver.%29.png" data-image-name="SF9 Rumination album packaging (Kit ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/3/37/SF9_Rumination_album_packaging_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20211120180610" height="644" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SF9 Rumination album packaging (Kit ver.).png (2.14 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Kit ver.)</span></div></div></div>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRumination%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <table class="col-break">
 <tbody><tr>
 <td style="width:50%;" valign="top">
-<dl><dt>"Cinema"</dt></dl>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=WzcjCrmKBqg" rel="nofollow noreferrer noopener" target="_blank">Msic video</a>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=NNbQ0E9MWyY" rel="nofollow noreferrer noopener" target="_blank">MV teaser #1</a> / <a class="external text" href="https://www.youtube.com/watch?v=MdfF3Axm4hQ" rel="nofollow noreferrer noopener" target="_blank">#2</a></li></ul></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=AKFWVN4TxEw" rel="nofollow noreferrer noopener" target="_blank">Special clip</a></li></ul>
-<dl><dt>"Round 2"</dt></dl>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=tDNU5McY_Tg" rel="nofollow noreferrer noopener" target="_blank">Special clip</a></li></ul>
+<dl><dt>"Trauma"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=1HesnepeVkU" rel="nofollow noreferrer noopener" target="_blank">Music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=zwme2S-taqI" rel="nofollow noreferrer noopener" target="_blank">MV teaser</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=3VB8e1l92Lc" rel="nofollow noreferrer noopener" target="_blank">MV making film</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=SNq5EWhfJ-8" rel="nofollow noreferrer noopener" target="_blank">Performance video</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=U6oFg80go7k" rel="nofollow noreferrer noopener" target="_blank">Fanchant guide video</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=YVR0sfQmzzo" rel="nofollow noreferrer noopener" target="_blank">Highlight medley</a></li></ul>
+<dl><dt>"On And On"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=HBB5tq1gxh8" rel="nofollow noreferrer noopener" target="_blank">Live clip</a></li></ul>
 </td>
 <td style="width:50%;" valign="top">
-<dl><dt><i>Hello Chapter Ø. Hello, Strange Dream</i></dt></dl>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=A_paEN6eUTg" rel="nofollow noreferrer noopener" target="_blank">Album preview</a></li>
-<li>Concept video
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=DFeTNwWr_xE" rel="nofollow noreferrer noopener" target="_blank">BX</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=JLTnAEWAlYg" rel="nofollow noreferrer noopener" target="_blank">Seung Hun</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=wbtdhEvAFMw" rel="nofollow noreferrer noopener" target="_blank">Hyun Suk</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=x8VrLMl_Yx4" rel="nofollow noreferrer noopener" target="_blank">Yong Hee</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=lAu08m_wdmU" rel="nofollow noreferrer noopener" target="_blank">Bae Jin Young</a></li></ul></li></ul>
+<dl><dt><i>Rumination</i></dt></dl>
+<ul><li>Recollect films:
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=X14EMkhg-CY" rel="nofollow noreferrer noopener" target="_blank">Jae Yoon</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=FR7e7ysiA-4" rel="nofollow noreferrer noopener" target="_blank">Tae Yang</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=HfYeogX4-qw" rel="nofollow noreferrer noopener" target="_blank">Cha Ni</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=5aDnNqpyFzw" rel="nofollow noreferrer noopener" target="_blank">Da Won</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=0RztefGjhUk" rel="nofollow noreferrer noopener" target="_blank">Ro Woon</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=pPCpL2ge1Uc" rel="nofollow noreferrer noopener" target="_blank">Hwi Young</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=o88kSu-yyB0" rel="nofollow noreferrer noopener" target="_blank">Zu Ho</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=zFGj6eitDKA" rel="nofollow noreferrer noopener" target="_blank">Young Bin</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=MhL0pSftPZU" rel="nofollow noreferrer noopener" target="_blank">In Seong</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=70-unTrOAhw" rel="nofollow noreferrer noopener" target="_blank">Jacket making film</a></li></ul>
 <p>
 </p>
 </td></tr></tbody></table>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/%27Hello%27_Chapter_%C3%98._Hello,_Strange_Dream?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:radial-gradient(circle, #8b2d21, #344185); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:CIX" title="Template:CIX"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:CIX?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/CIX" title="CIX">CIX</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/BX" title="BX">BX</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seung_Hun_(CIX)" title="Seung Hun (CIX)">Seung Hun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yong_Hee" title="Yong Hee">Yong Hee</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hyun_Suk_(CIX)" title="Hyun Suk (CIX)">Hyun Suk</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Bae_Jin_Young" title="Bae Jin Young">Bae Jin Young</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/%27OK%27_Prologue_:_Be_OK" title="'OK' Prologue : Be OK">'OK' Prologue : Be OK</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">EPs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/%27Hello%27_Chapter_1._Hello,_Stranger" title="'Hello' Chapter 1. Hello, Stranger">'Hello' Chapter 1. Hello, Stranger</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/%27Hello%27_Chapter_2._Hello,_Strange_Place" title="'Hello' Chapter 2. Hello, Strange Place">'Hello' Chapter 2. Hello, Strange Place</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/%27Hello%27_Chapter_3._Hello,_Strange_Time" title="'Hello' Chapter 3. Hello, Strange Time">'Hello' Chapter 3. Hello, Strange Time</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">'Hello' Chapter Ø. Hello, Strange Dream</strong></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/%27OK%27_Episode_1_:_OK_Not" title="'OK' Episode 1 : OK Not">'OK' Episode 1 : OK Not</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/%27OK%27_Episode_2_:_I%27m_OK" title="'OK' Episode 2 : I'm OK">'OK' Episode 2 : I'm OK</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Thunder_Fever" title="Thunder Fever">Thunder Fever</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Single albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/0_or_1" title="0 or 1">0 or 1</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Win_(CIX)" title="Win (CIX)">Win -Korean ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Tesseract" title="Tesseract">Tesseract</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Participation releases</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Sing_Forest_2_(Love)" title="Sing Forest 2 (Love)">Sing Forest 2 (Love)</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Pinky_Swear" title="Pinky Swear">Pinky Swear</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">EPs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/%27Hello%27_Chapter_1._Hello,_Stranger" title="'Hello' Chapter 1. Hello, Stranger">'Hello' Chapter 1. Hello, Stranger [Japanese ver.]</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Revival_(CIX)" title="Revival (CIX)">Revival</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/All_For_You_(CIX)" title="All For You (CIX)">All For You</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Win_(CIX)" title="Win (CIX)">Win</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/C9_Entertainment" title="C9 Entertainment">C9 Entertainment</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://cix-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Website <span style="font-size:85%;">(Japanese)</span></a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/OfficialCIX" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/CIXofficial/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/cix.official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://page.line.me/cix_japan_official" rel="nofollow noreferrer noopener" target="_blank">Line <span style="font-size:85%;">(Japanese)</span></a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@cix_official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/CIX_official" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/CIX_twt" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/CIX_JP_Official" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://m.weibo.cn/u/7321086797" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCuaslC77K-NmCy8Xwk7x0hA" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Rumination?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:linear-gradient(to right, #93BFEE, #91E2F3, #F6CCE2, #B1EAE4, #FDEDDD, #91E2F3, transparent); color:#000;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:SF9" title="Template:SF9"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:SF9?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/SF9" title="SF9">SF9</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/In_Seong_(SF9)" title="In Seong (SF9)">In Seong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Young_Bin_(SF9)" title="Young Bin (SF9)">Young Bin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jae_Yoon_(SF9)" title="Jae Yoon (SF9)">Jae Yoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Da_Won_(SF9)" title="Da Won (SF9)">Da Won</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Zu_Ho_(SF9)" title="Zu Ho (SF9)">Zu Ho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoo_Tae_Yang" title="Yoo Tae Yang">Yoo Tae Yang</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hwi_Young" title="Hwi Young">Hwi Young</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Cha_Ni" title="Cha Ni">Cha Ni</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Ro_Woon" title="Ro Woon">Ro Woon</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/First_Collection" title="First Collection">First Collection</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Burning_Sensation" title="Burning Sensation">Burning Sensation</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Breaking_Sensation" title="Breaking Sensation">Breaking Sensation</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Knights_of_the_Sun" title="Knights of the Sun">Knights of the Sun</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Mamma_Mia!" title="Mamma Mia!">Mamma Mia!</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sensuous" title="Sensuous">Sensuous</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Narcissus_(SF9)" title="Narcissus (SF9)">Narcissus</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/RPM_(album)" title="RPM (album)">RPM</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/9loryUs" title="9loryUs">9loryUs</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Turn_Over_(SF9)" title="Turn Over (SF9)">Turn Over</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Rumination</strong></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Wave_OF9" title="The Wave OF9">The Wave OF9</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Piece_OF9" title="The Piece OF9">The Piece OF9</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sequence_(SF9)" title="Sequence (SF9)">Sequence</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fantasy_(SF9)" title="Fantasy (SF9)">Fantasy</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Race" title="Love Race">Love Race</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Special_History_Book" title="Special History Book">Special History Book</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Feeling_Sensation" title="Feeling Sensation">Feeling Sensation</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/So_Beautiful_(SF9)" title="So Beautiful (SF9)">So Beautiful</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Savior_(SF9)" title="Savior (SF9)">Savior</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Sensational_Feeling_Nine" title="Sensational Feeling Nine">Sensational Feeling Nine</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Illuminate" title="Illuminate">Illuminate</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Golden_Echo" title="Golden Echo">Golden Echo</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Best_%E3%80%9CDear_Fantasy%E3%80%9C" title="The Best 〜Dear Fantasy〜">The Best 〜Dear Fantasy〜</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/ReStart_(SF9)" title="ReStart (SF9)">ReStart</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/D.W.B.H" title="D.W.B.H">D.W.B.H</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Fanfare_(SF9_Japanese_single)" title="Fanfare (SF9 Japanese single)">Fanfare</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Easy_Love_(Japanese_single)" title="Easy Love (Japanese single)">Easy Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mamma_Mia!_(Japanese_single)" title="Mamma Mia! (Japanese single)">Mamma Mia!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Now_or_Never_(SF9)" title="Now or Never (SF9)">Now or Never</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/RPM_(single)" title="RPM (single)">RPM</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Good_Guy" title="Good Guy">Good Guy</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Chinese</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Fanfare_(SF9_Chinese_single)" title="Fanfare (SF9 Chinese single)">Fanfare</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Still_My_Lady" title="Still My Lady">Still My Lady</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Easy_Love" title="Easy Love">Easy Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/O_Sole_Mio" title="O Sole Mio">O Sole Mio</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mamma_Mia!_(Chinese_single)" title="Mamma Mia! (Chinese single)">Mamma Mia!</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/FNC_Entertainment" title="FNC Entertainment">FNC Entertainment</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.fncent.com/SF9/" rel="nofollow noreferrer noopener" target="_blank">Homepage</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://sf9-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Website <small>(Japanese)</small></a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/SF9" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/SF9official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a> <small>(<a class="external text" href="https://www.facebook.com/SF9.official.jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/SF9official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a> <small>(<a class="external text" href="https://www.instagram.com/sf9_official_jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@sf9official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/SF9official" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/SF9_official_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://www.vlive.tv/channels/ED7237" rel="nofollow noreferrer noopener" target="_blank">V Live</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://www.weibo.com/SF9official" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UC8HNshpReWjQv1WpwzhPHjA" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <small>(<a class="external text" href="https://www.youtube.com/channel/UCHGEhFHMmaXhN7AoPTRJANA" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312211119
-Cache expiry: 1209600
+Cached time: 20250312113744
+Cache expiry: 2592000
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.120 seconds
-Real time usage: 0.135 seconds
-Preprocessor visited node count: 3976/1000000
-Post‐expand include size: 55855/2097152 bytes
-Template argument size: 42176/2097152 bytes
-Highest expansion depth: 17/100
+CPU time usage: 0.091 seconds
+Real time usage: 0.103 seconds
+Preprocessor visited node count: 5633/1000000
+Post‐expand include size: 127875/2097152 bytes
+Template argument size: 101946/2097152 bytes
+Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 9572/5000000 bytes
+Unstrip post‐expand size: 12375/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-110.62%  114.047      4 Template:Navbox
-100.00%  103.100      1 -total
- 60.32%   62.190      1 Template:CIX
- 31.16%   32.127     12 Template:List
- 26.96%   27.795     13 Template:Element_List
- 21.43%   22.098      1 Template:Infobox_album
-  4.89%    5.046      1 Template:List2
-  2.39%    2.467      1 Template:Tnavbar
-  2.34%    2.409      1 Template:Stub
-  2.08%    2.148      1 Template:Col-begin
+111.26%   86.679      8 Template:Navbox
+100.00%   77.908      1 -total
+ 55.19%   43.001      1 Template:SF9
+ 53.01%   41.301      1 Template:Navbox_with_collapsible_groups
+ 27.40%   21.346      1 Template:Infobox_album
+ 20.64%   16.079     14 Template:List
+ 17.08%   13.303     15 Template:Element_List
+  3.59%    2.798      1 Template:List2
+  2.48%    1.932      1 Template:Tnavbar
+  2.07%    1.611      5 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:81609-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312211119 and revision id 703121. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:106877-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312113744 and revision id 875300. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2557,20 +2636,20 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="EPs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:EPs" title="Category:EPs">EPs</a></span>
+<li class="category normal" data-name="Mini albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Mini_albums" title="Category:Mini albums">Mini albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="CIX" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:CIX" title="Category:CIX">CIX</a></span>
+<li class="category normal" data-name="SF9" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:SF9" title="Category:SF9">SF9</a></span>
 <span class="tool removeCategory"></span>
 </li>
 <li class="category normal" data-name="2021 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
 <span class="name"><a href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 EPs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_EPs" title="Category:2021 EPs">2021 EPs</a></span>
+<li class="category normal" data-name="2021 mini albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2021_mini_albums" title="Category:2021 mini albums">2021 mini albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2756,7 +2835,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8lMjdIZWxsbyUyN19DaGFwdGVyXyVDMyU5OC5fSGVsbG8sX1N0cmFuZ2VfRHJlYW0/dGl0bGU9JTI3SGVsbG8lMjdfQ2hhcHRlcl8lQzMlOTguX0hlbGxvJTJDX1N0cmFuZ2VfRHJlYW0mbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9SdW1pbmF0aW9uP3RpdGxlPVJ1bWluYXRpb24mbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>J-Min (BAE173) | Kpop Wiki | Fandom</title>
+<title>Apink BnN | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-J-Min_BAE173 rootpage-J-Min_BAE173 skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Apink_BnN rootpage-Apink_BnN skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,035</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,31 +2353,32 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1999_births" title="Category:1999 births">1999 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:October_births" title="Category:October births">October births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Group_article_stubs" title="Category:Group article stubs">Group article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Female_subunits" title="Category:Female subunits">Female subunits</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2014_debuts" title="Category:2014 debuts">2014 debuts</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">9 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">3 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_rappers" title="Category:Male rappers">Male rappers</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Apink" title="Category:Apink">Apink</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:IST_Entertainment" title="Category:IST Entertainment">IST Entertainment</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Male_lyricists" title="Category:Male lyricists">Male lyricists</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:PocketDol_Studio" title="Category:PocketDol Studio">PocketDol Studio</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Project_7" title="Category:Project 7">Project 7</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:BAE173" title="Category:BAE173">BAE173</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-9" href="/wiki/Category:A_SIX" title="Category:A SIX">A SIX</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-10" href="/wiki/Category:CLOSE_YOUR_EYES" title="Category:CLOSE YOUR EYES">CLOSE YOUR EYES</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-11" href="/wiki/Category:J-Min_(BAE173)" title="Category:J-Min (BAE173)">J-Min (BAE173)</a> </li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Apink_BnN" title="Category:Apink BnN">Apink BnN</a> </li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="lang-es" href="https://kpop.fandom.com/es/wiki/Apink_BnN">Español</a>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2385,10 +2386,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">J-Min (BAE173)</span> </h1>
+<span class="mw-page-title-main">Apink BnN</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2396,15 +2397,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/J-Min_(BAE173)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Apink_BnN?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/J-Min_(BAE173)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Apink_BnN?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:J-Min_(BAE173)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Apink_BnN?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2427,256 +2428,143 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><dl><dd><span><i>For other people known as 'J-Min' or 'Min Wook', see <a class="mw-disambig" href="/wiki/J-Min" title="J-Min">J-Min</a> and <a class="mw-disambig" href="/wiki/Minwook" title="Minwook">Minwook</a>.</i></span></dd></dl>
-<p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">J-Min</h2>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-artist pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Apink BnN</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/3/34/CLOSE_YOUR_EYES_Jeon_Min_Wook_Eternalt_concept_photo_4.png/revision/latest?cb=20250310113321" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="CLOSE_YOUR_EYES_Jeon_Min_Wook_Eternalt_concept_photo_4.png" data-image-name="CLOSE YOUR EYES Jeon Min Wook Eternalt concept photo 4.png" data-relevant="1" height="405" src="https://static.wikia.nocookie.net/kpop/images/3/34/CLOSE_YOUR_EYES_Jeon_Min_Wook_Eternalt_concept_photo_4.png/revision/latest/scale-to-width-down/267?cb=20250310113321" srcset="https://static.wikia.nocookie.net/kpop/images/3/34/CLOSE_YOUR_EYES_Jeon_Min_Wook_Eternalt_concept_photo_4.png/revision/latest/scale-to-width-down/267?cb=20250310113321 1x, https://static.wikia.nocookie.net/kpop/images/3/34/CLOSE_YOUR_EYES_Jeon_Min_Wook_Eternalt_concept_photo_4.png/revision/latest/scale-to-width-down/535?cb=20250310113321 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/0b/Apink_BnN_official_logo.png/revision/latest?cb=20220619171245" title="">
+<img alt="" class="pi-image-thumbnail" data-image-key="Apink_BnN_official_logo.png" data-image-name="Apink BnN official logo.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/0/0b/Apink_BnN_official_logo.png/revision/latest/scale-to-width-down/268?cb=20220619171245" srcset="https://static.wikia.nocookie.net/kpop/images/0/0b/Apink_BnN_official_logo.png/revision/latest/scale-to-width-down/268?cb=20220619171245 1x, https://static.wikia.nocookie.net/kpop/images/0/0b/Apink_BnN_official_logo.png/revision/latest/scale-to-width-down/536?cb=20220619171245 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Concept photo for <a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></figcaption>
+<figcaption class="pi-item-spacing pi-caption">Official logo</figcaption>
 </figure>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Jeon Min-wook (전민욱)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">October 16, 1999<span style="display:none"> (<span class="bday">1999-10-16</span>)</span><span class="noprint"> (age 25)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
-<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">Gwonseon-gu, Suwon, Gyeonggi-do, South Korea</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
-<h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">182 cm (6 ft 0 in)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
-<h3 class="pi-data-label pi-secondary-font">Weight</h3>
-<div class="pi-data-value pi-font">62 kg (137 lb)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
-<h3 class="pi-data-label pi-secondary-font">Blood type</h3>
-<div class="pi-data-value pi-font">AB</div>
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Names</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
+<h3 class="pi-data-label pi-secondary-font">Also as</h3>
+<div class="pi-data-value pi-font">Pink BnN</div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Rapper, singer, lyricist</div>
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="origin">
+<h3 class="pi-data-label pi-secondary-font">Origin</h3>
+<div class="pi-data-value pi-font">Seoul, South Korea</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
-<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">November 19, 2020 <span style="font-size:85%;">(BAE173)</span><br/>January 30, 2024 <span style="font-size:85%;">(A SIX)</span><br/>April 2, 2025 <span style="font-size:85%;">(CLOSE YOUR EYES)</span></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genres">
+<h3 class="pi-data-label pi-secondary-font">Genre(s)</h3>
+<div class="pi-data-value pi-font">Ballad</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="debut">
+<h3 class="pi-data-label pi-secondary-font">Debut</h3>
+<div class="pi-data-value pi-font">June 27, 2014</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
 <h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2019–present</div>
+<div class="pi-data-value pi-font">2014–present</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/PocketDol_Studio" title="PocketDol Studio">PocketDol Studio</a> <span style="font-size:85%;">(2020–present)</span><br/><a href="/wiki/UNCORE" title="UNCORE">UNCORE</a> <span style="font-size:85%;">(CLOSE YOUR EYES; 2024–present)</span><br/><a href="/wiki/RBW" title="RBW">RBW</a> <span style="font-size:85%;">(2019–2020)</span><br/><a href="/wiki/Good_Luck_Entertainment" title="Good Luck Entertainment">Good Luck Entertainment</a> <span style="font-size:85%;">(former)</span></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
+<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
 <h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/BAE173" title="BAE173">BAE173</a><br/><a href="/wiki/A_SIX" title="A SIX">A SIX</a><br/><a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a><br/><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i></div>
+<div class="pi-data-value pi-font"><a href="/wiki/Apink" title="Apink">Apink</a></div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.instagram.com/jeonminwxxk/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>  <span typeof="mw:File"><a href="https://soundcloud.com/bae173j-min" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="SoundCloud_Icon.png" data-image-name="SoundCloud Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/9/9a/SoundCloud_Icon.png/revision/latest?cb=20190817031414" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://closeyoureyes.fandom.com/wiki/Jeon_Min_Wook" title="w:c:closeyoureyes:Jeon Min Wook">CLOSE YOUR EYES Wiki</a></p></td>
-</tr>
-</tbody>
-</table>
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Members</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="current">
+<h3 class="pi-data-label pi-secondary-font">Current</h3>
+<div class="pi-data-value pi-font"><ul><li><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a></li><li><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a></li></ul></div>
+</div>
 </section>
 </aside>
-<b>J-Min</b> (제이민), also known as <b>Jeon Min Wook</b> (전민욱), is a South Korean singer, rapper and lyricist under <a href="/wiki/PocketDol_Studio" title="PocketDol Studio">PocketDol Studio</a>. He is a member of the boy group <a href="/wiki/BAE173" title="BAE173">BAE173</a>, the collaborative project group <a href="/wiki/A_SIX" title="A SIX">A SIX</a>, and project boy group <a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a>.
-</p><p>He is also known for being a contestant on the survival show <i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i>.
+<b>Apink BnN</b>, also known as <b>Pink BnN</b>, is the first subunit of the girl group <a href="/wiki/Apink" title="Apink">Apink</a>. They debuted on June 27, 2014 with the digital single "<a href="/wiki/My_Darling_(Apink_BnN)" title="My Darling (Apink BnN)">My Darling</a>".
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Members"><span class="tocnumber">1</span> <span class="toctext">Members</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Pre-debut"><span class="tocnumber">1.1</span> <span class="toctext">Pre-debut</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#2020:_Debut_with_BAE173"><span class="tocnumber">1.2</span> <span class="toctext">2020: Debut with BAE173</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#2024-2025:_Debut_with_A_SIX,_Project_7,_debut_with_CLOSE_YOUR_EYES"><span class="tocnumber">1.3</span> <span class="toctext">2024-2025: Debut with A SIX, <i>Project 7</i>, debut with CLOSE YOUR EYES</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Digital_singles"><span class="tocnumber">2.1</span> <span class="toctext">Digital singles</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#OSTs"><span class="tocnumber">2.2</span> <span class="toctext">OSTs</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Participation_releases"><span class="tocnumber">2.3</span> <span class="toctext">Participation releases</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-5"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#OSTs"><span class="tocnumber">2.1</span> <span class="toctext">OSTs</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Participation_releases"><span class="tocnumber">2.2</span> <span class="toctext">Participation releases</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-8"><a href="#Producing_and_writing_credits"><span class="tocnumber">3</span> <span class="toctext">Producing and writing credits</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#Filmography"><span class="tocnumber">4</span> <span class="toctext">Filmography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-10"><a href="#Web_dramas"><span class="tocnumber">4.1</span> <span class="toctext">Web dramas</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#Survival_shows"><span class="tocnumber">4.2</span> <span class="toctext">Survival shows</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-12"><a href="#Endorsements"><span class="tocnumber">5</span> <span class="toctext">Endorsements</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="#Official_links"><span class="tocnumber">9</span> <span class="toctext">Official links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Pre-debut">Pre-debut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On January 23, 2019, he passed the final audition for <a href="/wiki/RBW" title="RBW">RBW</a> but eventually left the agency.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span class="mw-headline" id="2020:_Debut_with_BAE173">2020: Debut with BAE173</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On September 16, 2020, J-Min was introduced as the sixth member of the pre-debut group <a href="/wiki/BAE173" title="BAE173">POCKETDOLZ</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> On September 25, it was revealed that the group's name will be BAE173. The group officially debuted on November 19 with their first mini album <i><a href="/wiki/Intersection_:_Spark" title="Intersection : Spark">Intersection : Spark</a></i>.
-</p>
-<h3><span id="2024-2025:_Debut_with_A_SIX.2C_Project_7.2C_debut_with_CLOSE_YOUR_EYES"></span><span class="mw-headline" id="2024-2025:_Debut_with_A_SIX,_Project_7,_debut_with_CLOSE_YOUR_EYES">2024-2025: Debut with A SIX, <i>Project 7</i>, debut with CLOSE YOUR EYES</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On January 14, 2024, it was reported that a collaboration between select members of <a href="/wiki/PocketDol_Studio" title="PocketDol Studio">PocketDol Studio</a> groups, including J-Min, would be released.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> They made their debut as <a href="/wiki/A_SIX" title="A SIX">A SIX</a> on January 30 with the digital single "<a href="/wiki/Lies_All_Love" title="Lies All Love">Lies All Love</a>".<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
-</p><p>On September 26, 2024, he was officially introduced as a contestant of <i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> During the show's finale, he was revealed to have ranked 3rd overall, thus making him a member of <a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a>.
-</p><p>The group will debut on April 2, 2025 with the mini album <i><a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></i>.
-</p>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="OSTs">OSTs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Love_Class_2_OST" title="Love Class 2 OST">Love Class 2 OST</a></i> <span style="font-size:85%;">("Light")</span> (2023)</li></ul>
-<h3><span class="mw-headline" id="Participation_releases">Participation releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Run_(Up_To_You)" title="Run (Up To You)">Run (Up To You)</a>" <span style="font-size:85%;">(with contestants of Project 7)</span> (2024)</li>
-<li><i><a href="/wiki/Project_7_%E2%80%93_Originals_Match" title="Project 7 – Originals Match">Project 7 – Originals Match</a></i> <span style="font-size:85%;">("Trigger" as part of Right Up Your Alley)</span> (2024)</li>
-<li><i><a href="/wiki/Project_7_%E2%80%93_Final" title="Project 7 – Final">Project 7 – Final</a></i> <span style="font-size:85%;">("Psycho", "Everywhere" with finalists of Project 7)</span> (2024)</li></ul>
-<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li></ul>
-<table class="wikitable" style="text-align:center;">
+<h2><span class="mw-headline" id="Members">Members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
 <tbody><tr>
-<th align="center">Artist
+<th>Name
 </th>
-<th align="center">Song
+<th>Position(s)
 </th>
-<th align="center">Album
-</th>
-<th align="center">Type
+<th>Year(s) active
 </th></tr>
 <tr>
-<th colspan="4" style="text-align:center;">2021
-</th></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/BAE173" title="BAE173">BAE173</a>
+<td><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a> (보미)
 </td>
-<td>"#Trace"
+<td>Rapper, Vocalist
 </td>
-<td rowspan="2"><i><a href="/wiki/Intersection_:_Trace" title="Intersection : Trace">Intersection : Trace</a></i>
-</td>
-<td rowspan="2">Writing
+<td>2014–present
 </td></tr>
 <tr>
-<td>"Green Light"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2024
-</th></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/BAE173" title="BAE173">BAE173</a>
+<td><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a> (남주)
 </td>
-<td>"Fifty-Fifty"
+<td>Rapper, Vocalist
 </td>
-<td rowspan="2"><i><a href="/wiki/New_Chapter_:_Luceat" title="New Chapter : Luceat">New Chapter : Luceat</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"You"
-</td>
-<td>Writing<br/>Composing
+<td>2014–present
 </td></tr></tbody></table>
-<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Web_dramas">Web dramas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>Love Class 2</i> (2023)</li></ul>
-<h3><span class="mw-headline" id="Survival_shows">Survival shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i> (JTBC, 2024) - contestant</li></ul>
-<h2><span class="mw-headline" id="Endorsements">Endorsements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Lullua <small>(with <a href="/wiki/Hangyul_(BAE173)" title="Hangyul (BAE173)">Hangyul</a>, <a href="/wiki/CLASS:y" title="CLASS:y">CLASS:y</a>'s <a href="/wiki/Boeun_(CLASS:y)" title="Boeun (CLASS:y)">Boeun</a>, and <a href="/wiki/FANTASY_BOYS_(group)" title="FANTASY BOYS (group)">FANTASY BOYS</a>'s <a href="/wiki/Hong_Sung_Min" title="Hong Sung Min">Hong Sung Min</a> and <a href="/wiki/Kim_Gyu_Rae" title="Kim Gyu Rae">Kim Gyu Rae</a>)</small> (2024)<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>He likes writing lyrics and composing.<sup class="reference" id="cite_ref-profile_8-0"><a href="#cite_note-profile-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup></li>
-<li>His MBTI personality type is INTP.<sup class="reference" id="cite_ref-profile_8-1"><a href="#cite_note-profile-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dd><i>Main article: <a href="/wiki/J-Min_(BAE173)/Gallery" title="J-Min (BAE173)/Gallery">J-Min (BAE173)/Gallery</a></i></dd></dl>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
-<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.modernm.co.kr/news/info/view/20294" rel="nofollow noreferrer noopener" target="_blank">Modern K Music Academy: 2018 A.STAGE 합격자 명단(2019년 1월 23일 기준)</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/PocketDolStudio/status/1306141578184982528?s=20" rel="nofollow noreferrer noopener" target="_blank">@PocketDolStudio on Twitter: September 16, 2020 tweet</a></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://n.news.naver.com/entertain/article/057/0001793003" rel="nofollow noreferrer noopener" target="_blank">(KR) MBN: 조영수 작곡가·김광수 대표, SG워너비·씨야·다비치 이후 13년 만에 협업</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.allkpop.com/article/2024/01/bae173-classy-and-fantasy-boys-come-together-for-a-special-single-love-is-all-lies" rel="nofollow noreferrer noopener" target="_blank">Allkpop: BAE173, CLASS:y, and FANTASY BOYS come together for a special single 'Love is All Lies'</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://x.com/PROJECT7_2024/status/1839229516578959789" rel="nofollow noreferrer noopener" target="_blank">@PROJECT7_2024 on Twitter (September 26, 2024)</a></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10041823 under Writers &amp; Publishers)</a></span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://m.entertain.naver.com/article/241/0003359905" rel="nofollow noreferrer noopener" target="_blank">(KR) Naver: BAE173·클라씨·판타지 보이즈, 룰루아 화보 공개…싱그러운 청춘 비주얼</a></span>
-</li>
-<li id="cite_note-profile-8"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-profile_8-0">8.0</a></sup> <sup><a href="#cite_ref-profile_8-1">8.1</a></sup></span> <span class="reference-text"><a class="external text" href="https://project7.kr/jeonminwook" rel="nofollow noreferrer noopener" target="_blank"><i>Project 7</i> profile</a></span>
-</li>
-</ol></div></div>
-</div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJ-Min_%28BAE173%29%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.instagram.com/jeonminwxxk/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
-<li><a class="external text" href="https://soundcloud.com/bae173j-min" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/J-Min_(BAE173)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#1468C2; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#1468C2; color:#FFF;;border:none;;"><a href="/wiki/Template:BAE173" title="Template:BAE173"><span style=";background:#1468C2; color:#FFF;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BAE173?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#1468C2; color:#FFF;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/BAE173" title="BAE173">BAE173</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><strong class="mw-selflink selflink">J-Min</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hangyul_(BAE173)" title="Hangyul (BAE173)">Hangyul</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoojun_(BAE173)" title="Yoojun (BAE173)">Yoojun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Muzin" title="Muzin">Muzin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Junseo_(BAE173)" title="Junseo (BAE173)">Junseo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Youngseo_(BAE173)" title="Youngseo (BAE173)">Youngseo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Doha_(BAE173)" title="Doha (BAE173)">Doha</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bit_(BAE173)" title="Bit (BAE173)">Bit</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Toni_rei" title="Toni rei">Dohyon</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Intersection_:_Spark" title="Intersection : Spark">Intersection : Spark</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Intersection_:_Trace" title="Intersection : Trace">Intersection : Trace</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Intersection_:_Blaze" title="Intersection : Blaze">Intersection : Blaze</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Odyssey_:_Dash" title="Odyssey : Dash">Odyssey : Dash</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/New_Chapter_:_Luceat" title="New Chapter : Luceat">New Chapter : Luceat</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Every_Little_Thing_Is_You" title="Every Little Thing Is You">Every Little Thing Is You</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/PocketDol_Studio" title="PocketDol Studio">PocketDol Studio</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/A_SIX" title="A SIX">A SIX</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Double_0ne" title="Double 0ne">Double 0ne</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://pocketdol.co.kr/artist/BAE173" rel="nofollow noreferrer noopener" target="_blank">Webpage</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://cafe.daum.net/BAE173" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BAE173.official/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official__bae173/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official__bae173" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://x.com/BAE173_official" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://x.com/BAE173_member" rel="nofollow noreferrer noopener" target="_blank">Members</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@OFFICIAL_BAE173" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#007AB9; color:#FEFDA0;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#007AB9; color:#FEFDA0;;border:none;;"><a href="/wiki/Template:CLOSE_YOUR_EYES" title="Template:CLOSE YOUR EYES"><span style=";background:#007AB9; color:#FEFDA0;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:CLOSE_YOUR_EYES?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#007AB9; color:#FEFDA0;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><strong class="mw-selflink selflink">Jeon Min Wook</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ma_Jing_Xiang" title="Ma Jing Xiang">Ma Jing Xiang</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jang_Yeo_Jun" title="Jang Yeo Jun">Jang Yeo Jun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Sung_Min_(CLOSE_YOUR_EYES)" title="Kim Sung Min (CLOSE YOUR EYES)">Kim Sung Min</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Song_Seung_Ho" title="Song Seung Ho">Song Seung Ho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kenshin" title="Kenshin">Kenshin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seo_Kyoung_Bae" title="Seo Kyoung Bae">Seo Kyoung Bae</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/UNCORE" title="UNCORE">UNCORE</a></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/close.your.eyes.official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@closeyoureyes_official/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://x.com/closeyoureyes_7/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://x.com/CYE_MEMBERS7" rel="nofollow noreferrer noopener" target="_blank">Members</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@close.your.eyes.official/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"<a href="/wiki/My_Darling_(Apink_BnN)" title="My Darling (Apink BnN)">My Darling</a>" (2014)</li></ul>
+<h3><span class="mw-headline" id="OSTs">OSTs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"<a href="/wiki/School_2017_OST" title="School 2017 OST">School 2017 Part.6</a>" <span style="font-size:85%;">(" I Pray 4 You")</span> (2017)</li>
+<li>"Matrimonial Chaos OST Part.5" (2018)</li>
+<li>"I Hate You! Juliet OST Part.1" (2019)</li></ul>
+<h3><span class="mw-headline" id="Participation_releases">Participation releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FApink_BnN%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Various Artists - "Two Yoo Project Sugar Man Part.1" <span style="font-size:85%;">("잊었니")</span> (2015)</li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Apink_BnN?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#4368a9; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#4368a9; color:#FFF;;border:none;;"><a href="/wiki/Template:Apink_BnN" title="Template:Apink BnN"><span style=";background:#4368a9; color:#FFF;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Apink_BnN?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#4368a9; color:#FFF;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<strong class="mw-selflink selflink">Apink BnN</strong></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/My_Darling_(Apink_BnN)" title="My Darling (Apink BnN)">My Darling</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">OSTs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/School_2017_OST" title="School 2017 OST">School 2017 Part.6</a>"</span>  •  <span style="white-space:nowrap">"Matrimonial Chaos OST Part.5"</span>  •  <span style="white-space:nowrap">"I Hate You! Juliet OST Part.1"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Apink" title="Apink">Apink</a></span>  •  <span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/CHOBOM" title="CHOBOM">CHOBOM</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links<br/><small>(Apink)</small></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://play-m.co.kr/apink" rel="nofollow noreferrer noopener" target="_blank">Webpage</a> <small>(<a class="external text" href="https://apink-japan.com/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/apink/" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/Official.Apink2011/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official.apink2011/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://tv.kakao.com/channel/2846591" rel="nofollow noreferrer noopener" target="_blank">Kakao TV</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official_apink2011" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/Apink_2011" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/Apink_2011_JP" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://weibo.com/ApinkOfficial/" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/apink/artist" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/acubeent/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#F2A5C7; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:Apink" title="Template:Apink"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Apink?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/Apink" title="Apink">Apink</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Chorong_(Apink)" title="Chorong (Apink)">Chorong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Eunji_(Apink)" title="Eunji (Apink)">Eunji</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hayoung_(Apink)" title="Hayoung (Apink)">Hayoung</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Son_Na_Eun" title="Son Na Eun">Naeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yookyung_(Apink)" title="Yookyung (Apink)">Yookyung</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Une_Ann%C3%A9e" title="Une Année">Une Année</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Memory" title="Pink Memory">Pink Memory</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Revolution" title="Pink Revolution">Pink Revolution</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Seven_Springs_of_Apink" title="Seven Springs of Apink">Seven Springs of Apink</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Snow_Pink" title="Snow Pink">Snow Pink</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Secret_Garden_(Apink)" title="Secret Garden (Apink)">Secret Garden</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Blossom" title="Pink Blossom">Pink Blossom</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_LUV" title="Pink LUV">Pink LUV</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Up" title="Pink Up">Pink Up</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/One_%26_Six" title="One &amp; Six">One &amp; Six</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Percent" title="Percent">Percent</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Look_(Apink)" title="Look (Apink)">Look</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Self" title="Self">Self</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Special albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Dear_(Apink)" title="Dear (Apink)">Dear</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Horn" title="Horn">Horn</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Special singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Miracle_(Apink)" title="Miracle (Apink)">Miracle</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Pink_Christmas" title="Pink Christmas">Pink Christmas</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/It_Girl" title="It Girl">It Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/April_19" title="April 19">April 19</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bubibu" title="Bubibu">Bubibu</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Good_Morning_Baby" title="Good Morning Baby">Good Morning Baby</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Promise_U" title="Promise U">Promise U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Wave_(Apink)" title="The Wave (Apink)">The Wave</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Always_(Apink)" title="Always (Apink)">Always</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Everybody_Ready%3F_(Apink)" title="Everybody Ready? (Apink)">Everybody Ready?</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Thank_You_(Apink)" title="Thank You (Apink)">Thank You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/I_Want_You_To_Be_Happy" title="I Want You To Be Happy">I Want You To Be Happy</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wait_Me_There" title="Wait Me There">Wait Me There</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Christmas_Song_(Cube_Artists)" title="Christmas Song (Cube Artists)">Christmas Song</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Plan_A_Third_Episode" title="Plan A Third Episode">Plan A Third Episode</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"Protect the Boss OST Part.1"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Pink_Season" title="Pink Season">Pink Season</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Doll" title="Pink Doll">Pink Doll</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Pink_Stories" title="Pink Stories">Pink Stories</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2011-2014_Best_of_Apink_~Korean_Ver.~" title="2011-2014 Best of Apink ~Korean Ver.~">2011-2014 Best of Apink ~Korean Ver.~</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Apink_Single_Collection" title="Apink Single Collection">Apink Single Collection</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/NoNoNo" title="NoNoNo">NoNoNo</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mr._Chu_(On_Stage)_-Japanese_Ver.-" title="Mr. Chu (On Stage) -Japanese Ver.-">Mr. Chu (On Stage) -Japanese Ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/LUV_-Japanese_Ver.-" title="LUV -Japanese Ver.-">LUV -Japanese Ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sunday_Monday_-Japanese_Ver.-" title="Sunday Monday -Japanese Ver.-">Sunday Monday -Japanese Ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Brand_New_Days_(Apink)" title="Brand New Days (Apink)">Brand New Days</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Summer_Time_(Apink)" title="Summer Time (Apink)">Summer Time</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bye_Bye" title="Bye Bye">Bye Bye</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Motto_Go!Go!" title="Motto Go!Go!">Motto Go!Go!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Orion" title="Orion">Orion</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Apink BnN</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Apink_JooJiRong" title="Apink JooJiRong">Apink JooJiRong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Apink_YOS" title="Apink YOS">Apink YOS</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Apink_CHOBOM" title="Apink CHOBOM">Apink CHOBOM</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://play-m.co.kr/apink" rel="nofollow noreferrer noopener" target="_blank">Webpage</a> <small>(<a class="external text" href="https://apink-japan.com/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/apink/" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/Official.Apink2011/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official.apink2011/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://tv.kakao.com/channel/2846591" rel="nofollow noreferrer noopener" target="_blank">Kakao TV</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official_apink2011" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/Apink_2011" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/Apink_2011_JP" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://weibo.com/ApinkOfficial/" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/apink/artist" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/acubeent/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#ff1f5d; color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#ff1f5d; color:#ffffff;;border:none;;"><a href="/wiki/Template:IST_Entertainment" title="Template:IST Entertainment"><span style=";background:#ff1f5d; color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:IST_Entertainment?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#ff1f5d; color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:65px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Apink" title="Apink">Apink</a> <small>(<strong class="mw-selflink selflink">Apink BnN</strong> • <a href="/wiki/Apink_JooJiRong" title="Apink JooJiRong">Apink JooJiRong</a> • <a href="/wiki/Apink_YOS" title="Apink YOS">Apink YOS</a> • <a href="/wiki/Apink_CHOBOM" title="Apink CHOBOM">Apink CHOBOM</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/VICTON" title="VICTON">VICTON</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/ATBO" title="ATBO">ATBO</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Eunji_(Apink)" title="Eunji (Apink)">Jeong Eun Ji</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Huening_Bahiyyih" title="Huening Bahiyyih">Huening Bahiyyih</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/00d00m00y" title="00d00m00y">00d00m00y</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ki_Hyeong_Jun" title="Ki Hyeong Jun">Ki Hyeongjun</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:65px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Bandage" title="Bandage">Bandage</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/The_CrewOne" title="The CrewOne">The CrewOne</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Weeekly" title="Weeekly">Weeekly</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Artists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Yookyung_(Apink)" title="Yookyung (Apink)">Yookyung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Son_Na_Eun" title="Son Na Eun">Naeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Jimin" title="Lim Jimin">Lim Jimin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Huh_Gak" title="Huh Gak">Huh Gak</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Swan_(singer)" title="Swan (singer)">Shin Jiyoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Do_Han_Se" title="Do Han Se">Do Han Se</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chorong_(Apink)" title="Chorong (Apink)">Chorong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hayoung_(Apink)" title="Hayoung (Apink)">Hayoung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Han_Seung_Woo" title="Han Seung Woo">Han Seung Woo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kang_Seung_Sik" title="Kang Seung Sik">Kang Seung Sik</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Se_Jun" title="Lim Se Jun">Lim Se Jun</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Sumin_(STAYC)" title="Sumin (STAYC)">Bae Sumin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seeun_(STAYC)" title="Seeun (STAYC)">Yoon Seeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/PlayM_BOYS" title="PlayM BOYS">PlayM BOYS</a> <small>(<a href="/wiki/Jung_Jin_Sung" title="Jung Jin Sung">Jung Jin Sung</a> • <a href="/wiki/ONLEE" title="ONLEE">Lee Seung Hwan</a> • <a href="/wiki/DY" title="DY">Jeon Do Yum</a> • <a href="/wiki/Bain" title="Bain">Song Byeong Hee</a>)</small></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvSmVvbmdfSnVuaG8/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Jeong Junho (page does not exist)">Jeong Junho</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Minseo_(B.D.U)" title="Kim Minseo (B.D.U)">Kim Minseo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Choi_Jinwook" title="Choi Jinwook">Choi Jinwook</a></span>  •  <span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/Kang_Daehyun" title="Kang Daehyun">Kang Daehyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yang_Dong_Hwa" title="Yang Dong Hwa">Yang Dong Hwa</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Park_Jaehoon" title="Park Jaehoon">Park Jaehoon</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Beyond_Music" title="Beyond Music">Beyond Music</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://istent.co.kr/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/ist.ent.official/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/ist_entertainment/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/ist_ent/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCcv_9TDIGsRjVWVtHU5GCGg" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312103430
+Cached time: 20250312174123
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.206 seconds
-Real time usage: 0.233 seconds
-Preprocessor visited node count: 4228/1000000
-Post‐expand include size: 49439/2097152 bytes
-Template argument size: 24383/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.309 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 11931/1000000
+Post‐expand include size: 200126/2097152 bytes
+Template argument size: 129654/2097152 bytes
+Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 4385/5000000 bytes
-Lua time usage: 0.021/7.000 seconds
-Lua memory usage: 1726743/52428800 bytes
+Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  192.318      1 -total
- 71.13%  136.795      1 Template:Infobox_person
- 22.15%   42.590      2 Template:Cvt
- 21.05%   40.478      1 Template:Related_Wikis
- 18.44%   35.465      4 Template:Navbox
- 13.11%   25.213      1 Template:BAE173
-  7.27%   13.985      9 Template:List
-  5.70%   10.965     10 Template:Element_List
-  4.77%    9.164      1 Template:CLOSE_YOUR_EYES
-  4.53%    8.718      1 Template:Reflist
+100.00%  268.780      1 -total
+ 97.44%  261.890     12 Template:Navbox
+ 40.04%  107.617      1 Template:Infobox_musical_artist
+ 35.83%   96.303      1 Template:Apink
+ 35.08%   94.300      1 Template:Navbox_with_collapsible_groups
+ 31.98%   85.965     27 Template:Element_List
+ 30.07%   80.809      1 Template:Related_Wikis
+ 20.98%   56.393     26 Template:List
+ 15.52%   41.702      1 Template:List2
+ 13.22%   35.544      1 Template:Apink_BnN
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:72442-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312103430 and revision id 1184397. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:59763-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312174123 and revision id 938583. Rendering was triggered because: unknown
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2688,57 +2576,40 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="1999 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:1999_births" title="Category:1999 births">1999 births</a></span>
+<li class="category normal" data-name="Group article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Group_article_stubs" title="Category:Group article stubs">Group article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="October births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:October_births" title="Category:October births">October births</a></span>
+<li class="category normal" data-name="Female subunits" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Female_subunits" title="Category:Female subunits">Female subunits</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<li class="category normal" data-name="2014 debuts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2014_debuts" title="Category:2014 debuts">2014 debuts</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male rappers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_rappers" title="Category:Male rappers">Male rappers</a></span>
+<li class="category normal" data-name="Apink" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Apink" title="Category:Apink">Apink</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a></span>
+<li class="category normal" data-name="IST Entertainment" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:IST_Entertainment" title="Category:IST Entertainment">IST Entertainment</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male lyricists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_lyricists" title="Category:Male lyricists">Male lyricists</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="PocketDol Studio" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:PocketDol_Studio" title="Category:PocketDol Studio">PocketDol Studio</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Project 7" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Project_7" title="Category:Project 7">Project 7</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="BAE173" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:BAE173" title="Category:BAE173">BAE173</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="A SIX" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:A_SIX" title="Category:A SIX">A SIX</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="CLOSE YOUR EYES" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:CLOSE_YOUR_EYES" title="Category:CLOSE YOUR EYES">CLOSE YOUR EYES</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="J-Min (BAE173)" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:J-Min_(BAE173)" title="Category:J-Min (BAE173)">J-Min (BAE173)</a></span>
+<li class="category normal" data-name="Apink BnN" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Apink_BnN" title="Category:Apink BnN">Apink BnN</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-es" href="https://kpop.fandom.com/es/wiki/Apink_BnN">Español</a>
 </div>
 </div>
 <div class="license-description">
@@ -2919,7 +2790,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9KLU1pbl8oQkFFMTczKT90aXRsZT1KLU1pbl8lMjhCQUUxNzMlMjkmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9BcGlua19Cbk4/dGl0bGU9QXBpbmtfQm5OJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
 					View Mobile Site				</a>
 </div>
 </div>

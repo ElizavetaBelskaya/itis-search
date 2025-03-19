@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Bumzu | Kpop Wiki | Fandom</title>
+<title>2023 Hyolyn Show [One Night Only] | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Bumzu rootpage-Bumzu skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2023_Hyolyn_Show_One_Night_Only rootpage-2023_Hyolyn_Show_One_Night_Only skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,17 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:November_births" title="Category:November births">November births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Concert_article_stubs" title="Category:Concert article stubs">Concert article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:2023_concerts" title="Category:2023 concerts">2023 concerts</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Hyolyn" title="Category:Hyolyn">Hyolyn</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">3 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Solo_concerts" title="Category:Solo concerts">Solo concerts</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2011_debuts" title="Category:2011 debuts">2011 debuts</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2023_solo_concerts" title="Category:2023 solo concerts">2023 solo concerts</a> </li>
 </ul>
 </div>
 </div>
@@ -2373,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Bumzu</span> </h1>
+					2023 Hyolyn Show [One Night Only]				</h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2384,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Bumzu?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/2023_Hyolyn_Show_%27One_Night_Only%27?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Bumzu?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/2023_Hyolyn_Show_%27One_Night_Only%27?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Bumzu?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:2023_Hyolyn_Show_%27One_Night_Only%27?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2416,1716 +2414,286 @@
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Bumzu</h2>
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/d/d4/Bumzu_2021_New_Year%27s_Eve_Live_promo_photo.png/revision/latest?cb=20201228021056" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="Bumzu_2021_New_Year%27s_Eve_Live_promo_photo.png" data-image-name="Bumzu 2021 New Year's Eve Live promo photo.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/d/d4/Bumzu_2021_New_Year%27s_Eve_Live_promo_photo.png/revision/latest/scale-to-width-down/268?cb=20201228021056" srcset="https://static.wikia.nocookie.net/kpop/images/d/d4/Bumzu_2021_New_Year%27s_Eve_Live_promo_photo.png/revision/latest/scale-to-width-down/268?cb=20201228021056 1x, https://static.wikia.nocookie.net/kpop/images/d/d4/Bumzu_2021_New_Year%27s_Eve_Live_promo_photo.png/revision/latest/scale-to-width-down/536?cb=20201228021056 2x" width="270">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-concert pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">2023 Hyolyn Show [One Night Only]</h2>
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Main
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Alternate #1
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							#2
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/0c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_1.png/revision/latest?cb=20231202135701" title="Main">
+<img alt="Main" class="pi-image-thumbnail" data-image-key="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 1.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 1.png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/0/0c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_1.png/revision/latest/scale-to-width-down/268?cb=20231202135701" srcset="https://static.wikia.nocookie.net/kpop/images/0/0c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_1.png/revision/latest/scale-to-width-down/268?cb=20231202135701 1x, https://static.wikia.nocookie.net/kpop/images/0/0c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_1.png/revision/latest/scale-to-width-down/536?cb=20231202135701 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Promo photo for <a href="/wiki/2021_New_Year%27s_Eve_Live_presented_by_Weverse" title="2021 New Year's Eve Live presented by Weverse">2021 New Year's Eve Live presented by Weverse</a></figcaption>
 </figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/a/ac/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_2.png/revision/latest?cb=20231202135706" title="Alternate #1">
+<img alt="Alternate #1" class="pi-image-thumbnail" data-image-key="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 2.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 2.png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/a/ac/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_2.png/revision/latest/scale-to-width-down/268?cb=20231202135706" srcset="https://static.wikia.nocookie.net/kpop/images/a/ac/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_2.png/revision/latest/scale-to-width-down/268?cb=20231202135706 1x, https://static.wikia.nocookie.net/kpop/images/a/ac/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_2.png/revision/latest/scale-to-width-down/536?cb=20231202135706 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/8/8c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_3.png/revision/latest?cb=20231202140325" title="#2">
+<img alt="#2" class="pi-image-thumbnail" data-image-key="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 3.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' poster 3.png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/8/8c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_3.png/revision/latest/scale-to-width-down/268?cb=20231202140325" srcset="https://static.wikia.nocookie.net/kpop/images/8/8c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_3.png/revision/latest/scale-to-width-down/268?cb=20231202140325 1x, https://static.wikia.nocookie.net/kpop/images/8/8c/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_poster_3.png/revision/latest/scale-to-width-down/535?cb=20231202140325 2x" width="270"/>
+</a>
+</figure>
+</div>
+</div>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
-<h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">Nusoul <small>(former)</small><br/>Kye Bum Zu <small>(former)</small></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Hyolyn" title="Hyolyn">Hyolyn</a></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Kye Bum-joo (계범주)</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+<h3 class="pi-data-label pi-secondary-font">Date(s)</h3>
+<div class="pi-data-value pi-font">December 9, 2023</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">November 8, 1991<span style="display:none"> (<span class="bday">1991-11-08</span>)</span><span class="noprint"> (age 33)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
-<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">Seoul, South Korea</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="shows">
+<h3 class="pi-data-label pi-secondary-font">Shows</h3>
+<div class="pi-data-value pi-font">1</div>
 </div>
 </section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Singer, songwriter, producer</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
-<h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2011–present</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a> <small>(2017–present)</small><br/>PJR Entertainment <small>(2011–2017)</small></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
-<h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font">New Block Babyz</div>
-</div>
+<section class="pi-item pi-group pi-border-color">
+<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Chronology</caption>
+<tbody>
+<tr>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><span class="new" data-uncrawlable-url="L3dpa2kvSHlvbHluXzIwMjJfV29ybGRfVG91cl8lMjdJY2UlMjdfaW5fVGFpcGFpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Hyolyn 2022 World Tour 'Ice' in Taipai (page does not exist)">Hyolyn 2022 World Tour [Ice] in Taipai</span></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><a href="/wiki/2024_Hyolyn_Show_World_Tour_Concert" title="2024 Hyolyn Show World Tour Concert">2024 Hyolyn Show World Tour Concert</a></td>
+</tr>
+</tbody>
+</table>
 </section>
 </aside>
-<b>Bumzu</b> (범주; previously known as <b>Nusoul</b> and <b>Kye Bum Zu</b>) is a South Korean singer-songwriter and producer currently signed under <a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a>. He debuted on June 14, 2011 with the single "Oh My Girl". He also participated in <i><span class="new" data-uncrawlable-url="L3dpa2kvU3VwZXJzdGFyX0s0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Superstar K4 (page does not exist)">Superstar K4</span></i> in 2012, making it to the top 12.
+<b>2023 Hyolyn Show [One Night Only]</b> is the seventh solo concert by <a href="/wiki/Hyolyn" title="Hyolyn">Hyolyn</a>. The concert was held on December 9, 2023 at Shinhan Play Square Live Hall in Seoul, South Korea.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Discography"><span class="tocnumber">1</span> <span class="toctext">Discography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Studio_albums"><span class="tocnumber">1.1</span> <span class="toctext">Studio albums</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Mini_albums"><span class="tocnumber">1.2</span> <span class="toctext">Mini albums</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Singles"><span class="tocnumber">1.3</span> <span class="toctext">Singles</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Digital_singles"><span class="tocnumber">1.4</span> <span class="toctext">Digital singles</span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#Collaborations_and_features"><span class="tocnumber">1.5</span> <span class="toctext">Collaborations and features</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#OSTs"><span class="tocnumber">1.6</span> <span class="toctext">OSTs</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-8"><a href="#Producing_and_writing_credits"><span class="tocnumber">2</span> <span class="toctext">Producing and writing credits</span></a>
-<ul>
-<li class="toclevel-2 tocsection-9"><a href="#2010s"><span class="tocnumber">2.1</span> <span class="toctext">2010s</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#2020s"><span class="tocnumber">2.2</span> <span class="toctext">2020s</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-11"><a href="#Concerts"><span class="tocnumber">3</span> <span class="toctext">Concerts</span></a>
-<ul>
-<li class="toclevel-2 tocsection-12"><a href="#Concert_participations"><span class="tocnumber">3.1</span> <span class="toctext">Concert participations</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-13"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="#Official_links"><span class="tocnumber">6</span> <span class="toctext">Official links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Set_list"><span class="tocnumber">2</span> <span class="toctext">Set list</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Merchandise"><span class="tocnumber">3</span> <span class="toctext">Merchandise</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Video_links"><span class="tocnumber">6</span> <span class="toctext">Video links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Good_Life" title="Good Life">Good Life</a></i> (2015)</li></ul>
-<h3><span class="mw-headline" id="Mini_albums">Mini albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><span class="new" data-uncrawlable-url="L3dpa2kvU29tZXRoaW5nX1NwZWNpYWw/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Something Special (page does not exist)">Something Special</span></i> (2013)</li>
-<li><i><span class="new" data-uncrawlable-url="L3dpa2kvMjRfKEJ1bXp1KT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="24 (Bumzu) (page does not exist)">24</span></i> (2014)</li>
-<li><i><a href="/wiki/27_(Bumzu)" title="27 (Bumzu)">27</a></i> (2017)</li></ul>
-<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<span class="new" data-uncrawlable-url="L3dpa2kvT2hfTXlfR2lybF8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Oh My Girl (Bumzu) (page does not exist)">Oh My Girl</span>" (2011)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvVGlyZWRfb2ZfTG92ZV8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Tired of Love (Bumzu) (page does not exist)">Tired of Love</span>" (2012)</li></ul>
-<h3><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0NlaWxpbmc/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="The Ceiling (page does not exist)">The Ceiling</span>" (2013)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvR2FtZV9PdmVyXyhCdW16dSk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Game Over (Bumzu) (page does not exist)">Game Over</span>" (2014)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvU2FyYV8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Sara (Bumzu) (page does not exist)">Sara</span>" (2015)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvSV9XYW50X1lvdV9CYWNrXyhCdW16dSk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="I Want You Back (Bumzu) (page does not exist)">I Want You Back</span>" (2016)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvT25jZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Once (page does not exist)">Once</span>" (2017)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvSnVzdF8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Just (Bumzu) (page does not exist)">Just</span>" (2017)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvQS5DLkMuRS5MP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="A.C.C.E.L (page does not exist)">A.C.C.E.L</span>" (2017)</li>
-<li>"<a href="/wiki/I_Don%27t_Miss_You_(Bumzu)" title="I Don't Miss You (Bumzu)">I Don't Miss You</a>" (2018)</li></ul>
-<h3><span class="mw-headline" id="Collaborations_and_features">Collaborations and features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Just_Friend" title="Just Friend">Just Friend</a>" <small>(with Ven, Coulson)</small> (2011)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvQ2FuJTI3dF9TdG9wXyhCb21iXyUyNl9CdW16dSk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Can't Stop (Bomb &amp; Bumzu) (page does not exist)">Can't Stop</span>" <small>(Bomb feat. Bumzu)</small> (2014)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvVGFyaW5fQ29sbGFib3JhdGl2ZV9Qcm9qZWN0XyUyN1dlJTI3X1BhcnQuMj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Tarin Collaborative Project 'We' Part.2 (page does not exist)">Tarin Collaborative Project 'We' Part.2</span>" <small>(with <a class="extiw" href="https://kindie.fandom.com/wiki/Tarin" title="w:c:kindie:Tarin">Tarin</a>)</small> (2014)</li>
-<li>"<a class="mw-disambig" href="/wiki/All_I_Need" title="All I Need">All I Need</a>" <small>(<span class="new" data-uncrawlable-url="L3dpa2kvQml6enk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Bizzy (page does not exist)">Bizzy</span> feat. Bumzu)</small> (2016)</li>
-<li>"<span class="new" data-uncrawlable-url="L3dpa2kvWV8oS2VpXyUyNl9NeXVuRG8pP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Y (Kei &amp; MyunDo) (page does not exist)">Y</span>" <small>(<a href="/wiki/Kei_(Lovelyz)" title="Kei (Lovelyz)">Kei</a> &amp; MyunDo feat. Bumzu)</small> (2017)</li>
-<li>"<a href="/wiki/Forever_Young_(Bumzu_%26_Han_Dong_Geun)" title="Forever Young (Bumzu &amp; Han Dong Geun)">Forever Young</a>" <small>(with <a href="/wiki/Han_Dong_Geun" title="Han Dong Geun">Han Dong Geun</a>)</small> (2017)</li></ul>
-<h3><span class="mw-headline" id="OSTs">OSTs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"The Girl Who Sees Smells OST Part.3" (2015)</li></ul>
-<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li></ul>
-<h3><span class="mw-headline" id="2010s">2010s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable mw-collapsible mw-collapsed" style="text-align:center;">
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On November 1, 2023 Hyolyn's agency bridʒ announced her upcoming 2023 concert.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> The day after, the title 'One Night Only' and further details were revealed.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>The ticket pre-sale started on November 7.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Set_list">Set list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable mw-collapsible">
 <tbody><tr>
-<th align="center">Artist
+<th>#
 </th>
-<th align="center">Song
-</th>
-<th align="center">Album
-</th>
-<th align="center">Type
+<th>Song
 </th></tr>
 <tr>
-<th colspan="4" style="text-align:center">2011
-</th></tr>
-<tr>
-<td><b>Nusoul</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvT2hfTXlfR2lybF8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Oh My Girl (Bumzu) (page does not exist)">Oh My Girl</span>"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>Urban Planet
-</td>
-<td colspan="2">"Okay"
-</td>
-<td rowspan="6">Writing, Composing
-</td></tr>
-<tr>
-<td>Daniel Star
-</td>
-<td colspan="2">"I'm A Star"
-</td></tr>
-<tr>
-<td>Brannucut
-</td>
-<td>"Looking Back (돌아보니)"
-</td>
-<td>"Golden Era Presentation"
-</td></tr>
-<tr>
-<td>New Block Babyz
-</td>
-<td colspan="2">"We Can Fly High"
-</td></tr>
-<tr>
-<td>Reflow
-</td>
-<td>"Peterpan Complex (피터팬 콤플렉스)"
-</td>
-<td>"Represent"
-</td></tr>
-<tr>
-<td><a href="/wiki/Jang_Woohyuk" title="Jang Woohyuk">Jang Woohyuk</a>
-</td>
-<td>"Diary (일기장)"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvQmFja19Ub19UaGVfTWVtb3JpZXM/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Back To The Memories (page does not exist)">Back To The Memories</span></i>
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2012
-</th></tr>
-<tr>
-<td><span class="new" data-uncrawlable-url="L3dpa2kvRWFjaE9ORT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="EachONE (page does not exist)">EachONE</span>
-</td>
-<td>"내게 들어와"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvRGlvcmFtYT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Diorama (page does not exist)">Diorama</span></i>
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>Gimm!박사
-</td>
-<td colspan="2">"Mama"
-</td>
-<td rowspan="2">Writing
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/JJK" title="w:c:khiphop:JJK">JJK</a>
-</td>
-<td>"가시길"
-</td>
-<td><i>The Arrival</i>
-</td></tr>
-<tr>
-<td>FatDoo
-</td>
-<td>"Child Episode 3 - Dragon that Graduated From Stanford (스탠퍼드를 나온 용)"
-</td>
-<td>"The Last Diary of Mankind"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>Scarry'P
-</td>
-<td>"Like Music"
-</td>
-<td>"Today Is"
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/Block_B" title="Block B">Block B</a>
-</td>
-<td>"Nillili Mambo (닐리리맘보)"
-</td>
-<td rowspan="2"><i><a href="/wiki/Blockbuster_(Block_B)" title="Blockbuster (Block B)">Blockbuster</a></i>
-</td>
-<td>Arranging
-</td></tr>
-<tr>
-<td>"Movie's Over"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td>JB
-</td>
-<td colspan="2">"Shine On My Life"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>New Block Babyz
-</td>
-<td colspan="2">"Beautiful"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2013
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/Pinodyne" title="w:c:khiphop:Pinodyne">Pinodyne</a>
-</td>
-<td colspan="2">"Kangaroo (캥거루)"
-</td>
-<td rowspan="5">Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"The Girl Next Door (너네 누나 소개시켜줘)"
-</td>
-<td><i><a href="/wiki/Hello_(NU%27EST)" title="Hello (NU'EST)">Hello</a></i>
-</td></tr>
-<tr>
-<td><a href="/wiki/Rainbow_(group)" title="Rainbow (group)">Rainbow</a>
-</td>
-<td>"Chewing Time"
-</td>
-<td><i><a href="/wiki/Rainbow_Syndrome" title="Rainbow Syndrome">Rainbow Syndrome Part.2</a></i>
-</td></tr>
-<tr>
-<td><a href="/wiki/After_School" title="After School">After School</a>
-</td>
-<td>"Make Up &amp; Tears (화장을 하다 울었어)"
-</td>
-<td>"<a href="/wiki/First_Love_(After_School)" title="First Love (After School)">First Love</a>"
-</td></tr>
-<tr>
-<td rowspan="6"><b>Bumzu</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvVGhlX0NlaWxpbmc/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="The Ceiling (page does not exist)">The Ceiling (낯선 천장)</span>"
-</td></tr>
-<tr>
-<td>"Hello I'm Bum Zu (Hello 난 범주야)"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvU29tZXRoaW5nX1NwZWNpYWw/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Something Special (page does not exist)">Something Special</span></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"2 Star"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"Something Special"
-</td>
-<td rowspan="3">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"0.99 (99% (99 퍼센트))"
-</td></tr>
-<tr>
-<td>"Bingle Bangle"
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/Illson" title="w:c:khiphop:Illson">Double K</a>
-</td>
-<td>"Hotpants (Extended ver.)"
-</td>
-<td><i>Guy</i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2014
-</th></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/Gary" title="w:c:khiphop:Gary">Gary</a>
-</td>
-<td>"Mr. Gae"
-</td>
-<td><i>Mr. Gae</i>
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td><b>Bumzu</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvR2FtZV9PdmVyXyhCdW16dSk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Game Over (Bumzu) (page does not exist)">Game Over</span>"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/New_Champ" title="w:c:khiphop:New Champ">New Champ</a>
-</td>
-<td colspan="2">"YAHAGE (야하게)"
-</td>
-<td>Arranging
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Good Bye Bye"
-</td>
-<td rowspan="2"><i><a href="/wiki/Re:Birth" title="Re:Birth">Re:Birth</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"Give Me a Shoulder (어깨빌려줘)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/F.CUZ" title="F.CUZ">F.CUZ</a>
-</td>
-<td>"Woo Girl"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvQmFyZ2FpbmluZ19Gb3JfTG92ZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Bargaining For Love (page does not exist)">Bargaining For Love</span></i>
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/SUPER_JUNIOR" title="SUPER JUNIOR">SUPER JUNIOR</a>
-</td>
-<td>"Don't Leave Me"
-</td>
-<td><i><a href="/wiki/This_is_Love_(SUPER_JUNIOR)" title="This is Love (SUPER JUNIOR)">This is Love</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/Pinodyne" title="w:c:khiphop:Pinodyne">Pinodyne</a>
-</td>
-<td>"Bob Cut Beauty (단발머리)"
-</td>
-<td><i>Her</i>
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td rowspan="5"><b>Bumzu</b>
-</td>
-<td>"When I'm Down (미생)"
-</td>
-<td rowspan="5"><i><span class="new" data-uncrawlable-url="L3dpa2kvMjRfKEJ1bXp1KT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="24 (Bumzu) (page does not exist)">24</span></i>
-</td>
-<td rowspan="5">Writing, Composing
-</td></tr>
-<tr>
-<td>"28.5"
-</td></tr>
-<tr>
-<td>"What About Me"
-</td></tr>
-<tr>
-<td>"Yeh Yeh (스물넷 때가 타)"
-</td></tr>
-<tr>
-<td>"Miss U (노래할 기분이 아니야)"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2015
-</th></tr>
-<tr>
-<td><b>Bumzu</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvU2FyYV8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Sara (Bumzu) (page does not exist)">Sara (살아)</span>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/HeartB" title="HeartB">HeartB</a>
-</td>
-<td>"Promise U"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvUmVtZW1iZXJfKEhlYXJ0Qik/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Remember (HeartB) (page does not exist)">Remember</span></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Adore U (아낀다)"
-</td>
-<td><i><a href="/wiki/17_Carat" title="17 Carat">17 Carat</a></i>
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td><span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0JvX0t5dW5nP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Kim Bo Kyung (page does not exist)">Kim Bo Kyung</span>
-</td>
-<td colspan="2">"When The Rains Come (너를 위한 노래야)"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td rowspan="8"><b>Bumzu</b>
-</td>
-<td>"Bucket List"
-</td>
-<td rowspan="8"><i><a href="/wiki/Good_Life" title="Good Life">Good Life</a></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"I Need You (YA해)"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Give It 2 U"
-</td></tr>
-<tr>
-<td>"Good Life"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Secret Love (잠깐 나올래)"
-</td>
-<td rowspan="6">Writing, Composing
-</td></tr>
-<tr>
-<td>"Don't Know Why (왜이래)"
-</td></tr>
-<tr>
-<td>"Beautiful"
-</td></tr>
-<tr>
-<td>"TTT (퉤퉤퉤)"
-</td></tr>
-<tr>
-<td><a href="/wiki/SHINee" title="SHINee">SHINee</a>
-</td>
-<td>"Hold You"
-</td>
-<td><i><a href="/wiki/Married_to_the_Music" title="Married to the Music">Married to the Music</a></i>
-</td></tr>
-<tr>
-<td>Anglee
-</td>
-<td colspan="2">"She"
-</td></tr>
-<tr>
-<td>ROO
-</td>
-<td colspan="2">"Already Know (헤어질걸 알면서도)"
-</td>
-<td rowspan="2">Composing
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Fronting (표정관리)"
-</td>
-<td rowspan="2"><i><a href="/wiki/Boys_Be" title="Boys Be">Boys Be</a></i>
-</td></tr>
-<tr>
-<td>"Mansae (만세)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2016
-</th></tr>
-<tr>
-<td><a href="/wiki/Orange_Caramel" title="Orange Caramel">Orange Caramel</a> (<a href="/wiki/Park_Soo_Ah" title="Park Soo Ah">Lizzy</a> &amp; <a href="/wiki/Raina" title="Raina">Raina</a>)
-</td>
-<td>"상상 속의 너"
-</td>
-<td><i>Two Yoo Project Sugar Man Season 1</i>
-</td>
-<td>Arranging
-</td></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Lost &amp; Found (나의 천국)"
-</td>
-<td rowspan="4"><i><a href="/wiki/Q_is." title="Q is.">Q is.</a></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Overcome (여왕의 기사)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"VVITH (사실 말야)"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Emotion (티격태격)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>We Kid Red Team
-</td>
-<td>"Children's Song"
-</td>
-<td><i>We Kid</i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://khiphop.fandom.com/wiki/Bizzy" title="w:c:khiphop:Bizzy">Bizzy</a>
-</td>
-<td colspan="2">"All I Need (검은머리 파뿌리)"
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td rowspan="5"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Pretty U (예쁘다)"
-</td>
-<td rowspan="5"><i><a href="/wiki/First_%27Love_%26_Letter%27" title="First 'Love &amp; Letter'">First 'Love &amp; Letter'</a></i>
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Hit Song (유행가)"
-</td></tr>
-<tr>
-<td>"Drift Away (떠내려가)"
-</td>
-<td>Arranging
-</td></tr>
-<tr>
-<td>"Adore U (아낀다) (Vocal team ver.)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Mansae (만세) (Hip-hop team ver.)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Seungkwan" title="Seungkwan">Seungkwan</a> &amp; Lee Ji Yong
-</td>
-<td>"How Love Is (어떻게 사랑이 그래요)"
-</td>
-<td>"Duet Song Festival Eps.11"
-</td>
-<td>Arranging
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Very Nice (아주 Nice)"
-</td>
-<td rowspan="2"><i><a href="/wiki/First_%27Love_%26_Letter%27" title="First 'Love &amp; Letter'">Love &amp; Letter Repackage Album</a></i>
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Space (끝이 안보여)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Sik-K" title="Sik-K">Sik-K</a>
-</td>
-<td>"Act Different (다른척해)"
-</td>
-<td>"<a href="/wiki/Flip_(Sik-K)" title="Flip (Sik-K)">Flip</a>"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"R.L.T.L (Real Love True Love) (One Morning)"
-</td>
-<td rowspan="4"><i><a href="/wiki/Canvas_(NU%27EST)" title="Canvas (NU'EST)">Canvas</a></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Love Paint (Every Afternoon)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Thank You (Evening By Evening)"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Look (A Starlight Night)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/2PM" title="2PM">2PM</a>
-</td>
-<td>"How About This? (어때?)"
-</td>
-<td><i><a href="/wiki/Gentlemen%27s_Game" title="Gentlemen's Game">Gentlemen's Game</a></i>
-</td></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Beautiful"
-</td>
-<td rowspan="4"><i><a href="/wiki/Going_Seventeen" title="Going Seventeen">Going Seventeen</a></i>
-</td>
-<td rowspan="4">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"BOOMBOOM (붐붐)"
-</td></tr>
-<tr>
-<td>"Highlight"
-</td></tr>
-<tr>
-<td>"Lean On Me (기대)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Double_S_301" title="Double S 301">Double S 301</a>
-</td>
-<td>"La La La"
-</td>
-<td><i><a href="/wiki/Eternal_01" title="Eternal 01">Eternal 01</a></i>
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2017
-</th></tr>
-<tr>
-<td><a href="/wiki/NCT_127" title="NCT 127">NCT 127</a>
-</td>
-<td>"Back 2 U (AM 01:27)"
-</td>
-<td><i><a href="/wiki/NCT_127_Limitless" title="NCT 127 Limitless">NCT 127 Limitless</a></i>
-</td>
-<td rowspan="3">Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/PRISTIN" title="PRISTIN">PRISTIN</a>
-</td>
-<td>"Wee Woo"
-</td>
-<td><i><a href="/wiki/Hi!_PRISTIN" title="Hi! PRISTIN">Hi! PRISTIN</a></i>
-</td></tr>
-<tr>
-<td rowspan="6"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Don't Wanna Cry (울고 싶지 않아)"
-</td>
-<td rowspan="6"><i><a href="/wiki/Al1" title="Al1">Al1</a></i>
-</td></tr>
-<tr>
-<td>"If I"
-</td>
-<td rowspan="5">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Swimming Fool"
-</td></tr>
-<tr>
-<td>"My I"
-</td></tr>
-<tr>
-<td>"Crazy In Love"
-</td></tr>
-<tr>
-<td>"<a href="/wiki/Check-In_(SEVENTEEN)" title="Check-In (SEVENTEEN)">Check-In</a> (Remastering)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Sik-K" title="Sik-K">Sik-K</a>
-</td>
-<td>"Have A Little Fun"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvSC5BLkwuRl8oSGF2ZS5BLkxpdHRsZS5GdW4pP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="H.A.L.F (Have.A.Little.Fun) (page does not exist)">H.A.L.F (Have.A.Little.Fun)</span></i>
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/Han_Dong_Geun" title="Han Dong Geun">Han Dong Geun</a> &amp; <b>Bumzu</b>
-</td>
-<td colspan="2">"<a href="/wiki/Forever_Young_(Bumzu_%26_Han_Dong_Geun)" title="Forever Young (Bumzu &amp; Han Dong Geun)">Forever Young</a>"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td><a class="mw-disambig" href="/wiki/Shannon" title="Shannon">Shannon</a>
-</td>
-<td>"Hello"
-</td>
-<td><i><a href="/wiki/Hello_(Shannon)" title="Hello (Shannon)">Hello</a></i>
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/PRISTIN" title="PRISTIN">PRISTIN</a>
-</td>
-<td>"We Are Pristin"
-</td>
-<td rowspan="2"><i><a href="/wiki/Schxxl_Out" title="Schxxl Out">Schxxl Out</a></i>
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td>"We Like"
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td rowspan="5"><a href="/wiki/NU%27EST_W" title="NU'EST W">NU'EST W</a>
-</td>
-<td>"My Beautiful (하루만)"
-</td>
-<td rowspan="5"><i><a href="/wiki/W,_Here" title="W, Here">W, Here</a></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Where You At"
-</td>
-<td rowspan="3">Writing, Composing
-</td></tr>
-<tr>
-<td>"Paradise"
-</td></tr>
-<tr>
-<td>"Good Love"
-</td></tr>
-<tr>
-<td>"With"
-</td></tr>
-<tr>
-<td><b>Bumzu</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvSnVzdF8oQnVtenUpP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Just (Bumzu) (page does not exist)">Just</span>
-</td>
-<td rowspan="5">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td rowspan="11"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Intro. 新世界 (Intro. New World)"
-</td>
-<td rowspan="11"><i><a href="/wiki/Teen,_Age" title="Teen, Age">Teen, Age</a></i>
-</td></tr>
-<tr>
-<td>"Change Up"
-</td></tr>
-<tr>
-<td>"Without You (모자를 눌러 쓰고)"
-</td></tr>
-<tr>
-<td>"Clap (박수)"
-</td></tr>
-<tr>
-<td>"Lilili Yabbay (13월의 춤)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Trauma"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td>"Flower"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Rocket"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td>"Hello"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Campfire (캠프파이어)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Outro. 未完 (Outro. Incompletion)"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td><b>Bumzu</b>
-</td>
-<td colspan="2">"<span class="new" data-uncrawlable-url="L3dpa2kvQS5DLkMuRS5MP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="A.C.C.E.L (page does not exist)">A.C.C.E.L</span>"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/Fromis_9" title="Fromis 9">fromis_9</a>
-</td>
-<td colspan="2">"<a href="/wiki/Glass_Shoes" title="Glass Shoes">Glass Shoes (유리구두)</a>"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td><a href="/wiki/Han_Dong_Geun" title="Han Dong Geun">Han Dong Geun</a>
-</td>
-<td>"Where We Were in Love (우리가 사랑했던 곳에 우리)"
-</td>
-<td><i><a href="/wiki/Broken_People" title="Broken People">Broken People</a></i>
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td rowspan="4"><b>Bumzu</b>
-</td>
-<td>"I'm Good (아무렇지 않아)"
-</td>
-<td rowspan="4"><i><a href="/wiki/27_(Bumzu)" title="27 (Bumzu)">27</a></i>
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"H.I.G.H"
-</td></tr>
-<tr>
-<td>"Once (한 때)"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Just (English ver.)"
-</td>
-<td>Writing, Composing
+<td colspan="2">VCR 1 (Opening)
 </td></tr>
 <tr>
-<th colspan="4" style="text-align:center">2018
-</th></tr>
-<tr>
-<td rowspan="11"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Thinking About You"
-</td>
-<td rowspan="4"><i><a href="/wiki/Director%27s_Cut" title="Director's Cut">Director's Cut</a></i>
-</td>
-<td rowspan="4">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Thanks (고맙다)"
-</td></tr>
-<tr>
-<td>"Run To You (지금 널 찾아가고 있어)"
-</td></tr>
-<tr>
-<td>"Falling For U"
-</td></tr>
-<tr>
-<td>"The Real Thing"
-</td>
-<td rowspan="7"><i>2017 SEVENTEEN 1st World Tour Concert 'Diamond Edge' DVD</i>
-</td>
-<td rowspan="4">Composing
-</td></tr>
-<tr>
-<td>"Joker"
-</td></tr>
-<tr>
-<td>"What's The Problem"
-</td></tr>
-<tr>
-<td>"MMO"
-</td></tr>
-<tr>
-<td>"We Gonna Make It Shine (2017 ver.)"
-</td>
-<td rowspan="3">Writing, Composing
-</td></tr>
-<tr>
-<td>"With Me"
-</td></tr>
-<tr>
-<td>"Un Haeng Il Chi (언행일치(言行一致)) (Concert ver.)"
-</td></tr>
-<tr>
-<td rowspan="3"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Call Call Call"
-</td>
-<td rowspan="3"><i><a href="/wiki/We_Make_You" title="We Make You">We Make You</a></i>
-</td>
-<td rowspan="4">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Highlight" (Japanese ver.)
-</td></tr>
-<tr>
-<td>"Lean On Me" (Japanese ver.)
-</td></tr>
-<tr>
-<td><a href="/wiki/Fromis_9" title="Fromis 9">fromis_9</a>
-</td>
-<td>"DKDK (Pitapat (두근두근))"
-</td>
-<td><i><a href="/wiki/To._Day" title="To. Day">To. Day</a></i>
-</td></tr>
-<tr>
-<td rowspan="6"><a href="/wiki/NU%27EST_W" title="NU'EST W">NU'EST W</a>
-</td>
-<td>"Signal"
-</td>
-<td rowspan="6"><i><a href="/wiki/Who,_You" title="Who, You">Who, You</a></i>
-</td>
-<td>Writin, Composing
-</td></tr>
-<tr>
-<td>"Dejavu"
-</td>
-<td rowspan="3">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Polaris (북극성)"
-</td></tr>
-<tr>
-<td>"ylenoL"
-</td></tr>
-<tr>
-<td>"Gravity &amp; Moon (중력달)"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Shadow"
-</td></tr>
-<tr>
-<td rowspan="8"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Oh My! (어쩌나)"
-</td>
-<td rowspan="6"><i><a href="/wiki/You_Make_My_Day" title="You Make My Day">You Make My Day</a></i>
-</td>
-<td rowspan="3">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Holiday"
-</td></tr>
-<tr>
-<td>"Come to Me (나에게로 와)"
-</td></tr>
-<tr>
-<td>"What's Good"
-</td>
-<td>Composing, Arranging
-</td></tr>
-<tr>
-<td>"Moonwalker"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Our Dawn Is Hotter Than Day (우리의 새벽은 낮보다 뜨겁다)"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"A-TEEN"
-</td>
-<td>"<a href="/wiki/A-TEEN_OST" title="A-TEEN OST">A-TEEN OST Part.3</a>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Oh_My!_(SEVENTEEN)" title="Oh My! (SEVENTEEN)">Oh My! (怎麼辦)</a>" (Chinese ver.)
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/Kyulkyung" title="Kyulkyung">Zhou Jie Qiong</a>
-</td>
-<td colspan="2">"<a href="/wiki/Why_(Kyulkyung)" title="Why (Kyulkyung)">Why</a>"
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/NU%27EST_W" title="NU'EST W">NU'EST W</a>
-</td>
-<td colspan="2">"<a href="/wiki/I_Don%27t_Care_(with_Spoonz)" title="I Don't Care (with Spoonz)">I Don't Care (with Spoonz)</a>"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/IZ*ONE" title="IZ*ONE">IZ*ONE</a>
-</td>
-<td>"We Together (앞으로 잘 부탁해)" (IZ*ONE ver.)
-</td>
-<td><i><a href="/wiki/Color*IZ" title="Color*IZ">Color*IZ</a></i>
-</td></tr>
-<tr>
-<td rowspan="6"><a href="/wiki/NU%27EST_W" title="NU'EST W">NU'EST W</a>
-</td>
-<td>"L.I.E"
-</td>
-<td rowspan="6"><i><a href="/wiki/Wake,n" title="Wake,n">Wake,n</a></i>
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Help Me"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Wi-Fi"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"I Hate You"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"You &amp; I (나, 너에게)"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Feels"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2019
-</th></tr>
-<tr>
-<td rowspan="5"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Good to Me"
-</td>
-<td rowspan="5"><i><a href="/wiki/You_Made_My_Dawn" title="You Made My Dawn">You Made My Dawn</a></i>
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Home"
-</td></tr>
-<tr>
-<td>"Chilli (칠리)"
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td>"Shhh"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Getting Closer (숨이 차)"
-</td></tr>
-<tr>
-<td><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td colspan="2">"<a href="/wiki/A_Song_For_You_(NU%27EST)" title="A Song For You (NU'EST)">A Song For You (노래 제목)</a>"
-</td>
-<td rowspan="3">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/Hwang_Min_Hyun" title="Hwang Min Hyun">Minhyun</a>
-</td>
-<td colspan="2">"<a href="/wiki/Universe_(Minhyun)" title="Universe (Minhyun)">Universe (별의 언어)</a>"
-</td></tr>
-<tr>
-<td rowspan="6"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Segno"
-</td>
-<td rowspan="6"><i><a href="/wiki/Happily_Ever_After_(NU%27EST)" title="Happily Ever After (NU'EST)">Happily Ever After</a></i>
-</td></tr>
-<tr>
-<td>"Bet Bet"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Bass"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Talk About Love"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Different"
-</td></tr>
-<tr>
-<td>"Fine"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>PERC%NT
-</td>
-<td>"Day Off (아무때나돼)"
-</td>
-<td><i><span class="new" data-uncrawlable-url="L3dpa2kvUFZDP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="PVC (page does not exist)">PVC</span></i>
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td rowspan="3"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"9-TEEN"
-</td>
-<td>"<a href="/wiki/A-TEEN_2_OST" title="A-TEEN 2 OST">A-TEEN 2 OST Part.2</a>"
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Happy Ending"
-</td>
-<td rowspan="2">"<a href="/wiki/Happy_Ending_(SEVENTEEN)" title="Happy Ending (SEVENTEEN)">Happy Ending</a>"
-</td></tr>
-<tr>
-<td>"Oh My! (Japanese ver.)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/Fromis_9" title="Fromis 9">fromis_9</a>
-</td>
-<td>"Love Rumpumpum"
-</td>
-<td>"<a href="/wiki/Fun_Factory" title="Fun Factory">Fun Factory</a>"
-</td></tr>
-<tr>
-<td rowspan="2">Tobi Lou
-</td>
-<td>"17CG"
-</td>
-<td rowspan="2"><i>Live On Ice</i>
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"Looped Up"
-</td></tr>
-<tr>
-<td rowspan="11"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"<a href="/wiki/Hit" title="Hit">Hit</a>"
-</td>
-<td rowspan="11"><i><a href="/wiki/An_Ode" title="An Ode">An Ode</a></i>
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Lie Again (거짓말을 해)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Fear (독)"
-</td>
-<td rowspan="4">Writing, Composing, Arranging
+<td>1</td>
+<td>"One Night Only" <span style="font-size:85%;">(<a class="extiw" href="https://en.wikipedia.org/wiki/en:Jennifer_Hudson" title="wikipedia:en:Jennifer Hudson">Jennifer Hudson</a>)</span>
 </td></tr>
 <tr>
-<td>"Let Me Hear You Say"
+<td>2</td>
+<td>"Say My Name"
 </td></tr>
 <tr>
-<td>"247"
+<td>3</td>
+<td>"Body Talk"
 </td></tr>
 <tr>
-<td>"Second Life"
+<td>4</td>
+<td>"Dally"
 </td></tr>
 <tr>
-<td>"Network Love"
-</td>
-<td>Writing, Composing
+<td colspan="2">VCR 2
 </td></tr>
 <tr>
-<td>"Back It Up"
-</td>
-<td>Composing, Arranging
+<td>5</td>
+<td>"Touch My Body" <span style="font-size:85%;">(<a href="/wiki/SISTAR" title="SISTAR">SISTAR</a>)</span>
 </td></tr>
 <tr>
-<td>"Lucky"
-</td>
-<td>Writing, Composing
+<td>6</td>
+<td>"I Like That" <span style="font-size:85%;">(SISTAR)</span>
 </td></tr>
 <tr>
-<td>"Snap Shoot"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
+<td>7</td>
+<td>"Shake It" <span style="font-size:85%;">(SISTAR)</span>
 </td></tr>
 <tr>
-<td>"Happy Ending" (Korean ver.)
+<td>8</td>
+<td>"Give It To Me" <span style="font-size:85%;">(SISTAR)</span>
 </td></tr>
 <tr>
-<td rowspan="6"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Call Me Back"
-</td>
-<td rowspan="6"><i><a href="/wiki/The_Table" title="The Table">The Table</a></i>
-</td>
-<td>Writing, Composing
+<td colspan="2">VCR 3
 </td></tr>
 <tr>
-<td>"Love Me"
-</td>
-<td rowspan="6">Writing, Composing, Arranging
+<td>9</td>
+<td>"Show Me How You Burlesque" <span style="font-size:85%;">(<a class="extiw" href="https://en.wikipedia.org/wiki/en:Christina_Aguilera" title="wikipedia:en:Christina Aguilera">Christina Aguilera</a>)</span>
 </td></tr>
 <tr>
-<td>"One Two Three"
+<td>10</td>
+<td>"Over You"
 </td></tr>
 <tr>
-<td>"Trust Me"
+<td>11</td>
+<td>"Talking to The Moon" <span style="font-size:85%;">(<a class="extiw" href="https://en.wikipedia.org/wiki/en:Bruno_Mars" title="wikipedia:en:Bruno Mars">Bruno Mars</a>)</span>
 </td></tr>
 <tr>
-<td>"Stay Up All Night (밤새)"
+<td>12</td>
+<td>"Don't Love Me (사랑 하지 마)"
 </td></tr>
 <tr>
-<td>"If We (우리가 사랑했다면)"
+<td>13</td>
+<td>"Crazy of You (미치게 만들어)"
 </td></tr>
-</tbody></table>
-<h3><span class="mw-headline" id="2020s">2020s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable mw-collapsible mw-collapsed" style="text-align:center;">
-<tbody><tr>
-<th align="center">Artist
-</th>
-<th align="center">Song
-</th>
-<th align="center">Album
-</th>
-<th align="center">Type
-</th></tr>
 <tr>
-<th colspan="4" style="text-align:center">2020
-</th></tr>
-<tr>
-<td><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td colspan="2">"<a href="/wiki/Let%27s_Love_(with_Spoonz)" title="Let's Love (with Spoonz)">Let's Love (with Spoonz)</a>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Fallin' Flower (舞い落ちる花びら)"
-</td>
-<td rowspan="2">"<a href="/wiki/Fallin%27_Flower" title="Fallin' Flower">Fallin' Flower</a>"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Good to Me" (Japanese ver.)
-</td></tr>
-<tr>
-<td rowspan="7"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Moon Dance"
-</td>
-<td rowspan="6"><i><a href="/wiki/The_Nocturne" title="The Nocturne">The Nocturne</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"I'm in Trouble"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Firework"
-</td></tr>
-<tr>
-<td>"Back to Me (평행우주)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Must (꼭)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Shooting Star (반딧별)"
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Best_Summer_(with_Spoonz)" title="Best Summer (with Spoonz)">Best Summer (with Spoonz)</a>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Fearless"
-</td>
-<td rowspan="6"><i><a href="/wiki/Heng:gar%C3%A6" title="Heng:garæ">Heng:garæ</a></i>
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Left &amp; Right"
-</td></tr>
-<tr>
-<td>"I Wish (좋겠다)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"My My"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Kidult (어른 아이)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Together (같이가요)"
-</td>
-<td>Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"24H"
-</td>
-<td rowspan="4"><i><a href="/wiki/24H" title="24H">24H</a></i>
-</td>
-<td rowspan="2">Writing, Composing
-</td></tr>
-<tr>
-<td>"247 (Japanese Ver.)"
-</td></tr>
-<tr>
-<td>"Chilli (Japanese Ver.)"
-</td>
-<td>Composing
-</td></tr>
-<tr>
-<td>"Together (Japanese Ver.)"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Drive (Japanese Ver.)"
-</td>
-<td rowspan="2"><i><a href="/wiki/Drive_(NU%27EST)" title="Drive (NU'EST)">Drive</a></i>
-</td>
-<td rowspan="8">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"A Song For You (Japanese Ver.)"
-</td></tr>
-<tr>
-<td rowspan="6"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Home;Run"
-</td>
-<td rowspan="6"><i><a href="/wiki/Semicolon" title="Semicolon">Semicolon</a></i>
-</td></tr>
-<tr>
-<td>"Do Re Mi (도레미)"
-</td></tr>
-<tr>
-<td>"Hey Buddy"
-</td></tr>
-<tr>
-<td>"Light a Flame (마음에 불을 지펴)"
-</td></tr>
-<tr>
-<td>"Ah! Love"
-</td></tr>
-<tr>
-<td>"All My Love (겨우)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Jin_(BTS)" title="Jin (BTS)">Jin</a>
-</td>
-<td colspan="2">"Abyss"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2021
-</th></tr>
-<tr>
-<td><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Us, Again (우리, 다시)"
-</td>
-<td><i>2021 SEVENTEEN ONLINE CONCERT 'IN-COMPLETE' DVD</i>
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td><a href="/wiki/Hoshi" title="Hoshi">Hoshi</a>
-</td>
-<td colspan="2">"<a href="/wiki/Spider" title="Spider">Spider</a>"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td rowspan="2"><a href="/wiki/The8" title="The8">The8</a>
-</td>
-<td>"Side By Side (肩并肩) (Chinese Ver.)"
-</td>
-<td rowspan="2">"<a href="/wiki/Side_By_Side" title="Side By Side">Side By Side</a>"
-</td>
-<td rowspan="4">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Side By Side (나란히) (Korean Ver.)"
-</td></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Dress"
-</td>
-<td rowspan="10"><i><a href="/wiki/Romanticize" title="Romanticize">Romanticize</a></i>
-</td></tr>
-<tr>
-<td>"Inside Out"
-</td></tr>
-<tr>
-<td>"Don't Wanna Go"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Black"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Drive"
-</td></tr>
-<tr>
-<td>"Earphone"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Need It"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Doom Doom"
-</td></tr>
-<tr>
-<td>"Rocket Rocket"
-</td>
-<td rowspan="2">Composing
-</td></tr>
-<tr>
-<td>"I'm Not (않아)"
-</td></tr>
-<tr>
-<td rowspan="3"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Not Alone (ひとりじゃない)"
-</td>
-<td rowspan="3">"<a href="/wiki/Not_Alone_(SEVENTEEN)" title="Not Alone (SEVENTEEN)">Not Alone</a>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Run to You (Japanese ver.)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Home;Run (Japanese ver.)"
+<td>14</td>
+<td>"Alone (나혼자)" <span style="font-size:85%;">(SISTAR)</span>
 </td></tr>
 <tr>
-<td><a href="/wiki/Wonwoo" title="Wonwoo">Wonwoo</a> &amp; <a href="/wiki/Mingyu_(SEVENTEEN)" title="Mingyu (SEVENTEEN)">Mingyu</a>
-</td>
-<td colspan="2">"<a href="/wiki/Bittersweet_(Wonwoo_%26_Mingyu)" title="Bittersweet (Wonwoo &amp; Mingyu)">Bittersweet</a>"
-</td>
-<td rowspan="8">Writing, Composing, Arranging
+<td colspan="2">Talk 1
 </td></tr>
 <tr>
-<td rowspan="6"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"Heaven's Cloud"
-</td>
-<td rowspan="6"><i><a href="/wiki/Your_Choice" title="Your Choice">Your Choice</a></i>
+<td>15</td>
+<td>"Sexy In My Dress" / "Water" / "Juicy" <span style="font-size:85%;">(Dance Medley)</span>
 </td></tr>
 <tr>
-<td>"Ready to Love"
+<td colspan="2">Talk 2
 </td></tr>
-<tr>
-<td>"Anyone"
-</td></tr>
-<tr>
-<td>"Gam3 Bo1"
-</td></tr>
-<tr>
-<td>"Wave"
-</td></tr>
-<tr>
-<td>"Same Dream, Same Mind, Same Night (같은 꿈, 같은 맘, 같은 밤)"
-</td></tr>
-<tr>
-<td><a href="/wiki/Hoshi" title="Hoshi">Hoshi</a>
-</td>
-<td colspan="2">"Tiger Power (호랑이 Power)"
-</td></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"To You (소용돌이)"
-</td>
-<td rowspan="7"><i><a href="/wiki/Attacca" title="Attacca">Attacca</a></i>
-</td>
-<td rowspan="3">Writing, Composing
-</td></tr>
-<tr>
-<td>"Rock with You"
-</td></tr>
-<tr>
-<td>"Crush"
-</td></tr>
-<tr>
-<td>"Pang!"
-</td>
-<td rowspan="4">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Imperfect Love (매일 그대라서 행복하다)"
-</td></tr>
-<tr>
-<td>"I Can't Run Away (그리워하는 갓까지)"
-</td></tr>
-<tr>
-<td>"2 Minus 1"
-</td></tr>
-<tr>
-<td>"Power of Love (あいのちから)"
-</td>
-<td rowspan="3">"<a href="/wiki/Power_of_Love_(SEVENTEEN)" title="Power of Love (SEVENTEEN)">Power of Love</a>"
-</td>
-<td>Writing, Composing
-</td></tr>
-<tr>
-<td>"Home (Japanese ver.)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
-</td></tr>
-<tr>
-<td>"Snap Shoot (Japanese ver.)"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center">2022
-</th></tr>
 <tr>
-<td><a href="/wiki/Woozi" title="Woozi">Woozi</a>
-</td>
-<td colspan="2">"<a href="/wiki/Ruby_(Woozi)" title="Ruby (Woozi)">Ruby</a>"
-</td>
-<td>Writing, Composing, Arranging
+<td>16</td>
+<td>"This Love (이게 사랑이지 뭐야)" <span style="font-size:85%;">(with <a class="extiw" href="https://khiphop.fandom.com/wiki/Paul_Blanco" title="w:c:khiphop:Paul Blanco">Paul Blanco</a>)</span>
 </td></tr>
 <tr>
-<td rowspan="3"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a>
-</td>
-<td>"Look (A Starlight Night) (Alternative House Ver.)"
-</td>
-<td rowspan="3"><i><a href="/wiki/Needle_%26_Bubble" title="Needle &amp; Bubble">Needle &amp; Bubble</a></i>
-</td>
-<td>Writing, Composing
+<td>17</td>
+<td>"Summer" <span style="font-size:85%;">(Paul Blanco solo)</span>
 </td></tr>
 <tr>
-<td>"I'm in Trouble (Urban Ver.)"
-</td>
-<td rowspan="2">Writing, Composing, Arranging
+<td colspan="2">VCR 4
 </td></tr>
 <tr>
-<td>"Again (다시, 봄)"
+<td>18</td>
+<td>"9Lives"
 </td></tr>
 <tr>
-<td rowspan="10"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>
-</td>
-<td>"<a href="/wiki/Darl%2Bing" title="Darl+ing">Darl+ing</a>"
-</td>
-<td rowspan="9"><i><a href="/wiki/Face_the_Sun" title="Face the Sun">Face the Sun</a></i>
-</td>
-<td>Writing, Composing, Arranging
+<td>19</td>
+<td>"Laying Low"
 </td></tr>
 <tr>
-<td>"Hot"
-</td>
-<td rowspan="2">Writing, Composing
+<td>20</td>
+<td>"Chemistry (Prod. Czaer)"
 </td></tr>
 <tr>
-<td>"Don Quixote"
+<td>21</td>
+<td>"So What"
 </td></tr>
 <tr>
-<td>"March"
-</td>
-<td>Writing, Composing, Arranging
+<td colspan="2">Talk 3
 </td></tr>
 <tr>
-<td>"Domino"
-</td>
-<td rowspan="3">Writing, Composing
+<td colspan="2">VCR 5
 </td></tr>
 <tr>
-<td>"Shadow"
+<td>22</td>
+<td><b>Encore</b> - "A-ha (아하)"
 </td></tr>
 <tr>
-<td>"'Bout You (노래해)"
+<td>23</td>
+<td><b>Encore</b> - "See Sea (바다보러갈래)"
 </td></tr>
 <tr>
-<td>"If You Leave Me"
-</td>
-<td>Writing, Composing, Arranging
+<td>24</td>
+<td><b>Encore</b> - "Bae"
 </td></tr>
 <tr>
-<td>"Ash"
-</td>
-<td rowspan="2">Writing, Composing
+<td>25</td>
+<td><b>Encore</b> - "Burnin' Up" <span style="font-size:85%;">(<a class="extiw" href="https://en.wikipedia.org/wiki/en:Jessie_J" title="wikipedia:en:Jessie J">Jessie J</a>)</span>
 </td></tr>
 <tr>
-<td colspan="2">"<a href="/wiki/World_(Feat._Anne-Marie)" title="World (Feat. Anne-Marie)">World (Feat. Anne-Marie)</a>"
+<td colspan="2">Talk 4 (Closing)
 </td></tr></tbody></table>
-<h2><span class="mw-headline" id="Concerts">Concerts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Concert_participations">Concert participations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/2021_New_Year%27s_Eve_Live_presented_by_Weverse" title="2021 New Year's Eve Live presented by Weverse">2021 New Year's Eve Live presented by Weverse</a> (2020)</li>
-<li><a href="/wiki/2022_Weverse_Con_%22New_Era%22" title='2022 Weverse Con "New Era"'>2022 Weverse Con [New Era]</a> (2021)</li>
-<li>2023 Weverse Con Festival (2023)</li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="b5b28c212415f646c0e4b17727115c95" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Bumzu_27_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Bumzu_27_promo_photo.png" style="height:150px; width:150px;" title="Bumzu 27 promo photo.png (2.45 MB)"><noscript><img alt="27" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="Bumzu_27_promo_photo.png" data-image-name="Bumzu 27 promo photo.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/4/47/Bumzu_27_promo_photo.png/revision/latest/scale-to-width-down/225?cb=20171227062057" style="" title="Bumzu 27 promo photo.png (2.45 MB)" width="225"/></noscript><img alt="27" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="Bumzu_27_promo_photo.png" data-image-name="Bumzu 27 promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/47/Bumzu_27_promo_photo.png/revision/latest/scale-to-width-down/225?cb=20171227062057" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Bumzu 27 promo photo.png (2.45 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/27_(Bumzu)" title="27 (Bumzu)">27</a></i></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Bumzu_I_Don-t_Miss_You_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Bumzu_I_Don%27t_Miss_You_promo_photo.png" style="height:150px; width:150px;" title="Bumzu I Don't Miss You promo photo.png (2.06 MB)"><noscript><img alt="&quot;I Don't Miss You&quot;" class="thumbimage" data-caption='""' data-image-key="Bumzu_I_Don%27t_Miss_You_promo_photo.png" data-image-name="Bumzu I Don't Miss You promo photo.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/7/79/Bumzu_I_Don%27t_Miss_You_promo_photo.png/revision/latest/scale-to-width-down/208?cb=20180828032955" style="" title="Bumzu I Don't Miss You promo photo.png (2.06 MB)" width="208"/></noscript><img alt="&quot;I Don't Miss You&quot;" class="thumbimage lazyload" data-caption='""' data-image-key="Bumzu_I_Don%27t_Miss_You_promo_photo.png" data-image-name="Bumzu I Don't Miss You promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/79/Bumzu_I_Don%27t_Miss_You_promo_photo.png/revision/latest/scale-to-width-down/208?cb=20180828032955" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Bumzu I Don't Miss You promo photo.png (2.06 MB)" width="208"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/I_Don%27t_Miss_You_(Bumzu)" title="I Don't Miss You (Bumzu)">I Don't Miss You</a>"</div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Merchandise">Merchandise</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Official merchandise was made available for pre-order on November 28, 2023 through the Weverse online shop.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="7b84e62416ebc05f7bb882eb4595e7d3" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:102px;"><div class="gallery-image-wrapper accent" id="Hyolyn_2023_Hyolyn_Show_-One_Night_Only-_MD_1-png" style="position: relative; height:100px; width:100px;"><a class="image lightbox" href="/wiki/File:Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_1.png" style="height:100px; width:100px;" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 1.png (73 KB)"><noscript><img alt="Slogan" class="thumbimage" data-caption="Slogan" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_1.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 1.png" data-relevant="1" height="121" src="https://static.wikia.nocookie.net/kpop/images/0/0b/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_1.png/revision/latest/scale-to-width-down/100?cb=20231202140036" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 1.png (73 KB)" width="100"/></noscript><img alt="Slogan" class="thumbimage lazyload" data-caption="Slogan" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_1.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/0/0b/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_1.png/revision/latest/scale-to-width-down/100?cb=20231202140036" height="121" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 1.png (73 KB)" width="100"/></a></div></div><div class="lightbox-caption" style="width:100px;">Slogan</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:102px;"><div class="gallery-image-wrapper accent" id="Hyolyn_2023_Hyolyn_Show_-One_Night_Only-_MD_2-png" style="position: relative; height:100px; width:100px;"><a class="image lightbox" href="/wiki/File:Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_2.png" style="height:100px; width:100px;" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 2.png (36 KB)"><noscript><img alt="Photocard set" class="thumbimage" data-caption="Photocard set" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_2.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 2.png" data-relevant="1" height="121" src="https://static.wikia.nocookie.net/kpop/images/4/4b/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_2.png/revision/latest/scale-to-width-down/100?cb=20231202140037" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 2.png (36 KB)" width="100"/></noscript><img alt="Photocard set" class="thumbimage lazyload" data-caption="Photocard set" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_2.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4b/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_2.png/revision/latest/scale-to-width-down/100?cb=20231202140037" height="121" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 2.png (36 KB)" width="100"/></a></div></div><div class="lightbox-caption" style="width:100px;">Photocard set</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:102px;"><div class="gallery-image-wrapper accent" id="Hyolyn_2023_Hyolyn_Show_-One_Night_Only-_MD_3-png" style="position: relative; height:100px; width:100px;"><a class="image lightbox" href="/wiki/File:Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_3.png" style="height:100px; width:100px;" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 3.png (26 KB)"><noscript><img alt="Acrylic keyring" class="thumbimage" data-caption="Acrylic keyring" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_3.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 3.png" data-relevant="1" height="121" src="https://static.wikia.nocookie.net/kpop/images/b/ba/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_3.png/revision/latest/scale-to-width-down/100?cb=20231202140037" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 3.png (26 KB)" width="100"/></noscript><img alt="Acrylic keyring" class="thumbimage lazyload" data-caption="Acrylic keyring" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_3.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 3.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/ba/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_3.png/revision/latest/scale-to-width-down/100?cb=20231202140037" height="121" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 3.png (26 KB)" width="100"/></a></div></div><div class="lightbox-caption" style="width:100px;">Acrylic keyring</div></div><div class="wikia-gallery-item" style="width:102px; "><div class="thumb" style="height:102px;"><div class="gallery-image-wrapper accent" id="Hyolyn_2023_Hyolyn_Show_-One_Night_Only-_MD_4-png" style="position: relative; height:100px; width:100px;"><a class="image lightbox" href="/wiki/File:Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_4.png" style="height:100px; width:100px;" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 4.png (40 KB)"><noscript><img alt="Smarttok" class="thumbimage" data-caption="Smarttok" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_4.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 4.png" data-relevant="1" height="121" src="https://static.wikia.nocookie.net/kpop/images/a/a9/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_4.png/revision/latest/scale-to-width-down/100?cb=20231202140037" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 4.png (40 KB)" width="100"/></noscript><img alt="Smarttok" class="thumbimage lazyload" data-caption="Smarttok" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_4.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 4.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a9/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_MD_4.png/revision/latest/scale-to-width-down/100?cb=20231202140037" height="121" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' MD 4.png (40 KB)" width="100"/></a></div></div><div class="lightbox-caption" style="width:100px;">Smarttok</div></div></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="2" hash="8c0e7f14a14544e5bad047c2a93a0683" id="gallery-2"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Hyolyn_2023_Hyolyn_Show_-One_Night_Only-_teaser_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_teaser_1.png" style="height:150px; width:150px;" title="Hyolyn 2023 Hyolyn Show 'One Night Only' teaser 1.png (2.5 MB)"><noscript><img alt="Teaser" class="thumbimage" data-caption="Teaser" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_teaser_1.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' teaser 1.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/0/08/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_teaser_1.png/revision/latest/scale-to-width-down/150?cb=20231202135704" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' teaser 1.png (2.5 MB)" width="150"/></noscript><img alt="Teaser" class="thumbimage lazyload" data-caption="Teaser" data-image-key="Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_teaser_1.png" data-image-name="Hyolyn 2023 Hyolyn Show 'One Night Only' teaser 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/0/08/Hyolyn_2023_Hyolyn_Show_%27One_Night_Only%27_teaser_1.png/revision/latest/scale-to-width-down/150?cb=20231202135704" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Hyolyn 2023 Hyolyn Show 'One Night Only' teaser 1.png (2.5 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Teaser</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10001724 under Writers &amp; Publishers)</a></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.heraldpop.com/view.php?ud=202311010715474388203_1" rel="nofollow noreferrer noopener" target="_blank">Herald: 효린, 단독 콘서트 '2023 HYOLYN SHOW' 개최..오늘(1일) 연습차 美출국 (November 1, 2023)</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/officialhyolyn_/status/1719987804699328784" rel="nofollow noreferrer noopener" target="_blank">@officialhyolyn_ (November 2, 2023)</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.starnewskorea.com/stview.php?no=2023110711195098008" rel="nofollow noreferrer noopener" target="_blank">Star News Korea: 퀸의 화려한 밤..효린, 오늘(7일) 단독 콘서트 티켓 오픈 (November 7, 2023)</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/weverseshop/status/1729424898395873346" rel="nofollow noreferrer noopener" target="_blank">@weverseshop (November 28, 2023)</a></span>
 </li>
 </ol></div></div>
 </div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FBumzu%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.pledis.co.kr/html/artist/bumzu/ENG/" rel="nofollow noreferrer noopener" target="_blank">Webpage</a></li>
-<li><a class="external text" href="https://www.facebook.com/bumzu.kye" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></li>
-<li><a class="external text" href="https://www.instagram.com/bumzu91/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
-<li><a class="external text" href="https://twitter.com/nusoul91" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Bumzu?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#ED413C; color:#fff"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#ED413C; color:#fff;border:none;;"><a href="/wiki/Template:Pledis_Entertainment" title="Template:Pledis Entertainment"><span style=";background:#ED413C; color:#fff;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Pledis_Entertainment?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#ED413C; color:#fff;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:60px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a> (<a href="/wiki/BSS" title="BSS">BSS</a> • <a href="/wiki/Jeonghan_X_Wonwoo" title="Jeonghan X Wonwoo">Jeonghan X Wonwoo</a> • <a href="/wiki/Hoshi_X_Woozi" title="Hoshi X Woozi">Hoshi X Woozi</a>)</span>  •  <span style="white-space:nowrap"><a href="/wiki/TWS" title="TWS">TWS</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:60px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><strong class="mw-selflink selflink">Bumzu</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kyulkyung" title="Kyulkyung">Zhou Jie Qiong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Baekho" title="Baekho">Baekho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hwang_Min_Hyun" title="Hwang Min Hyun">Hwang Min Hyun</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:60px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/NU%27EST" title="NU'EST">NU'EST</a> (<a href="/wiki/NU%27EST-M" title="NU'EST-M">NU'EST-M</a> • <a href="/wiki/NU%27EST_W" title="NU'EST W">NU'EST W</a>)</span>  •  <span style="white-space:nowrap"><a href="/wiki/After_School" title="After School">After School</a> (<a href="/wiki/Orange_Caramel" title="Orange Caramel">Orange Caramel</a> • <a href="/wiki/A.S._RED" title="A.S. RED">A.S. RED</a> • <a href="/wiki/A.S._BLUE" title="A.S. BLUE">A.S. BLUE</a>)</span>  •  <span style="white-space:nowrap"><a href="/wiki/HELLOVENUS" title="HELLOVENUS">HELLOVENUS</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/PRISTIN" title="PRISTIN">PRISTIN</a> (<a href="/wiki/PRISTIN_V" title="PRISTIN V">PRISTIN V</a>)</span>  •  <span style="white-space:nowrap"><a href="/wiki/Fromis_9" title="Fromis 9">fromis_9</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:60px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Son_Dam_Bi" title="Son Dam Bi">Son Dam Bi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kahi" title="Kahi">Kahi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Raina" title="Raina">Raina</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Han_Dong_Geun" title="Han Dong Geun">Han Dong Geun</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:60px;;">Artists</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Soyoung_(After_School)" title="Soyoung (After School)">Soyoung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bekah" title="Bekah">Bekah</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://cpop.fandom.com/wiki/Jason_Fu" title="w:c:cpop:Jason Fu">Jason</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Ju_Yeon" title="Lee Ju Yeon">Jooyeon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Ah_(After_School)" title="Jung Ah (After School)">Jung Ah</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/UEE" title="UEE">UEE</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Park_Soo_Ah" title="Park Soo Ah">Lizzy</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/E-Young" title="E-Young">E-Young</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Ga_Eun" title="Lee Ga Eun">Gaeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Jong_Hyeon" title="Kim Jong Hyeon">JR</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvQWFyb25fKE5VJTI3RVNUKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Aaron (NU'EST) (page does not exist)">Aron</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ren" title="Ren">Ren</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jang_Gyuri" title="Jang Gyuri">Gyuri</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Nana_(After_School)" title="Nana (After School)">Nana</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yehana_(PRISTIN)" title="Yehana (PRISTIN)">Yehana</a></span>  •  <span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/Sungyeon" title="Sungyeon">Sungyeon</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:60px;;">Trainees</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Huh_Yunjin" title="Huh Yunjin">Huh Yunjin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mashiro_(MADEIN)" title="Mashiro (MADEIN)">Sakamoto Mashiro</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Daniel_(I-LAND_contestant)" title="Daniel (I-LAND contestant)">Daniel</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/HYBE" title="HYBE">HYBE</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.pledis.co.kr/" rel="nofollow noreferrer noopener" target="_blank">Official website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/pledisnews/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://tv.naver.com/pledis" rel="nofollow noreferrer noopener" target="_blank">Naver TV</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/pledisnews/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/pledisartist/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_Hyolyn_Show_%2527One_Night_Only%2527%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Live clips:
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=Kn0bYciu0T8" rel="nofollow noreferrer noopener" target="_blank">"One Night Only"</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=P_f_SsDvmo4" rel="nofollow noreferrer noopener" target="_blank">"Show Me How You Burlesque"</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=HL0yAkibiPo" rel="nofollow noreferrer noopener" target="_blank">"9LIVES"</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=aIF_LF9UleQ" rel="nofollow noreferrer noopener" target="_blank">Trailer</a></li>
+<li>Youtube shorts: <a class="external text" href="https://www.youtube.com/shorts/tZO-hEhzMn8" rel="nofollow noreferrer noopener" target="_blank">Teaser #1</a> / <a class="external text" href="https://www.youtube.com/shorts/GUBHT2ABULE" rel="nofollow noreferrer noopener" target="_blank">#2</a> / <a class="external text" href="https://www.youtube.com/shorts/liC-GLFb8JU" rel="nofollow noreferrer noopener" target="_blank">#3</a> / <a class="external text" href="https://www.youtube.com/shorts/ug_R3r80mhU" rel="nofollow noreferrer noopener" target="_blank">D-1</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/2023_Hyolyn_Show_%27One_Night_Only%27?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
 <!-- 
 NewPP limit report
-Cached time: 20250316140329
+Cached time: 20250314053334
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.159 seconds
-Real time usage: 0.176 seconds
-Preprocessor visited node count: 5466/1000000
-Post‐expand include size: 46904/2097152 bytes
-Template argument size: 26843/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.094 seconds
+Real time usage: 0.102 seconds
+Preprocessor visited node count: 2581/1000000
+Post‐expand include size: 2223/2097152 bytes
+Template argument size: 852/2097152 bytes
+Highest expansion depth: 7/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 3881/5000000 bytes
+Unstrip post‐expand size: 11313/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  100.577      1 -total
- 65.02%   65.396      1 Template:Infobox_person
- 36.75%   36.966      1 Template:Related_Wikis
- 35.28%   35.488      3 Template:Navbox
- 23.64%   23.779      1 Template:Pledis_Entertainment
- 11.82%   11.883      8 Template:List
-  8.92%    8.967      8 Template:Element_List
-  7.21%    7.249      1 Template:Birth_date_and_age
-  4.16%    4.185      1 Template:Reflist
-  3.68%    3.704      2 Template:MONTHNAME
+100.00%   85.812      1 -total
+ 74.05%   63.548      1 Template:Infobox_concert
+ 45.81%   39.312      1 Template:Related_Wikis
+  6.77%    5.807      1 Template:Reflist
+  4.90%    4.202      1 Template:Scroll_Box
+  4.47%    3.833     12 Template:Small
+  2.12%    1.820      1 Template:Stub
+  1.80%    1.544      4 Template:WP
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:18193-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250316140329 and revision id 1191429. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:195230-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250314053334 and revision id 980519. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -4137,28 +2705,24 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="1991 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a></span>
+<li class="category normal" data-name="Concert article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Concert_article_stubs" title="Category:Concert article stubs">Concert article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="November births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:November_births" title="Category:November births">November births</a></span>
+<li class="category normal" data-name="2023 concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2023_concerts" title="Category:2023 concerts">2023 concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<li class="category normal" data-name="Hyolyn" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Hyolyn" title="Category:Hyolyn">Hyolyn</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a></span>
+<li class="category normal" data-name="Solo concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Solo_concerts" title="Category:Solo concerts">Solo concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male soloists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2011 debuts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2011_debuts" title="Category:2011 debuts">2011 debuts</a></span>
+<li class="category normal" data-name="2023 solo concerts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2023_solo_concerts" title="Category:2023 solo concerts">2023 solo concerts</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -4344,7 +2908,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9CdW16dT90aXRsZT1CdW16dSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8yMDIzX0h5b2x5bl9TaG93XyUyN09uZV9OaWdodF9Pbmx5JTI3P3RpdGxlPTIwMjNfSHlvbHluX1Nob3dfJTI3T25lX05pZ2h0X09ubHklMjcmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

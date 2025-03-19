@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>I.M | Kpop Wiki | Fandom</title>
+<title>Taesan | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-I_M rootpage-I_M skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Taesan rootpage-Taesan skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,037</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,29 +2353,23 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1996_births" title="Category:1996 births">1996 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:January_births" title="Category:January births">January births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2021_debuts" title="Category:2021 debuts">2021 debuts</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:2004_births" title="Category:2004 births">2004 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:August_births" title="Category:August births">August births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">9 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">6 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:BOYNEXTDOOR" title="Category:BOYNEXTDOOR">BOYNEXTDOOR</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Male_rappers" title="Category:Male rappers">Male rappers</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:KOZ_Entertainment" title="Category:KOZ Entertainment">KOZ Entertainment</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a> </li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Taesan" title="Category:Taesan">Taesan</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Male_songwriters" title="Category:Male songwriters">Male songwriters</a> </li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:MONSTA_X" title="Category:MONSTA X">MONSTA X</a> </li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Male_rappers" title="Category:Male rappers">Male rappers</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:Y_TEEN" title="Category:Y TEEN">Y TEEN</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-9" href="/wiki/Category:I.M" title="Category:I.M">I.M</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-10" href="/wiki/Category:Nu%27Bility" title="Category:Nu'Bility">Nu'Bility</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-11" href="/wiki/Category:Sony_Music_Entertainment_Korea" title="Category:Sony Music Entertainment Korea">Sony Music Entertainment Korea</a> </li>
+<a data-tracking-label="categories-top-more-8" href="/wiki/Category:Male_songwriters" title="Category:Male songwriters">Male songwriters</a> </li>
 </ul>
 </div>
 </div>
@@ -2388,7 +2382,7 @@
 <div class="wds-dropdown__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/I.M">Bahasa Indonesia</a>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/%D0%A2%D1%8D%D1%81%D0%B0%D0%BD">Русский</a>
 </li>
 </ul>
 </div>
@@ -2398,10 +2392,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">I.M</span> </h1>
+<span class="mw-page-title-main">Taesan</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2409,15 +2403,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/I.M?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Taesan?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/I.M?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Taesan?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:I.M?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Taesan?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2440,216 +2434,107 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><dl><dd><span><i>For the subunit of <a href="/wiki/T.O.P_Girls" title="T.O.P Girls">T.O.P Girls</a>, see <a href="/wiki/I%26M" title="I&amp;M">I&amp;M</a>.</i></span></dd></dl>
-<p>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 <aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">I.M</h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Taesan</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/99/MONSTA_X_I.M_2025_Season%27s_Greetings_concept_photo_1.webp/revision/latest?cb=20241110074056" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="MONSTA_X_I.M_2025_Season%27s_Greetings_concept_photo_1.webp" data-image-name="MONSTA X I.M 2025 Season's Greetings concept photo 1.webp" data-relevant="1" height="337" src="https://static.wikia.nocookie.net/kpop/images/9/99/MONSTA_X_I.M_2025_Season%27s_Greetings_concept_photo_1.webp/revision/latest/scale-to-width-down/268?cb=20241110074056" srcset="https://static.wikia.nocookie.net/kpop/images/9/99/MONSTA_X_I.M_2025_Season%27s_Greetings_concept_photo_1.webp/revision/latest/scale-to-width-down/268?cb=20241110074056 1x, https://static.wikia.nocookie.net/kpop/images/9/99/MONSTA_X_I.M_2025_Season%27s_Greetings_concept_photo_1.webp/revision/latest/scale-to-width-down/535?cb=20241110074056 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/b/b9/BOYNEXTDOOR_Taesan_Oneulman_I_Love_You_concept_photo_2.webp/revision/latest?cb=20241227134639" title="">
+<img alt="" class="pi-image-thumbnail" data-image-key="BOYNEXTDOOR_Taesan_Oneulman_I_Love_You_concept_photo_2.webp" data-image-name="BOYNEXTDOOR Taesan Oneulman I Love You concept photo 2.webp" data-relevant="1" height="180" src="https://static.wikia.nocookie.net/kpop/images/b/b9/BOYNEXTDOOR_Taesan_Oneulman_I_Love_You_concept_photo_2.webp/revision/latest/scale-to-width-down/267?cb=20241227134639" srcset="https://static.wikia.nocookie.net/kpop/images/b/b9/BOYNEXTDOOR_Taesan_Oneulman_I_Love_You_concept_photo_2.webp/revision/latest/scale-to-width-down/267?cb=20241227134639 1x, https://static.wikia.nocookie.net/kpop/images/b/b9/BOYNEXTDOOR_Taesan_Oneulman_I_Love_You_concept_photo_2.webp/revision/latest/scale-to-width-down/536?cb=20241227134639 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Concept photo for 2025 Season's Greetings &lt;Page of MONSTA X&gt;</figcaption>
+<figcaption class="pi-item-spacing pi-caption">Concept photo for "<a href="/wiki/If_I_Say,_I_Love_You" title="If I Say, I Love You">If I Say, I Love You</a>"</figcaption>
 </figure>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
 <h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">Daniel <span style="font-size:85%;">(English name)</span></div>
+<div class="pi-data-value pi-font">kanz <span style="font-size:85%;">(nickname)</span><br/>gotae <span style="font-size:85%;">(nickname)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
 <h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Im Chang-kyun (임창균)</div>
+<div class="pi-data-value pi-font">Han Dong-min (한동민)</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
 <h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">January 26, 1996<span style="display:none"> (<span class="bday">1996-01-26</span>)</span><span class="noprint"> (age 29)</span></div>
+<div class="pi-data-value pi-font">August 10, 2004<span style="display:none"> (<span class="bday">2004-08-10</span>)</span><span class="noprint"> (age 20)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
 <h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">Suwon, Gyeonggi-do, South Korea<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hometown">
-<h3 class="pi-data-label pi-secondary-font">Hometown</h3>
-<div class="pi-data-value pi-font">Gwangsan-gu, Gwangju, South Korea</div>
+<div class="pi-data-value pi-font">Hwajeong-dong, Seo-gu, Gwangju, South Korea</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
 <h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">175 cm (5 ft 9 in)</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
-<h3 class="pi-data-label pi-secondary-font">Weight</h3>
-<div class="pi-data-value pi-font">62 kg (137 lb)</div>
+<div class="pi-data-value pi-font">181 cm (5 ft 11 in)</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
 <h3 class="pi-data-label pi-secondary-font">Blood type</h3>
-<div class="pi-data-value pi-font">O</div>
+<div class="pi-data-value pi-font">A</div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
 <h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Singer, rapper, songwriter</div>
+<div class="pi-data-value pi-font">Singer, rapper, dancer, producer, songwriter</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
 <h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">May 14, 2015 <span style="font-size:85%;">(MONSTA X)</span><br/>August 6, 2016 <span style="font-size:85%;">(Y TEEN)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="solo_debut">
-<h3 class="pi-data-label pi-secondary-font">Solo debut</h3>
-<div class="pi-data-value pi-font">February 19, 2021</div>
+<div class="pi-data-value pi-font">May 30, 2023</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
 <h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2015–present</div>
+<div class="pi-data-value pi-font">2023–present</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
 <h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Sony_Music_Entertainment_Korea" title="Sony Music Entertainment Korea">Sony Music Entertainment Korea</a> <span style="font-size:85%;">(2022-present)</span><br/><a href="/wiki/Starship_Entertainment" title="Starship Entertainment">Starship Entertainment</a> <span style="font-size:85%;">(2014-2022)</span><br/><span class="new" data-uncrawlable-url="L3dpa2kvU3BlY2lhbF9LX0VudGVydGFpbm1lbnQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Special K Entertainment (page does not exist)">Special K Entertainment</span> <span style="font-size:85%;">(2013-2014)</span></div>
+<div class="pi-data-value pi-font"><a href="/wiki/KOZ_Entertainment" title="KOZ Entertainment">KOZ Entertainment</a> <span style="font-size:85%;">(2023-present)</span><br/><a href="/wiki/Source_Music" title="Source Music">Source Music</a> <span style="font-size:85%;">(former; trainee)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
 <h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a><br/><a href="/wiki/Y_TEEN" title="Y TEEN">Y TEEN</a><br/><a href="/wiki/Nu%27Bility" title="Nu'Bility">Nu'Bility</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a></div>
 </div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Website</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="website"> <span class="links"><span typeof="mw:File"><a href="https://imnameim.com/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Website_Icon.png" data-image-name="Website Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/b/b0/Website_Icon.png/revision/latest?cb=20230315073045" width="20"/></a></span></span> </td>
-</tr>
-</tbody>
-</table>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.facebook.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Facebook_Icon.png" data-image-name="Facebook Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/8/8f/Facebook_Icon.png/revision/latest?cb=20190807040623" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.instagram.com/imnameim/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>  <span typeof="mw:File"><a href="https://soundcloud.com/im_mme" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="SoundCloud_Icon.png" data-image-name="SoundCloud Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/9/9a/SoundCloud_Icon.png/revision/latest?cb=20190817031414" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://twitter.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="X_Icon.png" data-image-name="X Icon.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/20?cb=20230922164750" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.youtube.com/@IMxSMEK" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <table class="pi-horizontal-group pi-horizontal-group-no-labels">
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://monstax.fandom.com/wiki/I.M" title="w:c:monstax:I.M">MONSTA X Wiki</a> • <a class="extiw" href="https://khiphop.fandom.com/wiki/I.M" title="w:c:khiphop:I.M">K-Hip Hop Wiki</a></p></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://bonedo.fandom.com/wiki/Taesan" title="w:c:bonedo:Taesan">BOYNEXTDOOR Wiki</a></p></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<b>I.M</b> (아이엠) is a South Korean singer-songwriter and rapper under <a href="/wiki/Sony_Music_Entertainment_Korea" title="Sony Music Entertainment Korea">Sony Music Entertainment Korea</a>. He is the maknae of the boy group <a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>, a former member of the project group <a href="/wiki/Y_TEEN" title="Y TEEN">Y TEEN</a>, and a former member of the pre-debut group <a href="/wiki/Nu%27Bility" title="Nu'Bility">Nu'Bility</a>.
-</p><p>He made his official solo debut on February 19, 2021 with his first digital mini album <i><a href="/wiki/Duality" title="Duality">Duality</a></i>.
+<b>Taesan</b> (태산) is a South Korean singer-songwriter, dancer, producer and rapper under <a href="/wiki/KOZ_Entertainment" title="KOZ Entertainment">KOZ Entertainment</a>. He is a member of the boy group <a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a>.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#Pre-debut"><span class="tocnumber">1.1</span> <span class="toctext">Pre-debut</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#2014–2015:_NO.MERCY,_debut_with_MONSTA_X"><span class="tocnumber">1.2</span> <span class="toctext">2014–2015: <i>NO.MERCY</i>, debut with MONSTA X</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#2016–2019:_Mixtapes"><span class="tocnumber">1.3</span> <span class="toctext">2016–2019: Mixtapes</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#2021:_Solo_debut_with_Duality"><span class="tocnumber">1.4</span> <span class="toctext">2021: Solo debut with <i>Duality</i></span></a></li>
-<li class="toclevel-2 tocsection-6"><a href="#2022:_Departure_from_Starship_Entertainment,_new_agency"><span class="tocnumber">1.5</span> <span class="toctext">2022: Departure from Starship Entertainment, new agency</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#2023:_Overdrive"><span class="tocnumber">1.6</span> <span class="toctext">2023: <i>Overdrive</i></span></a></li>
-<li class="toclevel-2 tocsection-8"><a href='#2024:_"Slowly",_Off_The_Beat'><span class="tocnumber">1.7</span> <span class="toctext">2024: "Slowly", <i>Off The Beat</i></span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#2023:_Debut_with_BOYNEXTDOOR"><span class="tocnumber">1.1</span> <span class="toctext">2023: Debut with BOYNEXTDOOR</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-9"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a>
 <ul>
-<li class="toclevel-2 tocsection-10"><a href="#Mini_albums"><span class="tocnumber">2.1</span> <span class="toctext">Mini albums</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#EPs"><span class="tocnumber">2.2</span> <span class="toctext">EPs</span></a></li>
-<li class="toclevel-2 tocsection-12"><a href="#Mixtapes"><span class="tocnumber">2.3</span> <span class="toctext">Mixtapes</span></a></li>
-<li class="toclevel-2 tocsection-13"><a href="#Digital_singles"><span class="tocnumber">2.4</span> <span class="toctext">Digital singles</span></a></li>
-<li class="toclevel-2 tocsection-14"><a href="#Collaborations"><span class="tocnumber">2.5</span> <span class="toctext">Collaborations</span></a></li>
-<li class="toclevel-2 tocsection-15"><a href="#Features"><span class="tocnumber">2.6</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Education"><span class="tocnumber">2.1</span> <span class="toctext">Education</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-16"><a href="#Producing_and_writing_credits"><span class="tocnumber">3</span> <span class="toctext">Producing and writing credits</span></a>
-<ul>
-<li class="toclevel-2 tocsection-17"><a href="#2010s"><span class="tocnumber">3.1</span> <span class="toctext">2010s</span></a></li>
-<li class="toclevel-2 tocsection-18"><a href="#2020s"><span class="tocnumber">3.2</span> <span class="toctext">2020s</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-19"><a href="#Concerts"><span class="tocnumber">4</span> <span class="toctext">Concerts</span></a>
-<ul>
-<li class="toclevel-2 tocsection-20"><a href="#World_tours"><span class="tocnumber">4.1</span> <span class="toctext">World tours</span></a></li>
-<li class="toclevel-2 tocsection-21"><a href="#Concert_participation"><span class="tocnumber">4.2</span> <span class="toctext">Concert participation</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-22"><a href="#Filmography"><span class="tocnumber">5</span> <span class="toctext">Filmography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-23"><a href="#Dramas"><span class="tocnumber">5.1</span> <span class="toctext">Dramas</span></a></li>
-<li class="toclevel-2 tocsection-24"><a href="#Reality_shows"><span class="tocnumber">5.2</span> <span class="toctext">Reality shows</span></a></li>
-<li class="toclevel-2 tocsection-25"><a href="#Radio_shows"><span class="tocnumber">5.3</span> <span class="toctext">Radio shows</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-26"><a href="#Trivia"><span class="tocnumber">6</span> <span class="toctext">Trivia</span></a></li>
-<li class="toclevel-1 tocsection-27"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-28"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-29"><a href="#Official_links"><span class="tocnumber">9</span> <span class="toctext">Official links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Producing_and_writing_credits"><span class="tocnumber">3</span> <span class="toctext">Producing and writing credits</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Pre-debut">Pre-debut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>From 2013 to 2014, I.M was a member of the pre-debut group <a href="/wiki/Nu%27Bility" title="Nu'Bility">Nu'Bility</a>, formed by Special K Entertainment. Though the group attended a few events and released content, it never made its official debut.<sup class="reference" id="cite_ref-SCMP_2-0"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2023:_Debut_with_BOYNEXTDOOR">2023: Debut with BOYNEXTDOOR</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On May 5, 2023, Taesan was announced as a member of <a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> They made their debut on May 30, 2023 with the single album "<a href="/wiki/Who!" title="Who!">Who!</a>".
 </p>
-<h3><span id="2014.E2.80.932015:_NO.MERCY.2C_debut_with_MONSTA_X"></span><span class="mw-headline" id="2014–2015:_NO.MERCY,_debut_with_MONSTA_X">2014–2015: <i>NO.MERCY</i>, debut with MONSTA X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>He participated in the Mnet reality survival show <i><a href="/wiki/NO.MERCY" title="NO.MERCY">NO.MERCY</a></i>. Introduced at the eighth episode, later than all the other trainees, he ended up being part of the final lineup and as a result debuted with <a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a> on May 15, 2015, with the mini album <i><a href="/wiki/Trespass" title="Trespass">Trespass</a></i>.<sup class="reference" id="cite_ref-SCMP_2-1"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He graduated from Cheongdam High School.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
 </p>
-<h3><span id="2016.E2.80.932019:_Mixtapes"></span><span class="mw-headline" id="2016–2019:_Mixtapes">2016–2019: Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Between 2016 and 2019, I.M released a few mixtapes. The first, called "<a href="/wiki/Who_Am_I_(I.M)" title="Who Am I (I.M)">Who Am I</a>" and featuring <a class="extiw" href="https://kindie.fandom.com/wiki/YESEO" title="w:c:kindie:YESEO">YESEO</a>, was released on May 5, 2016.<sup class="reference" id="cite_ref-first_3-0"><a href="#cite_note-first-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> He also released "<a href="/wiki/Fly_With_Me" title="Fly With Me">Fly With Me</a>" and "<a href="/wiki/Horizon_(I.M)" title="Horizon (I.M)">Horizon</a>" on February 20, 2018 and April 19, 2019 respectively, both with a music video.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> In 2019 he also recorded an audiobook of Oscar Wilde's <i>The Happy Prince</i> for NAVER.<sup class="reference" id="cite_ref-Audiobook_6-0"><a href="#cite_note-Audiobook-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span class="mw-headline" id="2021:_Solo_debut_with_Duality">2021: Solo debut with <i>Duality</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>In June 2020, I.M mentioned he was interested in releasing a solo album eventually.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> In January 2021, Starship announced that I.M would have his first official solo release at the end of February.<sup class="reference" id="cite_ref-first_3-1"><a href="#cite_note-first-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> The first poster was released on February 7, revealing that I.M's solo debut would be on February 19 with a digital mini album titled <i><a href="/wiki/Duality" title="Duality">Duality</a></i>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> The album is deeply personal, and shows a side of him different to the one he shows when with MONSTA X. As its title hints, the songs evoke various kinds of duality, like, for example, the one between the illusion of happiness and trying to convince yourself you're fine when in reality you're in pain, and they explore intense feelings, both positive and negative.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span id="2022:_Departure_from_Starship_Entertainment.2C_new_agency"></span><span class="mw-headline" id="2022:_Departure_from_Starship_Entertainment,_new_agency">2022: Departure from Starship Entertainment, new agency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On August 8, Starship Entertainment released a statement announcing that all of the MONSTA X members, except I.M, renewed their contracts. I.M decided to not renew his contract but he will continue to participate in the group's future plans.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
-</p><p>On November 15, I.M signed an exclusive contract with <a href="/wiki/Sony_Music_Entertainment_Korea" title="Sony Music Entertainment Korea">Sony Music Entertainment Korea</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span class="mw-headline" id="2023:_Overdrive">2023: <i>Overdrive</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On April 19, I.M launched a new YouTube channel hinting at an upcoming solo return. Sony Music, also announced that they would be launching a new official website on May 16.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
-</p><p>On May 16, it was announced that he will be releasing a new EP titled <i><a href="/wiki/Overdrive_(I.M)" title="Overdrive (I.M)">Overdrive</a></i> on June 23.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span id="2024:_.22Slowly.22.2C_Off_The_Beat"></span><span class="mw-headline" id='2024:_"Slowly",_Off_The_Beat'>2024: "Slowly", <i>Off The Beat</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On January 12, 2024, I.M announced that he will release a digital single on January 23.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup> On January 15, the title was revealed to be "<a href="/wiki/Slowly_(I.M)" title="Slowly (I.M)">Slowly</a>".<sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup>
-</p><p>On March 12, it was reported that I.M will be making a comeback in April.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup> The next day, it was announced that he will be releasing his second EP <i><a href="/wiki/Off_The_Beat" title="Off The Beat">Off The Beat</a></i> on April 3.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
-</p>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="col-break">
-<tbody><tr>
-<td style="width:50%;" valign="top">
-<h3><span class="mw-headline" id="Mini_albums">Mini albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Duality" title="Duality">Duality</a></i> (2021)</li></ul>
-<h3><span class="mw-headline" id="EPs">EPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Overdrive_(I.M)" title="Overdrive (I.M)">Overdrive</a></i> (2023)</li>
-<li><i><a href="/wiki/Off_The_Beat" title="Off The Beat">Off The Beat</a></i> (2024)</li></ul>
-<h3><span class="mw-headline" id="Mixtapes">Mixtapes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Who_Am_I_(I.M)" title="Who Am I (I.M)">Who Am I</a>" (2016)</li>
-<li>"<a href="/wiki/Fly_With_Me" title="Fly With Me">Fly With Me</a>" (2018)</li>
-<li>"<a href="/wiki/Horizon_(I.M)" title="Horizon (I.M)">Horizon</a>" (2019)</li></ul>
-</td>
-<td style="width:50%;" valign="top">
-<h3><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Loop_(I.M)" title="Loop (I.M)">Loop</a>" (2021)</li>
-<li>"<a href="/wiki/Slowly_(I.M)" title="Slowly (I.M)">Slowly</a>" (2024)</li></ul>
-<h3><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Madeleine_(I.M_%26_BrotherSu)" title="Madeleine (I.M &amp; BrotherSu)">Madeleine</a>" <small>(with <a href="/wiki/BrotherSu" title="BrotherSu">BrotherSu</a>)</small> (2016)</li></ul>
-<h3><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a class="extiw" href="https://en.wikipedia.org/wiki/ELHAE" title="wikipedia:ELHAE">Elhae</a> - "Need To Know" (2020)</li>
-<li><a href="/wiki/Heize" title="Heize">Heize</a> - "<a href="/wiki/Undo" title="Undo">Distance</a>" (2022)</li>
-<li><a href="/wiki/Moon_Sujin" title="Moon Sujin">Moon Sujin</a> - "<span class="new" data-uncrawlable-url="L3dpa2kvUnVubmluJTI3XyhNb29uX1N1amluKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Runnin' (Moon Sujin) (page does not exist)">Runnin'</span>" (2024)</li></ul>
-<p>
-</p>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup></li></ul>
-<h3><span class="mw-headline" id="2010s">2010s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable mw-collapsible mw-collapsed" style="text-align:center;">
+<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li></ul>
+<table class="wikitable" style="text-align:center;">
 <tbody><tr>
 <th align="center">Artist
 </th>
@@ -2659,752 +2544,166 @@
 </th>
 <th align="center">Type
 </th></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2015
-</th></tr>
-<tr>
-<td><b>I.M</b> (Him), Hyungwon, &amp; Jooheon
-</td>
-<td>"Interstellar"
-</td>
-<td>"<span class="new" data-uncrawlable-url="L3dpa2kvTk8uTUVSQ1lfUGFydC40P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="NO.MERCY Part.4 (page does not exist)">NO.MERCY Part.4</span>"
-</td>
-<td rowspan="9">Writing
-</td></tr>
-<tr>
-<td rowspan="8"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"No Exit"
-</td>
-<td rowspan="4"><i><a href="/wiki/Trespass" title="Trespass">Trespass</a></i>
-</td></tr>
-<tr>
-<td>"One Love"
-</td></tr>
-<tr>
-<td>"Steal Your Heart"
-</td></tr>
-<tr>
-<td>"Blue Moon"
-</td></tr>
-<tr>
-<td>"Rush"
-</td>
-<td rowspan="4"><i><a href="/wiki/Rush_(MONSTA_X)" title="Rush (MONSTA X)">Rush</a></i>
-</td></tr>
-<tr>
-<td>"Hero"
-</td></tr>
-<tr>
-<td>"Perfect Girl"
-</td></tr>
-<tr>
-<td>"Broken Heart"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2016
-</th></tr>
-<tr>
-<td rowspan="12"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"<a href="/wiki/Ex_Girl" title="Ex Girl">Ex Girl</a>"
-</td>
-<td rowspan="6"><i><a href="/wiki/The_Clan_Part.1_Lost" title="The Clan Part.1 Lost">The Clan Part.1 Lost</a></i>
-</td>
-<td rowspan="13">Writing
-</td></tr>
-<tr>
-<td>"All In"
-</td></tr>
-<tr>
-<td>"Stuck"
-</td></tr>
-<tr>
-<td>"Sweetheart"
-</td></tr>
-<tr>
-<td>"Unfair Love"
-</td></tr>
-<tr>
-<td>"Because of U"
-</td></tr>
-<tr>
-<td>"Fighter"
-</td>
-<td rowspan="6"><i><a href="/wiki/The_Clan_Part.2_Guilty" title="The Clan Part.2 Guilty">The Clan Part.2 Guilty</a></i>
-</td></tr>
-<tr>
-<td>"Be Quiet"
-</td></tr>
-<tr>
-<td>"Blind"
-</td></tr>
-<tr>
-<td>"Queen"
-</td></tr>
-<tr>
-<td>"White Love"
-</td></tr>
-<tr>
-<td>"Roller Coaster"
-</td></tr>
-<tr>
-<td><b>I.M</b> and Brother Su
-</td>
-<td colspan="2">"<a href="/wiki/Madeleine_(I.M_%26_BrotherSu)" title="Madeleine (I.M &amp; BrotherSu)">Madeleine</a>"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2017
-</th></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Ready or Not"
-</td>
-<td rowspan="10"><i><a href="/wiki/The_Clan_Part_2.5:_The_Final_Chapter_%27Beautiful%27" title="The Clan Part 2.5: The Final Chapter 'Beautiful'">The Clan Part 2.5: The Final Chapter 'Beautiful'</a></i>
-</td>
-<td rowspan="20">Writing
-</td></tr>
-<tr>
-<td>"Beautiful"
-</td></tr>
-<tr>
-<td>"Incomparable"
-</td></tr>
-<tr>
-<td>"Need U"
-</td></tr>
-<tr>
-<td>"Oi"
-</td></tr>
-<tr>
-<td>"Miss You"
-</td></tr>
-<tr>
-<td>"Calm Down"
-</td></tr>
-<tr>
-<td>"All I Do"
-</td></tr>
-<tr>
-<td>"Last Page"
-</td></tr>
-<tr>
-<td>"I'll Be There"
-</td></tr>
-<tr>
-<td rowspan="11"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Shine Forever"
-</td>
-<td rowspan="2"><i><a href="/wiki/Shine_Forever" title="Shine Forever">Shine Forever</a></i>
-</td></tr>
-<tr>
-<td>"Gravity"
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Newton" title="Newton">Newton</a>"
-</td></tr>
-<tr>
-<td>"Dramarama"
-</td>
-<td rowspan="7"><i><a href="/wiki/The_Code_(MONSTA_X)" title="The Code (MONSTA X)">The Code</a></i>
-</td></tr>
-<tr>
-<td>"Now Or Never"
-</td></tr>
-<tr>
-<td>"In Time"
-</td></tr>
-<tr>
-<td>"From Zero"
-</td></tr>
-<tr>
-<td>"X"
-</td></tr>
-<tr>
-<td>"Tropical Night"
-</td></tr>
-<tr>
-<td>"Déjà Vu"
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Lonely_Christmas_(MONSTA_X)" title="Lonely Christmas (MONSTA X)">Lonely Christmas</a>"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2018
-</th></tr>
-<tr>
-<td rowspan="7"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Jealousy"
-</td>
-<td rowspan="7"><i><a href="/wiki/The_Connect_:_Dejavu" title="The Connect : Dejavu">The Connect : Dejavu</a></i>
-</td>
-<td rowspan="11">Writing
-</td></tr>
-<tr>
-<td>"Destroyer"
-</td></tr>
-<tr>
-<td>"Fallin'"
-</td></tr>
-<tr>
-<td>"Crazy in Love"
-</td></tr>
-<tr>
-<td>"Lost in the Dream"
-</td></tr>
-<tr>
-<td>"If Only"
-</td></tr>
-<tr>
-<td>"Special"
-</td></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Underwater"
-</td>
-<td rowspan="9"><i><a href="/wiki/Take.1_Are_You_There%3F" title="Take.1 Are You There?">Take.1 Are You There?</a></i>
-</td></tr>
-<tr>
-<td>"Shoot Out"
-</td></tr>
-<tr>
-<td>"Heart Attack"
-</td></tr>
-<tr>
-<td>"I Do Love U"
-</td></tr>
-<tr>
-<td>"Mohae"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Oh My!
-</td>
-<td rowspan="5">Writing
-</td></tr>
-<tr>
-<td>"Myself"
-</td></tr>
-<tr>
-<td>"By My Side"
-</td></tr>
-<tr>
-<td>"Spotlight (Korean Ver.)
-</td></tr>
-<tr>
-<td>"Shoot Out (English Ver.)
-</td>
-<td>"<a href="/wiki/Shoot_Out_(English_single)" title="Shoot Out (English single)">Shoot Out</a>"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2019
-</th></tr>
-<tr>
-<td rowspan="9"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Alligator"
-</td>
-<td rowspan="9"><i><a href="/wiki/Take.2_We_Are_Here" title="Take.2 We Are Here">Take.2 We Are Here</a></i>
-</td>
-<td rowspan="9">Writing
-</td></tr>
-<tr>
-<td>"Ghost"
-</td></tr>
-<tr>
-<td>"Play It Cool"
-</td></tr>
-<tr>
-<td>"No Reason"
-</td></tr>
-<tr>
-<td>"Give Me Dat"
-</td></tr>
-<tr>
-<td>"Turbulence"
-</td></tr>
-<tr>
-<td>"Rodeo"
-</td></tr>
-<tr>
-<td>"Stealer"
-</td></tr>
-<tr>
-<td>"Party Time"
-</td></tr>
-<tr>
-<td rowspan="2"><b>I.M</b> (Himself)
-</td>
-<td>"Horizon"
-</td>
-<td rowspan="2">"<a href="/wiki/Horizon_(I.M)" title="Horizon (I.M)">Horizon</a>"
-</td>
-<td>Writing<br/>Composing
-</td></tr>
-<tr>
-<td>"Scent"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Alligator (Japanese Ver.)
-</td>
-<td>"<a href="/wiki/Alligator" title="Alligator">Alligator</a>"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td rowspan="10"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td colspan="2">"<a href="/wiki/Who_Do_U_Love%3F" title="Who Do U Love?">Who Do U Love?</a>"
-</td>
-<td>Writing<br/>Composing
-</td></tr>
-<tr>
-<td>"Breathe For You"
-</td>
-<td>"<a href="/wiki/Puppy_Day_(with_TTG)_OST" title="Puppy Day (with TTG) OST">Puppy Day (with TTG) OST</a>"
-</td>
-<td rowspan="3">Writing
-</td></tr>
-<tr>
-<td>"Follow"
-</td>
-<td rowspan="7"><i><a href="/wiki/Follow_:_Find_You" title="Follow : Find You">Follow : Find You</a></i>
-</td></tr>
-<tr>
-<td>"Monsta Truck"
-</td></tr>
-<tr>
-<td>"U R"
-</td>
-<td>Writing<br/>Composing
-</td></tr>
-<tr>
-<td>"Disaster"
-</td>
-<td rowspan="4">Writing
-</td></tr>
-<tr>
-<td>"Burn It Up"
-</td></tr>
-<tr>
-<td>"Mirror"
-</td></tr>
-<tr>
-<td>"See You Again"
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Middle_of_the_Night" title="Middle of the Night">Middle of the Night</a>"
-</td>
-<td>Writing<br/>Composing
-</td></tr></tbody></table>
-<h3><span class="mw-headline" id="2020s">2020s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<table class="wikitable mw-collapsible mw-collapsed" style="text-align:center;">
-<tbody><tr>
-<th align="center">Artist
-</th>
-<th align="center">Song
-</th>
-<th align="center">Album
-</th>
-<th align="center">Type
-</th></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2020
-</th></tr>
-<tr>
-<td><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Beside U"
-</td>
-<td><i><a href="/wiki/All_About_Luv" title="All About Luv">All About Luv</a></i>
-</td>
-<td rowspan="2">Writing<br/>Composing
-</td></tr>
-<tr>
-<td><a class="extiw" href="https://en.wikipedia.org/wiki/ELHAE" title="wikipedia:ELHAE">Elhae</a>
-</td>
-<td>"Need to Know"
-</td>
-<td>"Need to Know"
-</td></tr>
-<tr>
-<td rowspan="7"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Fantasia"
-</td>
-<td rowspan="7"><i><a href="/wiki/Fantasia_X" title="Fantasia X">Fantasia X</a></i>
-</td>
-<td rowspan="2">Writing
-</td></tr>
-<tr>
-<td>"Flow"
-</td></tr>
-<tr>
-<td>"Zone"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Chaotic"
-</td>
-<td rowspan="11">Writing
-</td></tr>
-<tr>
-<td>"Beautiful Night"
-</td></tr>
-<tr>
-<td>"It Ain't Over"
-</td></tr>
-<tr>
-<td>"Stand Up"
-</td></tr>
-<tr>
-<td rowspan="8"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Love Killa"
-</td>
-<td rowspan="8"><i><a href="/wiki/Fatal_Love" title="Fatal Love">Fatal Love</a></i>
-</td></tr>
-<tr>
-<td>"Gasoline"
-</td></tr>
-<tr>
-<td>"Thriller"
-</td></tr>
-<tr>
-<td>"Guess Who"
-</td></tr>
-<tr>
-<td>"Nobody Else"
-</td></tr>
-<tr>
-<td>"Beastmode"
-</td></tr>
-<tr>
-<td>"Stand Together"
-</td></tr>
-<tr>
-<td>"Night View"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2021
-</th></tr>
-<tr>
-<td rowspan="5"><b>I.M</b> (Himself)
-</td>
-<td>"God Damn"
-</td>
-<td rowspan="5"><i><a href="/wiki/Duality" title="Duality">Duality</a></i>
-</td>
-<td rowspan="5">Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Howlin'"
-</td></tr>
-<tr>
-<td>"Burn"
-</td></tr>
-<tr>
-<td>"Happy to Die"
-</td></tr>
-<tr>
-<td>"Flower-ed"
-</td></tr>
-<tr>
-<td rowspan="7"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Gambler"
-</td>
-<td rowspan="6"><i><a href="/wiki/One_of_a_Kind_(MONSTA_X)" title="One of a Kind (MONSTA X)">One of a Kind</a></i>
-</td>
-<td rowspan="4">Writing
-</td></tr>
-<tr>
-<td>"Heaven"
-</td></tr>
-<tr>
-<td>"Addicted"
-</td></tr>
-<tr>
-<td>"Secrets"
-</td></tr>
-<tr>
-<td>"Rotate"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Livin' It Up (Korean Ver.)"
-</td>
-<td rowspan="2">Writing
-</td></tr>
-<tr>
-<td colspan="2">"<a href="/wiki/Kiss_Or_Death" title="Kiss Or Death">Kiss Or Death</a>"
-</td></tr>
-<tr>
-<td><strong class="mw-selflink selflink">I.M</strong>
-</td>
-<td colspan="2">"<a href="/wiki/Loop_(I.M)" title="Loop (I.M)">Loop</a>"
-</td>
-<td>Writting<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td rowspan="7"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Rush Hour"
-</td>
-<td rowspan="7"><i><a href="/wiki/No_Limit_(MONSTA_X)" title="No Limit (MONSTA X)">No Limit</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"Autobahn"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Ride with U"
-</td>
-<td rowspan="2">Writing
-</td></tr>
-<tr>
-<td>"Got Me in Chains"
-</td></tr>
-<tr>
-<td>"Just Love"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
-<tr>
-<td>"Mercy"
-</td>
-<td rowspan="2">Writing
-</td></tr>
-<tr>
-<td>"I Got Love"
-</td></tr>
-<tr>
-<th colspan="4" style="text-align:center;">2022
-</th></tr>
-<tr>
-<td rowspan="4"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a>
-</td>
-<td>"Love"
-</td>
-<td rowspan="4"><i><a href="/wiki/Shape_of_Love" title="Shape of Love">Shape of Love</a></i>
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"Wildfire"
-</td>
-<td>Writing<br/>Composing
-</td></tr>
-<tr>
-<td>"Love You"
-</td>
-<td>Writing
-</td></tr>
-<tr>
-<td>"And"
-</td>
-<td>Writing<br/>Composing<br/>Arranging
-</td></tr>
 <tr>
 <th colspan="4" style="text-align:center;">2023
 </th></tr>
 <tr>
-<td rowspan="6"><strong class="mw-selflink selflink">I.M</strong>
+<td rowspan="5"><a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a>
 </td>
-<td>"Overdrive"
+<td>"But I Like You"
 </td>
-<td rowspan="6"><i><a href="/wiki/Overdrive_(I.M)" title="Overdrive (I.M)">Overdrive</a></i>
+<td rowspan="2">"<a href="/wiki/Who!" title="Who!">Who!</a>"
 </td>
-<td rowspan="6">Writing<br/>Composing
+<td>Writing<br/>Composing
 </td></tr>
 <tr>
-<td>"Blame"
+<td>"Serenade"
+</td>
+<td>Writing
 </td></tr>
 <tr>
-<td>"Dumb"
+<td>"Crying"
+</td>
+<td rowspan="3"><i><a href="/wiki/Why.." title="Why..">Why..</a></i>
+</td>
+<td rowspan="3">Writing<br/>Composing
 </td></tr>
 <tr>
-<td>"Habit"
+<td>"But Sometimes"
 </td></tr>
 <tr>
-<td>"More"
-</td></tr>
-<tr>
-<td>"Not Sorry"
+<td>"ABCDLOVE"
 </td></tr>
 <tr>
 <th colspan="4" style="text-align:center;">2024
 </th></tr>
 <tr>
-<td rowspan="7"><strong class="mw-selflink selflink">I.M</strong>
+<td rowspan="14"><a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a>
 </td>
-<td colspan="2">"<a href="/wiki/Slowly_(I.M)" title="Slowly (I.M)">Slowly</a>"
+<td>"Amnesia"
 </td>
-<td rowspan="4">Writing<br/>Composing
-</td></tr>
-<tr>
-<td>"Lure"
+<td rowspan="6"><i><a href="/wiki/How%3F" title="How?">How?</a></i>
 </td>
-<td rowspan="6"><i><a href="/wiki/Off_The_Beat" title="Off The Beat">Off The Beat</a></i>
+<td rowspan="8">Writing<br/>Composing
 </td></tr>
 <tr>
-<td>"Bust It"
+<td>"So Let's Go See The Stars"
 </td></tr>
 <tr>
-<td>"XO"
+<td>"Earth, Wind, &amp; Fire"
 </td></tr>
 <tr>
-<td>"Skyline"
+<td>"Life is Cool"
+</td></tr>
+<tr>
+<td>"Dear. My Darling"
+</td></tr>
+<tr>
+<td>"Earth, Wind, &amp; Fire (English ver.)"
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Earth,_Wind_%26_Fire_(Japanese_Ver.)" title="Earth, Wind &amp; Fire (Japanese Ver.)">Earth, Wind &amp; Fire (Japanese Ver.)</a>"
 </td>
-<td>Writing<br/>Composing<br/>Arranging
+<td rowspan="2">"<a href="/wiki/And," title="And,">And,</a>"
 </td></tr>
 <tr>
-<td>"MMI"
+<td>"But Sometimes (Japanese Ver.)"
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Dangerous_(BOYNEXTDOOR)" title="Dangerous (BOYNEXTDOOR)">Dangerous</a>"
 </td>
-<td rowspan="2">Writing<br/>Composing
+<td rowspan="6"><i><a href="/wiki/19.99" title="19.99">19.99</a></i>
+</td>
+<td rowspan="6">Writing<br/>Composing
 </td></tr>
 <tr>
-<td>"Nbdy"
+<td>"Gonna Be A Rock"
+</td></tr>
+<tr>
+<td>"Nice Guy
+</td></tr>
+<tr>
+<td>"20"
+</td></tr>
+<tr>
+<td>"Call Me"
+</td></tr>
+<tr>
+<td>"Nice Guy (English Ver.)"
 </td></tr></tbody></table>
-<h2><span class="mw-headline" id="Concerts">Concerts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="World_tours">World tours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><a href="/wiki/I.M_World_Tour_2024_%27Off_The_Beat%27" title="I.M World Tour 2024 'Off The Beat'">I.M World Tour 2024 &lt;Off The Beat&gt;</a> (2024)<sup class="reference" id="cite_ref-19"><a href="#cite_note-19"><span class="cite-bracket">[</span>19<span class="cite-bracket">]</span></a></sup></li></ul>
-<h3><span class="mw-headline" id="Concert_participation">Concert participation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D21&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>Tone &amp; Music Festival 2024 (2024)<sup class="reference" id="cite_ref-20"><a href="#cite_note-20"><span class="cite-bracket">[</span>20<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D22&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Dramas">Dramas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D23&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i>High-end Crush</i> (MBN, 2015)</li></ul>
-<h3><span class="mw-headline" id="Reality_shows">Reality shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D24&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/NO.MERCY" title="NO.MERCY">NO.MERCY</a></i> (Mnet, 2014–2015)</li></ul>
-<h3><span class="mw-headline" id="Radio_shows">Radio shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D25&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a class="extiw" href="https://en.wikipedia.org/wiki/en:Kiss_the_Radio" title="wikipedia:en:Kiss the Radio">Kiss the Radio</a></i> (KBS Cool FM, 2024–present)<sup class="reference" id="cite_ref-21"><a href="#cite_note-21"><span class="cite-bracket">[</span>21<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D26&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>He’s known for his charming voice and can be considered the "voice" of the group.<sup class="reference" id="cite_ref-SCMP_2-2"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-Audiobook_6-1"><a href="#cite_note-Audiobook-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li>
-<li>He traveled a lot during his childhood as his father changed work.<sup class="reference" id="cite_ref-SCMP_2-3"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> He lived in Israel for four years and in the United States for three.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22"><span class="cite-bracket">[</span>22<span class="cite-bracket">]</span></a></sup></li>
-<li>Fluent in English, he acts as the main representative when MONSTA X travels overseas to English-speaking countries.<sup class="reference" id="cite_ref-SCMP_2-4"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23"><span class="cite-bracket">[</span>23<span class="cite-bracket">]</span></a></sup></li>
-<li>He used to want to be a scientist, like his father.<sup class="reference" id="cite_ref-SCMP_2-5"><a href="#cite_note-SCMP-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D27&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dd><i>Main article: <a href="/wiki/I.M/Gallery" title="I.M/Gallery">I.M/Gallery</a></i></dd></dl>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D28&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:auto; height:230px; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He attended Cheongdam High School.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup></li>
+<li>He trained for 7 years, starting in 7th grade.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
+<li>He is the only member of BOYNEXTDOOR who wasn't born in a month with the "-ber" suffix.</li>
+<li>He was born on the exact same day, month and year as <a href="/wiki/NINE.i" title="NINE.i">NINE.i</a>'s <a href="/wiki/Jiho_(NINE.i)" title="Jiho (NINE.i)">Jiho</a> and <a href="/wiki/XG" title="XG">XG</a>'s <a href="/wiki/Maya_(XG)" title="Maya (XG)">Maya</a>.</li>
+<li>He is friends with <a href="/wiki/Hong_Sung_Min" title="Hong Sung Min">Hong Sung Min</a>. They attended the same school.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li>
+<li>He tends to be shy.<sup class="reference" id="cite_ref-ytprofile_7-0"><a href="#cite_note-ytprofile-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li>
+<li>He usually takes a lot of photos and videos because every moment can become a precious memory.<sup class="reference" id="cite_ref-ytprofile_7-1"><a href="#cite_note-ytprofile-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li>
+<li>He likes to work on his own music.<sup class="reference" id="cite_ref-ytprofile_7-2"><a href="#cite_note-ytprofile-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li>
+<li>Taesan likes to customize items to express his uniqueness.<sup class="reference" id="cite_ref-ytprofile_7-3"><a href="#cite_note-ytprofile-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup></li>
+<li>His MBTI type used to be ENFP until he was in ninth grade, but now he's an INTJ.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup></li>
+<li>Taesan's favorite band is <a class="external text" href="https://en.wikipedia.org/wiki/Oasis_(band)" rel="nofollow noreferrer noopener" target="_blank">Oasis</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Taesan/Gallery" title="Taesan/Gallery">Taesan/Gallery</a></i></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FTaesan%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
-<div class="reflist references-column-count references-column-count-2" style="font-size: 12px; column-count: 2; -moz-column-count: 2; -webkit-column-count: 2; list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.marieclairekorea.com/tag/%EC%95%84%EC%9D%B4%EC%97%A0/" rel="nofollow noreferrer noopener" target="_blank">Marie Claire Korea: 아이엠</a></span>
+<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/BOYNEXTDOOR_KOZ/status/1654139179641470981" rel="nofollow noreferrer noopener" target="_blank">BOYNEXTDOOR on Twitter (May 5, 2023)</a></span>
 </li>
-<li id="cite_note-SCMP-2"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-SCMP_2-0">2.0</a></sup> <sup><a href="#cite_ref-SCMP_2-1">2.1</a></sup> <sup><a href="#cite_ref-SCMP_2-2">2.2</a></sup> <sup><a href="#cite_ref-SCMP_2-3">2.3</a></sup> <sup><a href="#cite_ref-SCMP_2-4">2.4</a></sup> <sup><a href="#cite_ref-SCMP_2-5">2.5</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.scmp.com/lifestyle/entertainment/article/3078222/meet-im-monsta-x-unwanted-competitor-who-became-global-k" rel="nofollow noreferrer noopener" target="_blank">Meet I.M from Monsta X: the unwanted competitor who became a global K-pop leader</a> South China Morning Post (April 3, 2020). Retrieved on January 20, 2021.</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/04O81O/status/1656702487762714624?s=20" rel="nofollow noreferrer noopener" target="_blank">04O81O on Twitter (May 11,2023)</a></span>
 </li>
-<li id="cite_note-first-3"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-first_3-0">3.0</a></sup> <sup><a href="#cite_ref-first_3-1">3.1</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1449642wpp/monsta-xs-i-m-to-release-first-solo-single-in-february" rel="nofollow noreferrer noopener" target="_blank">MONSTA X’s I.M To Release First Solo Single In February</a> Soompi (January 19, 2021). Retrieved on January 20, 2021.</span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10039192 under Writers &amp; Publishers)</a></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1128127wpp/watch-monsta-xs-m-drops-fly-mixtape-mv" rel="nofollow noreferrer noopener" target="_blank">Watch: MONSTA X’s I.M Drops Captivating “Fly With Me” Mixtape MV</a> Soompi (February 20, 2018). Retrieved on January 20, 2021.</span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/doornextboys/status/1655583090142744576?s=20" rel="nofollow noreferrer noopener" target="_blank">@doornextboys on Twitter</a></span>
 </li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1318523wpp/watch-monsta-xs-i-m-and-elhae-drop-mv-for-mixtape-horizon" rel="nofollow noreferrer noopener" target="_blank">Watch: MONSTA X’s I.M And ELHAE Drop MV For Mixtape “Horizon”</a> Soompi (April 18, 2019). Retrieved on May 17, 2021.</span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.tiktok.com/@ourtaesan/video/7276072719735688453" rel="nofollow noreferrer noopener" target="_blank">ourtaesan on TikTok</a></span>
 </li>
-<li id="cite_note-Audiobook-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-Audiobook_6-0">6.0</a></sup> <sup><a href="#cite_ref-Audiobook_6-1">6.1</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1304690wpp/monsta-xs-i-m-shares-why-he-decided-to-record-his-recent-audiobook" rel="nofollow noreferrer noopener" target="_blank">MONSTA X’s I.M Shares Why He Decided To Record His Recent Audiobook</a> Soompi (February 18, 2019). Retrieved on January 20, 2021.</span>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/04o81o/status/1656702487762714624?s=46" rel="nofollow noreferrer noopener" target="_blank">@04o81o on Twitter</a></span>
 </li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.forbes.com/sites/hughmcintyre/2020/06/18/monsta-x-member-im-on-his-solo-ambitions-i-hope-to-have-my-own-album-as-soon-as-possible/?sh=55ad650c63a7" rel="nofollow noreferrer noopener" target="_blank">Monsta X Member I.M On His Solo Ambitions: ‘I Hope To Have My Own Album As Soon As Possible’</a> Forbes (June 18, 2020). Retrieved on January 20, 2021.</span>
+<li id="cite_note-ytprofile-7"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-ytprofile_7-0">7.0</a></sup> <sup><a href="#cite_ref-ytprofile_7-1">7.1</a></sup> <sup><a href="#cite_ref-ytprofile_7-2">7.2</a></sup> <sup><a href="#cite_ref-ytprofile_7-3">7.3</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=9oHqlOPGQMQ" rel="nofollow noreferrer noopener" target="_blank">Who’s There? l Hello World, This is TAESAN 🎧📚 - BOYNEXTDOOR (보이넥스트도어)</a></span>
 </li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.hellokpop.com/news/monsta-x-im-duality-first-solo-mini-album/" rel="nofollow noreferrer noopener" target="_blank">MONSTA X's I.M To Serve His Magnificent "Duality" In First Solo Digital Mini Album</a> HelloKpop (February 7, 2021). Retrieved on February 7, 2021.</span>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="https://magazine.weverse.io/article/view?lang=en&amp;num=775" rel="nofollow noreferrer noopener" target="_blank">TAESAN: “I want somebody to remember us as part of their youth”</a></span>
 </li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.teenvogue.com/story/monsta-x-im-solo-mini-album-duality-interview" rel="nofollow noreferrer noopener" target="_blank">Monsta X’s I.M Unpacks His Solo Mini-Album “Duality”</a> Teen Vogue (February 19, 2021). Retrieved on February 20, 2021.</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1539668wpp/5-monsta-x-members-renew-contracts-with-starship-i-m-to-leave-agency-but-continue-group-activities" rel="nofollow noreferrer noopener" target="_blank">Soompi: 5 MONSTA X Members Renew Contracts With Starship + I.M To Leave Agency But Continue Group Activities</a></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1554342wpp/monsta-xs-i-m-signs-with-sony-music-korea-after-leaving-starship" rel="nofollow noreferrer noopener" target="_blank">Soompi: MONSTA X’s I.M Signs With Sony Music Korea After Leaving Starship</a></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1581102wpp/watch-monsta-xs-i-m-gears-up-for-solo-comeback-with-exciting-logo-motion-teaser" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: MONSTA X’s I.M Gears Up For Solo Comeback With Exciting Logo Motion Teaser</a></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1587697wpp/monsta-xs-i-m-launches-official-solo-social-media-accounts-drops-comeback-teaser" rel="nofollow noreferrer noopener" target="_blank">Soompi: MONSTA X’s I.M Launches Official Solo Social Media Accounts + Drops Comeback Teaser</a></span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/IMxSMEK/status/1745460559745794165" rel="nofollow noreferrer noopener" target="_blank">@IMxSMEK on Twitter (January 12, 2024)</a></span>
-</li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/IMxSMEK/status/1746547722117648586" rel="nofollow noreferrer noopener" target="_blank">@IMxSMEK on Twitter (January 12, 2024)</a></span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external text" href="https://n.news.naver.com/entertain/article/437/0000383439" rel="nofollow noreferrer noopener" target="_blank">(KR) JTBC: [단독]몬스타엑스 아이엠, 4월 솔로 컴백</a></span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1648238wpp/watch-monsta-xs-i-m-announces-solo-comeback-date-with-1st-teaser-for-off-the-beat" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: MONSTA X’s I.M Announces Solo Comeback Date With 1st Teaser For “Off The Beat”</a></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10009195 under Writers &amp; Publishers)</a></span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1656256wpp/monsta-xs-i-m-announces-dates-and-cities-for-2024-world-tour-off-the-beat" rel="nofollow noreferrer noopener" target="_blank">Soompi: MONSTA X's I.M Announces Dates And Cities For 2024 World Tour "Off The Beat"</a></span>
-</li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text">[<a class="external free" href="https://www.instagram.com/p/C57wm0CPYzV" rel="nofollow noreferrer noopener" target="_blank">https://www.instagram.com/p/C57wm0CPYzV</a> @toneandmusicfestival on Instagram (April 19, 2024)</span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a class="external text" href="https://m.entertain.naver.com/article/015/0004999246" rel="nofollow noreferrer noopener" target="_blank">(KR) Hankyung: 몬스타엑스 아이엠, '키스 더 라디오' DJ 발탁</a></span>
-</li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><i>Idol Battle Likes</i> Episode 1</span>
-</li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1419777wpp/monsta-xs-i-m-talks-about-leading-interviews-in-english-collaborating-with-elhae-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: MONSTA X’s I.M Talks About Leading Interviews In English, Collaborating With ELHAE, And More</a></span>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="https://youtu.be/6Xw_QUOj1tI?si=c3V9k5fhYDBuZxeL&amp;t=293" rel="nofollow noreferrer noopener" target="_blank">BOYNEXTDOOR (보이넥스트도어) WHO! Concept Photo Behind The Scenes</a></span>
 </li>
 </ol></div></div>
 </div>
-</div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI.M%3Fveaction%3Dedit%26section%3D29&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://imnameim.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></li>
-<li><a class="external text" href="https://www.facebook.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></li>
-<li><a class="external text" href="https://www.instagram.com/imnameim/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
-<li><a class="external text" href="https://soundcloud.com/im_mme" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></li>
-<li><a class="external text" href="https://twitter.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></li>
-<li><a class="external text" href="https://www.youtube.com/@IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></li></ul>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:linear-gradient(to left, #000000, #09A2D4, #F52A22); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:I.M" title="Template:I.M"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:I.M?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<strong class="mw-selflink selflink">I.M</strong></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Duality" title="Duality">Duality</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">EPs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Overdrive_(I.M)" title="Overdrive (I.M)">Overdrive</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Off_The_Beat" title="Off The Beat">Off The Beat</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mixtapes</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Who_Am_I_(I.M)" title="Who Am I (I.M)">Who Am I</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fly_With_Me" title="Fly With Me">Fly With Me</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Horizon_(I.M)" title="Horizon (I.M)">Horizon</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Loop_(I.M)" title="Loop (I.M)">Loop</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Slowly_(I.M)" title="Slowly (I.M)">Slowly</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Madeleine_(I.M_%26_BrotherSu)" title="Madeleine (I.M &amp; BrotherSu)">Madeleine</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Sony_Music_Entertainment_Korea" title="Sony Music Entertainment Korea">Sony Music Entertainment Korea</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Y_TEEN" title="Y TEEN">Y TEEN</a></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NO.MERCY" title="NO.MERCY">NO.MERCY</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.imnameim.com" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/imnameim" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://soundcloud.com/im_mme" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@IMxSMEK" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
-<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:linear-gradient(to right, #2d8c9e, #00239c, #b0008e); color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:MONSTA_X" title="Template:MONSTA X"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:MONSTA_X?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Shownu" title="Shownu">Shownu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Minhyuk_(MONSTA_X)" title="Minhyuk (MONSTA X)">Minhyuk</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kihyun_(MONSTA_X)" title="Kihyun (MONSTA X)">Kihyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hyungwon" title="Hyungwon">Hyungwon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Joohoney" title="Joohoney">Joohoney</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">I.M</strong><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Wonho_(singer)" title="Wonho (singer)">Wonho</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a class="mw-redirect" href="/wiki/The_Clan_Part_2.5:_The_Final_Chapter_Beautiful" title="The Clan Part 2.5: The Final Chapter Beautiful">The Clan Part 2.5: The Final Chapter Beautiful</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Shine_Forever" title="Shine Forever">Shine Forever</a></i>)</span></span>  •  <span style="white-space:nowrap"><i>The 2nd Album</i> <span style="font-size:85%;">(<i><a href="/wiki/Take.1_Are_You_There%3F" title="Take.1 Are You There?">Take.1 Are You There?</a></i> / <i><a href="/wiki/Take.2_We_Are_Here" title="Take.2 We Are Here">Take.2 We Are Here</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fatal_Love" title="Fatal Love">Fatal Love</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Trespass" title="Trespass">Trespass</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Rush_(MONSTA_X)" title="Rush (MONSTA X)">Rush</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Rush_(MONSTA_X)" title="Rush (MONSTA X)">Hero</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Clan_Part.1_Lost" title="The Clan Part.1 Lost">The Clan Part.1 Lost</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Clan_Part.2_Guilty" title="The Clan Part.2 Guilty">The Clan Part.2 Guilty</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Code_(MONSTA_X)" title="The Code (MONSTA X)">The Code</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Connect_:_Dejavu" title="The Connect : Dejavu">The Connect : Dejavu</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Follow_:_Find_You" title="Follow : Find You">Follow : Find You</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fantasia_X" title="Fantasia X">Fantasia X</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/One_of_a_Kind_(MONSTA_X)" title="One of a Kind (MONSTA X)">One of a Kind</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/No_Limit_(MONSTA_X)" title="No Limit (MONSTA X)">No Limit</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Shape_of_Love" title="Shape of Love">Shape of Love</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Reason_(MONSTA_X)" title="Reason (MONSTA X)">Reason</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Ex_Girl" title="Ex Girl">Ex Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Newton" title="Newton">Newton</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lonely_Christmas_(MONSTA_X)" title="Lonely Christmas (MONSTA X)">Lonely Christmas</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Kiss_Or_Death" title="Kiss Or Death">Kiss Or Death</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/If_with_U" title="If with U">If with U</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Taste_of_Korea" title="Taste of Korea">Taste of Korea</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"Orange Marmalade OST Part.2"</span>  •  <span style="white-space:nowrap">"Shopping King Louie OST Part 7"</span>  •  <span style="white-space:nowrap">"Hello Mr. Right OST"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Puppy_Day_(with_TTG)_OST" title="Puppy Day (with TTG) OST">Puppy Day (with TTG) OST</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Reckless" title="Reckless">Reckless</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Piece" title="Piece">Piece</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Phenomenon" title="Phenomenon">Phenomenon</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Flavors_of_Love" title="Flavors of Love">Flavors of Love</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Hero_(MONSTA_X)" title="Hero (MONSTA X)">Hero</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Beautiful_(MONSTA_X)" title="Beautiful (MONSTA X)">Beautiful</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Spotlight_(MONSTA_X)" title="Spotlight (MONSTA X)">Spotlight</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Livin%27_It_Up" title="Livin' It Up">Livin' It Up</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Shoot_Out_(Japanese_single)" title="Shoot Out (Japanese single)">Shoot Out</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Alligator" title="Alligator">Alligator</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wish_On_the_Same_Sky" title="Wish On the Same Sky">Wish On the Same Sky</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Killa" title="Love Killa">Love Killa</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wanted" title="Wanted">Wanted</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/X-Phenomenon" title="X-Phenomenon">X-Phenomenon</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/All_About_Luv" title="All About Luv">All About Luv</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Dreaming" title="The Dreaming">The Dreaming</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Shoot_Out_(English_single)" title="Shoot Out (English single)">Shoot Out</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Who_Do_U_Love%3F" title="Who Do U Love?">Who Do U Love?</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_U_(MONSTA_X)" title="Love U (MONSTA X)">Love U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Someone%27s_Someone" title="Someone's Someone">Someone's Someone</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Middle_of_the_Night" title="Middle of the Night">Middle of the Night</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/One_Day_(MONSTA_X)" title="One Day (MONSTA X)">One Day</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Starship_Entertainment" title="Starship Entertainment">Starship Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Y_TEEN" title="Y TEEN">Y TEEN</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NO.MERCY" title="NO.MERCY">NO.MERCY</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Shownu_X_Hyungwon" title="Shownu X Hyungwon">Shownu X Hyungwon</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.starship-ent.com/monstax/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="https://monstax-official.com" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/monsta-x" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/OfficialMonstaX" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official_monsta_x" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@monsta_x_514" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/officialmonstax" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/official_mx_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://www.weibo.com/monstax" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://m.youtube.com/channel/UCZvCP6sWj75MwpUP4LVtpNw" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#FD9943; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#FD9943; color:#FFF;;border:none;;"><a href="/wiki/Template:Starship_Entertainment" title="Template:Starship Entertainment"><span style=";background:#FD9943; color:#FFF;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Starship_Entertainment?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#FD9943; color:#FFF;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/Starship_Entertainment" title="Starship Entertainment">Starship Entertainment</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Starship_X" title="Starship X">Starship X</a></span>  •  <span style="white-space:nowrap">King Kong by Starship</span>  •  <span style="white-space:nowrap"><a href="/wiki/Highline_Entertainment" title="Highline Entertainment">Highline Entertainment</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/MONSTA_X" title="MONSTA X">MONSTA X</a> <small>(<a href="/wiki/Shownu_X_Hyungwon" title="Shownu X Hyungwon">Shownu X Hyungwon</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/WJSN" title="WJSN">WJSN</a> <small>(<a href="/wiki/WJSN_CHOCOME" title="WJSN CHOCOME">WJSN CHOCOME</a> • <a href="/wiki/WJSN_THE_BLACK" title="WJSN THE BLACK">WJSN THE BLACK</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/CRAVITY" title="CRAVITY">CRAVITY</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/IVE" title="IVE">IVE</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/KiiiKiii" title="KiiiKiii">KiiiKiii</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/K.Will" title="K.Will">K.Will</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BrotherSu" title="BrotherSu">BrotherSu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kihyun_(MONSTA_X)" title="Kihyun (MONSTA X)">Kihyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Joohoney" title="Joohoney">Joohoney</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SeolA" title="SeolA">SeolA</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/STARSHIPZ" title="STARSHIPZ">STARSHIPZ</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NewKids" title="NewKids">NewKids</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SISTAR" title="SISTAR">SISTAR</a> <small>(<a href="/wiki/SISTAR19" title="SISTAR19">SISTAR19</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/BOYFRIEND_(group)" title="BOYFRIEND (group)">BOYFRIEND</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Project groups</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Y_TEEN" title="Y TEEN">Y TEEN</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/OG_SCHOOL_PROJECT" title="OG SCHOOL PROJECT">OG SCHOOL PROJECT</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/YDPP" title="YDPP">YDPP</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/WJMK" title="WJMK">WJMK</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Duos</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/DUETTO" title="DUETTO">DUETTO</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/MIND_U" title="MIND U">MIND U</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Artists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Hyolyn" title="Hyolyn">Hyolyn</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bora_(SISTAR)" title="Bora (SISTAR)">Bora</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Kwang_Hyun" title="Lee Kwang Hyun">Lee Kwang Hyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Wonho_(singer)" title="Wonho (singer)">Wonho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Soyou" title="Soyou">Soyou</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">I.M</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Luda" title="Luda">Luda</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Dawon_(WJSN)" title="Dawon (WJSN)">Dawon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Xuan_Yi" title="Xuan Yi">Xuan Yi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Cheng_Xiao" title="Cheng Xiao">Cheng Xiao</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mei_Qi" title="Mei Qi">Mei Qi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Godak" title="Godak">Godak</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jeong_Sewoon" title="Jeong Sewoon">Jeong Sewoon</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/Moon_Hyun_Bin" title="Moon Hyun Bin">Moon Hyun Bin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Nayoon" title="Kim Nayoon">Kim Nayoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Tan_(Ciipher)" title="Tan (Ciipher)">Choi Seok Won</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Minjeong_(IOLITE)" title="Minjeong (IOLITE)">Kim Min Jeong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Taeha_(MOMOLAND)" title="Taeha (MOMOLAND)">Taeha</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Cho_Ka_Hyeon" title="Cho Ka Hyeon">Cho Ka Hyeon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Elisia" title="Elisia">Elisia</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://khiphop.fandom.com/wiki/Park_Hyeon-jin" title="w:c:khiphop:Park Hyeon-jin">Park Hyeon Jin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Achillo" title="Achillo">Achillo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ji_Won_(Cherry_Bullet)" title="Ji Won (Cherry Bullet)">Huh Jiwon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Park_Soyoon_(trainee)" title="Park Soyoon (trainee)">Park Soyoon</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://tpop.fandom.com/wiki/Xiong" title="w:c:tpop:Xiong">Xiong</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography<br/><span style="font-size:85%;">(as Starship Planet)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_(single)" title="Starship Planet (single)">Starship Planet</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2012" title="Starship Planet 2012">Starship Planet 2012</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2013" title="Starship Planet 2013">Starship Planet 2013</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2014" title="Starship Planet 2014">Starship Planet 2014</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2015" title="Starship Planet 2015">Starship Planet 2015</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2016" title="Starship Planet 2016">Starship Planet 2016</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2017" title="Starship Planet 2017">Starship Planet 2017</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starship_Planet_2018" title="Starship Planet 2018">Starship Planet 2018</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Projects</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Pepsi_X_Starship_Project" title="Pepsi X Starship Project">Pepsi X Starship Project</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Kakao_Entertainment" title="Kakao Entertainment">Kakao Entertainment</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.starship-ent.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/officialstarship" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/officialstarship/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/starshipent" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/starshipTV/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Taesan?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#000; color:#5FAEC1"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#000; color:#5FAEC1;border:none;;"><a href="/wiki/Template:BOYNEXTDOOR" title="Template:BOYNEXTDOOR"><span style=";background:#000; color:#5FAEC1;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BOYNEXTDOOR?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#000; color:#5FAEC1;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/BOYNEXTDOOR" title="BOYNEXTDOOR">BOYNEXTDOOR</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Sungho_(BOYNEXTDOOR)" title="Sungho (BOYNEXTDOOR)">Sungho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Riwoo_(BOYNEXTDOOR)" title="Riwoo (BOYNEXTDOOR)">Riwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Myung_Jaehyun" title="Myung Jaehyun">Jaehyun</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Taesan</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Leehan" title="Leehan">Leehan</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Woonhak" title="Woonhak">Woonhak</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Why.." title="Why..">Why..</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/How%3F" title="How?">How?</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/19.99" title="19.99">19.99</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Who!" title="Who!">Who!</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Dangerous_(BOYNEXTDOOR)" title="Dangerous (BOYNEXTDOOR)">Dangerous</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/If_I_Say,_I_Love_You" title="If I Say, I Love You">If I Say, I Love You</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/And," title="And,">And,</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Earth,_Wind_%26_Fire_(Japanese_Ver.)" title="Earth, Wind &amp; Fire (Japanese Ver.)">Earth, Wind &amp; Fire (Japanese Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/If_I_Say,_I_Love_You_(Japanese_Ver.)" title="If I Say, I Love You (Japanese Ver.)">If I Say, I Love You (Japanese Ver.)</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/It%27s_Beginning_To_Look_A_Lot_Like_Christmas" title="It's Beginning To Look A Lot Like Christmas">It's Beginning To Look A Lot Like Christmas</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/KOZ_Entertainment" title="KOZ Entertainment">KOZ Entertainment</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://boynextdoor-official.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="https://boynextdoor-official.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BOYNEXTDOOR.official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/BOYNEXTDOOR_official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/BOYNEXTDOOR_KOZ" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/BOYNEXTDOOR_twt" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/BOYNEXTDOOR_JP" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weibo.com/BOYNEXTDOORKOZ" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/boynextdoor/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@BOYNEXTDOOR_official" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315203450
-Cache expiry: 1209600
-Reduced expiry: false
+Cached time: 20250312110511
+Cache expiry: 1688101
+Reduced expiry: true
 Complications: [show‐toc]
-CPU time usage: 0.545 seconds
-Real time usage: 0.874 seconds
-Preprocessor visited node count: 13961/1000000
-Post‐expand include size: 234870/2097152 bytes
-Template argument size: 167869/2097152 bytes
-Highest expansion depth: 25/100
+CPU time usage: 0.176 seconds
+Real time usage: 0.194 seconds
+Preprocessor visited node count: 3896/1000000
+Post‐expand include size: 45241/2097152 bytes
+Template argument size: 32402/2097152 bytes
+Highest expansion depth: 17/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 14481/5000000 bytes
-Lua time usage: 0.019/7.000 seconds
-Lua memory usage: 1726682/52428800 bytes
+Unstrip post‐expand size: 5102/5000000 bytes
+Lua time usage: 0.020/7.000 seconds
+Lua memory usage: 1636132/52428800 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  633.592      1 -total
- 63.73%  403.790     14 Template:Navbox
- 43.40%  274.950      1 Template:Infobox_person
- 17.23%  109.157      1 Template:MONSTA_X
- 15.97%  101.158      1 Template:Navbox_with_collapsible_groups
- 15.53%   98.411     33 Template:List
- 14.55%   92.193      2 Template:Scroll_Box
- 13.59%   86.079     34 Template:Element_List
- 10.45%   66.230      1 Template:Related_Wikis
- 10.43%   66.059      2 Template:Cvt
+100.00%  162.082      1 -total
+ 68.16%  110.470      1 Template:Infobox_person
+ 37.04%   60.035      5 Template:Navbox
+ 23.02%   37.311      1 Template:Related_Wikis
+ 22.52%   36.504      1 Template:Cvt
+ 21.16%   34.293      1 Template:BOYNEXTDOOR
+ 10.21%   16.543      9 Template:List
+  8.03%   13.008      9 Template:Element_List
+  4.99%    8.080      1 Template:Reflist
+  4.58%    7.428      1 Template:Birth_date_and_age
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:30942-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315203450 and revision id 1073931. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:161719-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312110511 and revision id 1163075. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -3416,16 +2715,28 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="1996 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:1996_births" title="Category:1996 births">1996 births</a></span>
+<li class="category normal" data-name="2004 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2004_births" title="Category:2004 births">2004 births</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="January births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:January_births" title="Category:January births">January births</a></span>
+<li class="category normal" data-name="August births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:August_births" title="Category:August births">August births</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 debuts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_debuts" title="Category:2021 debuts">2021 debuts</a></span>
+<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="BOYNEXTDOOR" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:BOYNEXTDOOR" title="Category:BOYNEXTDOOR">BOYNEXTDOOR</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="KOZ Entertainment" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:KOZ_Entertainment" title="Category:KOZ Entertainment">KOZ Entertainment</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Taesan" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Taesan" title="Category:Taesan">Taesan</a></span>
 <span class="tool removeCategory"></span>
 </li>
 <li class="category normal" data-name="Male singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
@@ -3436,32 +2747,8 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Male_rappers" title="Category:Male rappers">Male rappers</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male soloists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a></span>
-<span class="tool removeCategory"></span>
-</li>
 <li class="category normal" data-name="Male songwriters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
 <span class="name"><a href="/wiki/Category:Male_songwriters" title="Category:Male songwriters">Male songwriters</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="MONSTA X" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:MONSTA_X" title="Category:MONSTA X">MONSTA X</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Y TEEN" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Y_TEEN" title="Category:Y TEEN">Y TEEN</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="I.M" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:I.M" title="Category:I.M">I.M</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Nu'Bility" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Nu%27Bility" title="Category:Nu'Bility">Nu'Bility</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Sony Music Entertainment Korea" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Sony_Music_Entertainment_Korea" title="Category:Sony Music Entertainment Korea">Sony Music Entertainment Korea</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -3473,7 +2760,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
 			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
 <div class="wds-collapsible-panel__content" id="collapsible-content-languages">
-<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/I.M">Bahasa Indonesia</a>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/%D0%A2%D1%8D%D1%81%D0%B0%D0%BD">Русский</a>
 </div>
 </div>
 <div class="license-description">
@@ -3654,7 +2941,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9JLk0/dGl0bGU9SS5NJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9UYWVzYW4/dGl0bGU9VGFlc2FuJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
 					View Mobile Site				</a>
 </div>
 </div>

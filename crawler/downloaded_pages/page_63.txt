@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>The Call | Kpop Wiki | Fandom</title>
+<title>[0:Young] | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-The_Call rootpage-The_Call skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-0_Young rootpage-0_Young skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,16 +2353,28 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:2018_variety_shows" title="Category:2018 variety shows">2018 variety shows</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Variety_shows" title="Category:Variety shows">Variety shows</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:The_Call" title="Category:The Call">The Call</a>, <a data-tracking-label="categories-top-more-3" href="/wiki/Category:Mnet" title="Category:Mnet">Mnet</a> </div>
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:DUSTIN-ON" title="Category:DUSTIN-ON">DUSTIN-ON</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<span>and</span>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
+<div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2020_releases" title="Category:2020 releases">2020 releases</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2020_digital_singles" title="Category:2020 digital singles">2020 digital singles</a> </li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 </div>
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">The Call</span> </h1>
+					[0:Young]				</h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2370,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/The_Call?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/0:Young?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/The_Call?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/0:Young?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:The_Call?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:0:Young?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2401,333 +2413,151 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-Variety pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">The Call</h2>
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/d/d4/The_Call_logo.png/revision/latest?cb=20180720172245" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="The_Call_logo.png" data-image-name="The Call logo.png" data-relevant="1" height="244" src="https://static.wikia.nocookie.net/kpop/images/d/d4/The_Call_logo.png/revision/latest?cb=20180720172245" srcset="https://static.wikia.nocookie.net/kpop/images/d/d4/The_Call_logo.png/revision/latest?cb=20180720172245 1x, https://static.wikia.nocookie.net/kpop/images/d/d4/The_Call_logo.png/revision/latest?cb=20180720172245 2x" width="252">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br/>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Part.1
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Part.2
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/9f/Dustin-On_0_Young_album_cover.png/revision/latest?cb=20200817185240" title="Part.1">
+<img alt="Part.1" class="pi-image-thumbnail" data-image-key="Dustin-On 0 Young album cover.png" data-image-name="Dustin-On 0 Young album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/9/9f/Dustin-On_0_Young_album_cover.png/revision/latest/scale-to-width-down/268?cb=20200817185240" srcset="https://static.wikia.nocookie.net/kpop/images/9/9f/Dustin-On_0_Young_album_cover.png/revision/latest/scale-to-width-down/268?cb=20200817185240 1x, https://static.wikia.nocookie.net/kpop/images/9/9f/Dustin-On_0_Young_album_cover.png/revision/latest/scale-to-width-down/536?cb=20200817185240 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Logo</figcaption>
 </figure>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/5/5a/DUSTIN-ON_0_Young_Part.2_album_cover.png/revision/latest?cb=20200917091858" title="Part.2">
+<img alt="Part.2" class="pi-image-thumbnail" data-image-key="DUSTIN-ON 0 Young Part.2 album cover.png" data-image-name="DUSTIN-ON 0 Young Part.2 album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/5/5a/DUSTIN-ON_0_Young_Part.2_album_cover.png/revision/latest/scale-to-width-down/268?cb=20200917091858" srcset="https://static.wikia.nocookie.net/kpop/images/5/5a/DUSTIN-ON_0_Young_Part.2_album_cover.png/revision/latest/scale-to-width-down/268?cb=20200917091858 1x, https://static.wikia.nocookie.net/kpop/images/5/5a/DUSTIN-ON_0_Young_Part.2_album_cover.png/revision/latest/scale-to-width-down/536?cb=20200917091858 2x" width="270"/>
+</a>
+</figure>
+</div>
+</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">[0:Young]</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+<h3 class="pi-data-label pi-secondary-font">Type</h3>
+<div class="pi-data-value pi-font">Mini</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/DUSTIN-ON" title="DUSTIN-ON">DUSTIN-ON</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
+<h3 class="pi-data-label pi-secondary-font">Released</h3>
+<div class="pi-data-value pi-font">August 17, 2020 <span style="font-size:85%;">(Part.1)</span><br/>September 17, 2020 <span style="font-size:85%;">(Part.2)</span></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
+<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
+<div class="pi-data-value pi-font">Download, streaming</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
+<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
+<div class="pi-data-value pi-font">2020</div>
+</div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Variety</div>
+<div class="pi-data-value pi-font">Dance</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="mc">
-<h3 class="pi-data-label pi-secondary-font">MC(s)</h3>
-<div class="pi-data-value pi-font"><span class="new" data-uncrawlable-url="L3dpa2kvWW9vX1NlX1lvb24/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Yoo Se Yoon (page does not exist)">Yoo Se Yoon</span><br/><span class="new" data-uncrawlable-url="L3dpa2kvTGVlX1NhbmdfTWluP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Lee Sang Min (page does not exist)">Lee Sang Min</span></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+<h3 class="pi-data-label pi-secondary-font">Length</h3>
+<div class="pi-data-value pi-font">10:39 <span style="font-size:85%;">(Part.1)</span><br/>6:45 <span style="font-size:85%;">(Part.2)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="cast">
-<h3 class="pi-data-label pi-secondary-font">Cast</h3>
-<div class="pi-data-value pi-font"><span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span><br/><a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0J1bV9Tb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Kim Bum Soo (page does not exist)">Kim Bum Soo</span><br/><a href="/wiki/Wheesung" title="Wheesung">Wheesung</a><br/><a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a><br/><a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a><br/><a href="/wiki/Ailee" title="Ailee">Ailee</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span><br/><a class="mw-redirect" href="/wiki/Chungha" title="Chungha">Chungha</a><br/><a href="/wiki/Hwanhee_(Fly_To_The_Sky)" title="Hwanhee (Fly To The Sky)">Hwanhee</a><br/><a href="/wiki/Gummy" title="Gummy">Gummy</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span><br/><a href="/wiki/Crush_(singer)" title="Crush (singer)">Crush</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvSnVuZ19Jbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Jung In (page does not exist)">Jung In</span><br/><a href="/wiki/Taemin_(SHINee)" title="Taemin (SHINee)">Taemin</a><br/><a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a><br/><a href="/wiki/Gray" title="Gray">Gray</a><br/><a class="extiw" href="https://kindie.fandom.com/wiki/Suran" title="w:c:kindie:Suran">SURAN</a><br/><a href="/wiki/Eddy_Kim" title="Eddy Kim">Eddy Kim</a></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
+<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
+<div class="pi-data-value pi-font"><a class="mw-redirect" href="/wiki/Namoo_Entertainment" title="Namoo Entertainment">LPA Entertainment</a></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="seasons">
-<h3 class="pi-data-label pi-secondary-font">Seasons</h3>
-<div class="pi-data-value pi-font">1</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
+<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
+<div class="pi-data-value pi-font"><span class="new" data-uncrawlable-url="L3dpa2kvVkxFTkRJTkc/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="VLENDING (page does not exist)">VLENDING</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="episodes">
-<h3 class="pi-data-label pi-secondary-font">Episodes</h3>
-<div class="pi-data-value pi-font">8 + 1 (special)</div>
-</div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Release</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="network">
-<h3 class="pi-data-label pi-secondary-font">Network</h3>
-<div class="pi-data-value pi-font">Mnet<br/>tvN <small>(Simulcast)</small></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
-<h3 class="pi-data-label pi-secondary-font">Broadcast from</h3>
-<div class="pi-data-value pi-font">May 4 – June 29, 2018</div>
-</div>
+<section class="pi-item pi-group pi-border-color">
+<table class="pi-horizontal-group">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
+<thead>
+<tr>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="previous">Previous</th>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="next">Next</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">N/A</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">N/A</td>
+</tr>
+</tbody>
+</table>
 </section>
 </aside>
-<i><b>The Call</b></i> (더 콜) is a music variety game show by <span class="new" data-uncrawlable-url="L3dpa2kvTW5ldD9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Mnet (page does not exist)">Mnet</span>. The show started airing on May 4, 2018 and finished on June 29, it was broadcast every Fridays at 8:10pm.
-</p><p>It was created by Lee Seon Young and directed by himself, Lee Chang Kyu and Oh Dae Won.<sup class="reference" id="cite_ref-concept_1-0"><a href="#cite_note-concept-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> The executive producer was Shin Eui Cheol. It is presented by <span class="new" data-uncrawlable-url="L3dpa2kvTGVlX1NhbmdfTWluP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Lee Sang Min (page does not exist)">Lee Sang Min</span> and <span class="new" data-uncrawlable-url="L3dpa2kvWW9vX1NlX1lvb24/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Yoo Se Yoon (page does not exist)">Yoo Se Yoon</span>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
-</p><p>The show follows different South Korean artists as they create music collaborations.<sup class="reference" id="cite_ref-concept_1-1"><a href="#cite_note-concept-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+
+"<b>[0:Young]</b>" is the debut mini album by <a href="/wiki/DUSTIN-ON" title="DUSTIN-ON">DUSTIN-ON</a>. It was released on August 17, 2020 with the second part of the album released on September 17, 2020.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Concept"><span class="tocnumber">1</span> <span class="toctext">Concept</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Episodes"><span class="tocnumber">2</span> <span class="toctext">Episodes</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Results"><span class="tocnumber">3</span> <span class="toctext">Results</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Discogaphy"><span class="tocnumber">4</span> <span class="toctext">Discogaphy</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Trivia"><span class="tocnumber">5</span> <span class="toctext">Trivia</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">6</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Official_links"><span class="tocnumber">8</span> <span class="toctext">Official links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Track_list"><span class="tocnumber">1</span> <span class="toctext">Track list</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Gallery"><span class="tocnumber">2</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Video_links"><span class="tocnumber">4</span> <span class="toctext">Video links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Concept">Concept</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><i>The Call</i> follows different South Korean artists as they create music collaborations. They send "love calls" to a teammate if they want to collaborate. If the "love call" matches between the two artists, it is called a "two-way call", and they will create a collaboration song together.
-</p><p>All remaining artists without a "two-way call" automatically form a team or they will use their "last call" if there are more than two artists remaining.<sup class="reference" id="cite_ref-concept_1-2"><a href="#cite_note-concept-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
-</p><p>After each project, the public elects the "Best Couple" of the project.
-</p>
-<h2><span class="mw-headline" id="Episodes">Episodes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable" style="text-align:center;">
-<tbody><tr>
-<th>Project
-</th>
-<th>Ep
-</th>
-<th>Date
-</th>
-<th>Project theme
-</th>
-<th>Link
-</th></tr>
-<tr>
-<td rowspan="2">Project 1
-</td>
-<td>1
-</td>
-<td>May 4, 2018
-</td>
-<td rowspan="2">Answer or Another Story<br/>(답가 또는 Another Story)
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185524" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>2
-</td>
-<td>May 11, 2018
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185005" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>Project 2
-</td>
-<td>3
-</td>
-<td>May 18, 2018
-</td>
-<td>This Moment, This Song<br/>(이 순간 이 노래)
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185146" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>Project 3
-</td>
-<td>4
-</td>
-<td>May 25, 2018
-</td>
-<td>Temperature of Love<br/>(사랑의 온도)
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185387" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>–
-</td>
-<td>Special
-</td>
-<td>June 1, 2018
-</td>
-<td>No project, special episode due to the funeral of <a href="/wiki/Wheesung" title="Wheesung">Wheesung</a>'s father.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/186155" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>Project 3
-</td>
-<td>5
-</td>
-<td>June 8, 2018
-</td>
-<td>Temperature of Love<br/>(사랑의 온도)
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185740" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td rowspan="2">Project 4
-</td>
-<td>6
-</td>
-<td>June 15, 2018
-</td>
-<td rowspan="2">Retro<br/>(레트로)
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185864" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>7
-</td>
-<td>June 22, 2018
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/185941" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr>
-<tr>
-<td>Final Project
-</td>
-<td>8
-</td>
-<td>June 29, 2018
-</td>
-<td>–
-</td>
-<td><a class="external text" href="http://www.mnet.com/tv/vod/186090" rel="nofollow noreferrer noopener" target="_blank">Mnet VOD</a>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Results">Results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>A "Best Couple" was chosen throughout the first four projects. No "Best Couple" was elected for the final project.
-</p>
-<table class="wikitable" style="text-align:center;">
-<tbody><tr>
-<th>Project
-</th>
-<th>Team
-</th>
-<th>Artists
-</th>
-<th>Song name
-</th></tr>
-<tr>
-<td>Project 1
-</td>
-<td>Voice to God
-</td>
-<td><span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>
-</td>
-<td>"<a href="/wiki/The_Call_Project_1" title="The Call Project 1">Fly Away</a>"
-</td></tr>
-<tr>
-<td>Project 2
-</td>
-<td>ShinBe
-</td>
-<td><span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span>
-</td>
-<td>"<a href="/wiki/The_Call_Project_2" title="The Call Project 2">Lullaby</a>"<br/>(자장가)
-</td></tr>
-<tr>
-<td>Project 3
-</td>
-<td>Alien in the Spiderweb
-</td>
-<td><a href="/wiki/Gummy" title="Gummy">Gummy</a> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>
-</td>
-<td>"<a href="/wiki/The_Call_Project_3" title="The Call Project 3">Jealousy</a>"<br/>(질투나)
-</td></tr>
-<tr>
-<td>Project 4
-</td>
-<td>TouchU Log in
-</td>
-<td><a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span> &amp; <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a> &amp; <a href="/wiki/Gray" title="Gray">Gray</a>
-</td>
-<td>"<a href="/wiki/The_Call_Project_4" title="The Call Project 4">I'm Not Afraid</a>"<br/>(아깝지 않아)
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Discogaphy">Discogaphy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable" style="text-align:center;">
-<tbody><tr>
-<th>#
-</th>
-<th>Title
-</th>
-<th>Artists
-</th>
-<th>Release date
-</th></tr>
-<tr>
-<td>1
-</td>
-<td>"<a href="/wiki/The_Call_Project_1" title="The Call Project 1">The Call Project 1</a>"
-</td>
-<td><b>Be Bomb</b> <small>(<span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0J1bV9Tb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Kim Bum Soo (page does not exist)">Kim Bum Soo</span> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span>)</small><br/><b>Smilling</b> <small>(<a href="/wiki/Wheesung" title="Wheesung">Wheesung</a> &amp; <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a>)</small><br/><b>Voice for Men</b> <small>(<a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a>)</small><br/><b>Voice to God</b> <small>(<span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>)</small>
-</td>
-<td>May 12, 2018
-</td></tr>
-<tr>
-<td>2
-</td>
-<td>"<a href="/wiki/The_Call_Project_2" title="The Call Project 2">The Call Project 2</a>"
-</td>
-<td><b>Ilee with Bumsoo</b> <small><span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0J1bV9Tb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Kim Bum Soo (page does not exist)">Kim Bum Soo</span> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>)</small><br/><b>Blue-star-1</b> <small>(<a href="/wiki/Wheesung" title="Wheesung">Wheesung</a> &amp; <a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a> &amp; <a class="mw-redirect" href="/wiki/Chungha" title="Chungha">Chungha</a>)</small><br/><b>Men's Spring</b> <small>(<a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a>)</small><br/><b>ShinBe</b> <small>(<span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span>)</small>
-</td>
-<td>May 19, 2018
-</td></tr>
-<tr>
-<td>3
-</td>
-<td>"<a href="/wiki/The_Call_Project_3" title="The Call Project 3">The Call Project 3</a>"
-</td>
-<td><b>Alien in the Spiderweb</b> <small>(<a href="/wiki/Gummy" title="Gummy">Gummy</a> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>)</small><br/><b>HwangTae</b> <small>(<a href="/wiki/Hwanhee_(Fly_To_The_Sky)" title="Hwanhee (Fly To The Sky)">Hwanhee</a> &amp; <a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a>)</small><br/><b>Brushin'</b> <small>(<span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span> &amp; <a href="/wiki/Crush_(singer)" title="Crush (singer)">Crush</a>)</small><br/><b>TouchU</b> <small>(<a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span>)</small>
-</td>
-<td>June 9, 2018
-</td></tr>
-<tr>
-<td>4
-</td>
-<td>"<a href="/wiki/The_Call_Project_4" title="The Call Project 4">The Call Project 4</a>"
-</td>
-<td><b>SIH</b> (Sisters in Harmony) <small>(<span class="new" data-uncrawlable-url="L3dpa2kvSnVuZ19Jbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Jung In (page does not exist)">Jung In</span> &amp; <a href="/wiki/Gummy" title="Gummy">Gummy</a> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a>)</small><br/><span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span> &amp; <a href="/wiki/Taemin_(SHINee)" title="Taemin (SHINee)">Taemin</a><br/><b>TouchU Log In</b> <small>(<a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span> &amp; <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a> &amp; <a href="/wiki/Gray" title="Gray">Gray</a>)</small><br/><span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> &amp; <a href="/wiki/Eddy_Kim" title="Eddy Kim">Eddy Kim</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0J1bV9Tb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Kim Bum Soo (page does not exist)">Kim Bum Soo</span> &amp; <a class="extiw" href="https://kindie.fandom.com/wiki/Suran" title="w:c:kindie:Suran">SURAN</a>
-</td>
-<td>June 22, 2018
-</td></tr>
-<tr>
-<td>5
-</td>
-<td>"<a href="/wiki/The_Call_Final_Project" title="The Call Final Project">The Call Final Project</a>"
-</td>
-<td><a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a> &amp; <a href="/wiki/Gray" title="Gray">Gray</a> &amp; <a class="extiw" href="https://kindie.fandom.com/wiki/Suran" title="w:c:kindie:Suran">SURAN</a> &amp; <a href="/wiki/Eddy_Kim" title="Eddy Kim">Eddy Kim</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvSnVuZ19Jbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Jung In (page does not exist)">Jung In</span> &amp; <a href="/wiki/Gummy" title="Gummy">Gummy</a><br/><span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span> &amp; <a href="/wiki/Taemin_(SHINee)" title="Taemin (SHINee)">Taemin</a><br/><a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a> &amp; <a href="/wiki/Ailee" title="Ailee">Ailee</a> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span><br/><a href="/wiki/Wheesung" title="Wheesung">Wheesung</a> &amp; <a href="/wiki/Hwanhee_(Fly_To_The_Sky)" title="Hwanhee (Fly To The Sky)">Hwanhee</a><br/><i>The Call</i> artists
-</td>
-<td>June 30, 2018
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>Most teams consisted of two members or three but there were two teams with more than three members:
-<ul><li>The team <b>TouchU Log In</b> in the fourth project, consiting of five members: <a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a> &amp; <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a> &amp; <span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span> &amp; <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a> &amp; <a href="/wiki/Gray" title="Gray">Gray</a>.</li>
-<li>The team consisting of four members in the final project: <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a> &amp; <a href="/wiki/Gray" title="Gray">Gray</a> &amp; <a class="extiw" href="https://kindie.fandom.com/wiki/Suran" title="w:c:kindie:Suran">SURAN</a> &amp; <a href="/wiki/Eddy_Kim" title="Eddy Kim">Eddy Kim</a>.</li></ul></li>
-<li><span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span> and <a href="/wiki/Ailee" title="Ailee">Ailee</a> are the only contestants who were chosen as part of the "Best Couple" twice.</li>
-<li>The creator of <i>The Call</i> also created the music reality game show <i><span class="new" data-uncrawlable-url="L3dpa2kvSV9DYW5fU2VlX1lvdXJfVm9pY2U/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="I Can See Your Voice (page does not exist)">I Can See Your Voice</span></i>.<sup class="reference" id="cite_ref-concept_1-3"><a href="#cite_note-concept-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="e580ad1303fa2b6ff5397d2fb589f5cb" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_program_info-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_program_info.png" style="height:150px; width:150px;" title="The Call program info.png (305 KB)"><noscript><img alt="Program info" class="thumbimage" data-caption="Program info" data-image-key="The_Call_program_info.png" data-image-name="The Call program info.png" data-relevant="1" height="232" src="https://static.wikia.nocookie.net/kpop/images/f/f5/The_Call_program_info.png/revision/latest/scale-to-width-down/150?cb=20180723204524" style="" title="The Call program info.png (305 KB)" width="150"/></noscript><img alt="Program info" class="thumbimage lazyload" data-caption="Program info" data-image-key="The_Call_program_info.png" data-image-name="The Call program info.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f5/The_Call_program_info.png/revision/latest/scale-to-width-down/150?cb=20180723204524" height="232" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call program info.png (305 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Program info</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_presenter_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_presenter_promo_photo.png" style="height:150px; width:150px;" title="The Call presenter promo photo.png (471 KB)"><noscript><img alt="Presenters promotional photo (From L-R: Yoo Se Yoon, Lee Sang Min)" class="thumbimage" data-caption="Presenters promotional photo (From L-R: Yoo Se Yoon, Lee Sang Min)" data-image-key="The_Call_presenter_promo_photo.png" data-image-name="The Call presenter promo photo.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/a/a1/The_Call_presenter_promo_photo.png/revision/latest/scale-to-width-down/255?cb=20180723204527" style="" title="The Call presenter promo photo.png (471 KB)" width="255"/></noscript><img alt="Presenters promotional photo (From L-R: Yoo Se Yoon, Lee Sang Min)" class="thumbimage lazyload" data-caption="Presenters promotional photo (From L-R: Yoo Se Yoon, Lee Sang Min)" data-image-key="The_Call_presenter_promo_photo.png" data-image-name="The Call presenter promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a1/The_Call_presenter_promo_photo.png/revision/latest/scale-to-width-down/255?cb=20180723204527" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call presenter promo photo.png (471 KB)" width="255"/></a></div></div><div class="lightbox-caption" style="width:150px;">Presenters promotional photo (From L-R: Yoo Se Yoon, Lee Sang Min)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_cast_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_cast_promo_photo.png" style="height:150px; width:150px;" title="The Call cast promo photo.png (547 KB)"><noscript><img alt="1st Line-Up promotional photo (From L-R: Kim Bum Soo, Shin Seung Hun, Kim Jong Kook, Wheesung)" class="thumbimage" data-caption="1st Line-Up promotional photo (From L-R: , , , )" data-image-key="The_Call_cast_promo_photo.png" data-image-name="The Call cast promo photo.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/8/82/The_Call_cast_promo_photo.png/revision/latest/scale-to-width-down/255?cb=20180723204527" style="" title="The Call cast promo photo.png (547 KB)" width="255"/></noscript><img alt="1st Line-Up promotional photo (From L-R: Kim Bum Soo, Shin Seung Hun, Kim Jong Kook, Wheesung)" class="thumbimage lazyload" data-caption="1st Line-Up promotional photo (From L-R: , , , )" data-image-key="The_Call_cast_promo_photo.png" data-image-name="The Call cast promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/82/The_Call_cast_promo_photo.png/revision/latest/scale-to-width-down/255?cb=20180723204527" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call cast promo photo.png (547 KB)" width="255"/></a></div></div><div class="lightbox-caption" style="width:150px;">1st Line-Up promotional photo (From L-R: <span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0J1bV9Tb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Kim Bum Soo (page does not exist)">Kim Bum Soo</span>, <span class="new" data-uncrawlable-url="L3dpa2kvU2hpbl9TZXVuZ19IdW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Shin Seung Hun (page does not exist)">Shin Seung Hun</span>, <a href="/wiki/Kim_Jong_Kook" title="Kim Jong Kook">Kim Jong Kook</a>, <a href="/wiki/Wheesung" title="Wheesung">Wheesung</a>)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_cast_promo_photo_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_cast_promo_photo_2.png" style="height:150px; width:150px;" title="The Call cast promo photo 2.png (755 KB)"><noscript><img alt="2nd Line-Up promotional photo (From L-R: BewhY, Ailee, Chungha, Taeil, Hwang Chi Yeul)" class="thumbimage" data-caption="2nd Line-Up promotional photo (From L-R: , , , , )" data-image-key="The_Call_cast_promo_photo_2.png" data-image-name="The Call cast promo photo 2.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/2/22/The_Call_cast_promo_photo_2.png/revision/latest/scale-to-width-down/287?cb=20180723204525" style="" title="The Call cast promo photo 2.png (755 KB)" width="287"/></noscript><img alt="2nd Line-Up promotional photo (From L-R: BewhY, Ailee, Chungha, Taeil, Hwang Chi Yeul)" class="thumbimage lazyload" data-caption="2nd Line-Up promotional photo (From L-R: , , , , )" data-image-key="The_Call_cast_promo_photo_2.png" data-image-name="The Call cast promo photo 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/2/22/The_Call_cast_promo_photo_2.png/revision/latest/scale-to-width-down/287?cb=20180723204525" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call cast promo photo 2.png (755 KB)" width="287"/></a></div></div><div class="lightbox-caption" style="width:150px;">2nd Line-Up promotional photo (From L-R: <span class="new" data-uncrawlable-url="L3dpa2kvQmV3aFk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="BewhY (page does not exist)">BewhY</span>, <a href="/wiki/Ailee" title="Ailee">Ailee</a>, <a class="mw-redirect" href="/wiki/Chungha" title="Chungha">Chungha</a>, <a href="/wiki/Taeil_(Block_B)" title="Taeil (Block B)">Taeil</a>, <a href="/wiki/Hwang_Chi_Yeul" title="Hwang Chi Yeul">Hwang Chi Yeul</a>)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_cast_promo_photo_3-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_cast_promo_photo_3.png" style="height:150px; width:150px;" title="The Call cast promo photo 3.png (657 KB)"><noscript><img alt="3rd Line-Up promotional photo (From L-R: UV, Gummy, Crush, Hwanhee)" class="thumbimage" data-caption="3rd Line-Up promotional photo (From L-R: , , , )" data-image-key="The_Call_cast_promo_photo_3.png" data-image-name="The Call cast promo photo 3.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/8/83/The_Call_cast_promo_photo_3.png/revision/latest/scale-to-width-down/287?cb=20180723204525" style="" title="The Call cast promo photo 3.png (657 KB)" width="287"/></noscript><img alt="3rd Line-Up promotional photo (From L-R: UV, Gummy, Crush, Hwanhee)" class="thumbimage lazyload" data-caption="3rd Line-Up promotional photo (From L-R: , , , )" data-image-key="The_Call_cast_promo_photo_3.png" data-image-name="The Call cast promo photo 3.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/83/The_Call_cast_promo_photo_3.png/revision/latest/scale-to-width-down/287?cb=20180723204525" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call cast promo photo 3.png (657 KB)" width="287"/></a></div></div><div class="lightbox-caption" style="width:150px;">3rd Line-Up promotional photo (From L-R: <span class="new" data-uncrawlable-url="L3dpa2kvVVY/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="UV (page does not exist)">UV</span>, <a href="/wiki/Gummy" title="Gummy">Gummy</a>, <a href="/wiki/Crush_(singer)" title="Crush (singer)">Crush</a>, <a href="/wiki/Hwanhee_(Fly_To_The_Sky)" title="Hwanhee (Fly To The Sky)">Hwanhee</a>)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="The_Call_cast_promo_photo_4-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:The_Call_cast_promo_photo_4.png" style="height:150px; width:150px;" title="The Call cast promo photo 4.png (747 KB)"><noscript><img alt="4th Line-Up promotional photo (From L-R: Eddy Kim, Taemin, Jung In, SURAN, Loco, Gray)" class="thumbimage" data-caption="4th Line-Up promotional photo (From L-R: , , , , , )" data-image-key="The_Call_cast_promo_photo_4.png" data-image-name="The Call cast promo photo 4.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/d/dc/The_Call_cast_promo_photo_4.png/revision/latest/scale-to-width-down/287?cb=20180723204526" style="" title="The Call cast promo photo 4.png (747 KB)" width="287"/></noscript><img alt="4th Line-Up promotional photo (From L-R: Eddy Kim, Taemin, Jung In, SURAN, Loco, Gray)" class="thumbimage lazyload" data-caption="4th Line-Up promotional photo (From L-R: , , , , , )" data-image-key="The_Call_cast_promo_photo_4.png" data-image-name="The Call cast promo photo 4.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/dc/The_Call_cast_promo_photo_4.png/revision/latest/scale-to-width-down/287?cb=20180723204526" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="The Call cast promo photo 4.png (747 KB)" width="287"/></a></div></div><div class="lightbox-caption" style="width:150px;">4th Line-Up promotional photo (From L-R: <a href="/wiki/Eddy_Kim" title="Eddy Kim">Eddy Kim</a>, <a href="/wiki/Taemin_(SHINee)" title="Taemin (SHINee)">Taemin</a>, <span class="new" data-uncrawlable-url="L3dpa2kvSnVuZ19Jbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Jung In (page does not exist)">Jung In</span>, <a class="extiw" href="https://kindie.fandom.com/wiki/Suran" title="w:c:kindie:Suran">SURAN</a>, <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a>, <a href="/wiki/Gray" title="Gray">Gray</a>)</div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Part.1</dt></dl>
+<ol><li>"0 (Young)" (feat. <a class="mw-redirect" href="/wiki/Min-A_(HOLICS)" title="Min-A (HOLICS)">Min-A</a> of <a href="/wiki/HOLICS" title="HOLICS">HOLICS</a>) - 3:33</li>
+<li>"0 (Young) (On version)" - 3:33</li>
+<li>"0 (Young) (Inst.)" - 3:33</li></ol>
+<dl><dt>Part.2</dt></dl>
+<ol><li>"You" <span style="font-size:85%;">(<a href="/wiki/JJ_(DUSTIN)" title="JJ (DUSTIN)">JJ</a> theme)</span> - 3:12</li>
+<li>"NG (퉁 쳐)" <span style="font-size:85%;">(<a href="/wiki/Bel" title="Bel">Bel</a> theme)</span> - 3:33</li></ol>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="49f20027aa2b4409ceb79c5e7d13c743" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_scheduler-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_scheduler.png" style="height:150px; width:150px;" title="Dustin-On 0 Young scheduler.png (1.45 MB)"><noscript><img alt="Scheduler" class="thumbimage" data-caption="Scheduler" data-image-key="Dustin-On_0_Young_scheduler.png" data-image-name="Dustin-On 0 Young scheduler.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/5/55/Dustin-On_0_Young_scheduler.png/revision/latest/scale-to-width-down/225?cb=20200730214816" style="" title="Dustin-On 0 Young scheduler.png (1.45 MB)" width="225"/></noscript><img alt="Scheduler" class="thumbimage lazyload" data-caption="Scheduler" data-image-key="Dustin-On_0_Young_scheduler.png" data-image-name="Dustin-On 0 Young scheduler.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/55/Dustin-On_0_Young_scheduler.png/revision/latest/scale-to-width-down/225?cb=20200730214816" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young scheduler.png (1.45 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;">Scheduler</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_track_list-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_track_list.png" style="height:150px; width:150px;" title="Dustin-On 0 Young track list.png (2 MB)"><noscript><img alt="Track list (Part.1)" class="thumbimage" data-caption="Track list&lt;br /&gt;&lt;small&gt;(Part.1)&lt;/small&gt;" data-image-key="Dustin-On_0_Young_track_list.png" data-image-name="Dustin-On 0 Young track list.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/6/6d/Dustin-On_0_Young_track_list.png/revision/latest/scale-to-width-down/450?cb=20200812223924" style="" title="Dustin-On 0 Young track list.png (2 MB)" width="450"/></noscript><img alt="Track list (Part.1)" class="thumbimage lazyload" data-caption="Track list&lt;br /&gt;&lt;small&gt;(Part.1)&lt;/small&gt;" data-image-key="Dustin-On_0_Young_track_list.png" data-image-name="Dustin-On 0 Young track list.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/6/6d/Dustin-On_0_Young_track_list.png/revision/latest/scale-to-width-down/450?cb=20200812223924" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young track list.png (2 MB)" width="450"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list<br/><small>(Part.1)</small></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_group_teaser-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_group_teaser.png" style="height:150px; width:150px;" title="Dustin-On 0 Young group teaser.png (1.58 MB)"><noscript><img alt="Teaser (with Min-A)" class="thumbimage" data-caption="Teaser&lt;br /&gt;(with )" data-image-key="Dustin-On_0_Young_group_teaser.png" data-image-name="Dustin-On 0 Young group teaser.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/3/37/Dustin-On_0_Young_group_teaser.png/revision/latest/scale-to-width-down/225?cb=20200812223923" style="" title="Dustin-On 0 Young group teaser.png (1.58 MB)" width="225"/></noscript><img alt="Teaser (with Min-A)" class="thumbimage lazyload" data-caption="Teaser&lt;br /&gt;(with )" data-image-key="Dustin-On_0_Young_group_teaser.png" data-image-name="Dustin-On 0 Young group teaser.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/3/37/Dustin-On_0_Young_group_teaser.png/revision/latest/scale-to-width-down/225?cb=20200812223923" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young group teaser.png (1.58 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;">Teaser<br/>(with <a class="mw-redirect" href="/wiki/Min-A_(HOLICS)" title="Min-A (HOLICS)">Min-A</a>)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_credits-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_credits.png" style="height:150px; width:150px;" title="Dustin-On 0 Young credits.png (801 KB)"><noscript><img alt="Credits" class="thumbimage" data-caption="Credits" data-image-key="Dustin-On_0_Young_credits.png" data-image-name="Dustin-On 0 Young credits.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/5/59/Dustin-On_0_Young_credits.png/revision/latest/scale-to-width-down/450?cb=20200817061145" style="" title="Dustin-On 0 Young credits.png (801 KB)" width="450"/></noscript><img alt="Credits" class="thumbimage lazyload" data-caption="Credits" data-image-key="Dustin-On_0_Young_credits.png" data-image-name="Dustin-On 0 Young credits.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/59/Dustin-On_0_Young_credits.png/revision/latest/scale-to-width-down/450?cb=20200817061145" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young credits.png (801 KB)" width="450"/></a></div></div><div class="lightbox-caption" style="width:150px;">Credits</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_D-5-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_D-5.png" style="height:150px; width:150px;" title="Dustin-On 0 Young D-5.png (605 KB)"><noscript><img alt="D-5" class="thumbimage" data-caption="D-5" data-image-key="Dustin-On_0_Young_D-5.png" data-image-name="Dustin-On 0 Young D-5.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/d/d7/Dustin-On_0_Young_D-5.png/revision/latest/scale-to-width-down/150?cb=20200812223922" style="" title="Dustin-On 0 Young D-5.png (605 KB)" width="150"/></noscript><img alt="D-5" class="thumbimage lazyload" data-caption="D-5" data-image-key="Dustin-On_0_Young_D-5.png" data-image-name="Dustin-On 0 Young D-5.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/d7/Dustin-On_0_Young_D-5.png/revision/latest/scale-to-width-down/150?cb=20200812223922" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young D-5.png (605 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-5</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_D-4-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_D-4.png" style="height:150px; width:150px;" title="Dustin-On 0 Young D-4.png (601 KB)"><noscript><img alt="D-4" class="thumbimage" data-caption="D-4" data-image-key="Dustin-On_0_Young_D-4.png" data-image-name="Dustin-On 0 Young D-4.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/b/b9/Dustin-On_0_Young_D-4.png/revision/latest/scale-to-width-down/150?cb=20200817061148" style="" title="Dustin-On 0 Young D-4.png (601 KB)" width="150"/></noscript><img alt="D-4" class="thumbimage lazyload" data-caption="D-4" data-image-key="Dustin-On_0_Young_D-4.png" data-image-name="Dustin-On 0 Young D-4.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/b9/Dustin-On_0_Young_D-4.png/revision/latest/scale-to-width-down/150?cb=20200817061148" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young D-4.png (601 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-4</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_D-3-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_D-3.png" style="height:150px; width:150px;" title="Dustin-On 0 Young D-3.png (604 KB)"><noscript><img alt="D-3" class="thumbimage" data-caption="D-3" data-image-key="Dustin-On_0_Young_D-3.png" data-image-name="Dustin-On 0 Young D-3.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/4/4e/Dustin-On_0_Young_D-3.png/revision/latest/scale-to-width-down/150?cb=20200817061147" style="" title="Dustin-On 0 Young D-3.png (604 KB)" width="150"/></noscript><img alt="D-3" class="thumbimage lazyload" data-caption="D-3" data-image-key="Dustin-On_0_Young_D-3.png" data-image-name="Dustin-On 0 Young D-3.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4e/Dustin-On_0_Young_D-3.png/revision/latest/scale-to-width-down/150?cb=20200817061147" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young D-3.png (604 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-3</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_D-2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_D-2.png" style="height:150px; width:150px;" title="Dustin-On 0 Young D-2.png (602 KB)"><noscript><img alt="D-2" class="thumbimage" data-caption="D-2" data-image-key="Dustin-On_0_Young_D-2.png" data-image-name="Dustin-On 0 Young D-2.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/7/70/Dustin-On_0_Young_D-2.png/revision/latest/scale-to-width-down/150?cb=20200817061147" style="" title="Dustin-On 0 Young D-2.png (602 KB)" width="150"/></noscript><img alt="D-2" class="thumbimage lazyload" data-caption="D-2" data-image-key="Dustin-On_0_Young_D-2.png" data-image-name="Dustin-On 0 Young D-2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/70/Dustin-On_0_Young_D-2.png/revision/latest/scale-to-width-down/150?cb=20200817061147" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young D-2.png (602 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-2</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Dustin-On_0_Young_D-1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Dustin-On_0_Young_D-1.png" style="height:150px; width:150px;" title="Dustin-On 0 Young D-1.png (597 KB)"><noscript><img alt="D-1" class="thumbimage" data-caption="D-1" data-image-key="Dustin-On_0_Young_D-1.png" data-image-name="Dustin-On 0 Young D-1.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/8/88/Dustin-On_0_Young_D-1.png/revision/latest/scale-to-width-down/150?cb=20200817061146" style="" title="Dustin-On 0 Young D-1.png (597 KB)" width="150"/></noscript><img alt="D-1" class="thumbimage lazyload" data-caption="D-1" data-image-key="Dustin-On_0_Young_D-1.png" data-image-name="Dustin-On 0 Young D-1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/88/Dustin-On_0_Young_D-1.png/revision/latest/scale-to-width-down/150?cb=20200817061146" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Dustin-On 0 Young D-1.png (597 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">D-1</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="DUSTIN-ON_0_Young_Part_2_track_list-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:DUSTIN-ON_0_Young_Part_2_track_list.png" style="height:150px; width:150px;" title="DUSTIN-ON 0 Young Part 2 track list.png (2.53 MB)"><noscript><img alt="Track list (Part.2)" class="thumbimage" data-caption="Track list&lt;br /&gt;&lt;small&gt;(Part.2)&lt;/small&gt;" data-image-key="DUSTIN-ON_0_Young_Part_2_track_list.png" data-image-name="DUSTIN-ON 0 Young Part 2 track list.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/a/a3/DUSTIN-ON_0_Young_Part_2_track_list.png/revision/latest/scale-to-width-down/225?cb=20200913195254" style="" title="DUSTIN-ON 0 Young Part 2 track list.png (2.53 MB)" width="225"/></noscript><img alt="Track list (Part.2)" class="thumbimage lazyload" data-caption="Track list&lt;br /&gt;&lt;small&gt;(Part.2)&lt;/small&gt;" data-image-key="DUSTIN-ON_0_Young_Part_2_track_list.png" data-image-name="DUSTIN-ON 0 Young Part 2 track list.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a3/DUSTIN-ON_0_Young_Part_2_track_list.png/revision/latest/scale-to-width-down/225?cb=20200913195254" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="DUSTIN-ON 0 Young Part 2 track list.png (2.53 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list<br/><small>(Part.2)</small></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-concept-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-concept_1-0">1.0</a></sup> <sup><a href="#cite_ref-concept_1-1">1.1</a></sup> <sup><a href="#cite_ref-concept_1-2">1.2</a></sup> <sup><a href="#cite_ref-concept_1-3">1.3</a></sup></span> <span class="reference-text"><a class="external text" href="http://tenasia.hankyung.com/archives/1446882" rel="nofollow noreferrer noopener" target="_blank">‘너목보’ 제작진의 야심작, 세상에 없던 협업 ‘더 콜’…5월 공개</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.yonhapnews.co.kr/bulletin/2018/05/04/0200000000AKR20180504088800005.HTML" rel="nofollow noreferrer noopener" target="_blank">최고 가수들의 반전 매칭쇼…엠넷 '더 콜'</a></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="http://news.mk.co.kr/newsRead.php?year=2018&amp;no=346797" rel="nofollow noreferrer noopener" target="_blank">Mnet 측 "'더 콜', 내일(1일) 스페셜 방송…시청자 이해 돕기 위해"(공식)</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="http://newsen.com/news_view.php?uid=201806012156500710" rel="nofollow noreferrer noopener" target="_blank">'더콜' 제작진, 휘성 부친상 추모 "슬픔 함께 하겠다"</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="http://sports.chosun.com/news/news.htm?id=201806010100012130000615&amp;ServiceDate=20180601" rel="nofollow noreferrer noopener" target="_blank">[공식입장]'더콜' 측 "휘성 부친상 추모…슬픔 함께 하겠다"</a></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="http://www.ytn.co.kr/_sn/0117_201805041239548521_001" rel="nofollow noreferrer noopener" target="_blank">"서바이벌·경쟁 無" 음악예능 '더 콜'이 특별한 이유(종합)</a></span>
-</li>
-</ol></div></div>
 </div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FThe_Call%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="http://onair.mnet.com/thecall" rel="nofollow noreferrer noopener" target="_blank">Website</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F0%3AYoung%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=dUvc8NxgYkY" rel="nofollow noreferrer noopener" target="_blank">"On" music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=-AAgXJRkfvg" rel="nofollow noreferrer noopener" target="_blank">MV teaser #1</a> / <a class="external text" href="https://www.youtube.com/watch?v=3sqIoEjOUfc" rel="nofollow noreferrer noopener" target="_blank">#2</a></li></ul></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/0:Young?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
 <!-- 
 NewPP limit report
-Cached time: 20250312132629
+Cached time: 20250315155638
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.130 seconds
-Real time usage: 0.139 seconds
-Preprocessor visited node count: 2549/1000000
-Post‐expand include size: 843/2097152 bytes
-Template argument size: 131/2097152 bytes
+CPU time usage: 0.084 seconds
+Real time usage: 0.129 seconds
+Preprocessor visited node count: 229/1000000
+Post‐expand include size: 1463/2097152 bytes
+Template argument size: 279/2097152 bytes
 Highest expansion depth: 7/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 14445/5000000 bytes
+Unstrip post‐expand size: 14626/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  101.588      1 -total
- 76.30%   77.511      1 Template:Infobox_television_show
- 45.94%   46.672      1 Template:Related_Wikis
-  7.33%    7.445      1 Template:Reflist
-  5.71%    5.797      1 Template:Scroll_Box
+100.00%   92.443      1 -total
+ 46.28%   42.780      1 Template:Infobox_album
+ 10.99%   10.162      1 Template:Stub
+  6.44%    5.957      1 Template:Reflist
+  3.11%    2.874      1 Template:Scroll_Box
+  2.77%    2.561      6 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:25146-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312132629 and revision id 1117726. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:67589-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315155638 and revision id 579443. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2739,20 +2569,24 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="2018 variety shows" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2018_variety_shows" title="Category:2018 variety shows">2018 variety shows</a></span>
+<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Variety shows" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Variety_shows" title="Category:Variety shows">Variety shows</a></span>
+<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="The Call" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:The_Call" title="Category:The Call">The Call</a></span>
+<li class="category normal" data-name="DUSTIN-ON" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:DUSTIN-ON" title="Category:DUSTIN-ON">DUSTIN-ON</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Mnet" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Mnet" title="Category:Mnet">Mnet</a></span>
+<li class="category normal" data-name="2020 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2020_releases" title="Category:2020 releases">2020 releases</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2020 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2020_digital_singles" title="Category:2020 digital singles">2020 digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2938,7 +2772,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9UaGVfQ2FsbD90aXRsZT1UaGVfQ2FsbCZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8wOllvdW5nP3RpdGxlPTAlM0FZb3VuZyZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

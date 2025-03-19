@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Muse (Wonder Ver.) | Kpop Wiki | Fandom</title>
+<title>12.19km | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Muse_Wonder_Ver rootpage-Muse_Wonder_Ver skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-12_19km rootpage-12_19km skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,15 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Remix_albums" title="Category:Remix albums">Remix albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Jimin_(BTS)" title="Category:Jimin (BTS)">Jimin (BTS)</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Ji_Jinseok" title="Category:Ji Jinseok">Ji Jinseok</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
 <a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2024_remix_albums" title="Category:2024 remix albums">2024 remix albums</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a> </li>
 </ul>
 </div>
 </div>
@@ -2371,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Muse (Wonder Ver.)</span> </h1>
+<span class="mw-page-title-main">12.19km</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2382,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Muse_(Wonder_Ver.)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/12.19km?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Muse_(Wonder_Ver.)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/12.19km?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Muse_(Wonder_Ver.)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:12.19km?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2400,68 +2400,58 @@
 </div>
 </div>
 <div class="page-content" id="content">
-
-<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
-
-
-
-
-
-
-<div class="featured-video-player-container" id="featured-video__player-container"></div>
-</div>
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/05/Jimin_Muse_%28Wonder_ver.%29_cover_art.png/revision/latest?cb=20240728115154" title="Jimin Muse (Wonder ver.) cover art">
-<img alt="Jimin Muse (Wonder ver.) cover art" class="pi-image-thumbnail" data-image-key="Jimin_Muse_%28Wonder_ver.%29_cover_art.png" data-image-name="Jimin Muse (Wonder ver.) cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/0/05/Jimin_Muse_%28Wonder_ver.%29_cover_art.png/revision/latest/scale-to-width-down/268?cb=20240728115154" srcset="https://static.wikia.nocookie.net/kpop/images/0/05/Jimin_Muse_%28Wonder_ver.%29_cover_art.png/revision/latest/scale-to-width-down/268?cb=20240728115154 1x, https://static.wikia.nocookie.net/kpop/images/0/05/Jimin_Muse_%28Wonder_ver.%29_cover_art.png/revision/latest/scale-to-width-down/536?cb=20240728115154 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/5/5f/Ji_Jinseok_12.19km_album_cover.png/revision/latest?cb=20211230022250" title="Ji Jinseok 12.19km album cover">
+<img alt="Ji Jinseok 12.19km album cover" class="pi-image-thumbnail" data-image-key="Ji_Jinseok_12.19km_album_cover.png" data-image-name="Ji Jinseok 12.19km album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/5/5f/Ji_Jinseok_12.19km_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211230022250" srcset="https://static.wikia.nocookie.net/kpop/images/5/5f/Ji_Jinseok_12.19km_album_cover.png/revision/latest/scale-to-width-down/268?cb=20211230022250 1x, https://static.wikia.nocookie.net/kpop/images/5/5f/Ji_Jinseok_12.19km_album_cover.png/revision/latest/scale-to-width-down/536?cb=20211230022250 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Muse (Wonder Ver.)</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
-<h3 class="pi-data-label pi-secondary-font">Type</h3>
-<div class="pi-data-value pi-font">Remix</div>
-</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"12.19km"</center></h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/Ji_Jinseok" title="Ji Jinseok">Ji Jinseok</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">July 23, 2024</div>
+<div class="pi-data-value pi-font">October 21, 2021</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
 <div class="pi-data-value pi-font">Download, streaming</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
-<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2023–2024</div>
-</div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Dance, afrobeat, R&amp;B, hip-hop, gospel, acoustic, rock</div>
+<div class="pi-data-value pi-font">Ballad</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">28:37</div>
+<div class="pi-data-value pi-font">9:44</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></div>
+<div class="pi-data-value pi-font">Black Y Music</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a><br/><a href="/wiki/HYBE" title="HYBE">HYBE</a> <span style="font-size:85%;">(physical)</span></div>
+<div class="pi-data-value pi-font"><a href="/wiki/NHN_Bugs" title="NHN Bugs">NHN Bugs</a></div>
 </div>
 <section class="pi-item pi-group pi-border-color">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producer">
-<h3 class="pi-data-label pi-secondary-font">Producer(s)</h3>
-<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Pdogg" title="wikipedia:en:Pdogg">Pdogg</a>, GHSTLOOP, <a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a> <span style="font-size:85%;">(track 1)</span><br/>Pdogg, GHSTLOOP, EVAN, Jimin <span style="font-size:85%;">(track 2)</span><br/><a class="extiw" href="https://en.wikipedia.org/wiki/en:Tommy_Brown_(record_producer)" title="wikipedia:en:Tommy Brown (record producer)">Tommy Brown</a>, Mr. Franks, Pdogg, GHSTLOOP <span style="font-size:85%;">(track 3)</span><br/>Pdogg, <a class="extiw" href="https://en.wikipedia.org/wiki/en:Arcades_(band)" title="wikipedia:en:Arcades (band)">Arcades</a>, GHSTLOOP <span style="font-size:85%;">(track 4)</span><br/>Pdogg, GHSTLOOP <span style="font-size:85%;">(track 5)</span><br/><a class="extiw" href="https://en.wikipedia.org/wiki/en:Jon_Bellion" title="wikipedia:en:Jon Bellion">Jon Bellion</a>, Pete Nappi, Tenroc, Pdogg, GHSTLOOP <span style="font-size:85%;">(track 6)</span><br/>GHSTLOOP, <a class="extiw" href="https://en.wikipedia.org/wiki/en:Ayo_The_Producer" title="wikipedia:en:Ayo The Producer">Ayo The Producer</a>, Kofo <span style="font-size:85%;">(track 7)</span></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="writer">
+<h3 class="pi-data-label pi-secondary-font">Writer(s)</h3>
+<div class="pi-data-value pi-font">Wooil, Ji Jinseok <span style="font-size:85%;">(Track 1)</span><br/>Wooil <span style="font-size:85%;">(Track 2)</span></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="composer">
+<h3 class="pi-data-label pi-secondary-font">Composer(s)</h3>
+<div class="pi-data-value pi-font">Wooil <span style="font-size:85%;">(Track 1, 2)</span></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arranger">
+<h3 class="pi-data-label pi-secondary-font">Arranger(s)</h3>
+<div class="pi-data-value pi-font">Wooil <span style="font-size:85%;">(Track 1, 2)</span></div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color">
@@ -2475,64 +2465,47 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Muse_(Jimin)" title="Muse (Jimin)">Muse</a></i></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Be_Mine_(English_Version)" title="Be Mine (English Version)">Be Mine (English Version)</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Love_Actually" title="Love Actually">Love Actually</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/24th_Memories" title="24th Memories">24th Memories</a></i></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>Muse (Wonder Ver.)</b></i> (stylized as <i><b>MUSE (WONDER ver.)</b></i>) is the second remix album by <a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a>. It was released simultaneously along with "<a href="/wiki/Who_(Remixes)" title="Who (Remixes)">Who (Remixes)</a>" and <i><a href="/wiki/Muse_(Wander_Ver.)" title="Muse (Wander Ver.)">Muse (Wander Ver.)</a></i>, on July 23, 2024.
+
+"<b>12.19km</b>" is the 10th digital single by <a href="/wiki/Ji_Jinseok" title="Ji Jinseok">Ji Jinseok</a>. It was released on October 21, 2021.
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Rebirth (Intro)" - 2:24</li>
-<li>"Interlude : Showtime" - 1:18</li>
-<li>"<a href="/wiki/Smeraldo_Garden_Marching_Band" title="Smeraldo Garden Marching Band">Smeraldo Garden Marching Band</a>" (feat. <a href="/wiki/Loco_(rapper)" title="Loco (rapper)">Loco</a>) - 3:02</li>
-<li>"Slow Dance" (feat. <a class="extiw" href="https://en.wikipedia.org/wiki/en:Sofia_Carson" title="wikipedia:en:Sofia Carson">Sofia Carson</a>) - 3:08</li>
-<li>"Be Mine" - 3:27</li>
-<li>"Who" - 2:50</li>
-<li>"<a href="/wiki/Closer_Than_This" title="Closer Than This">Closer Than This</a>" - 3:43</li>
-<li>"Who (Inst.)" - 2:50</li>
-<li>"Who (Acoustic Remix)" - 3:04</li>
-<li>"Who (Rock Remix)" - 2:51</li></ol>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>"Interlude : Showtime" and "Who" are entirely sung in English.</li></ul>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FMuse_%28Wonder_Ver.%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=BKRfGu7qWM4" rel="nofollow noreferrer noopener" target="_blank">"Who (Acoustic Remix)" visualizer</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=o97tTwAEXRQ" rel="nofollow noreferrer noopener" target="_blank">"Who (Rock Remix)" visualizer</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Muse_(Wonder_Ver.)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:linear-gradient(135deg,#918e8f,#d3d1d0,#888282); color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#fff;;border:none;;"><a href="/wiki/Template:Jimin_(BTS)" title="Template:Jimin (BTS)"><span style=";color:#fff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Jimin_(BTS)?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#fff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/Jimin_(BTS)" title="Jimin (BTS)">Jimin</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Face_(Jimin)" title="Face (Jimin)">Face</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Muse_(Jimin)" title="Muse (Jimin)">Muse</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Remix albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Muse_(Wander_Ver.)" title="Muse (Wander Ver.)">Muse (Wander Ver.)</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Muse (Wonder Ver.)</strong></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Promise_(Jimin)" title="Promise (Jimin)">Promise</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Christmas_Love_(Jimin)" title="Christmas Love (Jimin)">Christmas Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Set_Me_Free_Pt.2" title="Set Me Free Pt.2">Set Me Free Pt.2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Closer_Than_This" title="Closer Than This">Closer Than This</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Remix singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Like_Crazy_(Remixes)" title="Like Crazy (Remixes)">Like Crazy (Remixes)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Who_(Remixes)" title="Who (Remixes)">Who (Remixes)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Smeraldo_Garden_Marching_Band" title="Smeraldo Garden Marching Band">Smeraldo Garden Marching Band</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Be_Mine_(English_Version)" title="Be Mine (English Version)">Be Mine (English Version)</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTS" title="BTS">BTS</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/j.m/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"12.19km (Solo ver.)" - 4:52</li>
+<li>"12.19km" (feat. Paul, Winn) - 4:52</li></ol>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F12.19km%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=5SHOQe_SZrM" rel="nofollow noreferrer noopener" target="_blank">Special video</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=Vrj2tga0DDc" rel="nofollow noreferrer noopener" target="_blank">Teaser</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/12.19km?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
 <!-- 
 NewPP limit report
-Cached time: 20250314153057
+Cached time: 20250319004006
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.083 seconds
-Real time usage: 0.090 seconds
-Preprocessor visited node count: 2810/1000000
-Post‐expand include size: 35159/2097152 bytes
-Template argument size: 22254/2097152 bytes
-Highest expansion depth: 17/100
+CPU time usage: 0.027 seconds
+Real time usage: 0.030 seconds
+Preprocessor visited node count: 148/1000000
+Post‐expand include size: 561/2097152 bytes
+Template argument size: 137/2097152 bytes
+Highest expansion depth: 6/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
 Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   70.939      1 -total
- 98.08%   69.577      4 Template:Navbox
- 50.19%   35.602      1 Template:Infobox_album
- 46.30%   32.846      1 Template:Jimin_(BTS)
- 22.60%   16.032      8 Template:List
- 17.76%   12.599      8 Template:Element_List
-  3.37%    2.393      8 Template:Small
-  3.35%    2.380      1 Template:Tnavbar
-  2.89%    2.050      6 Template:WP
-  2.81%    1.995      1 Template:Stub
+100.00%   22.489      1 -total
+ 90.81%   20.423      1 Template:Infobox_single
+  8.68%    1.951      1 Template:Stub
+  6.39%    1.438      4 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:233940-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250314153057 and revision id 961414. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:110931-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250319004006 and revision id 387970. Rendering was triggered because: unknown
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2544,24 +2517,24 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
+<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Remix albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Remix_albums" title="Category:Remix albums">Remix albums</a></span>
+<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Jimin (BTS)" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Jimin_(BTS)" title="Category:Jimin (BTS)">Jimin (BTS)</a></span>
+<li class="category normal" data-name="Ji Jinseok" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Ji_Jinseok" title="Category:Ji Jinseok">Ji Jinseok</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2024 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a></span>
+<li class="category normal" data-name="2021 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2024 remix albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_remix_albums" title="Category:2024 remix albums">2024 remix albums</a></span>
+<li class="category normal" data-name="2021 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2747,7 +2720,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9NdXNlXyhXb25kZXJfVmVyLik/dGl0bGU9TXVzZV8lMjhXb25kZXJfVmVyLiUyOSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8xMi4xOWttP3RpdGxlPTEyLjE5a20mbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

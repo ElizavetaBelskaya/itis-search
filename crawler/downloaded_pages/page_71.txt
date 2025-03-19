@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Daniel (I-LAND contestant) | Kpop Wiki | Fandom</title>
+<title>Sector 17 | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Daniel_I-LAND_contestant rootpage-Daniel_I-LAND_contestant skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sector_17 rootpage-Sector_17 skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,17 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:2006_births" title="Category:2006 births">2006 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:March_births" title="Category:March births">March births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Repackage_albums" title="Category:Repackage albums">Repackage albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:SEVENTEEN" title="Category:SEVENTEEN">SEVENTEEN</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">3 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_trainees" title="Category:Male trainees">Male trainees</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2022_releases" title="Category:2022 releases">2022 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:I-LAND" title="Category:I-LAND">I-LAND</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Daniel_(I-LAND_contestant)" title="Category:Daniel (I-LAND contestant)">Daniel (I-LAND contestant)</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2022_repackage_albums" title="Category:2022 repackage albums">2022 repackage albums</a> </li>
 </ul>
 </div>
 </div>
@@ -2376,7 +2374,10 @@
 <div class="wds-dropdown__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/Daniel_(kontestan_I-LAND)">Bahasa Indonesia</a>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/SECTOR_17">Français</a>
+</li>
+<li>
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Sector_17">Tagalog</a>
 </li>
 </ul>
 </div>
@@ -2386,10 +2387,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Daniel (I-LAND contestant)</span> </h1>
+<span class="mw-page-title-main">Sector 17</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2397,15 +2398,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Daniel_(I-LAND_contestant)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Sector_17?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Daniel_(I-LAND_contestant)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Sector_17?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Daniel_(I-LAND_contestant)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Sector_17?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2428,178 +2429,353 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><dl><dd><span><i>For other people known as 'Daniel', see <a class="mw-disambig" href="/wiki/Daniel" title="Daniel">Daniel</a>.</i></span></dd></dl>
-<p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Daniel</h2>
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/8/8e/Daniel_I-LAND_profile_photo.png/revision/latest?cb=20200609062518" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="Daniel_I-LAND_profile_photo.png" data-image-name="Daniel I-LAND profile photo.png" data-relevant="1" height="381" src="https://static.wikia.nocookie.net/kpop/images/8/8e/Daniel_I-LAND_profile_photo.png/revision/latest/scale-to-width-down/267?cb=20200609062518" srcset="https://static.wikia.nocookie.net/kpop/images/8/8e/Daniel_I-LAND_profile_photo.png/revision/latest/scale-to-width-down/267?cb=20200609062518 1x, https://static.wikia.nocookie.net/kpop/images/8/8e/Daniel_I-LAND_profile_photo.png/revision/latest/scale-to-width-down/536?cb=20200609062518 2x" width="270">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Digital
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Digital (Apple Music)
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							New Heights ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							New Beginning ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Compact ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							KiT ver.
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Weverse ver.
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/3/33/SEVENTEEN_Sector_17_digital_album_cover.png/revision/latest?cb=20220718105758" title="Digital">
+<img alt="Digital" class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 digital album cover.png" data-image-name="SEVENTEEN Sector 17 digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/3/33/SEVENTEEN_Sector_17_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20220718105758" srcset="https://static.wikia.nocookie.net/kpop/images/3/33/SEVENTEEN_Sector_17_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20220718105758 1x, https://static.wikia.nocookie.net/kpop/images/3/33/SEVENTEEN_Sector_17_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20220718105758 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Profile photo for <a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></figcaption>
 </figure>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
-<h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">Kim Dong-kyu (김동규) <span style="font-size:85%;">(Korean)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Daniel Kim</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/0a/SEVENTEEN_Sector_17_Apple_Music_album_cover.gif/revision/latest?cb=20240204032348" title="Digital (Apple Music)">
+<img alt="Digital (Apple Music)" class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 Apple Music album cover.gif" data-image-name="SEVENTEEN Sector 17 Apple Music album cover.gif" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/0/0a/SEVENTEEN_Sector_17_Apple_Music_album_cover.gif/revision/latest/scale-to-width-down/268?cb=20240204032348" srcset="https://static.wikia.nocookie.net/kpop/images/0/0a/SEVENTEEN_Sector_17_Apple_Music_album_cover.gif/revision/latest/scale-to-width-down/268?cb=20240204032348 1x, https://static.wikia.nocookie.net/kpop/images/0/0a/SEVENTEEN_Sector_17_Apple_Music_album_cover.gif/revision/latest/scale-to-width-down/536?cb=20240204032348 2x" width="270"/>
+</a>
+</figure>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">March 26, 2006<span style="display:none"> (<span class="bday">2006-03-26</span>)</span><span class="noprint"> (age 18)</span></div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/cd/SEVENTEEN_Sector_17_New_Heights_ver._cover_art.png/revision/latest?cb=20220820110906" title="New Heights ver.">
+<img alt="New Heights ver." class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 New Heights ver. cover art.png" data-image-name="SEVENTEEN Sector 17 New Heights ver. cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/c/cd/SEVENTEEN_Sector_17_New_Heights_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110906" srcset="https://static.wikia.nocookie.net/kpop/images/c/cd/SEVENTEEN_Sector_17_New_Heights_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110906 1x, https://static.wikia.nocookie.net/kpop/images/c/cd/SEVENTEEN_Sector_17_New_Heights_ver._cover_art.png/revision/latest?cb=20220820110906 2x" width="270"/>
+</a>
+</figure>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
-<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">United States</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/7/7a/SEVENTEEN_Sector_17_New_Beginning_ver._cover_art.png/revision/latest?cb=20220820110847" title="New Beginning ver.">
+<img alt="New Beginning ver." class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 New Beginning ver. cover art.png" data-image-name="SEVENTEEN Sector 17 New Beginning ver. cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/7/7a/SEVENTEEN_Sector_17_New_Beginning_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110847" srcset="https://static.wikia.nocookie.net/kpop/images/7/7a/SEVENTEEN_Sector_17_New_Beginning_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110847 1x, https://static.wikia.nocookie.net/kpop/images/7/7a/SEVENTEEN_Sector_17_New_Beginning_ver._cover_art.png/revision/latest?cb=20220820110847 2x" width="270"/>
+</a>
+</figure>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
-<h3 class="pi-data-label pi-secondary-font">Blood type</h3>
-<div class="pi-data-value pi-font">A</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/1/10/SEVENTEEN_Sector_17_Compact_ver._cover_art.png/revision/latest?cb=20220820110531" title="Compact ver.">
+<img alt="Compact ver." class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 Compact ver. cover art.png" data-image-name="SEVENTEEN Sector 17 Compact ver. cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/1/10/SEVENTEEN_Sector_17_Compact_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110531" srcset="https://static.wikia.nocookie.net/kpop/images/1/10/SEVENTEEN_Sector_17_Compact_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110531 1x, https://static.wikia.nocookie.net/kpop/images/1/10/SEVENTEEN_Sector_17_Compact_ver._cover_art.png/revision/latest/scale-to-width-down/536?cb=20220820110531 2x" width="270"/>
+</a>
+</figure>
 </div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Trainee</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/ce/SEVENTEEN_Sector_17_KiT_ver._cover_art.png/revision/latest?cb=20220820110553" title="KiT ver.">
+<img alt="KiT ver." class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 KiT ver. cover art.png" data-image-name="SEVENTEEN Sector 17 KiT ver. cover art.png" data-relevant="1" height="201" src="https://static.wikia.nocookie.net/kpop/images/c/ce/SEVENTEEN_Sector_17_KiT_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110553" srcset="https://static.wikia.nocookie.net/kpop/images/c/ce/SEVENTEEN_Sector_17_KiT_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110553 1x, https://static.wikia.nocookie.net/kpop/images/c/ce/SEVENTEEN_Sector_17_KiT_ver._cover_art.png/revision/latest/scale-to-width-down/536?cb=20220820110553 2x" width="270"/>
+</a>
+</figure>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
-<h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2020–present</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/5/56/SEVENTEEN_Sector_17_Weverse_ver._cover_art.png/revision/latest?cb=20220820110616" title="Weverse ver.">
+<img alt="Weverse ver." class="pi-image-thumbnail" data-image-key="SEVENTEEN Sector 17 Weverse ver. cover art.png" data-image-name="SEVENTEEN Sector 17 Weverse ver. cover art.png" data-relevant="1" height="181" src="https://static.wikia.nocookie.net/kpop/images/5/56/SEVENTEEN_Sector_17_Weverse_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110616" srcset="https://static.wikia.nocookie.net/kpop/images/5/56/SEVENTEEN_Sector_17_Weverse_ver._cover_art.png/revision/latest/scale-to-width-down/268?cb=20220820110616 1x, https://static.wikia.nocookie.net/kpop/images/5/56/SEVENTEEN_Sector_17_Weverse_ver._cover_art.png/revision/latest/scale-to-width-down/536?cb=20220820110616 2x" width="270"/>
+</a>
+</figure>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a> <span style="font-size:85%;">(2021–2023)</span><br/><a href="/wiki/Belift_Lab" title="Belift Lab">Belift Lab</a> <span style="font-size:85%;">(2019-2020)</span><br/><a href="/wiki/YG_Entertainment" title="YG Entertainment">YG Entertainment</a> <span style="font-size:85%;">(2018–2019)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
-<h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><i><a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></i></div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Sector 17</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+<h3 class="pi-data-label pi-secondary-font">Type</h3>
+<div class="pi-data-value pi-font">Repackage</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
+<h3 class="pi-data-label pi-secondary-font">Released</h3>
+<div class="pi-data-value pi-font">July 18, 2022<br/>July 25, 2022 <span style="font-size:85%;">(Weverse ver.)</span></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
+<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
+<div class="pi-data-value pi-font">CD, Kit, download, streaming</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
+<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
+<div class="pi-data-value pi-font">2022</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
+<h3 class="pi-data-label pi-secondary-font">Genre</h3>
+<div class="pi-data-value pi-font">Ballad, R&amp;B, hip-hop, pop, dance, rock</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+<h3 class="pi-data-label pi-secondary-font">Length</h3>
+<div class="pi-data-value pi-font">42:31</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
+<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
+<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a> <span style="font-size:85%;">(South Korea)</span><br/><a href="/wiki/HYBE" title="HYBE">HYBE</a> <span style="font-size:85%;">(physical)</span><br/><a class="extiw" href="https://en.wikipedia.org/wiki/en:Geffen_Records" title="wikipedia:en:Geffen Records">Geffen Records</a> <span style="font-size:85%;">(International)</span></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producer">
+<h3 class="pi-data-label pi-secondary-font">Producer(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Woozi" title="Woozi">Woozi</a>, <a href="/wiki/Bumzu" title="Bumzu">Bumzu</a></div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Music services</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.instagram.com/kyuded/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>  <span typeof="mw:File"><a href="https://twitter.com/kyuded" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="X_Icon.png" data-image-name="X Icon.png" data-relevant="1" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/20?cb=20230922164750" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.youtube.com/@KYU-DANIEL" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" width="20"/></a></span> </td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="services"> <span typeof="mw:File"><a href="https://music.apple.com/us/album/1632682433/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Apple_Music_Icon.png" data-image-name="Apple Music Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/6/65/Apple_Music_Icon.png/revision/latest?cb=20230524103054" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://music.bugs.co.kr/album/4077545" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Bugs_Icon.png" data-image-name="Bugs Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/e/e0/Bugs_Icon.png/revision/latest?cb=20230524104544" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.music-flo.com/detail/album/edhoihoye" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="FLO_Icon.png" data-image-name="FLO Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/e/ea/FLO_Icon.png/revision/latest?cb=20230524103603" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://genie.co.kr/detail/albumInfo?axnm=82812828" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Genie_Music_Icon.png" data-image-name="Genie Music Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a2/Genie_Music_Icon.png/revision/latest?cb=20230524151108" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.melon.com/album/detail.htm?albumId=10999428" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Melon_Icon.png" data-image-name="Melon Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/9/98/Melon_Icon.png/revision/latest?cb=20230524151106" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Spotify_Icon.png" data-image-name="Spotify Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a8/Spotify_Icon.png/revision/latest?cb=20230524151104" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://vibe.naver.com/album/7774445" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="VIBE_Icon.png" data-image-name="VIBE Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/a/a7/VIBE_Icon.png/revision/latest?cb=20230524103224" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://music.youtube.com/playlist?list=OLAK5uy_nShMgyyQcYpaAv9Aco3-bHZWUF-k4uNJ8" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Music_Icon.png" data-image-name="YouTube Music Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/f/fb/YouTube_Music_Icon.png/revision/latest?cb=20230524103420" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
 </tr>
 </tbody>
 </table>
 </section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
+<section class="pi-item pi-group pi-border-color">
+<table class="pi-horizontal-group">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
+<thead>
+<tr>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="previous">Previous</th>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="next">Next</th>
+</tr>
+</thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://i-land.fandom.com/wiki/Daniel_(%EB%8B%A4%EB%8B%88%EC%97%98)" title="w:c:i-land:Daniel (다니엘)">I-LAND Wiki</a></p></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Face_the_Sun" title="Face the Sun">Face the Sun</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/World_(Feat._Anne-Marie)" title="World (Feat. Anne-Marie)">_World (Feat. Anne-Marie)</a>"</td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<b>Daniel</b> (다니엘) is a South Korean-American trainee. 
-</p><p>He is best known for participating in the reality survival show <i><a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></i>.
+<i><b>Sector 17</b></i> (stylized in all caps) is a repackage of <a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a>'s fourth full-length album <i><a href="/wiki/Face_the_Sun" title="Face the Sun">Face the Sun</a></i>. It was released on July 18, 2022 with "_World" serving as the album's title track.
+</p><p>The physical album comes in five versions: New Heights, New Beginning, Compact, Weverse, and Kit.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#2020:_I-LAND"><span class="tocnumber">1.1</span> <span class="toctext">2020: <i>I-LAND</i></span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a>
-<ul>
-<li class="toclevel-2 tocsection-4"><a href="#Education"><span class="tocnumber">2.1</span> <span class="toctext">Education</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-5"><a href="#Filmography"><span class="tocnumber">3</span> <span class="toctext">Filmography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#Survival_shows"><span class="tocnumber">3.1</span> <span class="toctext">Survival shows</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-7"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a>
-<ul>
-<li class="toclevel-2 tocsection-9"><a href="#SNS"><span class="tocnumber">5.1</span> <span class="toctext">SNS</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#Official_links"><span class="tocnumber">7</span> <span class="toctext">Official links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Commercial_performance"><span class="tocnumber">1</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_list"><span class="tocnumber">2</span> <span class="toctext">Track list</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Video_links"><span class="tocnumber">6</span> <span class="toctext">Video links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="2020:_I-LAND">2020: <i>I-LAND</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On June 1, 2020, Daniel was introduced as a participant in the <a class="extiw" href="https://en.wikipedia.org/wiki/CJ_ENM" title="wikipedia:CJ ENM">CJ ENM</a> and <a class="mw-redirect" href="/wiki/Big_Hit_Entertainment" title="Big Hit Entertainment">Big Hit Entertainment</a>'s then upcoming survival show <i><a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></i>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> On the first episode, he performed "<a href="/wiki/Any_Song" title="Any Song">Any Song</a>" by <a href="/wiki/Zico" title="Zico">Zico</a>, along with <a href="/wiki/EJ_(%26TEAM)" title="EJ (&amp;TEAM)">EJ</a>, and was able to enter "I-LAND".<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> Because of an average score of 59, half of the I-LANDER team had to be sent to "Ground" in the third episode. Daniel was the second one to be sent as he received 11 votes.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> On the seventh episode, he ranked second based on the global votes and was able to move onto Part 2 and become one of the final 12<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> but did not make it into the final group.
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to YG PLUS, as of July 13, <i>Sector 17</i> has already surpassed 1,200,000 stock pre-orders.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>The title track "_World" hit #1 on the iTunes Top Songs charts in 28 regions, as well as on realtime charts for domestic music sites including Melon and Bugs. <i>Sector 17</i> reached #1 on Line Music's realtime albums chart and "_World" also placed #1 on the realtime music chart. Multiple b-side tracks were ranked high on the Line Music's charts.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p><i>Sector 17</i> sold 935,138 copies on the first day of its release alone and one million copies three days within the album's release. It's the first repackaged album to sell over one million copies in the first week.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p><p>On July 30, Oricon announced that <i>Sector 17</i> had debuted at #1 on their daily album chart, selling 92,958 copies on the first day of its release in Japan alone.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</p><p>On July 31, Billboard announced that <i>Sector 17</i> had debuted at #4 on the Top 200 Albums chart, which is the group's highest ranking on the Billboard 200.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> For the week ending on August 13, <i>Sector 17</i> remained on the chart for a second consecutive week.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p><p>On August 10, <i>Sector 17</i> received a gold certification in Japan.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> On September 9, it received an official platinum certification.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p><p>On April 6, 2023, the Weverse version of the album received a platinum certification for surpassing 250,000 copies sold on Circle Chart.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup>
 </p>
-<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Daniel is currently attending <a class="extiw" href="https://en.wikipedia.org/wiki/Hanlim_Multi_Art_School" title="wikipedia:Hanlim Multi Art School">Hanlim Multi Art School</a>.
-</p>
-<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Survival_shows">Survival shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></i> (Mnet, 2020) - contestant</li></ul>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>His MBTI personality type is INFJ.<sup class="reference" id="cite_ref-iland_profile_5-0"><a href="#cite_note-iland_profile-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
-<li>His role model is <a href="/wiki/Zico" title="Zico">Zico</a>.<sup class="reference" id="cite_ref-iland_profile_5-1"><a href="#cite_note-iland_profile-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li>
-<li>His soul food is bulgogi.<sup class="reference" id="cite_ref-iland_profile_5-2"><a href="#cite_note-iland_profile-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="SNS">SNS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="eb1271a99a3a02f0573a9a806d40a92b" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Daniel_I-LAND_profile-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Daniel_I-LAND_profile.png" style="height:150px; width:150px;" title="Daniel I-LAND profile.png (583 KB)"><noscript><img alt="Profile (I-LAND)" class="thumbimage" data-caption='Profile&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(&lt;i&gt;&lt;/i&gt;)&lt;/span&gt;' data-image-key="Daniel_I-LAND_profile.png" data-image-name="Daniel I-LAND profile.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/4/47/Daniel_I-LAND_profile.png/revision/latest/scale-to-width-down/150?cb=20250307214319" style="" title="Daniel I-LAND profile.png (583 KB)" width="150"/></noscript><img alt="Profile (I-LAND)" class="thumbimage lazyload" data-caption='Profile&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(&lt;i&gt;&lt;/i&gt;)&lt;/span&gt;' data-image-key="Daniel_I-LAND_profile.png" data-image-name="Daniel I-LAND profile.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/47/Daniel_I-LAND_profile.png/revision/latest/scale-to-width-down/150?cb=20250307214319" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Daniel I-LAND profile.png (583 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Profile<br/><span style="font-size:85%;">(<i><a href="/wiki/I-LAND" title="I-LAND">I-LAND</a></i>)</span></div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Circles (돌고 돌아)" - 3:59</li>
+<li>"_World" - 2:58</li>
+<li>"<a href="/wiki/Fallin%27_Flower" title="Fallin' Flower">Fallin' Flower (Korean ver.)</a>" - 3:30</li>
+<li>"Cheers" (<span class="new" data-uncrawlable-url="L3dpa2kvU1ZUX0xFQURFUlM/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="SVT LEADERS (page does not exist)">SVT LEADERS</span>) - 3:01</li>
+<li>"Darl+ing" - 2:56</li>
+<li>"Hot" - 3:17</li>
+<li>"Don Quixote" - 2:52</li>
+<li>"March" - 3:16</li>
+<li>"Domino" - 3:34</li>
+<li>"Shadow" - 3:33</li>
+<li>"'Bout You (노래해)" - 2:42</li>
+<li>"If You Leave Me" - 3:32</li>
+<li>"Ash" - 3:21</li></ol>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders" style="text-align:center">
+<tbody><tr>
+<th>Song
+</th>
+<th>Music show
+</th>
+<th>Date
+</th></tr>
+<tr>
+<td rowspan="5">"_World"
+</td>
+<td><i><a href="/wiki/Show_Champion" title="Show Champion">Show Champion</a></i> <span style="font-size:85%;">(MBC M)</span>
+</td>
+<td>July 27, 2022<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td rowspan="2"><i><a href="/wiki/M_Countdown" title="M Countdown">M Countdown</a></i> <span style="font-size:85%;">(Mnet)</span>
+</td>
+<td>July 28, 2022<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td>August 4, 2022<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Music_Bank" title="Music Bank">Music Bank</a></i> <span style="font-size:85%;">(KBS)</span>
+</td>
+<td>July 29, 2022<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Inkigayo" title="Inkigayo">Inkigayo</a></i> <span style="font-size:85%;">(SBS)</span>
+</td>
+<td>July 31, 2022<sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="b22d18bdceb7f1044e52eda4a2a56566" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_promotion_scheduler-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_promotion_scheduler.png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 promotion scheduler.png (9.95 MB)"><noscript><img alt="Promotion scheduler" class="thumbimage" data-caption="Promotion scheduler" data-image-key="SEVENTEEN_Sector_17_promotion_scheduler.png" data-image-name="SEVENTEEN Sector 17 promotion scheduler.png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/d/de/SEVENTEEN_Sector_17_promotion_scheduler.png/revision/latest/scale-to-width-down/150?cb=20220627180011" style="" title="SEVENTEEN Sector 17 promotion scheduler.png (9.95 MB)" width="150"/></noscript><img alt="Promotion scheduler" class="thumbimage lazyload" data-caption="Promotion scheduler" data-image-key="SEVENTEEN_Sector_17_promotion_scheduler.png" data-image-name="SEVENTEEN Sector 17 promotion scheduler.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/de/SEVENTEEN_Sector_17_promotion_scheduler.png/revision/latest/scale-to-width-down/150?cb=20220627180011" height="200" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 promotion scheduler.png (9.95 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Promotion scheduler</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_track_list-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_track_list.png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 track list.png (2.51 MB)"><noscript><img alt="Track list" class="thumbimage" data-caption="Track list" data-image-key="SEVENTEEN_Sector_17_track_list.png" data-image-name="SEVENTEEN Sector 17 track list.png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/7/7f/SEVENTEEN_Sector_17_track_list.png/revision/latest/scale-to-width-down/150?cb=20220703183037" style="" title="SEVENTEEN Sector 17 track list.png (2.51 MB)" width="150"/></noscript><img alt="Track list" class="thumbimage lazyload" data-caption="Track list" data-image-key="SEVENTEEN_Sector_17_track_list.png" data-image-name="SEVENTEEN Sector 17 track list.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/7f/SEVENTEEN_Sector_17_track_list.png/revision/latest/scale-to-width-down/150?cb=20220703183037" height="200" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 track list.png (2.51 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_Cheers_music_video_announcement-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_Cheers_music_video_announcement.png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 Cheers music video announcement.png (4.51 MB)"><noscript><img alt='"Cheers" music video announcement' class="thumbimage" data-caption='"Cheers" music video announcement' data-image-key="SEVENTEEN_Sector_17_Cheers_music_video_announcement.png" data-image-name="SEVENTEEN Sector 17 Cheers music video announcement.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/a/a2/SEVENTEEN_Sector_17_Cheers_music_video_announcement.png/revision/latest/scale-to-width-down/150?cb=20220704185640" style="" title="SEVENTEEN Sector 17 Cheers music video announcement.png (4.51 MB)" width="150"/></noscript><img alt='"Cheers" music video announcement' class="thumbimage lazyload" data-caption='"Cheers" music video announcement' data-image-key="SEVENTEEN_Sector_17_Cheers_music_video_announcement.png" data-image-name="SEVENTEEN Sector 17 Cheers music video announcement.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a2/SEVENTEEN_Sector_17_Cheers_music_video_announcement.png/revision/latest/scale-to-width-down/150?cb=20220704185640" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 Cheers music video announcement.png (4.51 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"Cheers" music video announcement</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_album_packaging-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_album_packaging.png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 album packaging.png (7.11 MB)"><noscript><img alt="Album packaging" class="thumbimage" data-caption="Album packaging" data-image-key="SEVENTEEN_Sector_17_album_packaging.png" data-image-name="SEVENTEEN Sector 17 album packaging.png" data-relevant="1" height="1755" src="https://static.wikia.nocookie.net/kpop/images/1/13/SEVENTEEN_Sector_17_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20220725193658" style="" title="SEVENTEEN Sector 17 album packaging.png (7.11 MB)" width="150"/></noscript><img alt="Album packaging" class="thumbimage lazyload" data-caption="Album packaging" data-image-key="SEVENTEEN_Sector_17_album_packaging.png" data-image-name="SEVENTEEN Sector 17 album packaging.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/1/13/SEVENTEEN_Sector_17_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20220725193658" height="1755" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 album packaging.png (7.11 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_album_packaging_-Compact_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_album_packaging_(Compact_ver.).png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 album packaging (Compact ver.).png (9.77 MB)"><noscript><img alt="Album packaging (Compact ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Compact ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Compact_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Compact ver.).png" data-relevant="1" height="1167" src="https://static.wikia.nocookie.net/kpop/images/f/f5/SEVENTEEN_Sector_17_album_packaging_%28Compact_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193532" style="" title="SEVENTEEN Sector 17 album packaging (Compact ver.).png (9.77 MB)" width="150"/></noscript><img alt="Album packaging (Compact ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Compact ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Compact_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Compact ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f5/SEVENTEEN_Sector_17_album_packaging_%28Compact_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193532" height="1167" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 album packaging (Compact ver.).png (9.77 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Compact ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_album_packaging_-Kit_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_album_packaging_(Kit_ver.).png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 album packaging (Kit ver.).png (9.96 MB)"><noscript><img alt="Album packaging (Kit ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Kit ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Kit_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Kit ver.).png" data-relevant="1" height="587" src="https://static.wikia.nocookie.net/kpop/images/7/70/SEVENTEEN_Sector_17_album_packaging_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193601" style="" title="SEVENTEEN Sector 17 album packaging (Kit ver.).png (9.96 MB)" width="150"/></noscript><img alt="Album packaging (Kit ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Kit ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Kit_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Kit ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/70/SEVENTEEN_Sector_17_album_packaging_%28Kit_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193601" height="587" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 album packaging (Kit ver.).png (9.96 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Kit ver.)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="SEVENTEEN_Sector_17_album_packaging_-Weverse_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:SEVENTEEN_Sector_17_album_packaging_(Weverse_ver.).png" style="height:150px; width:150px;" title="SEVENTEEN Sector 17 album packaging (Weverse ver.).png (9.78 MB)"><noscript><img alt="Album packaging (Weverse ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Weverse ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Weverse_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Weverse ver.).png" data-relevant="1" height="1017" src="https://static.wikia.nocookie.net/kpop/images/f/fc/SEVENTEEN_Sector_17_album_packaging_%28Weverse_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193631" style="" title="SEVENTEEN Sector 17 album packaging (Weverse ver.).png (9.78 MB)" width="150"/></noscript><img alt="Album packaging (Weverse ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Weverse ver.)&lt;/span&gt;' data-image-key="SEVENTEEN_Sector_17_album_packaging_%28Weverse_ver.%29.png" data-image-name="SEVENTEEN Sector 17 album packaging (Weverse ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/fc/SEVENTEEN_Sector_17_album_packaging_%28Weverse_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20220725193631" height="1017" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="SEVENTEEN Sector 17 album packaging (Weverse ver.).png (9.78 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Weverse ver.)</span></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/mnetiland/status/1267282600848011266?s=20" rel="nofollow noreferrer noopener" target="_blank">@mnetiland on Twitter: June 1, 2020 tweet</a></span>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1535525wpp/seventeen-set-to-become-7-time-million-sellers-with-impressive-sector-17-stock-pre-order-count" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN Set To Become 7-Time Million Sellers With Impressive “SECTOR 17” Stock Pre-Order Count</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1409311wpp/watch-i-land-premieres-with-trainees-covering-exo-nct-and-more-for-test-as-they-aim-for-spots-in-new-group" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: “I-LAND” Premieres With Trainees Covering EXO, NCT, And More For Test As They Aim For Spots In New Group</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1536598wpp/seventeen-tops-itunes-charts-around-the-world-with-sector-17" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN Tops iTunes Charts Around The World With “SECTOR 17″</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1412032wpp/watch-i-land-contestants-perform-btss-fire-six-i-landers-get-voted-out" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: “I-LAND” Contestants Perform BTS’s “Fire” + Six I-LANDERs Get Voted Out</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1537027wpp/seventeen-becomes-7-time-million-sellers-with-first-k-pop-repackage-album-to-surpass-1-million-sales-in-the-first-week" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN Becomes 7-Time Million Sellers With First K-pop Repackage Album To Surpass 1 Million Sales In The First Week</a></span>
 </li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1419119wpp/i-land-reveals-the-12-contestants-moving-on-to-part-2" rel="nofollow noreferrer noopener" target="_blank">Soompi: “I-LAND” Reveals The 12 Contestants Moving On To Part 2</a></span>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538584wpp/seventeen-and-twice-take-top-spots-on-oricons-daily-album-chart" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN And TWICE Take Top Spots On Oricon’s Daily Album Chart</a></span>
 </li>
-<li id="cite_note-iland_profile-5"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-iland_profile_5-0">5.0</a></sup> <sup><a href="#cite_ref-iland_profile_5-1">5.1</a></sup> <sup><a href="#cite_ref-iland_profile_5-2">5.2</a></sup></span> <span class="reference-text"><a class="external text" href="https://twitter.com/mnetiland/status/1275428783080660994?s=20" rel="nofollow noreferrer noopener" target="_blank">@mnetiland on Twitter: Daniel Profile</a></span>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538671wpp/seventeen-enters-top-4-of-billboard-200-for-1st-time-with-sector-17" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN Enters Top 4 Of Billboard 200 For 1st Time With “SECTOR 17”</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1539876wpp/seventeens-sector-17-becomes-their-3rd-album-to-spend-multiple-weeks-on-billboard-200" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN’s “SECTOR 17” Becomes Their 3rd Album To Spend Multiple Weeks On Billboard 200</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1540069wpp/twice-enhypen-and-seventeen-earn-gold-riaj-certifications-in-japan" rel="nofollow noreferrer noopener" target="_blank">Soompi: TWICE, ENHYPEN, And SEVENTEEN Earn Gold RIAJ Certifications In Japan</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1544415wpp/txt-earns-their-1st-double-platinum-riaj-certification-in-japan-stray-kids-and-seventeen-go-platinum" rel="nofollow noreferrer noopener" target="_blank">Soompi: TXT Earns Their 1st Double Platinum RIAJ Certification In Japan + Stray Kids And SEVENTEEN Go Platinum</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="https://circlechart.kr/page_cert/chart.circle?serviceGbn=ALBUM" rel="nofollow noreferrer noopener" target="_blank">Circle Chart: Album Certification</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538116wpp/watch-seventeen-takes-1st-win-for-_world-on-show-champion" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: SEVENTEEN Takes 1st Win For “_WORLD” On “Show Champion”</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538269wpp/watch-seventeen-takes-_world-2nd-win-on-m-countdown-performances-by-itzy-sunye-to1-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: SEVENTEEN Takes “_WORLD” 2nd Win On “M Countdown”; Performances By ITZY, Sunye, TO1, And More</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1539320wpp/watch-seventeen-takes-_world-5th-win-on-m-countdown-performances-by-ateez-newjeans-choi-ye-na-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: SEVENTEEN Takes “_WORLD” 5th Win On “M Countdown”; Performances By ATEEZ, NewJeans, Choi Ye Na, And More</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538421wpp/watch-seventeen-takes-3rd-win-for-_world-on-music-bank-performances-by-ateez-itzy-enhypen-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: SEVENTEEN Takes 3rd Win For “_WORLD” On “Music Bank”; Performances By ATEEZ, ITZY, ENHYPEN, And More</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1538611wpp/seventeen-takes-4th-win-for-_world-on-inkigayo" rel="nofollow noreferrer noopener" target="_blank">Soompi: SEVENTEEN Takes 4th Win For “_WORLD” On “Inkigayo”</a></span>
 </li>
 </ol></div></div>
 </div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDaniel_%28I-LAND_contestant%29%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.instagram.com/kyuded/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
-<li><a class="external text" href="https://x.com/kyuded" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></li>
-<li><a class="external text" href="https://www.youtube.com/@KYU-DANIEL" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Daniel_(I-LAND_contestant)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FSector_17%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="col-break">
+<tbody><tr>
+<td style="width:50%;" valign="top">
+<dl><dt>"_World"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=VCDWg0ljbFQ" rel="nofollow noreferrer noopener" target="_blank">Music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=n2JNQ3m0EUs" rel="nofollow noreferrer noopener" target="_blank">Eye Contact ver.</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=eem0Tc9SDfc" rel="nofollow noreferrer noopener" target="_blank">MV teaser 1</a> / <a class="external text" href="https://www.youtube.com/watch?v=YUcSUjL9QZQ" rel="nofollow noreferrer noopener" target="_blank">2</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=bQz90csaUcc" rel="nofollow noreferrer noopener" target="_blank">MV behind the scenes</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=F_e18it9vbU" rel="nofollow noreferrer noopener" target="_blank">MV reaction</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=SV5A9W47s3w" rel="nofollow noreferrer noopener" target="_blank">Holiday ver.</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=jzYuhnJfCl8" rel="nofollow noreferrer noopener" target="_blank">Choreography video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=gXdPbbUvuTQ" rel="nofollow noreferrer noopener" target="_blank">Choreo practice sketch</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=ZdKCkl17iCI" rel="nofollow noreferrer noopener" target="_blank">Band live session</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=rIokntrc7a8" rel="nofollow noreferrer noopener" target="_blank">Fanchant guide</a></li></ul>
+</td>
+<td style="width:50%;" valign="top">
+<dl><dt>"Cheers"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=RnO0HhILXi4" rel="nofollow noreferrer noopener" target="_blank">Music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=94ztm77lKBo" rel="nofollow noreferrer noopener" target="_blank">Choreography version</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=sNpl_wV3hig" rel="nofollow noreferrer noopener" target="_blank">MV teaser</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=4g-D0xSx4No" rel="nofollow noreferrer noopener" target="_blank">MV behind the scenes</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=fkMyxBpbWiY" rel="nofollow noreferrer noopener" target="_blank">Dance practice behind the scene</a></li></ul>
+<dl><dt>"Circles"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=DgAAaV6xfrk" rel="nofollow noreferrer noopener" target="_blank">Special video</a></li></ul>
+<dl><dt><i>Sector 17</i></dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=TCV1KvlnEg0" rel="nofollow noreferrer noopener" target="_blank">Highlight medley</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=VOdERY5RAAs" rel="nofollow noreferrer noopener" target="_blank">Come Into Our World : Sector 17 #1</a> / <a class="external text" href="https://www.youtube.com/watch?v=4zXlKzVVnMA" rel="nofollow noreferrer noopener" target="_blank">#2</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=Mfm1p4V2OoI" rel="nofollow noreferrer noopener" target="_blank">Official photo shoot sketch</a></li></ul>
+<p>
+</p>
+</td></tr></tbody></table>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Sector_17?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#91A8D0; color:#F7CAC9;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:SEVENTEEN" title="Template:SEVENTEEN"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:SEVENTEEN?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/SEVENTEEN" title="SEVENTEEN">SEVENTEEN</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/S.Coups" title="S.Coups">S.Coups</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jeonghan" title="Jeonghan">Jeonghan</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Joshua" title="Joshua">Joshua</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jun_(SEVENTEEN)" title="Jun (SEVENTEEN)">Jun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hoshi" title="Hoshi">Hoshi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Wonwoo" title="Wonwoo">Wonwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Woozi" title="Woozi">Woozi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/DK_(SEVENTEEN)" title="DK (SEVENTEEN)">DK</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mingyu_(SEVENTEEN)" title="Mingyu (SEVENTEEN)">Mingyu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/The8" title="The8">The8</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seungkwan" title="Seungkwan">Seungkwan</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Vernon" title="Vernon">Vernon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Dino_(SEVENTEEN)" title="Dino (SEVENTEEN)">Dino</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/First_%27Love_%26_Letter%27" title="First 'Love &amp; Letter'">First 'Love &amp; Letter'</a></i> <small>(<i><a href="/wiki/Love_%26_Letter_Repackage_Album" title="Love &amp; Letter Repackage Album">Love &amp; Letter Repackage Album</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Teen,_Age" title="Teen, Age">Teen, Age</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/An_Ode" title="An Ode">An Ode</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Face_the_Sun" title="Face the Sun">Face the Sun</a></i> <small>(<i><strong class="mw-selflink selflink">Sector 17</strong></i>)</small></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Is_Right_Here" title="17 Is Right Here">17 Is Right Here</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Carat" title="17 Carat">17 Carat</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Boys_Be" title="Boys Be">Boys Be</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Going_Seventeen" title="Going Seventeen">Going Seventeen</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Al1" title="Al1">Al1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/You_Make_My_Day" title="You Make My Day">You Make My Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/You_Made_My_Dawn" title="You Made My Dawn">You Made My Dawn</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Heng:gar%C3%A6" title="Heng:garæ">Heng:garæ</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Your_Choice" title="Your Choice">Your Choice</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Attacca" title="Attacca">Attacca</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/FML" title="FML">FML</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Seventeenth_Heaven" title="Seventeenth Heaven">Seventeenth Heaven</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Spill_the_Feels" title="Spill the Feels">Spill the Feels</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Special albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Director%27s_Cut" title="Director's Cut">Director's Cut</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Semicolon" title="Semicolon">Semicolon</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mixtapes</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Check-In_(SEVENTEEN)" title="Check-In (SEVENTEEN)">Check-In</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Hit" title="Hit">Hit</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/World_(Feat._Anne-Marie)" title="World (Feat. Anne-Marie)">_World (Feat. Anne-Marie)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/God_of_Light_Music" title="God of Light Music">God of Light Music</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Remix singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Super_(Workout_Remix)" title="Super (Workout Remix)">Super (Workout Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Maestro_(Orchestra_Remix)" title="Maestro (Orchestra Remix)">Maestro (Orchestra Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Remixes)" title="Love, Money, Fame (Remixes)">Love, Money, Fame (Remixes)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Timbaland_Remix)" title="Love, Money, Fame (Timbaland Remix)">Love, Money, Fame (Timbaland Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love,_Money,_Fame_(Kenia_Os_Remix)" title="Love, Money, Fame (Kenia Os Remix)">Love, Money, Fame (Kenia Os Remix)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Q%26A_(SEVENTEEN_%26_Ailee)" title="Q&amp;A (SEVENTEEN &amp; Ailee)">Q&amp;A</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Monthly_Project_2016_February_Yoon_Jong_Shin" title="Monthly Project 2016 February Yoon Jong Shin">Monthly Project 2016 February Yoon Jong Shin</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Always_Yours" title="Always Yours">Always Yours</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/We_Make_You" title="We Make You">We Make You</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/24H" title="24H">24H</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Dream_(SEVENTEEN)" title="Dream (SEVENTEEN)">Dream</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Happy_Ending_(SEVENTEEN)" title="Happy Ending (SEVENTEEN)">Happy Ending</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fallin%27_Flower" title="Fallin' Flower">Fallin' Flower</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Not_Alone_(SEVENTEEN)" title="Not Alone (SEVENTEEN)">Not Alone</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sh%C5%8Dhi_Kigen_(single)" title="Shōhi Kigen (single)">消費期限</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Special singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Power_of_Love_(SEVENTEEN)" title="Power of Love (SEVENTEEN)">Power of Love</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"24H"</span>  •  <span style="white-space:nowrap">"Sara Sara"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sh%C5%8Dhi_Kigen_(digital_single)" title="Shōhi Kigen (digital single)">消費期限</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Chinese</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Oh_My!_(SEVENTEEN)" title="Oh My! (SEVENTEEN)">Oh My!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Home_(SEVENTEEN_Chinese_single)" title="Home (SEVENTEEN Chinese single)">Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Xi%C4%81ng_Y%C3%B9_De_Y%C3%AC_Y%C3%AC" title="Xiāng Yù De Yì Yì">相遇的意义</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Taiwanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/17_Hits" title="17 Hits">17 Hits</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Darl%2Bing" title="Darl+ing">Darl+ing</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Solo concerts</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3Qm95c19XaXNoJTI3X0NvbmNlcnQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Like SEVENTEEN 'Boys Wish' Concert (page does not exist)">Boys Wish</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3Qm95c19XaXNoX0VuY29yZSUyN19Db25jZXJ0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Like SEVENTEEN 'Boys Wish Encore' Concert (page does not exist)">Boys Wish Encore</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3U2hpbmluZ19EaWFtb25kcyUyN19Db25jZXJ0P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Like SEVENTEEN 'Shining Diamonds' Concert (page does not exist)">Shining Diamonds</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTGlrZV9TRVZFTlRFRU5fJTI3U2hpbmluZ19EaWFtb25kcyUyN19pbl9KYXBhbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Like SEVENTEEN 'Shining Diamonds' in Japan (page does not exist)">Shining Diamonds in Japan</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMTdfSmFwYW5fQ29uY2VydF8lMjdTYXlfdGhlX05hbWVfU0VWRU5URUVOJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="17 Japan Concert 'Say the Name SEVENTEEN' (page does not exist)">17 Japan Concert 'Say the Name #SEVENTEEN'</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SEVENTEEN_Online_Concert_%27In-Complete%27" title="2021 SEVENTEEN Online Concert 'In-Complete'">In-Complete</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SEVENTEEN_Concert_%27Power_of_Love%27" title="2021 SEVENTEEN Concert 'Power of Love'">Power of Love</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Seoul" title="SEVENTEEN Tour 'Follow' to Seoul">Follow to Seoul</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX1RvdXJfJTI3Rm9sbG93JTI3X0FnYWluP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Tour 'Follow' Again (page does not exist)">Follow Again</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Asia tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzFzdF9Bc2lhX1RvdXJfJTI3U2hpbmluZ19EaWFtb25kcyUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN 1st Asia Tour 'Shining Diamonds' (page does not exist)">Shining Diamonds</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0NvbmNlcnRfJTI3SWRlYWxfQ3V0JTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Concert 'Ideal Cut' (page does not exist)">Ideal Cut</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Asia" title="SEVENTEEN Tour 'Follow' to Asia">Follow to Asia</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japan tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0FyZW5hX1RvdXJfJTI3U1ZUJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Arena Tour 'SVT' (page does not exist)">SVT</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzIwMTlfSmFwYW5fVG91cl8lMjdIYXJ1JTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN 2019 Japan Tour 'Haru' (page does not exist)">Haru</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzIwMjBfSmFwYW5fRG9tZV9Ub3VyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN 2020 Japan Dome Tour (page does not exist)">SEVENTEEN 2020 Japan Dome Tour</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_Tour_%27Follow%27_to_Japan" title="SEVENTEEN Tour 'Follow' to Japan">Follow to Japan</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">World tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOXzFzdF9Xb3JsZF9Ub3VyXyUyN0RpYW1vbmRfRWRnZSUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN 1st World Tour 'Diamond Edge' (page does not exist)">Diamond Edge</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_World_Tour_%27Ode_to_You%27" title="SEVENTEEN World Tour 'Ode to You'">Ode to You</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_World_Tour_%27Be_the_Sun%27" title="SEVENTEEN World Tour 'Be the Sun'">Be the Sun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_%27Right_Here%27_World_Tour" title="SEVENTEEN 'Right Here' World Tour">Right Here</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Concert participations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/2022_Weverse_Con_%22New_Era%22" title='2022 Weverse Con "New Era"'>2022 Weverse Con [New Era]</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2024_Weverse_Con_Festival" title="2024 Weverse Con Festival">2024 Weverse Con Festival</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Lollapalooza" title="wikipedia:en:Lollapalooza">Lollapalooza Berlin 2024</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Glastonbury_Festival" title="wikipedia:en:Glastonbury Festival">Glastonbury Festival 2024</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX01pbmlfRmFubWVldGluZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN Mini Fanmeeting (page does not exist)">SEVENTEEN Mini Fanmeeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxN19TVlRfMXN0X0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2017 SVT 1st Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2017 SVT 1st Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOF9TVlRfMm5kX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2018 SVT 2nd Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2018 SVT 2nd Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOV9TVlRfM3JkX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2019 SVT 3rd Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2019 SVT 3rd Fan Meeting 'SEVENTEEN in Carat Land'</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/2020_SVT_4th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2020 SVT 4th Fan Meeting 'SEVENTEEN in Carat Land'">2020 SVT 4th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2021_SVT_5th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2021 SVT 5th Fan Meeting 'SEVENTEEN in Carat Land'">2021 SVT 5th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2022_SVT_6th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2022 SVT 6th Fan Meeting 'SEVENTEEN in Carat Land'">2022 SVT 6th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2023_SVT_7th_Fan_Meeting_%27SEVENTEEN_in_Carat_Land%27" title="2023 SVT 7th Fan Meeting 'SEVENTEEN in Carat Land'">2023 SVT 7th Fan Meeting 'SEVENTEEN in Carat Land'</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAyNF9TVlRfOHRoX0Zhbl9NZWV0aW5nXyUyN1NFVkVOVEVFTl9pbl9DYXJhdF9MYW5kJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="2024 SVT 8th Fan Meeting 'SEVENTEEN in Carat Land' (page does not exist)">2024 SVT 8th Fan Meeting 'SEVENTEEN in Carat Land'</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX09mZmljaWFsX0ZhbmNsdWJfTWVldGluZ18lMjdDYXJhdF9DYW1wJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Official Fanclub Meeting 'Carat Camp' (page does not exist)">Carat Camp</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0Zhbm1lZXRpbmdfJTI3Q2FyYXRfU3VtbWVyX0NhbXAlMjc/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="SEVENTEEN Japan Fanmeeting 'Carat Summer Camp' (page does not exist)">Carat Summer Camp</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX0Zhbm1lZXRpbmdfJTI3SGFuYSUyNz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SEVENTEEN Japan Fanmeeting 'Hana' (page does not exist)">Hana</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvU0VWRU5URUVOX0phcGFuX1NwZWNpYWxfRmFubWVldGluZ18lMjdIYXJlJTI3P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SEVENTEEN Japan Special Fanmeeting 'Hare' (page does not exist)">Hare</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_2022_Japan_Fanmeeting_%27Hanabi%27" title="SEVENTEEN 2022 Japan Fanmeeting 'Hanabi'">Hanabi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SEVENTEEN_2023_Japan_Fanmeeting_%27Love%27" title="SEVENTEEN 2023 Japan Fanmeeting 'Love'">Love</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Pledis_Entertainment" title="Pledis Entertainment">Pledis Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Geffen_Records" title="wikipedia:en:Geffen Records">Geffen Records</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Universal_Music_Group" title="wikipedia:en:Universal Music Group">Universal Music Group</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BSS" title="BSS">BSS</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jeonghan_X_Wonwoo" title="Jeonghan X Wonwoo">Jeonghan X Wonwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hoshi_X_Woozi" title="Hoshi X Woozi">Hoshi X Woozi</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;background:#91A8D0; color:#000; text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://seventeen-17.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="https://www.seventeen-17.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://space.bilibili.com/692206640" rel="nofollow noreferrer noopener" target="_blank">Bilibili</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/seventeen.17" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/seventeennews" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://i.instagram.com/saythename_17/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://soundcloud.com/pledis_seventeen/" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@seventeen17_official/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/pledis_17" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/pledis_17jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weibo.com/u/5518837994" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/seventeen/feed/" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/pledis17" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <span style="font-size:85%;">(<a class="external text" href="https://www.youtube.com/channel/UCpbTKp4B80rE2zHWvQvZpvA" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250317024819
-Cache expiry: 76306
-Reduced expiry: true
+Cached time: 20250317210351
+Cache expiry: 1209600
+Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.116 seconds
-Real time usage: 0.131 seconds
-Preprocessor visited node count: 1543/1000000
-Post‐expand include size: 2413/2097152 bytes
-Template argument size: 453/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.202 seconds
+Real time usage: 0.224 seconds
+Preprocessor visited node count: 10244/1000000
+Post‐expand include size: 255391/2097152 bytes
+Template argument size: 195741/2097152 bytes
+Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 5281/5000000 bytes
+Unstrip post‐expand size: 20986/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  116.346      1 -total
- 82.39%   95.856      1 Template:Infobox_person
- 41.34%   48.100      1 Template:Related_Wikis
-  6.30%    7.333      1 Template:Birth_date_and_age
-  5.21%    6.056      1 Template:Reflist
-  3.86%    4.493      1 Template:Scroll_Box
-  3.03%    3.527      2 Template:MONTHNAME
-  1.86%    2.164      1 Template:Stub
-  1.85%    2.152      1 Template:Twitter
-  1.79%    2.082      1 Template:Language
+100.00%  165.740      1 -total
+ 98.02%  162.466     14 Template:Navbox
+ 41.72%   69.148      1 Template:SEVENTEEN
+ 40.36%   66.890      1 Template:Navbox_with_collapsible_groups
+ 35.38%   58.633      1 Template:Infobox_album
+ 17.81%   29.518     27 Template:List
+ 14.53%   24.079     27 Template:Element_List
+  6.35%   10.519      1 Template:Reflist
+  4.66%    7.717      1 Template:Scroll_Box
+  1.56%    2.584      1 Template:Tnavbar
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:61201-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250317024819 and revision id 1181586. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:132724-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250317210351 and revision id 799429. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2611,28 +2787,24 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="2006 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2006_births" title="Category:2006 births">2006 births</a></span>
+<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="March births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:March_births" title="Category:March births">March births</a></span>
+<li class="category normal" data-name="Repackage albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Repackage_albums" title="Category:Repackage albums">Repackage albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<li class="category normal" data-name="SEVENTEEN" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:SEVENTEEN" title="Category:SEVENTEEN">SEVENTEEN</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male trainees" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_trainees" title="Category:Male trainees">Male trainees</a></span>
+<li class="category normal" data-name="2022 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2022_releases" title="Category:2022 releases">2022 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="I-LAND" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:I-LAND" title="Category:I-LAND">I-LAND</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Daniel (I-LAND contestant)" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Daniel_(I-LAND_contestant)" title="Category:Daniel (I-LAND contestant)">Daniel (I-LAND contestant)</a></span>
+<li class="category normal" data-name="2022 repackage albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2022_repackage_albums" title="Category:2022 repackage albums">2022 repackage albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2644,7 +2816,8 @@ Transclusion expansion time report (%,ms,calls,template)
 <header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
 			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
 <div class="wds-collapsible-panel__content" id="collapsible-content-languages">
-<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/Daniel_(kontestan_I-LAND)">Bahasa Indonesia</a>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/SECTOR_17">Français</a>
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Sector_17">Tagalog</a>
 </div>
 </div>
 <div class="license-description">
@@ -2825,7 +2998,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9EYW5pZWxfKEktTEFORF9jb250ZXN0YW50KT90aXRsZT1EYW5pZWxfJTI4SS1MQU5EX2NvbnRlc3RhbnQlMjkmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9TZWN0b3JfMTc/dGl0bGU9U2VjdG9yXzE3Jm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
 					View Mobile Site				</a>
 </div>
 </div>

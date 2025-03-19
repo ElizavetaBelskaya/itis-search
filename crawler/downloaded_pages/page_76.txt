@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>KG | Kpop Wiki | Fandom</title>
+<title>IST Entertainment | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-KG rootpage-KG skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-IST_Entertainment rootpage-IST_Entertainment skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,037</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,21 +2353,42 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:2007_births" title="Category:2007 births">2007 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:June_births" title="Category:June births">June births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Company_article_stubs" title="Category:Company article stubs">Company article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Agencies" title="Category:Agencies">Agencies</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Record_labels" title="Category:Record labels">Record labels</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">4 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">5 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Subsidiaries" title="Category:Subsidiaries">Subsidiaries</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:A2K" title="Category:A2K">A2K</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:South_Korean_companies" title="Category:South Korean companies">South Korean companies</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:KG" title="Category:KG">KG</a> </li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2011_establishments" title="Category:2011 establishments">2011 establishments</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:VCHA" title="Category:VCHA">VCHA</a> </li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:IST_Entertainment" title="Category:IST Entertainment">IST Entertainment</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Beyond_Music" title="Category:Beyond Music">Beyond Music</a> </li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/IST_Entertainment">Français</a>
+</li>
+<li>
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/IST_Entertainment">Bahasa Indonesia</a>
+</li>
+<li>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/IST_Entertainment">Русский</a>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2375,10 +2396,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">KG</span> </h1>
+<span class="mw-page-title-main">IST Entertainment</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2386,15 +2407,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/KG?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/IST_Entertainment?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/KG?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/IST_Entertainment?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:KG?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:IST_Entertainment?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2418,66 +2439,102 @@
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">KG</h2>
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/9e/VCHA_KG_Only_One_concept_photo.png/revision/latest?cb=20240601120821" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="VCHA_KG_Only_One_concept_photo.png" data-image-name="VCHA KG Only One concept photo.png" data-relevant="1" height="361" src="https://static.wikia.nocookie.net/kpop/images/9/9e/VCHA_KG_Only_One_concept_photo.png/revision/latest/scale-to-width-down/268?cb=20240601120821" srcset="https://static.wikia.nocookie.net/kpop/images/9/9e/VCHA_KG_Only_One_concept_photo.png/revision/latest/scale-to-width-down/268?cb=20240601120821 1x, https://static.wikia.nocookie.net/kpop/images/9/9e/VCHA_KG_Only_One_concept_photo.png/revision/latest/scale-to-width-down/536?cb=20240601120821 2x" width="270">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-company pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">IST Entertainment</h2>
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							2021–present
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							2019–2021
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							2015–2019
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							2011–2015
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/2/2f/IST_Entertainment_logo.png/revision/latest?cb=20211116052436" title="2021–present">
+<img alt="2021–present" class="pi-image-thumbnail" data-image-key="IST Entertainment logo.png" data-image-name="IST Entertainment logo.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/2/2f/IST_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20211116052436" srcset="https://static.wikia.nocookie.net/kpop/images/2/2f/IST_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20211116052436 1x, https://static.wikia.nocookie.net/kpop/images/2/2f/IST_Entertainment_logo.png/revision/latest/scale-to-width-down/536?cb=20211116052436 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Concept photo for "<a href="/wiki/Only_One_(VCHA)" title="Only One (VCHA)">Only One</a>"</figcaption>
 </figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/1/16/PlayM_Entertainment_logo.png/revision/latest?cb=20210305032849" title="2019–2021">
+<img alt="2019–2021" class="pi-image-thumbnail" data-image-key="PlayM Entertainment logo.png" data-image-name="PlayM Entertainment logo.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/1/16/PlayM_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20210305032849" srcset="https://static.wikia.nocookie.net/kpop/images/1/16/PlayM_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20210305032849 1x, https://static.wikia.nocookie.net/kpop/images/1/16/PlayM_Entertainment_logo.png/revision/latest/scale-to-width-down/536?cb=20210305032849 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/7/7f/Plan_A_Entertainment_logo.png/revision/latest?cb=20160814054955" title="2015–2019">
+<img alt="2015–2019" class="pi-image-thumbnail" data-image-key="Plan A Entertainment logo.png" data-image-name="Plan A Entertainment logo.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/7/7f/Plan_A_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20160814054955" srcset="https://static.wikia.nocookie.net/kpop/images/7/7f/Plan_A_Entertainment_logo.png/revision/latest/scale-to-width-down/268?cb=20160814054955 1x, https://static.wikia.nocookie.net/kpop/images/7/7f/Plan_A_Entertainment_logo.png/revision/latest?cb=20160814054955 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/3/38/A_Cube_logo.png/revision/latest?cb=20210305032959" title="2011–2015">
+<img alt="2011–2015" class="pi-image-thumbnail" data-image-key="A Cube logo.png" data-image-name="A Cube logo.png" data-relevant="1" height="175" src="https://static.wikia.nocookie.net/kpop/images/3/38/A_Cube_logo.png/revision/latest?cb=20210305032959" srcset="https://static.wikia.nocookie.net/kpop/images/3/38/A_Cube_logo.png/revision/latest?cb=20210305032959 1x, https://static.wikia.nocookie.net/kpop/images/3/38/A_Cube_logo.png/revision/latest?cb=20210305032959 2x" width="175"/>
+</a>
+</figure>
+</div>
+</div>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Names</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
 <h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">KG Crown</div>
+<div class="pi-data-value pi-font">IST ent</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Kiera Grace Madder</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="former">
+<h3 class="pi-data-label pi-secondary-font">Former name(s)</h3>
+<div class="pi-data-value pi-font">A Cube Entertainment (에이큐브엔터테인먼트) <span style="font-size:85%;">(2011–2016)</span><br/>Plan A Entertainment (플랜에이엔터테인먼트) <span style="font-size:85%;">(2016–2019)</span><br/>Play M Entertainment (플레이엠엔터테인먼트) <span style="font-size:85%;">(2019–2021)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">June 17, 2007<span style="display:none"> (<span class="bday">2007-06-17</span>)</span><span class="noprint"> (age 17)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
-<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">St. Louis, Missouri, United States</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hometown">
-<h3 class="pi-data-label pi-secondary-font">Hometown</h3>
-<div class="pi-data-value pi-font">Los Angeles, California, United States</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
-<h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">155 cm (5 ft 1 in)</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="hangul">
+<h3 class="pi-data-label pi-secondary-font">Hangul</h3>
+<div class="pi-data-value pi-font">아이에스티엔터테인먼트</div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Singer</div>
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">General information</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+<h3 class="pi-data-label pi-secondary-font">Type</h3>
+<div class="pi-data-value pi-font">Subsidiary</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
-<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">January 26, 2024</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="founded">
+<h3 class="pi-data-label pi-secondary-font">Founded</h3>
+<div class="pi-data-value pi-font">January 3, 2011 <span style="font-size:85%;">(as A Cube)</span><br/>June 8, 2016 <span style="font-size:85%;">(as Plan A)</span><br/>April 22, 2019 <span style="font-size:85%;">(as Play M)</span><br/>November 19, 2021 <span style="font-size:85%;">(as IST)</span><sup class="reference" id="cite_ref-kocca_1-0"><a href="#cite_note-kocca-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="solo_debut">
-<h3 class="pi-data-label pi-secondary-font">Solo debut</h3>
-<div class="pi-data-value pi-font">July 23, 2021</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="location">
+<h3 class="pi-data-label pi-secondary-font">Location</h3>
+<div class="pi-data-value pi-font">Seoul, South Korea</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
-<h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2021–present</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="parent">
+<h3 class="pi-data-label pi-secondary-font">Parent</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Beyond_Music" title="Beyond Music">Beyond Music</a> <span style="font-size:85%;">(2025–present)</span><br/><a href="/wiki/Kakao_Entertainment" title="Kakao Entertainment">Kakao Entertainment</a> <span style="font-size:85%;">(2021–2025)</span><br/><a href="/wiki/Kakao_M" title="Kakao M">Kakao M</a> <span style="font-size:85%;">(2015–2021)</span><br/><a href="/wiki/Cube_Entertainment" title="Cube Entertainment">Cube Entertainment</a> <span style="font-size:85%;">(2011–2015)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a> <span style="font-size:85%;">(2023-2024)</span><br/><a class="extiw" href="https://en.wikipedia.org/wiki/Republic_Records" title="wikipedia:Republic Records">Republic Records</a> <span style="font-size:85%;">(2023-2024)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
-<h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/VCHA" title="VCHA">VCHA</a><br/><i><a href="/wiki/A2K" title="A2K">A2K</a></i></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributors">
+<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
+<div class="pi-data-value pi-font">Kakao Entertainment</div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
@@ -2485,7 +2542,7 @@
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Website</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="website"> <span class="links"><span typeof="mw:File"><a href="https://www.kgcrownofficial.com/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Website_Icon.png" data-image-name="Website Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/b/b0/Website_Icon.png/revision/latest?cb=20230315073045" width="20"/></a></span></span> </td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="website"> <span class="links"><span typeof="mw:File"><a href="http://istent.co.kr/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Website_Icon.png" data-image-name="Website Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/b/b0/Website_Icon.png/revision/latest?cb=20230315073045" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span></span> </td>
 </tr>
 </tbody>
 </table>
@@ -2495,134 +2552,183 @@
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.facebook.com/kgcrownofficial1" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Facebook_Icon.png" data-image-name="Facebook Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/8/8f/Facebook_Icon.png/revision/latest?cb=20190807040623" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.instagram.com/iamkgcrown/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.tiktok.com/@kgcrownofficial" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="TikTok_Icon.png" data-image-name="TikTok Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/8/88/TikTok_Icon.png/revision/latest?cb=20191007020349" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.youtube.com/@KGCrown" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://vcha.fandom.com/wiki/KG" title="w:c:vcha:KG">VCHA Wiki</a></p></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.facebook.com/ist.ent.official" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Facebook_Icon.png" data-image-name="Facebook Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/8/8f/Facebook_Icon.png/revision/latest?cb=20190807040623" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.instagram.com/ist_entertainment/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://twitter.com/ist_ent" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="X_Icon.png" data-image-name="X Icon.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/20?cb=20230922164750" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.youtube.com/@ISTentertainment" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<b>KG</b> (케이지) is an American singer. She is a former member of the girl group <a href="/wiki/VCHA" title="VCHA">VCHA</a>.
-</p><p>She made her solo debut with the digital single "<a href="/wiki/Bad_(KG_Crown)" title="Bad (KG Crown)">Bad</a>" as <b>KG Crown</b>, on July 23, 2021.
-</p><p>She is best known for participating in the reality show <i><a href="/wiki/A2K" title="A2K">A2K</a></i>.
+<b>IST Entertainment</b> (아이에스티엔터테인먼트) is a South Korean record label and entertainment agency under Beyond Music.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Artists"><span class="tocnumber">2</span> <span class="toctext">Artists</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#2023–2024:_A2K,_VCHA"><span class="tocnumber">1.1</span> <span class="toctext">2023–2024: <i>A2K</i>, VCHA</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Groups"><span class="tocnumber">2.1</span> <span class="toctext">Groups</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Soloists"><span class="tocnumber">2.2</span> <span class="toctext">Soloists</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Trainees"><span class="tocnumber">2.3</span> <span class="toctext">Trainees</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-3"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
+<li class="toclevel-1 tocsection-6"><a href="#Former_artists"><span class="tocnumber">3</span> <span class="toctext">Former artists</span></a>
 <ul>
-<li class="toclevel-2 tocsection-4"><a href="#Digital_singles"><span class="tocnumber">2.1</span> <span class="toctext">Digital singles</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Trainees_2"><span class="tocnumber">3.1</span> <span class="toctext">Trainees</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-5"><a href="#Filmography"><span class="tocnumber">3</span> <span class="toctext">Filmography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#Reality_shows"><span class="tocnumber">3.1</span> <span class="toctext">Reality shows</span></a></li>
-<li class="toclevel-2 tocsection-7"><a href="#Music_video_appearances"><span class="tocnumber">3.2</span> <span class="toctext">Music video appearances</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a>
-<ul>
-<li class="toclevel-2 tocsection-9"><a href="#Promotional"><span class="tocnumber">4.1</span> <span class="toctext">Promotional</span></a></li>
-<li class="toclevel-2 tocsection-10"><a href="#Pictoral"><span class="tocnumber">4.2</span> <span class="toctext">Pictoral</span></a></li>
-<li class="toclevel-2 tocsection-11"><a href="#SNS"><span class="tocnumber">4.3</span> <span class="toctext">SNS</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#Official_links"><span class="tocnumber">6</span> <span class="toctext">Official links</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Official_links"><span class="tocnumber">5</span> <span class="toctext">Official links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="2023.E2.80.932024:_A2K.2C_VCHA"></span><span class="mw-headline" id="2023–2024:_A2K,_VCHA">2023–2024: <i>A2K</i>, VCHA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>She participated in the reality show <i><a href="/wiki/A2K" title="A2K">A2K</a></i>. After episode 3, she received her pendant. In the fifth episode, she got her dance stone.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> On September 21, 2023, on the twenty-second episode, KG finished the survival in 2nd place, hence becoming a member of <a href="/wiki/VCHA" title="VCHA">VCHA</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
-</p><p>They made their debut on January 26, 2024 with the digital single "<a href="/wiki/Girls_of_the_Year" title="Girls of the Year">Girls of the Year</a>".
-</p><p>On December 7, she announced via her Instagram story that she had decided to leave VCHA after filing a lawsuit against <a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IST was originally founded in 2011 as <b>A Cube Entertainment</b>, then a subsidiary of <a href="/wiki/Cube_Entertainment" title="Cube Entertainment">Cube Entertainment</a>. In November 2015, <a href="/wiki/Kakao_M" title="Kakao M">LOEN Entertainment</a> acquired the company after purchasing 70 percent of their stocks. The company was renamed as <b>Plan A Entertainment</b> on June 8, 2016.<sup class="reference" id="cite_ref-kocca_1-1"><a href="#cite_note-kocca-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>On February 13, 2019, Kakao M announced that Plan A and <a href="/wiki/FAVE_Entertainment" title="FAVE Entertainment">FAVE Entertainment</a> would be merging together. It was later confirmed that the company would be called <b>Play M Entertainment</b> and started operating on April 1.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> The company's name change was registered on April 22 with Plan A as the surviving company and FAVE as the defunct company.<sup class="reference" id="cite_ref-kocca_1-2"><a href="#cite_note-kocca-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>On September 17, 2021, Kakao Entertainment officially announced that Play M would undergo a merger with <a href="/wiki/Cre.ker_Entertainment" title="Cre.ker Entertainment">Cre.ker Entertainment</a> before the end of the year.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> On November 12, 2021, it was announced that the company's new corporate name would be <b>IST Entertainment</b>, which took in effect on November 1.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> The company's name change was registered on November 19, 2021 with Play M as the surviving company and Cre.ker as the defunct company.<sup class="reference" id="cite_ref-kocca_1-3"><a href="#cite_note-kocca-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+</p><p>On February 7, 2022, IST announced that they will debut a new boy group in the first half of the year through a survival show, <i><a href="/wiki/The_Origin_-_A,_B,_or_What%3F" title="The Origin - A, B, or What?">The Origin - A, B, or What?</a></i>, which will air on <a class="extiw" href="https://en.wikipedia.org/wiki/Maeil_Broadcasting_Network" title="wikipedia:Maeil Broadcasting Network">MBN</a> and also be available online on KakaoTV and 1theK. The show premiered on March 19, 2022.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> On the finale episode aired on May 7, 2022, it was announced that the final 7 will debut as <a href="/wiki/ATBO" title="ATBO">ATBO</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p><p>On February 5, 2025, Beyond Music announced that it fully acquired IST Entertainment from Kakao Entertainment and will be incorporating it as a subsidiary.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
 </p>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Bad_(KG_Crown)" title="Bad (KG Crown)">Bad</a>" (2021)</li>
-<li>"<a href="/wiki/Gimme_That" title="Gimme That">Gimme That</a>" (2021)</li>
-<li>"<a href="/wiki/Eeny_Meeny_Miny_Mo" title="Eeny Meeny Miny Mo">Eeny Meeny Miny Mo</a>" (2021)</li>
-<li>"<a href="/wiki/Picture_Perfect_Love" title="Picture Perfect Love">Picture Perfect Love</a>" (2022)</li>
-<li>"<a href="/wiki/Porcelain_Queen" title="Porcelain Queen">Porcelain Queen</a>" (2022)</li></ul>
-<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Reality_shows">Reality shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/A2K" title="A2K">A2K</a></i> (2023) - contestant</li></ul>
-<h3><span class="mw-headline" id="Music_video_appearances">Music video appearances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>Gavin Magnus - "Tuesday" (2021)</li>
-<li><a href="/wiki/Nayeon_(TWICE)" title="Nayeon (TWICE)">Nayeon</a> - "<a href="/wiki/Na" title="Na">ABCD</a>" (2024)</li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Promotional">Promotional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="849a47213dbff07b1a3eede64e84fa83" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_SeVit_-New_Light-_concept_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_SeVit_(New_Light)_concept_photo.png" style="height:150px; width:150px;" title="VCHA KG SeVit (New Light) concept photo.png (2.33 MB)"><noscript><img alt='"SeVit (New Light)"' class="thumbimage" data-caption='""' data-image-key="VCHA_KG_SeVit_%28New_Light%29_concept_photo.png" data-image-name="VCHA KG SeVit (New Light) concept photo.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/4/4a/VCHA_KG_SeVit_%28New_Light%29_concept_photo.png/revision/latest/scale-to-width-down/150?cb=20230923133917" style="" title="VCHA KG SeVit (New Light) concept photo.png (2.33 MB)" width="150"/></noscript><img alt='"SeVit (New Light)"' class="thumbimage lazyload" data-caption='""' data-image-key="VCHA_KG_SeVit_%28New_Light%29_concept_photo.png" data-image-name="VCHA KG SeVit (New Light) concept photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4a/VCHA_KG_SeVit_%28New_Light%29_concept_photo.png/revision/latest/scale-to-width-down/150?cb=20230923133917" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG SeVit (New Light) concept photo.png (2.33 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/SeVit_(New_Light)" title="SeVit (New Light)">SeVit (New Light)</a>"</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Ready_for_the_World_concept_photo_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Ready_for_the_World_concept_photo_1.png" style="height:150px; width:150px;" title="VCHA KG Ready for the World concept photo 1.png (3.6 MB)"><noscript><img alt='"Ready for the World" (1)' class="thumbimage" data-caption='"" (1)' data-image-key="VCHA_KG_Ready_for_the_World_concept_photo_1.png" data-image-name="VCHA KG Ready for the World concept photo 1.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/9/9d/VCHA_KG_Ready_for_the_World_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20231128064000" style="" title="VCHA KG Ready for the World concept photo 1.png (3.6 MB)" width="150"/></noscript><img alt='"Ready for the World" (1)' class="thumbimage lazyload" data-caption='"" (1)' data-image-key="VCHA_KG_Ready_for_the_World_concept_photo_1.png" data-image-name="VCHA KG Ready for the World concept photo 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/9/9d/VCHA_KG_Ready_for_the_World_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20231128064000" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Ready for the World concept photo 1.png (3.6 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Ready_for_the_World" title="Ready for the World">Ready for the World</a>" (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Ready_for_the_World_concept_photo_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Ready_for_the_World_concept_photo_2.png" style="height:150px; width:150px;" title="VCHA KG Ready for the World concept photo 2.png (3.59 MB)"><noscript><img alt='"Ready for the World" (2)' class="thumbimage" data-caption='"" (2)' data-image-key="VCHA_KG_Ready_for_the_World_concept_photo_2.png" data-image-name="VCHA KG Ready for the World concept photo 2.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/e/e3/VCHA_KG_Ready_for_the_World_concept_photo_2.png/revision/latest/scale-to-width-down/150?cb=20231128063926" style="" title="VCHA KG Ready for the World concept photo 2.png (3.59 MB)" width="150"/></noscript><img alt='"Ready for the World" (2)' class="thumbimage lazyload" data-caption='"" (2)' data-image-key="VCHA_KG_Ready_for_the_World_concept_photo_2.png" data-image-name="VCHA KG Ready for the World concept photo 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/e3/VCHA_KG_Ready_for_the_World_concept_photo_2.png/revision/latest/scale-to-width-down/150?cb=20231128063926" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Ready for the World concept photo 2.png (3.59 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Ready_for_the_World" title="Ready for the World">Ready for the World</a>" (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Girls_of_the_Year_concept_photo_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Girls_of_the_Year_concept_photo_1.png" style="height:150px; width:150px;" title="VCHA KG Girls of the Year concept photo 1.png (3.67 MB)"><noscript><img alt='"Girls of the Year" (1)' class="thumbimage" data-caption='"" (1)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_1.png" data-image-name="VCHA KG Girls of the Year concept photo 1.png" data-relevant="1" height="187" src="https://static.wikia.nocookie.net/kpop/images/6/6d/VCHA_KG_Girls_of_the_Year_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20240120114700" style="" title="VCHA KG Girls of the Year concept photo 1.png (3.67 MB)" width="150"/></noscript><img alt='"Girls of the Year" (1)' class="thumbimage lazyload" data-caption='"" (1)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_1.png" data-image-name="VCHA KG Girls of the Year concept photo 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/6/6d/VCHA_KG_Girls_of_the_Year_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20240120114700" height="187" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Girls of the Year concept photo 1.png (3.67 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Girls_of_the_Year" title="Girls of the Year">Girls of the Year</a>" (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Girls_of_the_Year_concept_photo_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Girls_of_the_Year_concept_photo_2.png" style="height:150px; width:150px;" title="VCHA KG Girls of the Year concept photo 2.png (3.18 MB)"><noscript><img alt='"Girls of the Year" (2)' class="thumbimage" data-caption='"" (2)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_2.png" data-image-name="VCHA KG Girls of the Year concept photo 2.png" data-relevant="1" height="187" src="https://static.wikia.nocookie.net/kpop/images/7/74/VCHA_KG_Girls_of_the_Year_concept_photo_2.png/revision/latest/scale-to-width-down/150?cb=20240120114715" style="" title="VCHA KG Girls of the Year concept photo 2.png (3.18 MB)" width="150"/></noscript><img alt='"Girls of the Year" (2)' class="thumbimage lazyload" data-caption='"" (2)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_2.png" data-image-name="VCHA KG Girls of the Year concept photo 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/74/VCHA_KG_Girls_of_the_Year_concept_photo_2.png/revision/latest/scale-to-width-down/150?cb=20240120114715" height="187" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Girls of the Year concept photo 2.png (3.18 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Girls_of_the_Year" title="Girls of the Year">Girls of the Year</a>" (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Girls_of_the_Year_concept_photo_3-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Girls_of_the_Year_concept_photo_3.png" style="height:150px; width:150px;" title="VCHA KG Girls of the Year concept photo 3.png (4.23 MB)"><noscript><img alt='"Girls of the Year" (3)' class="thumbimage" data-caption='"" (3)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_3.png" data-image-name="VCHA KG Girls of the Year concept photo 3.png" data-relevant="1" height="187" src="https://static.wikia.nocookie.net/kpop/images/d/d5/VCHA_KG_Girls_of_the_Year_concept_photo_3.png/revision/latest/scale-to-width-down/150?cb=20240120114733" style="" title="VCHA KG Girls of the Year concept photo 3.png (4.23 MB)" width="150"/></noscript><img alt='"Girls of the Year" (3)' class="thumbimage lazyload" data-caption='"" (3)' data-image-key="VCHA_KG_Girls_of_the_Year_concept_photo_3.png" data-image-name="VCHA KG Girls of the Year concept photo 3.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/d5/VCHA_KG_Girls_of_the_Year_concept_photo_3.png/revision/latest/scale-to-width-down/150?cb=20240120114733" height="187" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Girls of the Year concept photo 3.png (4.23 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Girls_of_the_Year" title="Girls of the Year">Girls of the Year</a>" (3)</div></div></div>
-<h3><span class="mw-headline" id="Pictoral">Pictoral</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="e1c38319a1b70f006348c59ca132aba7" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Dazed_Korea_-December_2023--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Dazed_Korea_(December_2023).png" style="height:150px; width:150px;" title="VCHA KG Dazed Korea (December 2023).png (1.07 MB)"><noscript><img alt="Dazed Korea (December 2023)" class="thumbimage" data-caption='&lt;i&gt;Dazed Korea&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(December 2023)&lt;/span&gt;' data-image-key="VCHA_KG_Dazed_Korea_%28December_2023%29.png" data-image-name="VCHA KG Dazed Korea (December 2023).png" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/8/8b/VCHA_KG_Dazed_Korea_%28December_2023%29.png/revision/latest/scale-to-width-down/150?cb=20231226181106" style="" title="VCHA KG Dazed Korea (December 2023).png (1.07 MB)" width="150"/></noscript><img alt="Dazed Korea (December 2023)" class="thumbimage lazyload" data-caption='&lt;i&gt;Dazed Korea&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(December 2023)&lt;/span&gt;' data-image-key="VCHA_KG_Dazed_Korea_%28December_2023%29.png" data-image-name="VCHA KG Dazed Korea (December 2023).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/8b/VCHA_KG_Dazed_Korea_%28December_2023%29.png/revision/latest/scale-to-width-down/150?cb=20231226181106" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Dazed Korea (December 2023).png (1.07 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i>Dazed Korea</i><br/><span style="font-size:85%;">(December 2023)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Teen_Vogue_-May-June_2024-_-1--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Teen_Vogue_(May-June_2024)_(1).png" style="height:150px; width:150px;" title="VCHA KG Teen Vogue (May-June 2024) (1).png (6.16 MB)"><noscript><img alt="Teen Vogue (May/June 2024) (1)" class="thumbimage" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (1)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%281%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (1).png" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/4/4c/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%281%29.png/revision/latest/scale-to-width-down/150?cb=20240524055533" style="" title="VCHA KG Teen Vogue (May-June 2024) (1).png (6.16 MB)" width="150"/></noscript><img alt="Teen Vogue (May/June 2024) (1)" class="thumbimage lazyload" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (1)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%281%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (1).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4c/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%281%29.png/revision/latest/scale-to-width-down/150?cb=20240524055533" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Teen Vogue (May-June 2024) (1).png (6.16 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i>Teen Vogue</i><br/><span style="font-size:85%;">(May/June 2024)</span> (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Teen_Vogue_-May-June_2024-_-2--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Teen_Vogue_(May-June_2024)_(2).png" style="height:150px; width:150px;" title="VCHA KG Teen Vogue (May-June 2024) (2).png (6.18 MB)"><noscript><img alt="Teen Vogue (May/June 2024) (2)" class="thumbimage" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (2)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%282%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (2).png" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/5/5c/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%282%29.png/revision/latest/scale-to-width-down/150?cb=20240524055533" style="" title="VCHA KG Teen Vogue (May-June 2024) (2).png (6.18 MB)" width="150"/></noscript><img alt="Teen Vogue (May/June 2024) (2)" class="thumbimage lazyload" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (2)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%282%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (2).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/5c/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%282%29.png/revision/latest/scale-to-width-down/150?cb=20240524055533" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Teen Vogue (May-June 2024) (2).png (6.18 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i>Teen Vogue</i><br/><span style="font-size:85%;">(May/June 2024)</span> (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG_Teen_Vogue_-May-June_2024-_-3--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG_Teen_Vogue_(May-June_2024)_(3).png" style="height:150px; width:150px;" title="VCHA KG Teen Vogue (May-June 2024) (3).png (6.47 MB)"><noscript><img alt="Teen Vogue (May/June 2024) (3)" class="thumbimage" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (3)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%283%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (3).png" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/4/4f/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%283%29.png/revision/latest/scale-to-width-down/150?cb=20240524055534" style="" title="VCHA KG Teen Vogue (May-June 2024) (3).png (6.47 MB)" width="150"/></noscript><img alt="Teen Vogue (May/June 2024) (3)" class="thumbimage lazyload" data-caption='&lt;i&gt;Teen Vogue&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(May/June 2024)&lt;/span&gt; (3)' data-image-key="VCHA_KG_Teen_Vogue_%28May-June_2024%29_%283%29.png" data-image-name="VCHA KG Teen Vogue (May-June 2024) (3).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4f/VCHA_KG_Teen_Vogue_%28May-June_2024%29_%283%29.png/revision/latest/scale-to-width-down/150?cb=20240524055534" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG Teen Vogue (May-June 2024) (3).png (6.47 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i>Teen Vogue</i><br/><span style="font-size:85%;">(May/June 2024)</span> (3)</div></div></div>
-<h3><span class="mw-headline" id="SNS">SNS</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="2" hash="4f256f3aa666ab5b569e6155dd250511" id="gallery-2"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="VCHA_KG-s_birthday_Twitter_post_-June_17-_2024--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:VCHA_KG%27s_birthday_Twitter_post_(June_17,_2024).png" style="height:150px; width:150px;" title="VCHA KG's birthday Twitter post (June 17, 2024).png (2.35 MB)"><noscript><img alt="Happy Birthday KG (2024)" class="thumbimage" data-caption="Happy Birthday KG (2024)" data-image-key="VCHA_KG%27s_birthday_Twitter_post_%28June_17%2C_2024%29.png" data-image-name="VCHA KG's birthday Twitter post (June 17, 2024).png" data-relevant="1" height="217" src="https://static.wikia.nocookie.net/kpop/images/b/bd/VCHA_KG%27s_birthday_Twitter_post_%28June_17%2C_2024%29.png/revision/latest/scale-to-width-down/150?cb=20240617195711" style="" title="VCHA KG's birthday Twitter post (June 17, 2024).png (2.35 MB)" width="150"/></noscript><img alt="Happy Birthday KG (2024)" class="thumbimage lazyload" data-caption="Happy Birthday KG (2024)" data-image-key="VCHA_KG%27s_birthday_Twitter_post_%28June_17%2C_2024%29.png" data-image-name="VCHA KG's birthday Twitter post (June 17, 2024).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/bd/VCHA_KG%27s_birthday_Twitter_post_%28June_17%2C_2024%29.png/revision/latest/scale-to-width-down/150?cb=20240617195711" height="217" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="VCHA KG's birthday Twitter post (June 17, 2024).png (2.35 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Happy Birthday KG (2024)</div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Artists">Artists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Groups">Groups</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Apink" title="Apink">Apink</a> (2011–present)
+<ul><li><a href="/wiki/Apink_BnN" title="Apink BnN">Apink BnN</a> (2014–present)</li>
+<li><a href="/wiki/Apink_YOS" title="Apink YOS">Apink YOS</a> (2018–present)</li>
+<li><a href="/wiki/Apink_JooJiRong" title="Apink JooJiRong">Apink JooJiRong</a> (2020–present)</li>
+<li><a href="/wiki/Apink_CHOBOM" title="Apink CHOBOM">Apink CHOBOM</a> (2022–present)<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li><a href="/wiki/VICTON" title="VICTON">VICTON</a> (2016–present)</li>
+<li><a href="/wiki/ATBO" title="ATBO">ATBO</a> (2022–present)</li></ul>
+<h3><span class="mw-headline" id="Soloists">Soloists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Eunji_(Apink)" title="Eunji (Apink)">Jeong Eun Ji</a> <span style="font-size:85%;">(<a href="/wiki/Apink" title="Apink">Apink</a>)</span> (2016–present)</li></ul>
+<h3><span class="mw-headline" id="Trainees">Trainees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Huening_Bahiyyih" title="Huening Bahiyyih">Huening Bahiyyih</a> <span style="font-size:85%;">(<a href="/wiki/Kep1er" title="Kep1er">Kep1er</a>)</span></li>
+<li><a href="/wiki/00d00m00y" title="00d00m00y">00d00m00y</a></li>
+<li>Dom</li></ul>
+<h2><span class="mw-headline" id="Former_artists">Former artists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Apink
+<ul><li><a href="/wiki/Yookyung_(Apink)" title="Yookyung (Apink)">Yookyung</a> (2011–2013)</li>
+<li><a href="/wiki/Son_Na_Eun" title="Son Na Eun">Naeun</a> (2011–2021)<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Chorong_(Apink)" title="Chorong (Apink)">Chorong</a> (2011–2023)<sup class="reference" id="cite_ref-.1_11-0"><a href="#cite_note-.1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a> (2011–2023)<sup class="reference" id="cite_ref-.1_11-1"><a href="#cite_note-.1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a> (2011–2023)<sup class="reference" id="cite_ref-.1_11-2"><a href="#cite_note-.1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Hayoung_(Apink)" title="Hayoung (Apink)">Hayoung</a> (2011–2023)<sup class="reference" id="cite_ref-.1_11-3"><a href="#cite_note-.1-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li><a href="/wiki/Lim_Jimin" title="Lim Jimin">Lim Jimin</a> (2019–2021)</li>
+<li><a href="/wiki/Huh_Gak" title="Huh Gak">Huh Gak</a> (2011–2021)<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Bandage" title="Bandage">Bandage</a> (2020–2022)<sup class="reference" id="cite_ref-13"><a href="#cite_note-13"><span class="cite-bracket">[</span>13<span class="cite-bracket">]</span></a></sup>
+<ul><li><a href="/wiki/Lim_Hyeong_Bin" title="Lim Hyeong Bin">Lim Hyeong Bin</a> (2020–2022)</li>
+<li><a href="/wiki/Lee_Chan_Sol" title="Lee Chan Sol">Lee Chan Sol</a> (2020–2022)</li>
+<li><a href="/wiki/Kang_Kyoung_Yoon" title="Kang Kyoung Yoon">Kang Kyoung Yoon</a> (2020–2022)</li>
+<li><a href="/wiki/Shin_Hyun_Bin" title="Shin Hyun Bin">Shin Hyun Bin</a> (2020–2022)</li></ul></li>
+<li>VICTON
+<ul><li><a href="/wiki/Do_Han_Se" title="Do Han Se">Do Han Se</a> (2016–2023)</li>
+<li><a href="/wiki/Choi_Byung_Chan" title="Choi Byung Chan">Choi Byung Chan</a> (2016–2023)</li>
+<li><a href="/wiki/Jung_Su_Bin" title="Jung Su Bin">Jung Su Bin</a> (2016–2023)</li>
+<li><a href="/wiki/Han_Seung_Woo" title="Han Seung Woo">Han Seung Woo</a> (2016–2024)<sup class="reference" id="cite_ref-14"><a href="#cite_note-14"><span class="cite-bracket">[</span>14<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Kang_Seung_Sik" title="Kang Seung Sik">Kang Seung Sik</a> (2016–2024)<sup class="reference" id="cite_ref-15"><a href="#cite_note-15"><span class="cite-bracket">[</span>15<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/Lim_Se_Jun" title="Lim Se Jun">Lim Se Jun</a> (2016–2024)<sup class="reference" id="cite_ref-16"><a href="#cite_note-16"><span class="cite-bracket">[</span>16<span class="cite-bracket">]</span></a></sup></li></ul></li>
+<li><a href="/wiki/Weeekly" title="Weeekly">Weeekly</a> (2020–2025)<sup class="reference" id="cite_ref-17"><a href="#cite_note-17"><span class="cite-bracket">[</span>17<span class="cite-bracket">]</span></a></sup>
+<ul><li><a href="/wiki/Swan_(singer)" title="Swan (singer)">Shin Jiyoon</a> (2020–2022)</li></ul></li>
+<li><a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a> (2021–2024)<sup class="reference" id="cite_ref-18"><a href="#cite_note-18"><span class="cite-bracket">[</span>18<span class="cite-bracket">]</span></a></sup></li>
+<li><a href="/wiki/The_CrewOne" title="The CrewOne">The CrewOne</a> (2024)</li></ul>
+<h3><span class="mw-headline" id="Trainees_2">Trainees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Sumin_(STAYC)" title="Sumin (STAYC)">Bae Sumin</a> (2015–2018)</li>
+<li><a href="/wiki/Seeun_(STAYC)" title="Seeun (STAYC)">Yoon Seeun</a> (2018–2019)</li>
+<li><a href="/wiki/PlayM_BOYS" title="PlayM BOYS">PlayM BOYS</a> (2018–2021)
+<ul><li><a href="/wiki/ONLEE" title="ONLEE">Lee Seung Hwan</a> (2018–2020)</li>
+<li><a href="/wiki/Jung_Jin_Sung" title="Jung Jin Sung">Jung Jin Sung</a> (2018–2020)</li>
+<li><a href="/wiki/DY" title="DY">Jeon Do Yum</a> (2018–2021)</li>
+<li><a href="/wiki/Bain" title="Bain">Song Byeong Hee</a> (2018–2021)</li></ul></li>
+<li>FAVEGIRLS
+<ul><li><a href="/wiki/Kim_Gaeun" title="Kim Gaeun">Kim Gaeun</a></li>
+<li><a href="/wiki/Park_Haelin" title="Park Haelin">Park Haelin</a></li></ul></li>
+<li><a href="/wiki/Kodai" title="Kodai">Kodai</a></li>
+<li><a href="/wiki/Park_Gwan_Young" title="Park Gwan Young">Park Gwan Young</a></li>
+<li><a href="/wiki/Junho_(NOMAD)" title="Junho (NOMAD)">Jeong Junho</a> (2022)</li>
+<li><a href="/wiki/Kim_Minseo_(B.D.U)" title="Kim Minseo (B.D.U)">Kim Minseo</a> (2022)</li>
+<li><a href="/wiki/Choi_Jinwook" title="Choi Jinwook">Choi Jinwook</a> (2022)</li>
+<li><a class="mw-redirect" href="/wiki/Kang_Daehyun" title="Kang Daehyun">Kang Daehyun</a> (2022)</li>
+<li><a href="/wiki/Yang_Dong_Hwa" title="Yang Dong Hwa">Yang Dong Hwa</a> (2022)</li>
+<li><a href="/wiki/Park_Jaehoon" title="Park Jaehoon">Park Jaehoon</a> (2022)</li>
+<li><a href="/wiki/Ki_Hyeong_Jun" title="Ki Hyeong Jun">Ki Hyeongjun</a> (2024)</li>
+<li><a href="/wiki/Yeonsu_(ADYA)" title="Yeonsu (ADYA)">Ryu Yeon-su</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><i>A2K</i>: Episodes 1-5</span>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-kocca-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-kocca_1-0">1.0</a></sup> <sup><a href="#cite_ref-kocca_1-1">1.1</a></sup> <sup><a href="#cite_ref-kocca_1-2">1.2</a></sup> <sup><a href="#cite_ref-kocca_1-3">1.3</a></sup></span> <span class="reference-text"><a class="external text" href="https://ent.kocca.kr/UID/CPI/U002/baseSearch.do" rel="nofollow noreferrer noopener" target="_blank">KOCCA: 대중문화예술기획업 등록기업 정보  (search under (주)플레이엠엔터테인먼트)</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>A2K</i>: Episode 22</span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1303376wpp/plan-a-entertainment-and-fave-entertainment-merge-under-kakao-m" rel="nofollow noreferrer noopener" target="_blank">Plan A Entertainment And FAVE Entertainment Merge Under Kakao M</a></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1708851wpp/vchas-kg-leaves-group-files-lawsuit-to-terminate-contract-with-jyp-entertainment" rel="nofollow noreferrer noopener" target="_blank">Soompi: VCHA's KG Leaves Group + Files Lawsuit To Terminate Contract With JYP Entertainment</a></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1313768wpp/plan-a-entertainment-and-fave-entertainment-announce-new-name-after-merger" rel="nofollow noreferrer noopener" target="_blank">Plan A Entertainment And FAVE Entertainment Announce New Name After Merger</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1489101wpp/apinks-agency-play-m-and-the-boyzs-agency-cre-ker-entertainment-announce-merger" rel="nofollow noreferrer noopener" target="_blank">Soompi: Apink’s Agency Play M And THE BOYZ’s Agency Cre.Ker Entertainment Announce Merger</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/ist_ent/status/1458992949530804226" rel="nofollow noreferrer noopener" target="_blank">IST ent on Twitter (November 12, 2021)</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://koreajoongangdaily.joins.com/2022/02/08/entertainment/kpop/ist-entertainment-kpop-survival-program/20220208134948597.html" rel="nofollow noreferrer noopener" target="_blank">Korea JoonAng Daily: IST Entertainment will form new boy band through survival program</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1525307wpp/the-boyz-and-apinks-agency-ist-entertainment-announces-final-debut-lineup-and-name-of-new-boy-group" rel="nofollow noreferrer noopener" target="_blank">Soompi: THE BOYZ And Apink’s Agency IST Entertainment Announces Final Debut Lineup And Name Of New Boy Group</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.hankyung.com/article/202502054778H" rel="nofollow noreferrer noopener" target="_blank">[단독] 비욘드뮤직, '카카오엔터 자회사' IST엔터 인수</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1530660wpp/apinks-yoon-bomi-and-chorong-to-debut-as-groups-1st-unit-in-july" rel="nofollow noreferrer noopener" target="_blank">Soompi: Apink’s Yoon Bomi And Chorong To Debut As Group’s 1st Unit In July</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1466537wpp/apinks-son-naeun-in-talks-to-sign-with-yg-after-leaving-play-m-other-apink-members-renew-contracts" rel="nofollow noreferrer noopener" target="_blank">Soompi: Apink’s Son Naeun In Talks To Sign With YG After Leaving Play M + Other Apink Members Renew Contracts</a></span>
+</li>
+<li id="cite_note-.1-11"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-.1_11-0">11.0</a></sup> <sup><a href="#cite_ref-.1_11-1">11.1</a></sup> <sup><a href="#cite_ref-.1_11-2">11.2</a></sup> <sup><a href="#cite_ref-.1_11-3">11.3</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1583295wpp/all-apink-members-to-leave-ist-entertainment-except-for-jung-eun-ji" rel="nofollow noreferrer noopener" target="_blank">Soompi: All Apink Members To Leave IST Entertainment Except For Jung Eun Ji</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://star.mt.co.kr/stview.php?no=2021100607535978143" rel="nofollow noreferrer noopener" target="_blank">(KR) Star News: [단독]허각, 11년 몸담은 플레이엠 떠난다..아름다운 이별</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/band_bandage/status/1611301562361720834" rel="nofollow noreferrer noopener" target="_blank">Bandage on Twitter (January 6, 2023)</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1706583wpp/han-seung-woo-parts-ways-with-ist-entertainment-after-8-years" rel="nofollow noreferrer noopener" target="_blank">Soompi: Han Seung Woo Parts Ways With IST Entertainment After 8 Years</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1711038wpp/victons-seungsik-and-sejun-part-ways-with-ist-entertainment" rel="nofollow noreferrer noopener" target="_blank">Soompi: VICTON's Seungsik And Sejun Part Ways With IST Entertainment</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1711038wpp/victons-seungsik-and-sejun-part-ways-with-ist-entertainment" rel="nofollow noreferrer noopener" target="_blank">Soompi: VICTON's Seungsik And Sejun Part Ways With IST Entertainment</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1725946wpp/all-members-of-weeekly-part-ways-with-ist-entertainment" rel="nofollow noreferrer noopener" target="_blank">Soompi: All Members Of Weeekly Part Ways With IST Entertainment</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1703523wpp/all-11-the-boyz-members-confirmed-to-sign-with-new-agency" rel="nofollow noreferrer noopener" target="_blank">Soompi: All 11 THE BOYZ Members Confirmed To Sign With New Agency</a></span>
 </li>
 </ol></div></div>
 </div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FKG%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.kgcrownofficial.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></li>
-<li><a class="external text" href="https://www.facebook.com/kgcrownofficial1/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></li>
-<li><a class="external text" href="https://www.instagram.com/iamkgcrown/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
-<li><a class="external text" href="https://www.tiktok.com/@kgcrownofficial" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></li>
-<li><a class="external text" href="https://youtube.com/@KGCrown" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/KG?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#8F92E0; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#8F92E0; color:#FFF;;border:none;;"><a href="/wiki/Template:VCHA" title="Template:VCHA"><span style=";background:#8F92E0; color:#FFF;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:VCHA?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#8F92E0; color:#FFF;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/VCHA" title="VCHA">VCHA</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Camila_(VCHA)" title="Camila (VCHA)">Camila</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lexi" title="Lexi">Lexi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kendall" title="Kendall">Kendall</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Savanna" title="Savanna">Savanna</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kaylee" title="Kaylee">Kaylee</a><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><strong class="mw-selflink selflink">KG</strong></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/SeVit_(New_Light)" title="SeVit (New Light)">SeVit (New Light)</a>" <span style="font-size:85%;">(<b>pre-debut</b>)</span></span>  •  <span style="white-space:nowrap">"<a href="/wiki/Ready_for_the_World" title="Ready for the World">Ready for the World</a>" <span style="font-size:85%;">(<b>pre-debut</b>)</span></span>  •  <span style="white-space:nowrap">"<a href="/wiki/Girls_of_the_Year" title="Girls of the Year">Girls of the Year</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Only_One_(VCHA)" title="Only One (VCHA)">Only One</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.vchaofficial.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/OfficialVCHA" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official_vcha/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@vcha" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/Official_VCHA" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@Official_VCHA" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FIST_Entertainment%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://istent.co.kr/" rel="nofollow noreferrer noopener" target="_blank">Website</a></li>
+<li><a class="external text" href="https://www.facebook.com/ist.ent.official/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></li>
+<li><a class="external text" href="https://www.instagram.com/ist_entertainment/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
+<li><a class="external text" href="https://twitter.com/ist_ent/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></li>
+<li><a class="external text" href="https://www.youtube.com/@ISTentertainment" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/IST_Entertainment?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#ff1f5d; color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#ff1f5d; color:#ffffff;;border:none;;"><a href="/wiki/Template:IST_Entertainment" title="Template:IST Entertainment"><span style=";background:#ff1f5d; color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:IST_Entertainment?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#ff1f5d; color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<strong class="mw-selflink selflink">IST Entertainment</strong></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:65px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Apink" title="Apink">Apink</a> <small>(<a href="/wiki/Apink_BnN" title="Apink BnN">Apink BnN</a> • <a href="/wiki/Apink_JooJiRong" title="Apink JooJiRong">Apink JooJiRong</a> • <a href="/wiki/Apink_YOS" title="Apink YOS">Apink YOS</a> • <a href="/wiki/Apink_CHOBOM" title="Apink CHOBOM">Apink CHOBOM</a>)</small></span>  •  <span style="white-space:nowrap"><a href="/wiki/VICTON" title="VICTON">VICTON</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/ATBO" title="ATBO">ATBO</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Eunji_(Apink)" title="Eunji (Apink)">Jeong Eun Ji</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Huening_Bahiyyih" title="Huening Bahiyyih">Huening Bahiyyih</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/00d00m00y" title="00d00m00y">00d00m00y</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ki_Hyeong_Jun" title="Ki Hyeong Jun">Ki Hyeongjun</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:65px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Bandage" title="Bandage">Bandage</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/The_CrewOne" title="The CrewOne">The CrewOne</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Weeekly" title="Weeekly">Weeekly</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Artists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Yookyung_(Apink)" title="Yookyung (Apink)">Yookyung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Son_Na_Eun" title="Son Na Eun">Naeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Jimin" title="Lim Jimin">Lim Jimin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Huh_Gak" title="Huh Gak">Huh Gak</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Swan_(singer)" title="Swan (singer)">Shin Jiyoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Do_Han_Se" title="Do Han Se">Do Han Se</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chorong_(Apink)" title="Chorong (Apink)">Chorong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Bomi_(Apink)" title="Bomi (Apink)">Bomi</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Namjoo" title="Namjoo">Namjoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hayoung_(Apink)" title="Hayoung (Apink)">Hayoung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Han_Seung_Woo" title="Han Seung Woo">Han Seung Woo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kang_Seung_Sik" title="Kang Seung Sik">Kang Seung Sik</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Se_Jun" title="Lim Se Jun">Lim Se Jun</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:65px;;">Trainees</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Sumin_(STAYC)" title="Sumin (STAYC)">Bae Sumin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seeun_(STAYC)" title="Seeun (STAYC)">Yoon Seeun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/PlayM_BOYS" title="PlayM BOYS">PlayM BOYS</a> <small>(<a href="/wiki/Jung_Jin_Sung" title="Jung Jin Sung">Jung Jin Sung</a> • <a href="/wiki/ONLEE" title="ONLEE">Lee Seung Hwan</a> • <a href="/wiki/DY" title="DY">Jeon Do Yum</a> • <a href="/wiki/Bain" title="Bain">Song Byeong Hee</a>)</small></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvSmVvbmdfSnVuaG8/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Jeong Junho (page does not exist)">Jeong Junho</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Minseo_(B.D.U)" title="Kim Minseo (B.D.U)">Kim Minseo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Choi_Jinwook" title="Choi Jinwook">Choi Jinwook</a></span>  •  <span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/Kang_Daehyun" title="Kang Daehyun">Kang Daehyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yang_Dong_Hwa" title="Yang Dong Hwa">Yang Dong Hwa</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Park_Jaehoon" title="Park Jaehoon">Park Jaehoon</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Beyond_Music" title="Beyond Music">Beyond Music</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://istent.co.kr/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/ist.ent.official/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/ist_entertainment/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/ist_ent/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCcv_9TDIGsRjVWVtHU5GCGg" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312124531
+Cached time: 20250312114259
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.171 seconds
+CPU time usage: 0.182 seconds
 Real time usage: 0.192 seconds
-Preprocessor visited node count: 4267/1000000
-Post‐expand include size: 27316/2097152 bytes
-Template argument size: 13788/2097152 bytes
-Highest expansion depth: 19/100
+Preprocessor visited node count: 5496/1000000
+Post‐expand include size: 47771/2097152 bytes
+Template argument size: 28524/2097152 bytes
+Highest expansion depth: 14/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 21618/5000000 bytes
-Lua time usage: 0.014/7.000 seconds
-Lua memory usage: 1636093/52428800 bytes
+Unstrip post‐expand size: 11348/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  171.522      1 -total
- 72.55%  124.442      1 Template:Infobox_person
- 25.94%   44.494      1 Template:Related_Wikis
- 17.37%   29.794      1 Template:Cvt
- 16.32%   27.992      3 Template:Navbox
- 14.10%   24.186      1 Template:VCHA
-  7.09%   12.160      4 Template:List
-  5.80%    9.954      5 Template:Element_List
-  3.86%    6.615      1 Template:Birth_date_and_age
-  2.51%    4.298      1 Template:Reflist
+100.00%  154.135      1 -total
+ 58.23%   89.751      1 Template:Infobox_company
+ 35.11%   54.114      3 Template:Navbox
+ 27.12%   41.806      1 Template:Related_Wikis
+ 22.92%   35.322      1 Template:IST_Entertainment
+ 11.46%   17.668      8 Template:List
+  8.48%   13.068      8 Template:Element_List
+  7.84%   12.081      1 Template:Reflist
+  6.65%   10.250      1 Template:Scroll_Box
+  1.77%    2.735     13 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:181504-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312124531 and revision id 1130859. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:4611-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312114259 and revision id 1172441. Rendering was triggered because: unknown
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2634,37 +2740,50 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="2007 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2007_births" title="Category:2007 births">2007 births</a></span>
+<li class="category normal" data-name="Company article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Company_article_stubs" title="Category:Company article stubs">Company article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="June births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:June_births" title="Category:June births">June births</a></span>
+<li class="category normal" data-name="Agencies" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Agencies" title="Category:Agencies">Agencies</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<li class="category normal" data-name="Record labels" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Record_labels" title="Category:Record labels">Record labels</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Female singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a></span>
+<li class="category normal" data-name="Subsidiaries" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Subsidiaries" title="Category:Subsidiaries">Subsidiaries</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="A2K" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:A2K" title="Category:A2K">A2K</a></span>
+<li class="category normal" data-name="South Korean companies" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:South_Korean_companies" title="Category:South Korean companies">South Korean companies</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="KG" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:KG" title="Category:KG">KG</a></span>
+<li class="category normal" data-name="2011 establishments" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2011_establishments" title="Category:2011 establishments">2011 establishments</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="VCHA" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:VCHA" title="Category:VCHA">VCHA</a></span>
+<li class="category normal" data-name="IST Entertainment" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:IST_Entertainment" title="Category:IST Entertainment">IST Entertainment</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Beyond Music" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Beyond_Music" title="Category:Beyond Music">Beyond Music</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/IST_Entertainment">Français</a>
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/IST_Entertainment">Bahasa Indonesia</a>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/IST_Entertainment">Русский</a>
 </div>
 </div>
 <div class="license-description">
@@ -2845,7 +2964,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9LRz90aXRsZT1LRyZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9JU1RfRW50ZXJ0YWlubWVudD90aXRsZT1JU1RfRW50ZXJ0YWlubWVudCZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

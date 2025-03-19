@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Gossip Girls | Kpop Wiki | Fandom</title>
+<title>[Phantasy] Pt.3 Love Letter | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gossip_Girls rootpage-Gossip_Girls skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-_Phantasy_Pt_3_Love_Letter rootpage-_Phantasy_Pt_3_Love_Letter skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,25 +2353,15 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:T-ARA" title="Category:T-ARA">T-ARA</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:THE_BOYZ" title="Category:THE BOYZ">THE BOYZ</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">7 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Japanese_studio_albums" title="Category:Japanese studio albums">Japanese studio albums</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:2014_releases" title="Category:2014 releases">2014 releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:2014_Japanese_releases" title="Category:2014 Japanese releases">2014 Japanese releases</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:2014_studio_albums" title="Category:2014 studio albums">2014 studio albums</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-9" href="/wiki/Category:2014_Japanese_studio_albums" title="Category:2014 Japanese studio albums">2014 Japanese studio albums</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2024_studio_albums" title="Category:2024 studio albums">2024 studio albums</a> </li>
 </ul>
 </div>
 </div>
@@ -2381,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Gossip Girls</span> </h1>
+					[Phantasy] Pt.3 Love Letter				</h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2392,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Gossip_Girls?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/%27Phantasy%27_Pt.3_Love_Letter?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Gossip_Girls?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/%27Phantasy%27_Pt.3_Love_Letter?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Gossip_Girls?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:%27Phantasy%27_Pt.3_Love_Letter?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2430,19 +2420,19 @@
 <ul class="wds-tabs">
 <li class="wds-tabs__tab wds-is-current">
 <span class="wds-tabs__tab-label">
-							Pearl ed.
+							Digital
 							
 						</span>
 </li>
 <li class="wds-tabs__tab">
 <span class="wds-tabs__tab-label">
-							Sapphire ed.
+							Write ver.
 							
 						</span>
 </li>
 <li class="wds-tabs__tab">
 <span class="wds-tabs__tab-label">
-							Diamond ed.
+							Send ver.
 							
 						</span>
 </li>
@@ -2450,62 +2440,62 @@
 </div>
 <div class="wds-tab__content wds-is-current">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/0/0e/T-ARA_Gossip_Girls_Pearl_Edition_cover_art.png/revision/latest?cb=20211218035840" title="Pearl ed.">
-<img alt="Pearl ed." class="pi-image-thumbnail" data-image-key="T-ARA Gossip Girls Pearl Edition cover art.png" data-image-name="T-ARA Gossip Girls Pearl Edition cover art.png" data-relevant="1" height="267" src="https://static.wikia.nocookie.net/kpop/images/0/0e/T-ARA_Gossip_Girls_Pearl_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218035840" srcset="https://static.wikia.nocookie.net/kpop/images/0/0e/T-ARA_Gossip_Girls_Pearl_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218035840 1x, https://static.wikia.nocookie.net/kpop/images/0/0e/T-ARA_Gossip_Girls_Pearl_Edition_cover_art.png/revision/latest/scale-to-width-down/536?cb=20211218035840 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/1/1c/THE_BOYZ_Phantasy_Pt.3_Love_Letter_digital_album_cover.png/revision/latest?cb=20240318094851" title="Digital">
+<img alt="Digital" class="pi-image-thumbnail" data-image-key="THE BOYZ Phantasy Pt.3 Love Letter digital album cover.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/1/1c/THE_BOYZ_Phantasy_Pt.3_Love_Letter_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240318094851" srcset="https://static.wikia.nocookie.net/kpop/images/1/1c/THE_BOYZ_Phantasy_Pt.3_Love_Letter_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240318094851 1x, https://static.wikia.nocookie.net/kpop/images/1/1c/THE_BOYZ_Phantasy_Pt.3_Love_Letter_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20240318094851 2x" width="270">
 </img></a>
 </figure>
 </div>
 <div class="wds-tab__content">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/e/ed/T-ARA_Gossip_Girls_Sapphire_Edition_cover_art.png/revision/latest?cb=20211218040235" title="Sapphire ed.">
-<img alt="Sapphire ed." class="pi-image-thumbnail" data-image-key="T-ARA Gossip Girls Sapphire Edition cover art.png" data-image-name="T-ARA Gossip Girls Sapphire Edition cover art.png" data-relevant="1" height="240" src="https://static.wikia.nocookie.net/kpop/images/e/ed/T-ARA_Gossip_Girls_Sapphire_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218040235" srcset="https://static.wikia.nocookie.net/kpop/images/e/ed/T-ARA_Gossip_Girls_Sapphire_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218040235 1x, https://static.wikia.nocookie.net/kpop/images/e/ed/T-ARA_Gossip_Girls_Sapphire_Edition_cover_art.png/revision/latest/scale-to-width-down/536?cb=20211218040235 2x" width="270"/>
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/2/22/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Write_ver.%29.png/revision/latest?cb=20240314053807" title="Write ver.">
+<img alt="Write ver." class="pi-image-thumbnail" data-image-key="THE BOYZ Phantasy Pt.3 Love Letter physical album cover (Write ver.).png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter physical album cover (Write ver.).png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/2/22/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Write_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20240314053807" srcset="https://static.wikia.nocookie.net/kpop/images/2/22/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Write_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20240314053807 1x, https://static.wikia.nocookie.net/kpop/images/2/22/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Write_ver.%29.png/revision/latest/scale-to-width-down/536?cb=20240314053807 2x" width="270"/>
 </a>
 </figure>
 </div>
 <div class="wds-tab__content">
 <figure class="pi-item pi-image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/b/b5/T-ARA_Gossip_Girls_Diamond_Edition_cover_art.png/revision/latest?cb=20211218035813" title="Diamond ed.">
-<img alt="Diamond ed." class="pi-image-thumbnail" data-image-key="T-ARA Gossip Girls Diamond Edition cover art.png" data-image-name="T-ARA Gossip Girls Diamond Edition cover art.png" data-relevant="1" height="199" src="https://static.wikia.nocookie.net/kpop/images/b/b5/T-ARA_Gossip_Girls_Diamond_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218035813" srcset="https://static.wikia.nocookie.net/kpop/images/b/b5/T-ARA_Gossip_Girls_Diamond_Edition_cover_art.png/revision/latest/scale-to-width-down/268?cb=20211218035813 1x, https://static.wikia.nocookie.net/kpop/images/b/b5/T-ARA_Gossip_Girls_Diamond_Edition_cover_art.png/revision/latest/scale-to-width-down/536?cb=20211218035813 2x" width="270"/>
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/cb/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Send_ver.%29.png/revision/latest?cb=20240314053805" title="Send ver.">
+<img alt="Send ver." class="pi-image-thumbnail" data-image-key="THE BOYZ Phantasy Pt.3 Love Letter physical album cover (Send ver.).png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter physical album cover (Send ver.).png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/c/cb/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Send_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20240314053805" srcset="https://static.wikia.nocookie.net/kpop/images/c/cb/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Send_ver.%29.png/revision/latest/scale-to-width-down/268?cb=20240314053805 1x, https://static.wikia.nocookie.net/kpop/images/c/cb/THE_BOYZ_Phantasy_Pt.3_Love_Letter_physical_album_cover_%28Send_ver.%29.png/revision/latest/scale-to-width-down/536?cb=20240314053805 2x" width="270"/>
 </a>
 </figure>
 </div>
 </div>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Gossip Girls</h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">[Phantasy] Pt.3 Love Letter</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
 <h3 class="pi-data-label pi-secondary-font">Type</h3>
 <div class="pi-data-value pi-font">Studio</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/T-ARA" title="T-ARA">T-ARA</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">May 14, 2014</div>
+<div class="pi-data-value pi-font">March 18, 2024</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
 <h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">CD, CD+DVD, download, streaming</div>
+<div class="pi-data-value pi-font">CD, platform, download, streaming</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
 <h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2013–2014</div>
+<div class="pi-data-value pi-font">2023–2024</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
 <h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">J-pop, dance-pop, electropop</div>
+<div class="pi-data-value pi-font">Dance, pop, rock, ballad</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">47:28</div>
+<div class="pi-data-value pi-font">9:58</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/EMI_Records_Japan" title="wikipedia:EMI Records Japan">EMI Records Japan</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/Universal_Music_Japan" title="wikipedia:Universal Music Japan">Universal Music Japan</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/Kakao_Entertainment" title="Kakao Entertainment">Kakao Entertainment</a></div>
 </div>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
@@ -2518,76 +2508,138 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Lead_The_Way_/_La%E2%80%99boon" title="Lead The Way / La’boon">Lead The Way / La’boon</a>"</td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/T-ARA_Single_Complete_Best_%22Queen_of_Pops%22" title='T-ARA Single Complete Best "Queen of Pops"'>T-ARA Single Complete Best "Queen of Pops"</a></i></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Dear._(THE_BOYZ)" title="Dear. (THE BOYZ)">Dear.</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/Gibberish" title="Gibberish">Gibberish</a></i></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>Gossip Girls</b></i> is the third Japanese full-length album by <a href="/wiki/T-ARA" title="T-ARA">T-ARA</a>. It was released on May 14, 2014. 
-</p><p>The physical release comes in three versions: a CD+DVD+Photobook Edition (Diamond), a CD+DVD Edition (Sapphire) and a CD Only Edition (Pearl). Diamond edition includes a 36-page photobook and all editions come with one enclosed trading card which is randomly chosen out of 7 types.
-</p><p>The album includes five new original Japanese songs: "Just Now", "Lucky Wannabee!", "Keep on Walking", "Knockin' on My Heart", and "Musica Musica". The secret track is the same song "Do You Know Me" originally track #8, played again with slightly different lyrics.
+<i><b>[Phantasy] Pt.3 Love Letter</b></i> (stylized as <b>[PHANTASY] Pt.3 Love Letter</b> and known fully as <b>THE BOYZ 2ND ALBUM [PHANTASY] Pt.3 Love Letter</b>) is the third part of <a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a>'s second full-length album. It was released on March 18, 2024 with "Nectar" serving as the album's title track.
+</p><p>The physical album comes in four versions: Write, Send and two platform versions (Write and Send).
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Just Now" - 3:31</li>
-<li>"Lucky Wannabee!" - 3:30</li>
-<li>"Number Nine (Japanese ver.)" - 3:48</li>
-<li>"Lead the Way" - 3:59</li>
-<li>"Keep On Walking" - 4:02</li>
-<li>"Knockin' on My Heart" - 3:51</li>
-<li>"Musica Musica" - 3:51</li>
-<li>"Watashi, Doushiyou (私、どうしよう, What About Me)" - 3:38</li>
-<li>"LA'booN" - 4:10</li>
-<li>"A-ha" - 4:32</li>
-<li>"Kioku ~Kimi ga Kureta Michishirube~ (記憶 ~君がくれた道標(みちしるべ)~, Memories ~You Gave Me Guidance~)" - 4:25</li>
-<li>"T.T.L ~Time To Love (DJ Hanmin Remix)" <small>(First Press Only)</small> - 4:06</li>
-<li>"Watashi, Doushiyou Part.2 (私、どうしよう)" <small>(Hidden track in Diamond Edition only)</small> - 3:38</li></ol>
-<dl><dt>DVD <small>(Diamond Edition)</small></dt></dl>
-<ol><li>"T-ARA SPECIAL MOVIE ~Gossip Girls~"</li></ol>
-<dl><dt>DVD <small>(Sapphire Edition)</small></dt></dl>
-<ol><li>"Number Nine (Japanese ver.)" music video</li>
-<li>"Kioku ~Kimi ga Kureta Michishirube~" music video (Kumazawa Naoto Director ver.)</li>
-<li>"Lead the Way" music video</li>
-<li>"Lead the Way" music video (T-ARA Lip ver.)</li>
-<li>"Gossip Girls" recording making</li>
-<li>"Gossip Girls" photo shooting making</li></ol>
-<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FGossip_Girls%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Debuted at number seven on the Oricon Albums Chart, with first-week sales of 10,463 in Japan. In its second week, the album dropped to number 49 and sold 1,467 copies. The album fell out the top 100 in its third week. The album ranked at number 24 on the Oricon Monthly Albums Chart, selling 12,680 copies.
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Track_list"><span class="tocnumber">2</span> <span class="toctext">Track list</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Awards"><span class="tocnumber">3</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Music_show_wins"><span class="tocnumber">3.1</span> <span class="toctext">Music show wins</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Video_links"><span class="tocnumber">6</span> <span class="toctext">Video links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On February 28, 2024, news source <i>News1</i> reported the the group is in the final stage of preparations for a March comeback, with IST Entertainment confirming the reports hours later.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> The next day, it was confirmed that THE BOYZ will be releasing <i>[Phantasy] Pt.3 Love Letter</i> on March 18, with Ju Haknyeon returning from his hiatus.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
 </p>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Gossip_Girls?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:radial-gradient(circle,#f6e8ca,#ffd700,#0000ff); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:T-ARA" title="Template:T-ARA"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:T-ARA?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/T-ARA" title="T-ARA">T-ARA</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Qri" title="Qri">Qri</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Eunjung_(T-ARA)" title="Eunjung (T-ARA)">Eunjung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hyomin" title="Hyomin">Hyomin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jiyeon_(T-ARA)" title="Jiyeon (T-ARA)">Jiyeon</a>
-<br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvSHdheW91bmdfKFQtQVJBKT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Hwayoung (T-ARA) (page does not exist)">Hwayoung</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Areum_(T-ARA)" title="Areum (T-ARA)">Areum</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Boram_(T-ARA)" title="Boram (T-ARA)">Boram</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Soyeon_(singer)" title="Soyeon (singer)">Soyeon</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Absolute_First_Album" title="Absolute First Album">Absolute First Album</a></i> <small>(<i><a href="/wiki/Breaking_Heart" title="Breaking Heart">Breaking Heart</a></i>)</small></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Temptastic" title="Temptastic">Temptastic</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/John_Travolta_Wannabe" title="John Travolta Wannabe">John Travolta Wannabe</a></i> <small>(<i><a href="/wiki/Roly-Poly_in_Copacabana" title="Roly-Poly in Copacabana">Roly-Poly in Copacabana</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Black_Eyes" title="Black Eyes">Black Eyes</a></i> <small>(<i><a href="/wiki/Funky_Town" title="Funky Town">Funky Town</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Day_by_Day_(T-ARA)" title="Day by Day (T-ARA)">Day by Day</a></i> <small>(<i><a href="/wiki/Mirage_(T-ARA)" title="Mirage (T-ARA)">Mirage</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Again_(T-ARA)" title="Again (T-ARA)">Again</a></i> <small>(<i><a href="/wiki/Again_1977" title="Again 1977">Again 1977</a></i>)</small> <small>(<i><a href="/wiki/White_Winter_(T-ARA)" title="White Winter (T-ARA)">White Winter</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/And_%26_End" title="And &amp; End">And &amp; End</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/So_Good_(T-ARA)" title="So Good (T-ARA)">So Good</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Remember_(T-ARA)" title="Remember (T-ARA)">Remember</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/What%27s_My_Name%3F" title="What's My Name?">What's My Name?</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Remix albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/T-ARA%27s_Free_Time_in_Paris_and_Swiss" title="T-ARA's Free Time in Paris and Swiss">T-ARA's Free Time in Paris and Swiss</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/EDM_Club_Sugar_Free_Edition" title="EDM Club Sugar Free Edition">EDM Club Sugar Free Edition</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Single albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Little_Apple" title="Little Apple">Little Apple</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Re:T-ARA" title="Re:T-ARA">Re:T-ARA</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Lie_(T-ARA)" title="Lie (T-ARA)">Lie</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Are_The_One_(T-ARA)" title="We Are The One (T-ARA)">We Are The One</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Twentyth_Urban" title="Twentyth Urban">Twentyth Urban</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Why_Are_You_Like_This%3F" title="Why Are You Like This?">Why Are You Like This?</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Beautiful_Girl_(T-ARA)" title="Beautiful Girl (T-ARA)">Beautiful Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Roly-Poly_in_Copacabana_(single)" title="Roly-Poly in Copacabana (single)">Roly-Poly in Copacabana</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Log-In" title="Log-In">Log-In</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Round_and_Round_(T-ARA)" title="Round and Round (T-ARA)">Round and Round</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/First_Love_(T-ARA)" title="First Love (T-ARA)">First Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sugar_Free_(DJ_Chuckie)" title="Sugar Free (DJ Chuckie)">Sugar Free (DJ Chuckie)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Women%27s_Generation" title="Women's Generation">Women's Generation</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/TTL_(Time_To_Love)" title="TTL (Time To Love)">TTL (Time To Love)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/TTL_Listen_2" title="TTL Listen 2">TTL Listen 2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wonder_Woman_(collaboration)" title="Wonder Woman (collaboration)">Wonder Woman</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Were_In_Love" title="We Were In Love">We Were In Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_All_(T-ARA,_Gavy_NJ,_%26_Shannon)" title="Love All (T-ARA, Gavy NJ, &amp; Shannon)">Love All</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Tears_of_Mind" title="Tears of Mind">Tears of Mind</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bikini" title="Bikini">Bikini</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/White_Snow_(T-ARA,_SPEED,_The_SeeYa,_%26_Seunghee)" title="White Snow (T-ARA, SPEED, The SeeYa, &amp; Seunghee)">White Snow</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Jewelry_Box" title="Jewelry Box">Jewelry Box</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Treasure_Box" title="Treasure Box">Treasure Box</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Gossip Girls</strong></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/T%EF%BC%8DARA%27s_Best_of_Best_2009%EF%BD%9E2012_%EF%BD%9EKorean_ver%EF%BD%9E" title="T－ARA's Best of Best 2009～2012 ～Korean ver～">T－ARA's Best of Best 2009～2012 ～Korean ver～</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/T-ARA_Single_Complete_Best_%22Queen_of_Pops%22" title='T-ARA Single Complete Best "Queen of Pops"'>T-ARA Single Complete Best「Queen of Pops」</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Bo_Peep_Bo_Peep" title="Bo Peep Bo Peep">Bo Peep Bo Peep</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Yayaya" title="Yayaya">Yayaya</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Roly-Poly" title="Roly-Poly">Roly-Poly</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lovey-Dovey" title="Lovey-Dovey">Lovey-Dovey</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sexy_Love" title="Sexy Love">Sexy Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bunny_Style!" title="Bunny Style!">Bunny Style!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Target_(T-ARA)" title="Target (T-ARA)">Target</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Number_Nine_(Japanese_ver.)_/_Kioku_~Kimi_ga_Kureta_Michishirube~" title="Number Nine (Japanese ver.) / Kioku ~Kimi ga Kureta Michishirube~">Number Nine (Japanese ver.) / Kioku ~Kimi ga Kureta Michishirube~</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lead_The_Way_/_La%E2%80%99boon" title="Lead The Way / La’boon">Lead The Way / La’boon</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Day_by_Day_(Japanese_ver.)" title="Day by Day (Japanese ver.)">Day by Day (Japanese ver.)</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/MBK_Entertainment" title="MBK Entertainment">MBK Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/T-ARA_N4" title="T-ARA N4">T-ARA N4</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/T-ARA_QBS" title="T-ARA QBS">T-ARA QBS</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/fant-ara" rel="nofollow noreferrer noopener" target="_blank">Fancafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/officialtara/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Nectar" - 3:04</li>
+<li>"Hurt Me Less (환상통)" - 3:30</li>
+<li>"<a href="/wiki/Dear._(THE_BOYZ)" title="Dear. (THE BOYZ)">Dear.</a>" - 3:24</li></ol>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Music_show_wins">Music show wins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="text-align:center">
+<tbody><tr>
+<th>Song
+</th>
+<th>Music show
+</th>
+<th>Date
+</th></tr>
+<tr>
+<td rowspan="3">Nectar"
+</td>
+<td><i><a href="/wiki/Show_Champion" title="Show Champion">Show Champion</a></i> <span style="font-size:85%;">(MBC M)</span>
+</td>
+<td>March 27, 2024<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Music_Bank" title="Music Bank">Music Bank</a></i> <span style="font-size:85%;">(KBS 2TV)</span>
+</td>
+<td>March 29, 2024<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Show!_Music_Core" title="Show! Music Core">Show! Music Core</a></i> <span style="font-size:85%;">(MBC)</span>
+</td>
+<td>March 30, 2024<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="09b4d18d0703db30083fe0281f5b9c22" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="THE_BOYZ_Phantasy_Pt-3_Love_Letter_moving_teaser_poster-gif" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:THE_BOYZ_Phantasy_Pt.3_Love_Letter_moving_teaser_poster.gif" style="height:150px; width:150px;" title="THE BOYZ Phantasy Pt.3 Love Letter moving teaser poster.gif (8.96 MB)"><noscript><img alt="Teaser (Moving poster)" class="thumbimage" data-caption='Teaser&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Moving poster)&lt;/span&gt;' data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_moving_teaser_poster.gif" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter moving teaser poster.gif" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/4/46/THE_BOYZ_Phantasy_Pt.3_Love_Letter_moving_teaser_poster.gif/revision/latest/scale-to-width-down/150?cb=20240303155022" style="" title="THE BOYZ Phantasy Pt.3 Love Letter moving teaser poster.gif (8.96 MB)" width="150"/></noscript><img alt="Teaser (Moving poster)" class="thumbimage lazyload" data-caption='Teaser&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Moving poster)&lt;/span&gt;' data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_moving_teaser_poster.gif" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter moving teaser poster.gif" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/46/THE_BOYZ_Phantasy_Pt.3_Love_Letter_moving_teaser_poster.gif/revision/latest/scale-to-width-down/150?cb=20240303155022" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="THE BOYZ Phantasy Pt.3 Love Letter moving teaser poster.gif (8.96 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Teaser<br/><span style="font-size:85%;">(Moving poster)</span></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="THE_BOYZ_Phantasy_Pt-3_Love_Letter_scheduler-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:THE_BOYZ_Phantasy_Pt.3_Love_Letter_scheduler.png" style="height:150px; width:150px;" title="THE BOYZ Phantasy Pt.3 Love Letter scheduler.png (3.13 MB)"><noscript><img alt="Scheduler" class="thumbimage" data-caption="Scheduler" data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_scheduler.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter scheduler.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/8/8e/THE_BOYZ_Phantasy_Pt.3_Love_Letter_scheduler.png/revision/latest/scale-to-width-down/150?cb=20240303155020" style="" title="THE BOYZ Phantasy Pt.3 Love Letter scheduler.png (3.13 MB)" width="150"/></noscript><img alt="Scheduler" class="thumbimage lazyload" data-caption="Scheduler" data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_scheduler.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter scheduler.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/8e/THE_BOYZ_Phantasy_Pt.3_Love_Letter_scheduler.png/revision/latest/scale-to-width-down/150?cb=20240303155020" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="THE BOYZ Phantasy Pt.3 Love Letter scheduler.png (3.13 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Scheduler</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="THE_BOYZ_Phantasy_Pt-3_Love_Letter_album_packaging-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging.png" style="height:150px; width:150px;" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging.png (4.11 MB)"><noscript><img alt="Album packaging" class="thumbimage" data-caption="Album packaging" data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter album packaging.png" data-relevant="1" height="642" src="https://static.wikia.nocookie.net/kpop/images/0/01/THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20240314060000" style="" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging.png (4.11 MB)" width="150"/></noscript><img alt="Album packaging" class="thumbimage lazyload" data-caption="Album packaging" data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter album packaging.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/0/01/THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging.png/revision/latest/scale-to-width-down/150?cb=20240314060000" height="642" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging.png (4.11 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="THE_BOYZ_Phantasy_Pt-3_Love_Letter_album_packaging_-Platfrom_ver---png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging_(Platfrom_ver.).png" style="height:150px; width:150px;" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging (Platfrom ver.).png (3.73 MB)"><noscript><img alt="Album packaging (Platfrom ver.)" class="thumbimage" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Platfrom ver.)&lt;/span&gt;' data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging_%28Platfrom_ver.%29.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter album packaging (Platfrom ver.).png" data-relevant="1" height="559" src="https://static.wikia.nocookie.net/kpop/images/b/b4/THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging_%28Platfrom_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20240314060000" style="" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging (Platfrom ver.).png (3.73 MB)" width="150"/></noscript><img alt="Album packaging (Platfrom ver.)" class="thumbimage lazyload" data-caption='Album packaging&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(Platfrom ver.)&lt;/span&gt;' data-image-key="THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging_%28Platfrom_ver.%29.png" data-image-name="THE BOYZ Phantasy Pt.3 Love Letter album packaging (Platfrom ver.).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/b4/THE_BOYZ_Phantasy_Pt.3_Love_Letter_album_packaging_%28Platfrom_ver.%29.png/revision/latest/scale-to-width-down/150?cb=20240314060000" height="559" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="THE BOYZ Phantasy Pt.3 Love Letter album packaging (Platfrom ver.).png (3.73 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Album packaging<br/><span style="font-size:85%;">(Platfrom ver.)</span></div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
+<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1645389wpp/the-boyz-confirmed-to-make-march-comeback" rel="nofollow noreferrer noopener" target="_blank">Soompi: THE BOYZ Confirmed To Make March Comeback</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://n.news.naver.com/entertain/article/382/0001109652" rel="nofollow noreferrer noopener" target="_blank">(KR) Sports Donga: 더보이즈, 3월 18일 컴백…‘허리 부상’ 주학년 합류</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1651529wpp/watch-the-boyz-takes-1st-win-for-nectar-on-show-champion-performances-by-tempest-the-new-six-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: THE BOYZ Takes 1st Win For "Nectar" On "Show Champion"; Performances By TEMPEST, THE NEW SIX, And More</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1652001wpp/watch-the-boyz-takes-2nd-win-for-nectar-on-music-bank-performances-by-unis-nct-dream-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: THE BOYZ Takes 2nd Win For "Nectar" On "Music Bank"; Performances By UNIS, NCT DREAM, And More</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1652131wpp/watch-the-boyz-takes-3rd-win-for-nectar-on-music-core-performances-by-nct-dream-illit-and-more" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: THE BOYZ Takes 3rd Win For "Nectar" On "Music Core"; Performances By NCT DREAM, ILLIT, And More</a></span>
+</li>
+</ol></div></div>
+</div>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F%2527Phantasy%2527_Pt.3_Love_Letter%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="col-break">
+<tbody><tr>
+<td style="width:50%;" valign="top">
+<dl><dt>"Nectar"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=CL3F7Cgkaxw" rel="nofollow noreferrer noopener" target="_blank">Music video</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=687MnmQSZcM" rel="nofollow noreferrer noopener" target="_blank">MV trailer</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=rhSPcidljlA" rel="nofollow noreferrer noopener" target="_blank">MV making #1</a> / <a class="external text" href="https://www.youtube.com/watch?v=-EBGX0ab4bA" rel="nofollow noreferrer noopener" target="_blank">#2</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=6ac6-VzTUTY" rel="nofollow noreferrer noopener" target="_blank">Dance practice</a></li></ul>
+<dl><dt>"Hurt Me Less"</dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=htj0cTgFFzo" rel="nofollow noreferrer noopener" target="_blank">Film</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=j3muk1yBzgA" rel="nofollow noreferrer noopener" target="_blank">Making film</a></li></ul></li>
+<li>Concept clip
+<ul><li><a class="external text" href="https://www.youtube.com/shorts/_z5dujvisBI" rel="nofollow noreferrer noopener" target="_blank">Sangyeon</a> / <a class="external text" href="https://www.youtube.com/shorts/JfbjiC-vDXc" rel="nofollow noreferrer noopener" target="_blank">Jacob</a> / <a class="external text" href="https://www.youtube.com/shorts/SQ28LdgLQ7I" rel="nofollow noreferrer noopener" target="_blank">Younghoon</a> / <a class="external text" href="https://www.youtube.com/shorts/qSthvmemMCo" rel="nofollow noreferrer noopener" target="_blank">Hyunjae</a> / <a class="external text" href="https://www.youtube.com/shorts/MgbAUoL_o44" rel="nofollow noreferrer noopener" target="_blank">Juyeon</a> / <a class="external text" href="https://www.youtube.com/shorts/K1Y929Wm-S8" rel="nofollow noreferrer noopener" target="_blank">Kevin</a> / <a class="external text" href="https://www.youtube.com/shorts/Z9qjOFxEdZc" rel="nofollow noreferrer noopener" target="_blank">New</a> / <a class="external text" href="https://www.youtube.com/shorts/gSwvt7Ac_S8" rel="nofollow noreferrer noopener" target="_blank">Q</a> / <a class="external text" href="https://www.youtube.com/shorts/xpaSaXrrEWc" rel="nofollow noreferrer noopener" target="_blank">Ju Haknyeon</a> / <a class="external text" href="https://www.youtube.com/shorts/bDzxmcPLOYI" rel="nofollow noreferrer noopener" target="_blank">Sunwoo</a> / <a class="external text" href="https://www.youtube.com/shorts/jczRtUjiu3Y" rel="nofollow noreferrer noopener" target="_blank">Eric</a></li></ul></li></ul>
+</td>
+<td style="width:50%;" valign="top">
+<dl><dt><i>[Phantasy] Pt.3 Love Letter</i></dt></dl>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=O0DIs5noa2A" rel="nofollow noreferrer noopener" target="_blank">Jacket making film</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=p3agT_Ig1b4" rel="nofollow noreferrer noopener" target="_blank">Comeback live</a>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=AbTh4yuTDuM" rel="nofollow noreferrer noopener" target="_blank">Behind</a></li></ul></li></ul>
+<p>
+</p>
+</td></tr></tbody></table>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/%27Phantasy%27_Pt.3_Love_Letter?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#add8e6; color:#000000"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#add8e6; color:#000000;border:none;;"><a href="/wiki/Template:THE_BOYZ" title="Template:THE BOYZ"><span style=";background:#add8e6; color:#000000;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:THE_BOYZ?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#add8e6; color:#000000;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/THE_BOYZ" title="THE BOYZ">THE BOYZ</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Sangyeon" title="Sangyeon">Sangyeon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jacob_(THE_BOYZ)" title="Jacob (THE BOYZ)">Jacob</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Younghoon_(THE_BOYZ)" title="Younghoon (THE BOYZ)">Younghoon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Hyunjae" title="Hyunjae">Hyunjae</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Juyeon_(THE_BOYZ)" title="Juyeon (THE BOYZ)">Juyeon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kevin_(THE_BOYZ)" title="Kevin (THE BOYZ)">Kevin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/New_(THE_BOYZ)" title="New (THE BOYZ)">New</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Q_(THE_BOYZ)" title="Q (THE BOYZ)">Q</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ju_Haknyeon" title="Ju Haknyeon">Ju Haknyeon</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Sunwoo_(THE_BOYZ)" title="Sunwoo (THE BOYZ)">Sunwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Eric_(THE_BOYZ)" title="Eric (THE BOYZ)">Eric</a><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Hyun_Jun_(singer)" title="Hyun Jun (singer)">Hwall</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Reveal" title="Reveal">Reveal</a></i></span>  •  <span style="white-space:nowrap"><i>Phantasy</i> <span style="font-size:85%;">(<i><a href="/wiki/%27Phantasy%27_Pt.1_Christmas_In_August" title="'Phantasy' Pt.1 Christmas In August">Christmas In August</a></i> / <i><a href="/wiki/%27Phantasy%27_Pt.2_Sixth_Sense" title="'Phantasy' Pt.2 Sixth Sense">Sixth Sense</a></i> / <i><strong class="mw-selflink selflink">Love Letter</strong></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Unexpected" title="Unexpected">Unexpected</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_First_(THE_BOYZ)" title="The First (THE BOYZ)">The First</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Start" title="The Start">The Start</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Only_(THE_BOYZ)" title="The Only (THE BOYZ)">The Only</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Dreamlike_(THE_BOYZ)" title="Dreamlike (THE BOYZ)">Dreamlike</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Chase_(THE_BOYZ)" title="Chase (THE BOYZ)">Chase</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Thrill-ing" title="Thrill-ing">Thrill-ing</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Be_Aware" title="Be Aware">Be Aware</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Be_Awake" title="Be Awake">Be Awake</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Trigger_(THE_BOYZ)" title="Trigger (THE BOYZ)">Trigger</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Single albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/The_Sphere" title="The Sphere">The Sphere</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bloom_Bloom" title="Bloom Bloom">Bloom Bloom</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Maverick" title="Maverick">Maverick</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Special singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Keeper" title="Keeper">Keeper</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/White_(THE_BOYZ)" title="White (THE BOYZ)">White</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Christmassy!" title="Christmassy!">Christmassy!</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Candles" title="Candles">Candles</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/All_About_You" title="All About You">All About You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dear._(THE_BOYZ)" title="Dear. (THE BOYZ)">Dear.</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Drink_It" title="Drink It">Drink It</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sweet_(THE_BOYZ)" title="Sweet (THE BOYZ)">Sweet</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Collaborations</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Last_Man_Standing" title="Last Man Standing">Last Man Standing</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Poyz_Nolza" title="The Poyz Nolza">The Poyz Nolza</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">OSTs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Run_On_OST" title="Run On OST">Run On OST Part.7</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Racket_Boys_OST" title="Racket Boys OST">Racket Boys OST Part.1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Solo_Leveling_OST" title="Solo Leveling OST">Solo Leveling OST</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Other releases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Road_to_Kingdom_Final" title="Road to Kingdom Final">Checkmate</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:100px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Breaking_Dawn" title="Breaking Dawn">Breaking Dawn</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Delicious_(THE_BOYZ)" title="Delicious (THE BOYZ)">Delicious</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Gibberish" title="Gibberish">Gibberish</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Tattoo_(THE_BOYZ)" title="Tattoo (THE BOYZ)">Tattoo</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/She%27s_The_Boss" title="She's The Boss">She's The Boss</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;;">Digital EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Here_is" title="Here is">Here is</a></i></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/IST_Entertainment" title="IST Entertainment">IST Entertainment</a></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Road_to_Kingdom" title="Road to Kingdom">Road to Kingdom</a></i></span>  •  <span style="white-space:nowrap"><i><a class="mw-redirect" href="/wiki/Kingdom_(show)" title="Kingdom (show)">Kingdom</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.theboyz.kr/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <span style="font-size:85%;">(<a class="external text" href="https://theboyz.jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/officialTHEBOYZ/" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/officialTHEBOYZ" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/TBZ_ONEHUNDRED/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a> <span style="font-size:85%;">(<a class="external text" href="https://www.instagram.com/official_theboyz/" rel="nofollow noreferrer noopener" target="_blank">Former</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://tv.kakao.com/channel/2870930/" rel="nofollow noreferrer noopener" target="_blank">Kakao TV</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://soundcloud.com/official_theboyz" rel="nofollow noreferrer noopener" target="_blank">SoundCloud</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@TBZ_ONEHUNDRED/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a> <span style="font-size:85%;">(<a class="external text" href="https://www.tiktok.com/@istent_theboyz" rel="nofollow noreferrer noopener" target="_blank">Former</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/TBZ_ONEHUNDRED/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <span style="font-size:85%;">(<a class="external text" href="https://twitter.com/IST_THEBOYZ/" rel="nofollow noreferrer noopener" target="_blank">Former</a> • <a class="external text" href="https://twitter.com/WE_THE_BOYZ" rel="nofollow noreferrer noopener" target="_blank">Members</a> • <a class="external text" href="https://twitter.com/THEBOYZJAPAN" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/officialtheboyz/" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/theboyz/artist" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://youtube.com/@officialtheboyz" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <span style="font-size:85%;">(<a class="external text" href="https://www.youtube.com/channel/UCkJ1rbOrsyPfBuHNfnLPm-Q" rel="nofollow noreferrer noopener" target="_blank">Former</a>)</span></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315091309
+Cached time: 20250318144132
 Cache expiry: 1209600
 Reduced expiry: false
-Complications: []
-CPU time usage: 0.101 seconds
-Real time usage: 0.111 seconds
-Preprocessor visited node count: 4517/1000000
-Post‐expand include size: 87534/2097152 bytes
-Template argument size: 75005/2097152 bytes
-Highest expansion depth: 17/100
+Complications: [show‐toc]
+CPU time usage: 0.134 seconds
+Real time usage: 0.147 seconds
+Preprocessor visited node count: 4965/1000000
+Post‐expand include size: 86543/2097152 bytes
+Template argument size: 70380/2097152 bytes
+Highest expansion depth: 19/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28/5000000 bytes
+Unstrip post‐expand size: 10778/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-112.47%   88.283      4 Template:Navbox
-100.00%   78.496      1 -total
- 61.61%   48.364      1 Template:T-ARA
- 36.24%   28.443     13 Template:List
- 35.33%   27.736      1 Template:Infobox_album
- 31.22%   24.508     14 Template:Element_List
-  5.24%    4.112      1 Template:List2
-  3.35%    2.630      1 Template:Tnavbar
-  2.73%    2.145      1 Template:Stub
+100.00%  101.797      1 -total
+ 93.07%   94.741      4 Template:Navbox
+ 52.07%   53.005      1 Template:THE_BOYZ
+ 31.34%   31.900     14 Template:List
+ 27.42%   27.909     15 Template:Element_List
+ 25.36%   25.814      1 Template:Infobox_album
+  6.82%    6.942      1 Template:Reflist
+  5.09%    5.180      1 Template:Scroll_Box
+  4.28%    4.355      1 Template:List2
+  2.80%    2.854      1 Template:Tnavbar
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:109604-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315091309 and revision id 385980. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:211069-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250318144132 and revision id 1069426. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2603,40 +2655,20 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="T-ARA" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:T-ARA" title="Category:T-ARA">T-ARA</a></span>
-<span class="tool removeCategory"></span>
-</li>
 <li class="category normal" data-name="Studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
 <span class="name"><a href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a></span>
+<li class="category normal" data-name="THE BOYZ" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:THE_BOYZ" title="Category:THE BOYZ">THE BOYZ</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_studio_albums" title="Category:Japanese studio albums">Japanese studio albums</a></span>
+<li class="category normal" data-name="2024 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2014 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2014_releases" title="Category:2014 releases">2014 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2014 Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2014_Japanese_releases" title="Category:2014 Japanese releases">2014 Japanese releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2014 studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2014_studio_albums" title="Category:2014 studio albums">2014 studio albums</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2014 Japanese studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2014_Japanese_studio_albums" title="Category:2014 Japanese studio albums">2014 Japanese studio albums</a></span>
+<li class="category normal" data-name="2024 studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2024_studio_albums" title="Category:2024 studio albums">2024 studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2822,7 +2854,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9Hb3NzaXBfR2lybHM/dGl0bGU9R29zc2lwX0dpcmxzJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8lMjdQaGFudGFzeSUyN19QdC4zX0xvdmVfTGV0dGVyP3RpdGxlPSUyN1BoYW50YXN5JTI3X1B0LjNfTG92ZV9MZXR0ZXImbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

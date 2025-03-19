@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Jang Yeo Jun | Kpop Wiki | Fandom</title>
+<title>Pit-A-Pat 250 Remix | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Jang_Yeo_Jun rootpage-Jang_Yeo_Jun skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pit-A-Pat_250_Remix rootpage-Pit-A-Pat_250_Remix skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,036</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,40 +2353,17 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:2005_births" title="Category:2005 births">2005 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:September_births" title="Category:September births">September births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:STATION" title="Category:STATION">STATION</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">7 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_trainees" title="Category:Male trainees">Male trainees</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2016_releases" title="Category:2016 releases">2016 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:MYSTIC_STORY" title="Category:MYSTIC STORY">MYSTIC STORY</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Wild_Idol" title="Category:Wild Idol">Wild Idol</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Boys_Planet" title="Category:Boys Planet">Boys Planet</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Project_7" title="Category:Project 7">Project 7</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:CLOSE_YOUR_EYES" title="Category:CLOSE YOUR EYES">CLOSE YOUR EYES</a> </li>
-<li>
-<a data-tracking-label="categories-top-more-9" href="/wiki/Category:Jang_Yeo_Jun" title="Category:Jang Yeo Jun">Jang Yeo Jun</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2016_digital_singles" title="Category:2016 digital singles">2016 digital singles</a> </li>
 </ul>
 </div>
-</div>
-</div>
-</div>
-<div class="page-header__languages">
-<div class="wds-dropdown">
-<div class="wds-dropdown__toggle">
-			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
-<div class="wds-dropdown__content">
-<ul class="wds-list wds-is-linked">
-<li>
-<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/%D0%A7%D1%85%D0%B2%D0%B5_%D0%81%D0%B4%D0%B6%D1%83%D0%BD">Русский</a>
-</li>
-</ul>
 </div>
 </div>
 </div>
@@ -2394,10 +2371,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Jang Yeo Jun</span> </h1>
+<span class="mw-page-title-main">Pit-A-Pat 250 Remix</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2405,15 +2382,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Jang_Yeo_Jun?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Pit-A-Pat_250_Remix?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Jang_Yeo_Jun?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Pit-A-Pat_250_Remix?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Jang_Yeo_Jun?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Pit-A-Pat_250_Remix?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2436,190 +2413,111 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><dl><dd><span><i>For other people known as 'Yeo Jun', see <a class="mw-disambig" href="/wiki/Yeojun" title="Yeojun">Yeojun</a>.</i></span></dd></dl>
-<p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Jang Yeo Jun</h2>
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/7/7a/CLOSE_YOUR_EYES_Jang_Yeo_Jun_Eternalt_concept_photo_3.png/revision/latest?cb=20250310112810" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="CLOSE_YOUR_EYES_Jang_Yeo_Jun_Eternalt_concept_photo_3.png" data-image-name="CLOSE YOUR EYES Jang Yeo Jun Eternalt concept photo 3.png" data-relevant="1" height="405" src="https://static.wikia.nocookie.net/kpop/images/7/7a/CLOSE_YOUR_EYES_Jang_Yeo_Jun_Eternalt_concept_photo_3.png/revision/latest/scale-to-width-down/268?cb=20250310112810" srcset="https://static.wikia.nocookie.net/kpop/images/7/7a/CLOSE_YOUR_EYES_Jang_Yeo_Jun_Eternalt_concept_photo_3.png/revision/latest/scale-to-width-down/268?cb=20250310112810 1x, https://static.wikia.nocookie.net/kpop/images/7/7a/CLOSE_YOUR_EYES_Jang_Yeo_Jun_Eternalt_concept_photo_3.png/revision/latest/scale-to-width-down/536?cb=20250310112810 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/9/99/250_Pit-A-Pat_cover_art.png/revision/latest?cb=20160920171010" title="250 Pit-A-Pat cover art">
+<img alt="250 Pit-A-Pat cover art" class="pi-image-thumbnail" data-image-key="250_Pit-A-Pat_cover_art.png" data-image-name="250 Pit-A-Pat cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/9/99/250_Pit-A-Pat_cover_art.png/revision/latest/scale-to-width-down/268?cb=20160920171010" srcset="https://static.wikia.nocookie.net/kpop/images/9/99/250_Pit-A-Pat_cover_art.png/revision/latest/scale-to-width-down/268?cb=20160920171010 1x, https://static.wikia.nocookie.net/kpop/images/9/99/250_Pit-A-Pat_cover_art.png/revision/latest/scale-to-width-down/536?cb=20160920171010 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Concept photo for <a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></figcaption>
 </figure>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
-<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Jang Yeo-jun (장여준)</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Pit-A-Pat 250 Remix"</center></h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
+<h3 class="pi-data-label pi-secondary-font">Artist</h3>
+<div class="pi-data-value pi-font"><span class="new" data-uncrawlable-url="L3dpa2kvMjUwP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="250 (page does not exist)">250</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
-<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">September 27, 2005<span style="display:none"> (<span class="bday">2005-09-27</span>)</span><span class="noprint"> (age 19)</span></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
+<h3 class="pi-data-label pi-secondary-font">Released</h3>
+<div class="pi-data-value pi-font">September 9, 2016</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
-<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">Daejeon, South Korea</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
+<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
+<div class="pi-data-value pi-font">Download, streaming</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
-<h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">177.5 cm (5 ft 9.9 in)</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
+<h3 class="pi-data-label pi-secondary-font">Recorded<b></b></h3>
+<div class="pi-data-value pi-font">2016</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
+<h3 class="pi-data-label pi-secondary-font">Genre</h3>
+<div class="pi-data-value pi-font">Electronica</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
+<h3 class="pi-data-label pi-secondary-font">Length</h3>
+<div class="pi-data-value pi-font">3:53</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
+<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
+<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
+<div class="pi-data-value pi-font"><a class="mw-redirect" href="/wiki/KT_Music" title="KT Music">KT Music</a></div>
+</div>
+<section class="pi-item pi-group pi-border-color">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="writer">
+<h3 class="pi-data-label pi-secondary-font">Writer(s)</h3>
+<div class="pi-data-value pi-font">Park Chang Hyun</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="composer">
+<h3 class="pi-data-label pi-secondary-font">Composer(s)</h3>
+<div class="pi-data-value pi-font">Park Chang Hyun</div>
 </div>
 </section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
-<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Trainee</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
-<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">April 2, 2025</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
-<h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2021–present</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
-<h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/UNCORE" title="UNCORE">UNCORE</a> <span style="font-size:85%;">(CLOSE YOUR EYES; 2024–present)</span><br/><a href="/wiki/MYSTIC_STORY" title="MYSTIC STORY">MYSTIC STORY</a> <span style="font-size:85%;">(2024)</span><br/><a href="/wiki/Jellyfish_Entertainment" title="Jellyfish Entertainment">Jellyfish Entertainment</a> <span style="font-size:85%;">(2022-2024)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
-<h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a><br/><i><a href="/wiki/Wild_Idol" title="Wild Idol">Wild Idol</a></i><br/><i><a href="/wiki/Boys_Planet" title="Boys Planet">Boys Planet</a></i><br/><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i></div>
-</div>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
-<tbody>
+<section class="pi-item pi-group pi-border-color">
+<table class="pi-horizontal-group">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
+<thead>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.instagram.com/jang_oqechil/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span> </td>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="previous">Previous</th>
+<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="next">Next</th>
 </tr>
-</tbody>
-</table>
-</section>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
+</thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://closeyoureyes.fandom.com/wiki/Jang_Yeo_Jun" title="w:c:closeyoureyes:Jang Yeo Jun">CLOSE YOUR EYES Wiki</a></p></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/$10" title="$10">$10</a>"<br/><span style="font-size:85%;">(STATION)</span></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"Rear Window"<br/><span style="font-size:85%;">(250)</span><br/>"<a href="/wiki/Dancing_King" title="Dancing King">Dancing King</a>"<br/><span style="font-size:85%;">(STATION)</span></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<b>Jang Yeo Jun</b> (장여준; or simply <b>Yeojun</b>) is a South Korean trainee. He is a member of the upcoming boy group <a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a>.
-</p><p>He is also known for being a contestant on the reality survival shows <i><a href="/wiki/Wild_Idol" title="Wild Idol">Wild Idol</a></i>, <i><a href="/wiki/Boys_Planet" title="Boys Planet">Boys Planet</a></i> and <i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i>.
+<b>"Pit-A-Pat 250 Remix"</b> (두근두근 (Pit-A-Pat) 250 Remix) is a digital single by <span class="new" data-uncrawlable-url="L3dpa2kvMjUwP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="250 (page does not exist)">250</span>. It was released on September 9, 2016 as the <a href="/wiki/STATION" title="STATION">STATION</a>'s 31st release. It is a remix of "Pit-A-Pat", a song from <a href="/wiki/BoA" title="BoA">BoA</a>'s fourth album <i><a href="/wiki/My_Name_(BoA)" title="My Name (BoA)">My Name</a></i>.
 </p>
-<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#2021:_Wild_Idol"><span class="tocnumber">1.1</span> <span class="toctext">2021: <i>Wild Idol</i></span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#2022–2023:_Boys_Planet"><span class="tocnumber">1.2</span> <span class="toctext">2022–2023: <i>Boys Planet</i></span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#2024-2025:_Project_7,_debut_with_CLOSE_YOUR_EYES"><span class="tocnumber">1.3</span> <span class="toctext">2024-2025: <i>Project 7</i>, debut with CLOSE YOUR EYES</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-5"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-6"><a href="#Participation_releases"><span class="tocnumber">2.1</span> <span class="toctext">Participation releases</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-7"><a href="#Filmography"><span class="tocnumber">3</span> <span class="toctext">Filmography</span></a>
-<ul>
-<li class="toclevel-2 tocsection-8"><a href="#Survival_shows"><span class="tocnumber">3.1</span> <span class="toctext">Survival shows</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-12"><a href="#Official_links"><span class="tocnumber">7</span> <span class="toctext">Official links</span></a></li>
-</ul>
-</div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="2021:_Wild_Idol">2021: <i>Wild Idol</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On August 12, 2021, he was introduced as the 36th contestant of the survival show <i><a href="/wiki/Wild_Idol" title="Wild Idol">Wild Idol</a></i>.<sup class="reference" id="cite_ref-wild_1-0"><a href="#cite_note-wild-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> Unfortunately, he was eliminated in the third episode and was unable to make it further in the show.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span id="2022.E2.80.932023:_Boys_Planet"></span><span class="mw-headline" id="2022–2023:_Boys_Planet">2022–2023: <i>Boys Planet</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On December 29, 2022, he was introduced as a contestant of Mnet's survival show <i><a href="/wiki/Boys_Planet" title="Boys Planet">Boys Planet</a></i>, representing Jellyfish Entertainment.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> On March 2, he was eliminated in episode 5 after ranking 62nd place.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
-</p>
-<h3><span id="2024-2025:_Project_7.2C_debut_with_CLOSE_YOUR_EYES"></span><span class="mw-headline" id="2024-2025:_Project_7,_debut_with_CLOSE_YOUR_EYES">2024-2025: <i>Project 7</i>, debut with CLOSE YOUR EYES</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On September 26, 2024, he was officially introduced as a contestant of <i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> During the show's finale, he was revealed to have ranked 6th overall, thus making him a member of <a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a>.
-</p><p>The group will debut on April 2, 2025 with the mini album <i><a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></i>.
-</p>
-<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Participation_releases">Participation releases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li>"<a href="/wiki/Here_I_Am_(Boys_Planet)" title="Here I Am (Boys Planet)">Here I Am</a>" <span style="font-size:85%;">(with contestants of Boys Planet)</span> (2023)</li>
-<li>"<a href="/wiki/Run_(Up_To_You)" title="Run (Up To You)">Run (Up To You)</a>" <span style="font-size:85%;">(with contestants of Project 7)</span> (2024)</li>
-<li><i><a href="/wiki/Project_7_%E2%80%93_Originals_Match" title="Project 7 – Originals Match">Project 7 – Originals Match</a></i> <span style="font-size:85%;">("Trigger" as part of Right Up Your Alley)</span> (2024)</li>
-<li><i><a href="/wiki/Project_7_%E2%80%93_Final" title="Project 7 – Final">Project 7 – Final</a></i> <span style="font-size:85%;">("Psycho", "Everywhere" with finalists of Project 7)</span> (2024)</li></ul>
-<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Survival_shows">Survival shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><i><a href="/wiki/Wild_Idol" title="Wild Idol">Wild Idol</a></i> (MBC, 2021) - contestant (#36)</li>
-<li><i><a href="/wiki/Boys_Planet" title="Boys Planet">Boys Planet</a></i> (Mnet, 2023) - contestant</li>
-<li><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i> (JTBC, 2024) - contestant</li></ul>
-<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>His special talent is an impersonation of Choi Joon.<sup class="reference" id="cite_ref-wild_1-1"><a href="#cite_note-wild-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li>
-<li>He likes making facial expressions.<sup class="reference" id="cite_ref-profile_6-0"><a href="#cite_note-profile-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li>
-<li>His MBTI personality type is ISFJ.<sup class="reference" id="cite_ref-profile_6-1"><a href="#cite_note-profile-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup></li></ul>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dd><i>Main article: <a href="/wiki/Jang_Yeo_Jun/Gallery" title="Jang Yeo Jun/Gallery">Jang Yeo Jun/Gallery</a></i></dd></dl>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
-<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-wild-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-wild_1-0">1.0</a></sup> <sup><a href="#cite_ref-wild_1-1">1.1</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1482909wpp/mbcs-survival-show-wild-idol-reveals-profile-photos-for-first-set-of-contestants" rel="nofollow noreferrer noopener" target="_blank">Soompi: Update: MBC’s Survival Show “Wild Idol” Reveals Profiles For Final Batch Of Contestants</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.allkpop.com/article/2021/10/30-out-of-44-contestants-eliminated-on-the-third-episode-of-mbcs-extreme-debut-wild-idol" rel="nofollow noreferrer noopener" target="_blank">Allkpop: 30 out of 44 contestants eliminated on the third episode of MBC's 'Extreme Debut: Wild Idol'</a></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/_mnetboysplanet/status/1608430079994101763" rel="nofollow noreferrer noopener" target="_blank">Mnet I BOYS PLANET on Twitter (December 29, 2022 tweet)</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1569980wpp/boys-planet-announces-top-52-trainees-and-makes-1st-eliminations" rel="nofollow noreferrer noopener" target="_blank">Soompi: “Boys Planet” Announces Top 52 Trainees And Makes 1st Eliminations</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://x.com/PROJECT7_2024/status/1839229777414336561" rel="nofollow noreferrer noopener" target="_blank">@PROJECT7_2024 on Twitter (September 26, 2024)</a></span>
-</li>
-<li id="cite_note-profile-6"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-profile_6-0">6.0</a></sup> <sup><a href="#cite_ref-profile_6-1">6.1</a></sup></span> <span class="reference-text"><a class="external text" href="https://project7.kr/jangyeojun" rel="nofollow noreferrer noopener" target="_blank"><i>Project 7</i> profile</a></span>
-</li>
-</ol></div></div>
-</div>
-<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJang_Yeo_Jun%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.instagram.com/jang_oqechil/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Jang_Yeo_Jun?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#007AB9; color:#FEFDA0;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#007AB9; color:#FEFDA0;;border:none;;"><a href="/wiki/Template:CLOSE_YOUR_EYES" title="Template:CLOSE YOUR EYES"><span style=";background:#007AB9; color:#FEFDA0;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:CLOSE_YOUR_EYES?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#007AB9; color:#FEFDA0;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/CLOSE_YOUR_EYES" title="CLOSE YOUR EYES">CLOSE YOUR EYES</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/J-Min_(BAE173)" title="J-Min (BAE173)">Jeon Min Wook</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ma_Jing_Xiang" title="Ma Jing Xiang">Ma Jing Xiang</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Jang Yeo Jun</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kim_Sung_Min_(CLOSE_YOUR_EYES)" title="Kim Sung Min (CLOSE YOUR EYES)">Kim Sung Min</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Song_Seung_Ho" title="Song Seung Ho">Song Seung Ho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kenshin" title="Kenshin">Kenshin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Seo_Kyoung_Bae" title="Seo Kyoung Bae">Seo Kyoung Bae</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Eternalt" title="Eternalt">Eternalt</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/UNCORE" title="UNCORE">UNCORE</a></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Project_7" title="Project 7">Project 7</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/close.your.eyes.official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@closeyoureyes_official/" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://x.com/closeyoureyes_7/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://x.com/CYE_MEMBERS7" rel="nofollow noreferrer noopener" target="_blank">Members</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/@close.your.eyes.official/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FPit-A-Pat_250_Remix%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=o" rel="nofollow noreferrer noopener" target="_blank">9y8h0ubow Music video</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Pit-A-Pat_250_Remix?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#fff; color:#000;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#fff; color:#000;;border:none;;"><a href="/wiki/Template:STATION" title="Template:STATION"><span style=";background:#fff; color:#000;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:STATION?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#fff; color:#000;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/STATION" title="STATION">STATION</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Season 1</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">2016</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Rain_(Taeyeon)" title="Rain (Taeyeon)">Rain</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Tell_Me_(What_Is_Love)" title="Tell Me (What Is Love)">Tell Me (What Is Love)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Because_of_You_(STATION)" title="Because of You (STATION)">Because of You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Spring_Love_(STATION)" title="Spring Love (STATION)">Spring Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Deoksugung_Stonewall_Walkway" title="Deoksugung Stonewall Walkway">Deoksugung Stonewall Walkway</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Your_Voice" title="Your Voice">Your Voice</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Borders" title="Borders">Borders</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Regrets_and_Resolutions" title="Regrets and Resolutions">Regrets and Resolutions</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lil%27_Something" title="Lil' Something">Lil' Something</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Narcissus_(STATION)" title="Narcissus (STATION)">Narcissus</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Pain_Poem" title="Pain Poem">Pain Poem</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mindjack" title="Mindjack">Mindjack</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wave_(STATION)" title="Wave (STATION)">Wave</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Day_(STATION)" title="The Day (STATION)">The Day</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Touch_You" title="Touch You">Touch You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Monodrama" title="Monodrama">Monodrama</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/You%27re_The_Boss" title="You're The Boss">You're The Boss</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Heartbreak_Hotel_(Tiffany)" title="Heartbreak Hotel (Tiffany)">Heartbreak Hotel</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/No_Matter_What" title="No Matter What">No Matter What</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Definition_of_Love" title="Definition of Love">Definition of Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/My_Hero" title="My Hero">My Hero</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Way_Back_Home" title="Way Back Home">Way Back Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/My_Show" title="My Show">My Show</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/All_Mine" title="All Mine">All Mine</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Taste_The_Feeling_(NCT_127)" title="Taste The Feeling (NCT 127)">Taste The Feeling</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sailing_(0805)" title="Sailing (0805)">Sailing (0805)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Starry_Night_(Onew_%26_Lee_Jin_Ah)" title="Starry Night (Onew &amp; Lee Jin Ah)">Starry Night</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Secret_(STATION)" title="Secret (STATION)">Secret</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Born_to_be_Wild" title="Born to be Wild">Born to be Wild</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/$10" title="$10">$10</a>"</span>  •  <span style="white-space:nowrap">"<strong class="mw-selflink selflink">Pit-A-Pat 250 Remix</strong>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dancing_King" title="Dancing King">Dancing King</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cosmic" title="Cosmic">Cosmic</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Heartbeat" title="Heartbeat">Heartbeat</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Years" title="Years">Years</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Runnin%27" title="Runnin'">Runnin'</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Music_is_Wonderful" title="Music is Wonderful">Music is Wonderful</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nightmare_(STATION)" title="Nightmare (STATION)">Nightmare</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Always_In_My_Heart" title="Always In My Heart">Always In My Heart</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Still" title="Still">Still</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sweet_Dream_(STATION)" title="Sweet Dream (STATION)">Sweet Dream</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Story_(S.E.S.)" title="Love Story (S.E.S.)">Love [story]</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mystery_(STATION)" title="Mystery (STATION)">Mystery</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Inspiration_(Jonghyun)" title="Inspiration (Jonghyun)">Inspiration</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/It%27s_You_(STATION)" title="It's You (STATION)">It's You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Have_Yourself_A_Merry_Little_Christmas" title="Have Yourself A Merry Little Christmas">Have Yourself A Merry Little Christmas</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sound_of_Your_Heart" title="Sound of Your Heart">Sound of Your Heart</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">2017</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Road" title="Road">Road</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sparks_Fly" title="Sparks Fly">Sparks Fly</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Darling_U" title="Darling U">Darling U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/When_My_Loneliness_Calls_You" title="When My Loneliness Calls You">When My Loneliness Calls You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Curtain" title="Curtain">Curtain</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Season 2</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">2017</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Would_U_(Red_Velvet)" title="Would U (Red Velvet)">Would U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dream_In_A_Dream" title="Dream In A Dream">Dream In A Dream</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Take_You_Home" title="Take You Home">Take You Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/To_Be_Alive" title="To Be Alive">To Be Alive</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Spring_Rain_(BoA)" title="Spring Rain (BoA)">Spring Rain</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lullaby_(Onew_%26_Rocoberry)" title="Lullaby (Onew &amp; Rocoberry)">Lullaby</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Around" title="Around">Around</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/E-12_(Live)" title="E-12 (Live)">E-12 (Live)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nostalgia_(STATION)" title="Nostalgia (STATION)">Nostalgia</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Marry_Man" title="Marry Man">Marry Man</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Easy_(STATION)" title="Easy (STATION)">Easy</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/New_Beginning" title="New Beginning">New Beginning</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Stranger%27s_Love" title="Stranger's Love">Stranger's Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Decalcomanie_(IMLAY_%26_Sik-K)" title="Decalcomanie (IMLAY &amp; Sik-K)">Decalcomanie</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Young_%26_Free" title="Young &amp; Free">Young &amp; Free</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/All_That_You_Want" title="All That You Want">All That You Want</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lemonade_Love" title="Lemonade Love">Lemonade Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Like_You" title="Love Like You">Love Like You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cure" title="Cure">Cure</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Hunnit" title="Hunnit">Hunnit</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Rebirth_(Red_Velvet)" title="Rebirth (Red Velvet)">Rebirth</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Man_in_the_Mirror" title="Man in the Mirror">Man in the Mirror</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/When_The_Wind_Blows" title="When The Wind Blows">When The Wind Blows</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/U%26I_(STATION)" title="U&amp;I (STATION)">U&amp;I</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Daylight_%26_Cerulean_High" title="Daylight &amp; Cerulean High">Daylight &amp; Cerulean High</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Drop" title="Drop">Drop</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/In_A_Different_Life" title="In A Different Life">In A Different Life</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Star_Blossom" title="Star Blossom">Star Blossom</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Power_(Remixes)" title="Power (Remixes)">Power (Remixes)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Doll" title="Doll">Doll</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bye_Babe" title="Bye Babe">Bye Babe</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Thirsty_(Off-Sick_Concert_Ver.)" title="Thirsty (Off-Sick Concert Ver.)">Thirsty (Off-Sick Concert Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Atmosphere" title="Atmosphere">Atmosphere</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Try_Again_(STATION)" title="Try Again (STATION)">Try Again</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Little_Match_Girl" title="The Little Match Girl">The Little Match Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Charm_of_Life" title="Charm of Life">Charm of Life</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Joy_(NCT_DREAM)" title="Joy (NCT DREAM)">Joy</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dear_My_Family" title="Dear My Family">Dear My Family</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">2018</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Lower" title="Lower">Lower</a></span>  •  <span style="white-space:nowrap">"<a href="/wiki/Timeless_(NCT_U)" title="Timeless (NCT U)">Timeless</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Man_in_the_Mirror_(Live)" title="Man in the Mirror (Live)">Man in the Mirror (Live)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Always_Find_You" title="Always Find You">Always Find You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nikolai_Kapustin:_Piano_Quintet_No.1_%E2%80%93_1st_Mov._Allegro" title="Nikolai Kapustin: Piano Quintet No.1 – 1st Mov. Allegro">Nikolai Kapustin: Piano Quintet No.1 – 1st Mov. Allegro</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Free_Somebody_(with_Everysing)" title="Free Somebody (with Everysing)">Free Somebody (with Everysing)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/I_Kicked_My_Luck_Off" title="I Kicked My Luck Off">I Kicked My Luck Off</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Notorious" title="Notorious">Notorious</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Day_Dream_(Sungmin)" title="Day Dream (Sungmin)">Day Dream</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dinner" title="Dinner">Dinner</a>"</span>  •  <span style="white-space:nowrap">"<a class="extiw" href="https://kindie.fandom.com/wiki/Privacy" title="w:c:kindie:Privacy">Privacy</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Super_Duper" title="Super Duper">Super Duper</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/You_(Ginjo)" title="You (Ginjo)">You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/New_Heroes" title="New Heroes">New Heroes</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">STATION X 0<br/><span style="font-size:85%;">(2018)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Page_0" title="Page 0">Page 0</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Young_(Baekhyun_%26_Loco)" title="Young (Baekhyun &amp; Loco)">Young</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Young_(Chanyeol_%26_Sehun)" title="We Young (Chanyeol &amp; Sehun)">We Young</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wow_Thing" title="Wow Thing">Wow Thing</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Written_In_The_Stars" title="Written In The Stars">Written In The Stars</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Season 3</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">2018</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Coffee_Break" title="Coffee Break">Coffee Break</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/DreamWorks_Trolls_X_SM_STATION" title="DreamWorks Trolls X SM STATION">DreamWorks Trolls X SM STATION</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Candle_Light" title="Candle Light">Candle Light</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">2019</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Carpet" title="Carpet">Carpet</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Loss" title="Loss">Loss</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cold_(Key)" title="Cold (Key)">Cold</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cheer_Man" title="Cheer Man">Cheer Man</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dear_Diary_(Yeri)" title="Dear Diary (Yeri)">Dear Diary</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/I%27m_Home" title="I'm Home">I'm Home</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/SSFW" title="SSFW">SSFW</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/You_(Xiumin)" title="You (Xiumin)">You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nada_(Hitchhiker)" title="Nada (Hitchhiker)">Nada</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Don%27t_Need_Your_Love" title="Don't Need Your Love">Don't Need Your Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Love_in_You" title="The Love in You">The Love in You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/That%27s_Okay" title="That's Okay">That's Okay</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Long_Flight" title="Long Flight">Long Flight</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">STATION X<br/><span style="font-size:85%;">(2019)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/STATION_X_4_LOVEs_for_Winter_Part.1" title="STATION X 4 LOVEs for Winter Part.1">STATION X 4 LOVEs for Winter Part.1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/STATION_X_4_LOVEs_for_Winter_Part.2" title="STATION X 4 LOVEs for Winter Part.2">STATION X 4 LOVEs for Winter Part.2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/STATION_X_4_LOVEs_for_Winter_Part.3" title="STATION X 4 LOVEs for Winter Part.3">STATION X 4 LOVEs for Winter Part.3</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">SM STATION<br/><span style="font-size:85%;">(2020)</span></td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Still_Standing" title="Still Standing">Still Standing</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sugar_(STATION)" title="Sugar (STATION)">Sugar</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Delight_(Baekhyun)" title="Delight (Baekhyun)">Love Again</a>" <span style="font-size:85%;">(live video)</span></span>  •  <span style="white-space:nowrap">"<a href="/wiki/When_We_Were_Us" title="When We Were Us">Midnight Story</a>" <span style="font-size:85%;">(live video)</span></span>  •  <span style="white-space:nowrap">"<a href="/wiki/Happy_(Taeyeon)" title="Happy (Taeyeon)">Happy (Summer Version</a>" <span style="font-size:85%;">(live video)</span></span>  •  <span style="white-space:nowrap">"<a href="/wiki/Red_Flavor_(Orchestra_Ver.)" title="Red Flavor (Orchestra Ver.)">Red Flavor (Orchestra Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/End_of_a_Day_(Orchestra_Ver.)" title="End of a Day (Orchestra Ver.)">End of a Day (Orchestra Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Think_About_Me" title="Think About Me">Think About Me</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/All_That_Love" title="All That Love">All That Love</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Our Beloved BoA<br/><span style="font-size:85%;">(2020)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Our_Beloved_BoA_1" title="Our Beloved BoA 1">Our Beloved BoA #1</a>"</span>  •  <span style="white-space:nowrap">"<a class="extiw" href="https://kindie.fandom.com/wiki/Our_Beloved_BoA_2" title="w:c:kindie:Our Beloved BoA 2">Our Beloved BoA #2</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Our_Beloved_BoA_3" title="Our Beloved BoA 3">Our Beloved BoA #3</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Our_Beloved_BoA_4" title="Our Beloved BoA 4">Our Beloved BoA #4</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Our_Beloved_BoA_5" title="Our Beloved BoA 5">Our Beloved BoA #5</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">SM STATION<br/><span style="font-size:85%;">(2021)</span></td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Cough_Syrup" title="Cough Syrup">Cough Syrup</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Tomorrow_(Chanyeol)" title="Tomorrow (Chanyeol)">Tomorrow</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Paint_Me_Naked" title="Paint Me Naked">Paint Me Naked</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Promise_of_H.O.T._(Jazz_Ver.)" title="The Promise of H.O.T. (Jazz Ver.)">The Promise of H.O.T. (Jazz Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Way_(STATION)" title="Way (STATION)">Way</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dreams_Come_True_(aespa)" title="Dreams Come True (aespa)">Dreams Come True</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">NCT LAB<br/><span style="font-size:85%;">(2022–2023)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Child" title="Child">Child</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Conextion_(Age_of_Light)" title="Conextion (Age of Light)">Conextion (Age of Light)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Rain_Day" title="Rain Day">Rain Day</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Forever_Only" title="Forever Only">Forever Only</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Birthday_(Ten)" title="Birthday (Ten)">Birthday</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Golden_Hour" title="Golden Hour">Golden Hour</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Horizon_(Jaehyun)" title="Horizon (Jaehyun)">Horizon</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/N.Y.C.T" title="N.Y.C.T">N.Y.C.T</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Phantom_(Kun_Remix)" title="Phantom (Kun Remix)">Phantom (Kun Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Marine_Turtle" title="Marine Turtle">Marine Turtle</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">SM STATION</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">2022</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Endless_Night_(Kim_Min_Jong)" title="Endless Night (Kim Min Jong)">Endless Night</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Theory" title="Love Theory">Love Theory</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cause_You_(Prod._Kangta)" title="Cause You (Prod. Kangta)">Cause You (Prod. Kangta)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nap_Fairy" title="Nap Fairy">Nap Fairy</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">2023</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Miracle_(Wendy_%26_MeloMance)" title="Miracle (Wendy &amp; MeloMance)">Miracle</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Me_Crazy" title="Love Me Crazy">Love Me Crazy</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/When_I_Close_My_Eyes_(Kangta_%26_Lee_Areum)" title="When I Close My Eyes (Kangta &amp; Lee Areum)">When I Close My Eyes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Hybrid" title="Hybrid">Hybrid</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bloom_(Yang_Hee_Eun_%26_Chen)" title="Bloom (Yang Hee Eun &amp; Chen)">Bloom</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Different_Hearts" title="Different Hearts">Different Hearts</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">2024</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Regret_of_the_Times_(2024_aespa_Remake_Version)" title="Regret of the Times (2024 aespa Remake Version)">Regret of the Times (2024 aespa Remake Version)</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/IScreaM" title="IScreaM">IScreaM</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/STATION.smtown" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/smtownstation" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UC7xrN8sK99nXgE_wL-3f7Kg" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312122550
-Cache expiry: 1683256
-Reduced expiry: true
-Complications: [show‐toc]
-CPU time usage: 0.125 seconds
-Real time usage: 0.144 seconds
-Preprocessor visited node count: 2433/1000000
-Post‐expand include size: 21346/2097152 bytes
-Template argument size: 8877/2097152 bytes
-Highest expansion depth: 14/100
+Cached time: 20250315010821
+Cache expiry: 1209600
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.148 seconds
+Real time usage: 0.161 seconds
+Preprocessor visited node count: 6390/1000000
+Post‐expand include size: 157138/2097152 bytes
+Template argument size: 99454/2097152 bytes
+Highest expansion depth: 15/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 3749/5000000 bytes
-Lua time usage: 0.013/7.000 seconds
-Lua memory usage: 1636650/52428800 bytes
+Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  124.153      1 -total
- 74.44%   92.417      1 Template:Infobox_person
- 24.82%   30.819      1 Template:Related_Wikis
- 22.19%   27.554      1 Template:Cvt
- 15.01%   18.634      2 Template:Navbox
- 14.78%   18.348      1 Template:CLOSE_YOUR_EYES
-  6.91%    8.583      4 Template:List
-  4.71%    5.851      1 Template:Birth_date_and_age
-  4.58%    5.690      4 Template:Element_List
-  4.13%    5.130      1 Template:Reflist
+102.78%  100.406      5 Template:Navbox
+100.00%   97.693      1 -total
+ 68.06%   66.491      1 Template:STATION
+ 41.34%   40.382     17 Template:List
+ 29.29%   28.613      1 Template:Infobox_single
+ 29.26%   28.587     17 Template:Element_List
+  2.91%    2.842      1 Template:Tnavbar
+  2.37%    2.318      1 Template:Stub
+  2.29%    2.235     12 Template:Small
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:110136-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312122550 and revision id 1184386. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:6543-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315010821 and revision id 1134379. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2631,56 +2529,29 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="2005 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2005_births" title="Category:2005 births">2005 births</a></span>
+<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="September births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:September_births" title="Category:September births">September births</a></span>
+<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
+<li class="category normal" data-name="STATION" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:STATION" title="Category:STATION">STATION</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Male trainees" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Male_trainees" title="Category:Male trainees">Male trainees</a></span>
+<li class="category normal" data-name="2016 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2016_releases" title="Category:2016 releases">2016 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="MYSTIC STORY" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:MYSTIC_STORY" title="Category:MYSTIC STORY">MYSTIC STORY</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Wild Idol" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Wild_Idol" title="Category:Wild Idol">Wild Idol</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Boys Planet" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Boys_Planet" title="Category:Boys Planet">Boys Planet</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Project 7" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Project_7" title="Category:Project 7">Project 7</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="CLOSE YOUR EYES" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:CLOSE_YOUR_EYES" title="Category:CLOSE YOUR EYES">CLOSE YOUR EYES</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="Jang Yeo Jun" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Jang_Yeo_Jun" title="Category:Jang Yeo Jun">Jang Yeo Jun</a></span>
+<li class="category normal" data-name="2016 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2016_digital_singles" title="Category:2016 digital singles">2016 digital singles</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
-</div>
-</div>
-<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
-<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
-			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
-<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
-<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/%D0%A7%D1%85%D0%B2%D0%B5_%D0%81%D0%B4%D0%B6%D1%83%D0%BD">Русский</a>
 </div>
 </div>
 <div class="license-description">
@@ -2861,7 +2732,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9KYW5nX1llb19KdW4/dGl0bGU9SmFuZ19ZZW9fSnVuJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9QaXQtQS1QYXRfMjUwX1JlbWl4P3RpdGxlPVBpdC1BLVBhdF8yNTBfUmVtaXgmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
 					View Mobile Site				</a>
 </div>
 </div>

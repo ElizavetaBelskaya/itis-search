@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Not Shy (English Ver.) | Kpop Wiki | Fandom</title>
+<title>Unlock (DAY6) | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Not_Shy_English_Ver rootpage-Not_Shy_English_Ver skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Unlock_DAY6 rootpage-Unlock_DAY6 skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,38 +2353,25 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:ITZY" title="Category:ITZY">ITZY</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:2018_releases" title="Category:2018 releases">2018 releases</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2018_studio_albums" title="Category:2018 studio albums">2018 studio albums</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
 <a class="wds-dropdown__toggle" data-tracking="categories-more">6 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2018_Japanese_releases" title="Category:2018 Japanese releases">2018 Japanese releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2018_Japanese_studio_albums" title="Category:2018 Japanese studio albums">2018 Japanese studio albums</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:English_releases" title="Category:English releases">English releases</a> </li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-6" href="/wiki/Category:English_digital_singles" title="Category:English digital singles">English digital singles</a> </li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-7" href="/wiki/Category:2021_English_releases" title="Category:2021 English releases">2021 English releases</a> </li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-8" href="/wiki/Category:2021_English_digital_singles" title="Category:2021 English digital singles">2021 English digital singles</a> </li>
+<a data-tracking-label="categories-top-more-8" href="/wiki/Category:DAY6" title="Category:DAY6">DAY6</a> </li>
 </ul>
 </div>
-</div>
-</div>
-</div>
-<div class="page-header__languages">
-<div class="wds-dropdown">
-<div class="wds-dropdown__toggle">
-			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
-<div class="wds-dropdown__content">
-<ul class="wds-list wds-is-linked">
-<li>
-<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Not_Shy_(English_Ver.)">Tagalog</a>
-</li>
-</ul>
 </div>
 </div>
 </div>
@@ -2392,10 +2379,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Not Shy (English Ver.)</span> </h1>
+<span class="mw-page-title-main">Unlock (DAY6)</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2403,15 +2390,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Not_Shy_(English_Ver.)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Unlock_(DAY6)?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Not_Shy_(English_Ver.)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Unlock_(DAY6)?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Not_Shy_(English_Ver.)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Unlock_(DAY6)?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2435,55 +2422,64 @@
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/f/ff/ITZY_Not_Shy_%28English_Ver.%29_album_cover.png/revision/latest?cb=20210122053154" title="ITZY Not Shy (English Ver.) album cover">
-<img alt="ITZY Not Shy (English Ver.) album cover" class="pi-image-thumbnail" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_album_cover.png" data-image-name="ITZY Not Shy (English Ver.) album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/f/ff/ITZY_Not_Shy_%28English_Ver.%29_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210122053154" srcset="https://static.wikia.nocookie.net/kpop/images/f/ff/ITZY_Not_Shy_%28English_Ver.%29_album_cover.png/revision/latest/scale-to-width-down/268?cb=20210122053154 1x, https://static.wikia.nocookie.net/kpop/images/f/ff/ITZY_Not_Shy_%28English_Ver.%29_album_cover.png/revision/latest/scale-to-width-down/536?cb=20210122053154 2x" width="270">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Digital/Regular
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							CD+DVD
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/1/16/DAY6_Unlock_CD_cover_art.png/revision/latest?cb=20180827215616" title="Digital/Regular">
+<img alt="Digital/Regular" class="pi-image-thumbnail" data-image-key="DAY6 Unlock CD cover art.png" data-image-name="DAY6 Unlock CD cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/1/16/DAY6_Unlock_CD_cover_art.png/revision/latest/scale-to-width-down/268?cb=20180827215616" srcset="https://static.wikia.nocookie.net/kpop/images/1/16/DAY6_Unlock_CD_cover_art.png/revision/latest/scale-to-width-down/268?cb=20180827215616 1x, https://static.wikia.nocookie.net/kpop/images/1/16/DAY6_Unlock_CD_cover_art.png/revision/latest/scale-to-width-down/536?cb=20180827215616 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Not Shy (English Ver.)"</center></h2>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/c/ca/DAY6_Unlock_CD%2BDVD_cover_art.png/revision/latest?cb=20180827215651" title="CD+DVD">
+<img alt="CD+DVD" class="pi-image-thumbnail" data-image-key="DAY6 Unlock CD+DVD cover art.png" data-image-name="DAY6 Unlock CD+DVD cover art.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/c/ca/DAY6_Unlock_CD%2BDVD_cover_art.png/revision/latest/scale-to-width-down/268?cb=20180827215651" srcset="https://static.wikia.nocookie.net/kpop/images/c/ca/DAY6_Unlock_CD%2BDVD_cover_art.png/revision/latest/scale-to-width-down/268?cb=20180827215651 1x, https://static.wikia.nocookie.net/kpop/images/c/ca/DAY6_Unlock_CD%2BDVD_cover_art.png/revision/latest/scale-to-width-down/536?cb=20180827215651 2x" width="270"/>
+</a>
+</figure>
+</div>
+</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Unlock</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
+<h3 class="pi-data-label pi-secondary-font">Type</h3>
+<div class="pi-data-value pi-font">Studio</div>
+</div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/ITZY" title="ITZY">ITZY</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/DAY6" title="DAY6">DAY6</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">January 22, 2021</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
-<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">Download, streaming</div>
+<div class="pi-data-value pi-font">October 17, 2018</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
-<h3 class="pi-data-label pi-secondary-font">Recorded<b></b></h3>
-<div class="pi-data-value pi-font">2019–2020</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
-<h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Dance pop</div>
+<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
+<div class="pi-data-value pi-font">2018</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">12:38</div>
+<div class="pi-data-value pi-font">37:17</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></div>
+<div class="pi-data-value pi-font">Warner Music Japan</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
-<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a class="mw-redirect" href="/wiki/JYP_Entertainment_USA" title="JYP Entertainment USA">JYP Entertainment USA</a><br/><a href="/wiki/Dreamus" title="Dreamus">Dreamus</a> <span style="font-size:85%;">(Korea)</span></div>
-</div>
-<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
-<table class="pi-horizontal-group pi-horizontal-group-no-labels">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Music services</caption>
-<tbody>
-<tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="services"> <span typeof="mw:File"><a href="https://www.melon.com/album/detail.htm?albumId=10551741" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Melon_Icon.png" data-image-name="Melon Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/9/98/Melon_Icon.png/revision/latest?cb=20230524151106" width="20"/></a></span>  <span typeof="mw:File"><a href="https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Spotify_Icon.png" data-image-name="Spotify Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/a/a8/Spotify_Icon.png/revision/latest?cb=20230524151104" width="20"/></a></span> </td>
-</tr>
-</tbody>
-</table>
-</section>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
@@ -2495,81 +2491,70 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Not_Shy" title="Not Shy">Not Shy</a></i></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Trust_Me_(MIDZY)" title="Trust Me (MIDZY)">Trust Me (MIDZY)</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Beautiful_Feeling" title="Beautiful Feeling">Beautiful Feeling</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"><i><a href="/wiki/Remember_Us_:_Youth_Part_2" title="Remember Us : Youth Part 2">Remember Us : Youth Part 2</a></i></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-
-"<b>Not Shy (English Ver.)</b>" is the first English digital single album by <a href="/wiki/ITZY" title="ITZY">ITZY</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> It was released on January 22, 2021 with the English version of "Not Shy" serving as the single's title track.
+<i><b>Unlock</b></i> is the first Japanese studio album by <a href="/wiki/DAY6" title="DAY6">DAY6</a>. It was released on October 17, 2018 with "Breaking Down" serving as the album's title track.
+</p><p>The physical release comes in seven editions: a regular CD edition, a limited CD+DVD edition and five individual limited picture label CD edition.
 </p>
-<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Track_list"><span class="tocnumber">1</span> <span class="toctext">Track list</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Gallery"><span class="tocnumber">2</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Video_links"><span class="tocnumber">4</span> <span class="toctext">Video links</span></a></li>
-</ul>
-</div>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Not Shy (English Ver.)" - 2:57</li>
-<li>"Wannabe (English Ver.)" - 3:11</li>
-<li>"Icy (English Ver.)" - 3:11</li>
-<li>"Dalla Dalla (달라달라) (English Ver.)" - 3:19</li></ol>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="e6c56b29bd778d89db081048c6dffea1" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="ITZY_Not_Shy_-English_Ver--_teaser_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:ITZY_Not_Shy_(English_Ver.)_teaser_photo.png" style="height:150px; width:150px;" title="ITZY Not Shy (English Ver.) teaser photo.png (3.57 MB)"><noscript><img alt="Track list/schedule" class="thumbimage" data-caption="Track list/schedule" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_teaser_photo.png" data-image-name="ITZY Not Shy (English Ver.) teaser photo.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/8/82/ITZY_Not_Shy_%28English_Ver.%29_teaser_photo.png/revision/latest/scale-to-width-down/150?cb=20201229221558" style="" title="ITZY Not Shy (English Ver.) teaser photo.png (3.57 MB)" width="150"/></noscript><img alt="Track list/schedule" class="thumbimage lazyload" data-caption="Track list/schedule" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_teaser_photo.png" data-image-name="ITZY Not Shy (English Ver.) teaser photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/82/ITZY_Not_Shy_%28English_Ver.%29_teaser_photo.png/revision/latest/scale-to-width-down/150?cb=20201229221558" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="ITZY Not Shy (English Ver.) teaser photo.png (3.57 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list/schedule</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="ITZY_Not_Shy_-English_Ver--_countdown_live_coming_soon_poster-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:ITZY_Not_Shy_(English_Ver.)_countdown_live_coming_soon_poster.png" style="height:150px; width:150px;" title="ITZY Not Shy (English Ver.) countdown live coming soon poster.png (3.09 MB)"><noscript><img alt="Countdown live (coming soon)" class="thumbimage" data-caption="Countdown live (coming soon)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_countdown_live_coming_soon_poster.png" data-image-name="ITZY Not Shy (English Ver.) countdown live coming soon poster.png" data-relevant="1" height="212" src="https://static.wikia.nocookie.net/kpop/images/f/f4/ITZY_Not_Shy_%28English_Ver.%29_countdown_live_coming_soon_poster.png/revision/latest/scale-to-width-down/150?cb=20210123184809" style="" title="ITZY Not Shy (English Ver.) countdown live coming soon poster.png (3.09 MB)" width="150"/></noscript><img alt="Countdown live (coming soon)" class="thumbimage lazyload" data-caption="Countdown live (coming soon)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_countdown_live_coming_soon_poster.png" data-image-name="ITZY Not Shy (English Ver.) countdown live coming soon poster.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f4/ITZY_Not_Shy_%28English_Ver.%29_countdown_live_coming_soon_poster.png/revision/latest/scale-to-width-down/150?cb=20210123184809" height="212" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="ITZY Not Shy (English Ver.) countdown live coming soon poster.png (3.09 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Countdown live (coming soon)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="ITZY_Not_Shy_-English_Ver--_group_un-released_photo_-1--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:ITZY_Not_Shy_(English_Ver.)_group_un-released_photo_(1).png" style="height:150px; width:150px;" title="ITZY Not Shy (English Ver.) group un-released photo (1).png (4.31 MB)"><noscript><img alt="Un-released photo (1)" class="thumbimage" data-caption="Un-released photo (1)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%281%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (1).png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/a/a0/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%281%29.png/revision/latest/scale-to-width-down/150?cb=20210123184514" style="" title="ITZY Not Shy (English Ver.) group un-released photo (1).png (4.31 MB)" width="150"/></noscript><img alt="Un-released photo (1)" class="thumbimage lazyload" data-caption="Un-released photo (1)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%281%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (1).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a0/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%281%29.png/revision/latest/scale-to-width-down/150?cb=20210123184514" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="ITZY Not Shy (English Ver.) group un-released photo (1).png (4.31 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Un-released photo (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="ITZY_Not_Shy_-English_Ver--_group_un-released_photo_-2--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:ITZY_Not_Shy_(English_Ver.)_group_un-released_photo_(2).png" style="height:150px; width:150px;" title="ITZY Not Shy (English Ver.) group un-released photo (2).png (4.02 MB)"><noscript><img alt="Un-released photo (2)" class="thumbimage" data-caption="Un-released photo (2)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%282%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (2).png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/b/b7/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20210123184526" style="" title="ITZY Not Shy (English Ver.) group un-released photo (2).png (4.02 MB)" width="150"/></noscript><img alt="Un-released photo (2)" class="thumbimage lazyload" data-caption="Un-released photo (2)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%282%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (2).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/b7/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20210123184526" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="ITZY Not Shy (English Ver.) group un-released photo (2).png (4.02 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Un-released photo (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="ITZY_Not_Shy_-English_Ver--_group_un-released_photo_-3--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:ITZY_Not_Shy_(English_Ver.)_group_un-released_photo_(3).png" style="height:150px; width:150px;" title="ITZY Not Shy (English Ver.) group un-released photo (3).png (4.22 MB)"><noscript><img alt="Un-released photo (3)" class="thumbimage" data-caption="Un-released photo (3)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%283%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (3).png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/a/ac/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%283%29.png/revision/latest/scale-to-width-down/225?cb=20210123184630" style="" title="ITZY Not Shy (English Ver.) group un-released photo (3).png (4.22 MB)" width="225"/></noscript><img alt="Un-released photo (3)" class="thumbimage lazyload" data-caption="Un-released photo (3)" data-image-key="ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%283%29.png" data-image-name="ITZY Not Shy (English Ver.) group un-released photo (3).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/ac/ITZY_Not_Shy_%28English_Ver.%29_group_un-released_photo_%283%29.png/revision/latest/scale-to-width-down/225?cb=20210123184630" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="ITZY Not Shy (English Ver.) group un-released photo (3).png (4.22 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;">Un-released photo (3)</div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
-<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.melon.com/album/detail.htm?albumId=10551741" rel="nofollow noreferrer noopener" target="_blank">Melon: Not Shy (English Ver.)</a></span>
-</li>
-</ol></div></div>
-</div>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FNot_Shy_%28English_Ver.%29%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=tvTdg7sgsgU" rel="nofollow noreferrer noopener" target="_blank">"Not Shy (English Ver.)" music video (in ZEPETO)</a>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=VoHTy2qdAWE" rel="nofollow noreferrer noopener" target="_blank">Teaser</a></li></ul></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=kro7_IMCi1c" rel="nofollow noreferrer noopener" target="_blank">Countdown live</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Not_Shy_(English_Ver.)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#ff10f0; color:#000;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#000;;border:none;;"><a href="/wiki/Template:ITZY" title="Template:ITZY"><span style=";color:#000;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:ITZY?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#000;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/ITZY" title="ITZY">ITZY</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Yeji_(ITZY)" title="Yeji (ITZY)">Yeji</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lia_(ITZY)" title="Lia (ITZY)">Lia</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ryujin" title="Ryujin">Ryujin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chaeryeong" title="Chaeryeong">Chaeryeong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yuna_(ITZY)" title="Yuna (ITZY)">Yuna</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Crazy_In_Love" title="Crazy In Love">Crazy In Love</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/IT%27z_Icy" title="IT'z Icy">IT'z Icy</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/IT%27z_Me" title="IT'z Me">IT'z Me</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Not_Shy" title="Not Shy">Not Shy</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Guess_Who" title="Guess Who">Guess Who</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Checkmate_(ITZY)" title="Checkmate (ITZY)">Checkmate</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Cheshire" title="Cheshire">Cheshire</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Kill_My_Doubt" title="Kill My Doubt">Kill My Doubt</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Born_To_Be" title="Born To Be">Born To Be</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Gold" title="Gold">Gold</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/IT%27z_Different" title="IT'z Different">IT'z Different</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Trust_Me_(MIDZY)" title="Trust Me (MIDZY)">Trust Me (MIDZY)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Like_Magic" title="Like Magic">Like Magic</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Ringo" title="Ringo">Ringo</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/IT%27z_ITZY" title="IT'z ITZY">IT'z ITZY</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/What%27z_ITZY" title="What'z ITZY">What'z ITZY</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Voltage" title="Voltage">Voltage</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Blah_Blah_Blah" title="Blah Blah Blah">Blah Blah Blah</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Algorhythm" title="Algorhythm">Algorhythm</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Trust_Me_(MIDZY)_-Japanese_ver.-" title="Trust Me (MIDZY) -Japanese ver.-">Trust Me (MIDZY) -Japanese ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sugar-holic" title="Sugar-holic">Sugar-holic</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/No_Biggie" title="No Biggie">No Biggie</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<strong class="mw-selflink selflink">Not Shy (English Ver.)</strong>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/In_the_Morning_(English_Ver.)" title="In the Morning (English Ver.)">In the Morning (English Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Boys_Like_You" title="Boys Like You">Boys Like You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Gold_(English_Ver.)" title="Gold (English Ver.)">Gold (English Ver.)</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">ITZY Premiere Showcase Tour "ITZY? ITZY!"</span>  •  <span style="white-space:nowrap"><a href="/wiki/ITZY_The_1st_World_Tour_%27Checkmate%27" title="ITZY The 1st World Tour 'Checkmate'">Checkmate</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/ITZY_2nd_World_Tour_%27Born_To_Be%27" title="ITZY 2nd World Tour 'Born To Be'">Born To Be</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">ITZY The First Fan Party Live with Global MIDZY</span>  •  <span style="white-space:nowrap"><a href="/wiki/ITZY_The_1st_Fan_Meeting_%22ITZY,_MIDZY,_Let%27s_Fly!%22" title="ITZY The 1st Fan Meeting &quot;ITZY, MIDZY, Let's Fly!&quot;">ITZY, MIDZY, Let's Fly!</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/ITZY_The_2nd_Fan_Meeting_%22ITZY,_MIDZY,_Let%27s_Fly!_To_Wonder_World%22" title="ITZY The 2nd Fan Meeting &quot;ITZY, MIDZY, Let's Fly! To Wonder World&quot;">ITZY, MIDZY, Let's Fly! To Wonder World</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Warner_Music_Group" title="wikipedia:en:Warner Music Group">Warner Music Japan</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Republic_Records" title="wikipedia:en:Republic Records">Republic Records</a></span>  •  <span style="white-space:nowrap"><i><a class="mw-redirect mw-disambig" href="/wiki/SIXTEEN" title="SIXTEEN">SIXTEEN</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/MIXNINE" title="MIXNINE">MIXNINE</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
-Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://itzy.jype.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="https://www.itzyjapan.com/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://space.bilibili.com/1185017133" rel="nofollow noreferrer noopener" target="_blank">Bilibili</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/OfficialItzy/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://midzyjapatn.com/" rel="nofollow noreferrer noopener" target="_blank">Fanclub</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/itzy.all.in.us/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a> <small>(<a class="external text" href="https://www.instagram.com/itzyofficial_jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://fans.jype.com/ITZY" rel="nofollow noreferrer noopener" target="_blank">JYP Fan's</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@itzyofficial" rel="nofollow noreferrer noopener" target="_blank">TikTok</a> <small>(<a class="external text" href="https://www.tiktok.com/@itzyofficial_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/ITZYOfficial" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/JYPEITZY_JP" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weibo.com/7462077750" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/ITZY" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <small>(<a class="external text" href="https://www.youtube.com/c/itzyjapan_official" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Live Your Life" - 3:08</li>
+<li>"Breaking Down" - 3:29</li>
+<li>"<a href="/wiki/Stop_The_Rain" title="Stop The Rain">Stop The Rain</a>" - 4:36</li>
+<li>"Say Hello" - 3:23</li>
+<li>"Everybody Rock!" - 3:15</li>
+<li>"I Just" - 3:25</li>
+<li>"Nobody Knows" - 4:05</li>
+<li>"Falling" - 4:35</li>
+<li>"<a href="/wiki/If_%EF%BD%9EMata_Aetara%EF%BD%9E" title="If ～Mata Aetara～">If ～Mata Aetara～</a> (If ～また逢えたら～)" - 3:23</li>
+<li>"Baby, It's Okay" - 3:53</li></ol>
+<dl><dt>DVD <small>(<b>Limited Edition only</b>)</small></dt></dl>
+<ol><li>"Breaking Down" music video</li>
+<li>DAY6 Japan 1st Album <i>Unlock</i> making video</li>
+<li>"If ～Mata Aetara～" music video Another Ver.</li>
+<li>"Stop The Rain" music video Another Ver.</li></ol>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FUnlock_%28DAY6%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=QmBaZKYEXN8" rel="nofollow noreferrer noopener" target="_blank">"Breaking Down" music video</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Unlock_(DAY6)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#0DADCF; color:#FFF;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:DAY6" title="Template:DAY6"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:DAY6?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/DAY6" title="DAY6">DAY6</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Sungjin_(DAY6)" title="Sungjin (DAY6)">Sungjin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Young_K" title="Young K">Young K</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Wonpil" title="Wonpil">Wonpil</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Dowoon" title="Dowoon">Dowoon</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Jae" title="Jae">Jae</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Jun_Hyeok" title="Lim Jun Hyeok">Jun Hyeok</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Sunrise_(DAY6)" title="Sunrise (DAY6)">Sunrise</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Moonrise" title="Moonrise">Moonrise</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Entropy" title="The Book of Us : Entropy">The Book of Us : Entropy</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Day_(DAY6)" title="The Day (DAY6)">The Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Daydream_(DAY6)" title="Daydream (DAY6)">Daydream</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Shoot_Me_:_Youth_Part_1" title="Shoot Me : Youth Part 1">Shoot Me : Youth Part 1</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Remember_Us_:_Youth_Part_2" title="Remember Us : Youth Part 2">Remember Us : Youth Part 2</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Gravity" title="The Book of Us : Gravity">The Book of Us : Gravity</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_The_Demon" title="The Book of Us : The Demon">The Book of Us : The Demon</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Book_of_Us_:_Negentropy_-_Chaos_Swallowed_Up_in_Love" title="The Book of Us : Negentropy - Chaos Swallowed Up in Love">The Book of Us : Negentropy - Chaos Swallowed Up in Love</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fourever" title="Fourever">Fourever</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Band_Aid" title="Band Aid">Band Aid</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_January" title="Every DAY6 January">Every DAY6 January</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_February" title="Every DAY6 February">Every DAY6 February</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_March" title="Every DAY6 March">Every DAY6 March</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_April" title="Every DAY6 April">Every DAY6 April</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_May" title="Every DAY6 May">Every DAY6 May</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_July" title="Every DAY6 July">Every DAY6 July</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_August" title="Every DAY6 August">Every DAY6 August</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_September" title="Every DAY6 September">Every DAY6 September</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_October" title="Every DAY6 October">Every DAY6 October</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Every_DAY6_November" title="Every DAY6 November">Every DAY6 November</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Beautiful_Feeling" title="Beautiful Feeling">Beautiful Feeling</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Unlock</strong></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_Best_Day" title="The Best Day">The Best Day</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Best_Day2" title="The Best Day2">The Best Day2</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/If_%EF%BD%9EMata_Aetara%EF%BD%9E" title="If ～Mata Aetara～">If ～Mata Aetara～</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Stop_The_Rain" title="Stop The Rain">Stop The Rain</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Finale_(DAY6)" title="Finale (DAY6)">Finale</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/DAY6_(Even_of_Day)" title="DAY6 (Even of Day)">DAY6 (Even of Day)</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/JYP_Entertainment" title="JYP Entertainment">JYP Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Studio_J" title="Studio J">Studio J</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://day6.jype.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="http://day6japan.com/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/day6official" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://fans.jype.com/DAY6" rel="nofollow noreferrer noopener" target="_blank">JYP Fan's</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@day6_official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/DAY6Official" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/day6_japan" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCp-pqXsizklX3ZHvLxXyhxw" rel="nofollow noreferrer noopener" target="_blank">YouTube</a> <small>(<a class="external text" href="https://www.youtube.com/c/day6japanofficial" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312120216
+Cached time: 20250312230700
 Cache expiry: 1209600
 Reduced expiry: false
-Complications: [show‐toc]
-CPU time usage: 0.128 seconds
-Real time usage: 0.137 seconds
-Preprocessor visited node count: 6085/1000000
-Post‐expand include size: 126303/2097152 bytes
-Template argument size: 88793/2097152 bytes
+Complications: []
+CPU time usage: 0.117 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 4218/1000000
+Post‐expand include size: 94154/2097152 bytes
+Template argument size: 69054/2097152 bytes
 Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 9924/5000000 bytes
+Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-131.36%  147.114     10 Template:Navbox
-100.00%  111.996      1 -total
- 62.40%   69.887      1 Template:ITZY
- 60.64%   67.910      1 Template:Navbox_with_collapsible_groups
- 25.25%   28.277     15 Template:List
- 22.28%   24.955      1 Template:Infobox_single
- 20.39%   22.832     15 Template:Element_List
-  4.14%    4.642      1 Template:Reflist
-  2.59%    2.898      1 Template:Scroll_Box
-  2.20%    2.460      1 Template:Tnavbar
+116.66%  106.393      7 Template:Navbox
+100.00%   91.199      1 -total
+ 62.24%   56.761      1 Template:DAY6
+ 60.09%   54.798      1 Template:Navbox_with_collapsible_groups
+ 35.14%   32.051      1 Template:Infobox_album
+ 21.04%   19.185      9 Template:List
+ 18.66%   17.014     10 Template:Element_List
+  4.95%    4.512      1 Template:List2
+  2.74%    2.499      1 Template:Tnavbar
+  2.31%    2.110      1 Template:Stub
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:79861-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312120216 and revision id 596202. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:26106-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312230700 and revision id 821305. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2581,52 +2566,45 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
+<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="ITZY" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:ITZY" title="Category:ITZY">ITZY</a></span>
+<li class="category normal" data-name="2018 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2018_releases" title="Category:2018 releases">2018 releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
+<li class="category normal" data-name="2018 studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2018_studio_albums" title="Category:2018 studio albums">2018 studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_releases" title="Category:2021 releases">2021 releases</a></span>
+<li class="category normal" data-name="2018 Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2018_Japanese_releases" title="Category:2018 Japanese releases">2018 Japanese releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_digital_singles" title="Category:2021 digital singles">2021 digital singles</a></span>
+<li class="category normal" data-name="2018 Japanese studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2018_Japanese_studio_albums" title="Category:2018 Japanese studio albums">2018 Japanese studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="English releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:English_releases" title="Category:English releases">English releases</a></span>
+<li class="category normal" data-name="Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="English digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:English_digital_singles" title="Category:English digital singles">English digital singles</a></span>
+<li class="category normal" data-name="Japanese albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Japanese_albums" title="Category:Japanese albums">Japanese albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 English releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_English_releases" title="Category:2021 English releases">2021 English releases</a></span>
+<li class="category normal" data-name="Studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2021 English digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2021_English_digital_singles" title="Category:2021 English digital singles">2021 English digital singles</a></span>
+<li class="category normal" data-name="DAY6" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:DAY6" title="Category:DAY6">DAY6</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
-</div>
-</div>
-<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
-<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
-			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
-<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
-<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/Not_Shy_(English_Ver.)">Tagalog</a>
 </div>
 </div>
 <div class="license-description">
@@ -2807,7 +2785,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9Ob3RfU2h5XyhFbmdsaXNoX1Zlci4pP3RpdGxlPU5vdF9TaHlfJTI4RW5nbGlzaF9WZXIuJTI5Jm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9VbmxvY2tfKERBWTYpP3RpdGxlPVVubG9ja18lMjhEQVk2JTI5Jm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
 					View Mobile Site				</a>
 </div>
 </div>

@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>A Delicate Sense | Kpop Wiki | Fandom</title>
+<title>Lee Changsub | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-A_Delicate_Sense rootpage-A_Delicate_Sense skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lee_Changsub rootpage-Lee_Changsub skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,17 +2353,46 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Mini_albums" title="Category:Mini albums">Mini albums</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:FIESTAR" title="Category:FIESTAR">FIESTAR</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:February_births" title="Category:February births">February births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Citations_needed" title="Category:Citations needed">Citations needed</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">10 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2016_releases" title="Category:2016 releases">2016 releases</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2016_mini_albums" title="Category:2016 mini albums">2016 mini albums</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:BTOB" title="Category:BTOB">BTOB</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Male_songwriters" title="Category:Male songwriters">Male songwriters</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-8" href="/wiki/Category:2018_debuts" title="Category:2018 debuts">2018 debuts</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-9" href="/wiki/Category:Lee_Changsub" title="Category:Lee Changsub">Lee Changsub</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-10" href="/wiki/Category:BTOB-BLUE" title="Category:BTOB-BLUE">BTOB-BLUE</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-11" href="/wiki/Category:BTOB_4U" title="Category:BTOB 4U">BTOB 4U</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-12" href="/wiki/Category:Fantagio" title="Category:Fantagio">Fantagio</a> </li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/Lee_Changsub">Bahasa Indonesia</a>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2371,10 +2400,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">A Delicate Sense</span> </h1>
+<span class="mw-page-title-main">Lee Changsub</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2382,15 +2411,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/A_Delicate_Sense?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Lee_Changsub?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/A_Delicate_Sense?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Lee_Changsub?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:A_Delicate_Sense?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Lee_Changsub?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2400,103 +2429,412 @@
 </div>
 </div>
 <div class="page-content" id="content">
+
+<div itemprop="video" itemscope="" itemtype="http://schema.org/VideoObject">
+
+
+
+
+
+
+<div class="featured-video-player-container" id="featured-video__player-container"></div>
+</div>
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
+<aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Lee Changsub</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/4/42/FIESTAR_A_Delicate_Sense_cover.png/revision/latest?cb=20160309042537" title="FIESTAR A Delicate Sense cover">
-<img alt="FIESTAR A Delicate Sense cover" class="pi-image-thumbnail" data-image-key="FIESTAR_A_Delicate_Sense_cover.png" data-image-name="FIESTAR A Delicate Sense cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/4/42/FIESTAR_A_Delicate_Sense_cover.png/revision/latest/scale-to-width-down/268?cb=20160309042537" srcset="https://static.wikia.nocookie.net/kpop/images/4/42/FIESTAR_A_Delicate_Sense_cover.png/revision/latest/scale-to-width-down/268?cb=20160309042537 1x, https://static.wikia.nocookie.net/kpop/images/4/42/FIESTAR_A_Delicate_Sense_cover.png/revision/latest/scale-to-width-down/536?cb=20160309042537 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/7/78/Lee_Changsub_1991_concept_photo_3.png/revision/latest?cb=20240927151053" title="">
+<img alt="" class="pi-image-thumbnail" data-image-key="Lee_Changsub_1991_concept_photo_3.png" data-image-name="Lee Changsub 1991 concept photo 3.png" data-relevant="1" height="169" src="https://static.wikia.nocookie.net/kpop/images/7/78/Lee_Changsub_1991_concept_photo_3.png/revision/latest/scale-to-width-down/268?cb=20240927151053" srcset="https://static.wikia.nocookie.net/kpop/images/7/78/Lee_Changsub_1991_concept_photo_3.png/revision/latest/scale-to-width-down/268?cb=20240927151053 1x, https://static.wikia.nocookie.net/kpop/images/7/78/Lee_Changsub_1991_concept_photo_3.png/revision/latest/scale-to-width-down/536?cb=20240927151053 2x" width="270">
 </img></a>
+<figcaption class="pi-item-spacing pi-caption">Concept photo for <a href="/wiki/1991_(album)" title="1991 (album)">1991</a></figcaption>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">A Delicate Sense</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
-<h3 class="pi-data-label pi-secondary-font">Type</h3>
-<div class="pi-data-value pi-font">Mini</div>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
+<h3 class="pi-data-label pi-secondary-font">Birth name</h3>
+<div class="pi-data-value pi-font">Lee Chang-sub (이창섭)</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
-<h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/FIESTAR" title="FIESTAR">FIESTAR</a></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
+<h3 class="pi-data-label pi-secondary-font">Birth date</h3>
+<div class="pi-data-value pi-font">February 26, 1991<span style="display:none"> (<span class="bday">1991-02-26</span>)</span><span class="noprint"> (age 34)</span></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
-<h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">March 9, 2016</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
+<h3 class="pi-data-label pi-secondary-font">Birth place</h3>
+<div class="pi-data-value pi-font">Jeongja-dong, Jangan-gu, Suwon, Gyeonggi-do, South Korea</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
-<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">CD, download, streaming</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
+<h3 class="pi-data-label pi-secondary-font">Height</h3>
+<div class="pi-data-value pi-font">172.9 cm (5 ft 8.1 in)<sup class="reference" id="cite_ref-idpp_1-0"><a href="#cite_note-idpp-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
-<h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2016</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
+<h3 class="pi-data-label pi-secondary-font">Weight</h3>
+<div class="pi-data-value pi-font">70 kg (150 lb)<sup class="reference" id="cite_ref-idpp_1-1"><a href="#cite_note-idpp-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
-<h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">21:01</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
+<h3 class="pi-data-label pi-secondary-font">Blood type</h3>
+<div class="pi-data-value pi-font">O</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
-<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a class="mw-redirect" href="/wiki/LOEN_Tree" title="LOEN Tree">LOEN Tree</a></div>
+</section>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
+<h3 class="pi-data-label pi-secondary-font">Occupation</h3>
+<div class="pi-data-value pi-font">Singer, songwriter</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
-<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a class="mw-redirect" href="/wiki/LOEN_Entertainment" title="LOEN Entertainment">LOEN Entertainment</a></div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
+<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
+<div class="pi-data-value pi-font">March 21, 2012 <span style="font-size:85%;">(BTOB)</span><br/>September 19, 2016 <span style="font-size:85%;">(BTOB-BLUE)</span><br/>November 16, 2020 <span style="font-size:85%;">(BTOB 4U)</span></div>
 </div>
-<section class="pi-item pi-group pi-border-color">
-<table class="pi-horizontal-group">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
-<thead>
-<tr>
-<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="previous">Previous</th>
-<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="next">Next</th>
-</tr>
-</thead>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="solo_debut">
+<h3 class="pi-data-label pi-secondary-font">Solo debut</h3>
+<div class="pi-data-value pi-font">December 11, 2018</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
+<h3 class="pi-data-label pi-secondary-font">Years active</h3>
+<div class="pi-data-value pi-font">2012–present</div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
+<h3 class="pi-data-label pi-secondary-font">Agency</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Fantagio" title="Fantagio">Fantagio</a> <span style="font-size:85%;">(2023–present)</span><br/><a href="/wiki/Cube_Entertainment" title="Cube Entertainment">Cube Entertainment</a> <span style="font-size:85%;">(2012–2023)</span></div>
+</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
+<h3 class="pi-data-label pi-secondary-font">Associations</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/BTOB" title="BTOB">BTOB</a><br/><a href="/wiki/BTOB-BLUE" title="BTOB-BLUE">BTOB-BLUE</a><br/><a href="/wiki/BTOB_4U" title="BTOB 4U">BTOB 4U</a></div>
+</div>
+</section>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><i><a href="/wiki/Black_Label" title="Black Label">Black Label</a></i></td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Apple_Pie" title="Apple Pie">Apple Pie</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"><b>KR:</b>  <span typeof="mw:File"><a href="https://www.instagram.com/lee_cs_btob/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>  <span typeof="mw:File"><a href="https://www.tiktok.com/@leechangsub_official" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="TikTok_Icon.png" data-image-name="TikTok Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/8/88/TikTok_Icon.png/revision/latest?cb=20191007020349" width="20"/></a></span>  <span typeof="mw:File"><a href="https://twitter.com/LeeCS_Official" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="X_Icon.png" data-image-name="X Icon.png" data-relevant="1" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/20?cb=20230922164750" width="20"/></a></span> <sup>(Off.)</sup> <span typeof="mw:File"><a href="https://twitter.com/LeeCS_BTOB" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="X_Icon.png" data-image-name="X Icon.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c4/X_Icon.png/revision/latest/scale-to-width-down/20?cb=20230922164750" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> <sup>(Per.)</sup> <span typeof="mw:File"><a href="https://www.youtube.com/@offclLEECHANGSUB" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> <br/><b>CN:</b>  <span typeof="mw:File"><a href="https://www.weibo.com/leecsofficial" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element lazyload" data-image-key="Weibo_Icon.png" data-image-name="Weibo Icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/kpop/images/c/cc/Weibo_Icon.png/revision/latest?cb=20190807042546" decoding="async" height="20" loading="lazy" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="20"/></a></span> </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
+<tbody>
+<tr>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://btob-wiki.fandom.com/wiki/Changsub" title="w:c:btob-wiki:Changsub">BTOB Wiki</a></p></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>A Delicate Sense</b></i> is the second mini album by <a href="/wiki/FIESTAR" title="FIESTAR">FIESTAR</a>. It was released on March 9, 2016 with "Mirror" serving as the album's title track.
+<b>Lee Changsub</b> (이창섭; or simply <b>Changsub</b>) is a South Korean singer-songwriter under <a href="/wiki/Fantagio" title="Fantagio">Fantagio</a>. He is a member of the boy group <a href="/wiki/BTOB" title="BTOB">BTOB</a> and its sub-units <a href="/wiki/BTOB-BLUE" title="BTOB-BLUE">BTOB-BLUE</a> and <a href="/wiki/BTOB_4U" title="BTOB 4U">BTOB 4U</a>.
+</p><p>He made his solo debut on December 11, 2018 with the mini album <i><a href="/wiki/Mark_(Lee_Changsub)" title="Mark (Lee Changsub)">Mark</a></i>.
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"A Sip of Lips (입술 한 모금)" - 3:19</li>
-<li>"Mirror" - 3:36</li>
-<li>"Mr. Black" - 3:04</li>
-<li>"Thirst (갈증)" - 3:35</li>
-<li>"Come and Go (왔다 갔다)" - 3:51</li>
-<li>"Mirror" (Inst.) - 3:36</li></ol>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FA_Delicate_Sense%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=xKMT44GBaUI" rel="nofollow noreferrer noopener" target="_blank">"Mirror" music video</a>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=ehzDSZp3Mro" rel="nofollow noreferrer noopener" target="_blank">Teaser</a></li></ul></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/A_Delicate_Sense?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#2012:_Debut_with_BTOB"><span class="tocnumber">1.1</span> <span class="toctext">2012: Debut with BTOB</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#2023:_New_agency"><span class="tocnumber">1.2</span> <span class="toctext">2023: New agency</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href='#2024:_"As_Always",_"1991",_1991'><span class="tocnumber">1.3</span> <span class="toctext">2024: "As Always", "1991", <i>1991</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href='#2025:_"Feel_The_Groove"'><span class="tocnumber">1.4</span> <span class="toctext">2025: "Feel The Groove"</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Personal_life"><span class="tocnumber">2</span> <span class="toctext">Personal life</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Military_service"><span class="tocnumber">2.1</span> <span class="toctext">Military service</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Discography"><span class="tocnumber">3</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Korean"><span class="tocnumber">3.1</span> <span class="toctext">Korean</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Studio_albums"><span class="tocnumber">3.1.1</span> <span class="toctext">Studio albums</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Mini_albums"><span class="tocnumber">3.1.2</span> <span class="toctext">Mini albums</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Digital_singles"><span class="tocnumber">3.1.3</span> <span class="toctext">Digital singles</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Special_singles"><span class="tocnumber">3.1.4</span> <span class="toctext">Special singles</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Collaborations"><span class="tocnumber">3.1.5</span> <span class="toctext">Collaborations</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#OSTs"><span class="tocnumber">3.1.6</span> <span class="toctext">OSTs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Japanese"><span class="tocnumber">3.2</span> <span class="toctext">Japanese</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Singles"><span class="tocnumber">3.2.1</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Producing_and_writing_credits"><span class="tocnumber">4</span> <span class="toctext">Producing and writing credits</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Musical_theatre"><span class="tocnumber">5</span> <span class="toctext">Musical theatre</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Filmography"><span class="tocnumber">6</span> <span class="toctext">Filmography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Survival_shows"><span class="tocnumber">6.1</span> <span class="toctext">Survival shows</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Variety_shows"><span class="tocnumber">6.2</span> <span class="toctext">Variety shows</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Trivia"><span class="tocnumber">7</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Gallery"><span class="tocnumber">8</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#Official_links"><span class="tocnumber">10</span> <span class="toctext">Official links</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="2012:_Debut_with_BTOB">2012: Debut with BTOB</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lee Chang Sub debuted as a member of BTOB under Cube Entertainment with their first single "<a href="/wiki/Insane_(BTOB)" title="Insane (BTOB)">Insane</a>" on March 21, 2012.
+</p>
+<h3><span class="mw-headline" id="2023:_New_agency">2023: New agency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On November 6, 2023, Cube announced that BTOB's exclusive contracts expired and they decided not to renew.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
+</p><p>On November 22, Fantagio announced that they have signed an exclusive contract with Lee Chang Sub.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span id="2024:_.22As_Always.22.2C_.221991.22.2C_1991"></span><span class="mw-headline" id='2024:_"As_Always",_"1991",_1991'>2024: "As Always", "1991", <i>1991</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On February 5, 2024, it was reported that Lee Changsub will be making his comeback in April.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> On April 25, he announced the digital single "<span class="new" data-uncrawlable-url="L3dpa2kvQXNfQWx3YXlzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="As Always (page does not exist)">As Always</span>", set to be released on April 30.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><p>On August 24, Lee Changsub announced that he will be releasing "<a href="/wiki/1991_(single)" title="1991 (single)">1991</a>" on September 2.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup> It acts as the pre-release for his upcoming full-length album <i><a href="/wiki/1991_(album)" title="1991 (album)">1991</a></i>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+<h3><span id="2025:_.22Feel_The_Groove.22"></span><span class="mw-headline" id='2025:_"Feel_The_Groove"'>2025: "Feel The Groove"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On February 12, 2025, Lee Changsub announced the digital single,  "<a href="/wiki/Feel_The_Groove" title="Feel The Groove">Feel The Groove</a>", scheduled for February 14.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Military_service">Military service</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He enlisted in the military on January 14, 2019 and was discharged on August 21, 2020.<sup><i>[citation needed]</i></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Korean">Korean</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="col-break">
+<tbody><tr>
+<td style="width:50%;" valign="top">
+<h4><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i><a href="/wiki/1991_(album)" title="1991 (album)">1991</a></i> (2024)</li></ul>
+<h4><span class="mw-headline" id="Mini_albums">Mini albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i><a href="/wiki/Mark_(Lee_Changsub)" title="Mark (Lee Changsub)">Mark</a></i> (2018)</li></ul>
+<h4><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"<a href="/wiki/Piece_of_BTOB_Vol.1" title="Piece of BTOB Vol.1">Piece of BTOB Vol.1</a>" (2017)</li>
+<li>"<span class="new" data-uncrawlable-url="L3dpa2kvSV9HdWVzc19JX0xvdmVkX1lvdT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="I Guess I Loved You (page does not exist)">I Guess I Loved You</span>" (2023)</li>
+<li>"<span class="new" data-uncrawlable-url="L3dpa2kvQXNfQWx3YXlzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="As Always (page does not exist)">As Always</span>" (2024)</li>
+<li>"<a href="/wiki/1991_(single)" title="1991 (single)">1991</a>" (2024)</li>
+<li>"<a href="/wiki/Feel_The_Groove" title="Feel The Groove">Feel The Groove</a>" (2025)</li>
+<li>"<span class="new" data-uncrawlable-url="L3dpa2kvQ293YXJkP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Coward (page does not exist)">Coward</span>" (2025)</li></ul>
+<h4><span class="mw-headline" id="Special_singles">Special singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D13&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"<a href="/wiki/Reissue_001_%27Surrender%27" title="Reissue 001 'Surrender'">Reissue #001 'Surrender'</a>" (2022)</li></ul>
+<h4><span class="mw-headline" id="Collaborations">Collaborations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D14&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"<a href="/wiki/2021_Now_N_New" title="2021 Now N New">2021 Now N New</a>" <span style="font-size:85%;">(with Various Artists as part of Hope TV SBS 2021)</span> (2021)</li>
+<li>"<a href="/wiki/Boom_(Huta)" title="Boom (Huta)">Is It Love?</a>" <span style="font-size:85%;">(with <a href="/wiki/Lee_Minhyuk" title="Lee Minhyuk">Huta</a>)</span> (2022)</li></ul>
+</td>
+<td style="width:50%;" valign="top">
+<h4><span class="mw-headline" id="OSTs">OSTs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D15&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"2012 Road For Hope Part.1" <span style="font-size:85%;">(with <a href="/wiki/Yang_Yoseop" title="Yang Yoseop">Yang Yoseop</a>, <a href="/wiki/Heo_Gayoon" title="Heo Gayoon">Heo Gayoon</a>, <a href="/wiki/G.NA" title="G.NA">G.NA</a>)</span> (2012)</li>
+<li>"After the Play Ends" <span style="font-size:85%;">(with <a href="/wiki/Elkie" title="Elkie">Elkie</a>)</span> (2016)</li>
+<li>"<a href="/wiki/A_Poem_A_Day_OST" title="A Poem A Day OST">A Poem A Day OST Part 5</a>" (2018)</li>
+<li>"<a href="/wiki/Joseon_Attorney_OST" title="Joseon Attorney OST">Joseon Attorney OST Part.1</a>" <span style="font-size:85%;">("Run Away")</span> (2023)</li>
+<li>"<a class="extiw" href="https://kindie.fandom.com/wiki/Beginning_is_the_First_Kiss_OST" title="w:c:kindie:Beginning is the First Kiss OST">Beginning is the First Kiss OST Part.7</a>" <span style="font-size:85%;">("Love from a Real Heart (2023)")</span> (2023)</li>
+<li>"A Not So Fairy Tale OST" <span style="font-size:85%;">("Heavenly Fate")</span> (2024)</li>
+<li>"<a href="/wiki/Dare_to_Love_Me_OST" title="Dare to Love Me OST">Dare to Love Me OST Part.1</a>" <span style="font-size:85%;">("It's Alright")</span> (2024)</li>
+<li>"True Love (Secret Relationships X Lee Changsub)" <span style="font-size:85%;">("True Love")</span> (2024)</li></ul>
+<p>
+</p>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Japanese">Japanese</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D16&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D17&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"<span class="new" data-uncrawlable-url="L3dpa2kvQnBtODIuNT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Bpm82.5 (page does not exist)">Bpm82.5</span>" (2017)</li></ul>
+<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D18&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup></li></ul>
+<table class="wikitable style=" width="auto">
+<tbody><tr>
+<th align="center">Artist
+</th>
+<th align="center">Song
+</th>
+<th align="center">Album
+</th>
+<th align="center">Type
+</th></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2014
+</th></tr>
+<tr>
+<td><a href="/wiki/BTOB" title="BTOB">BTOB</a>
+</td>
+<td>"Endless (Melody)"
+</td>
+<td><i><a href="/wiki/Beep_Beep_(BTOB)" title="Beep Beep (BTOB)">Beep Beep</a></i>
+</td>
+<td>Writing<br/>Composing
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2015
+</th></tr>
+<tr>
+<td><a href="/wiki/BTOB" title="BTOB">BTOB</a>
+</td>
+<td>"Last Day"
+</td>
+<td><i><a href="/wiki/I_Mean" title="I Mean">I Mean</a></i>
+</td>
+<td>Writing
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2016
+</th></tr>
+<tr>
+<td rowspan="2"><a href="/wiki/BTOB" title="BTOB">BTOB</a>
+</td>
+<td>"Killing Me"
+</td>
+<td><i><a href="/wiki/Remember_That" title="Remember That">Remember That</a></i>
+</td>
+<td rowspan="2">Writing
+</td></tr>
+<tr>
+<td>"Melody Song"
+</td>
+<td><i><a href="/wiki/New_Men" title="New Men">New Men</a></i>
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2017
+</th></tr>
+<tr>
+<td><b>Himself</b>
+</td>
+<td>"At The End"
+</td>
+<td>"<a href="/wiki/Piece_of_BTOB_Vol.1" title="Piece of BTOB Vol.1">Piece of BTOB Vol.1</a>"
+</td>
+<td>Writing<br/>Composing
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2018
+</th></tr>
+<tr>
+<td rowspan="5"><b>Himself</b>
+</td>
+<td>"Way"
+</td>
+<td rowspan="5"><i><a href="/wiki/Mark_(Lee_Changsub)" title="Mark (Lee Changsub)">Mark</a></i>
+</td>
+<td rowspan="2">Writing<br/>Composing
+</td></tr>
+<tr>
+<td>"Miss You"
+</td></tr>
+<tr>
+<td>"Shelter"
+</td>
+<td>Writing
+</td></tr>
+<tr>
+<td>"Ever"
+</td>
+<td>Writing<br/>Composing
+</td></tr>
+<tr>
+<td>"Gone"
+</td>
+<td>Writing
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Musical_theatre">Musical theatre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D19&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Mata Hari</i> (2022)</li></ul>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D20&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Survival_shows">Survival shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D21&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Universe_League" title="Universe League">Universe League</a></i> (SBS, 2024) - mentor<sup class="reference" id="cite_ref-10"><a href="#cite_note-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup></li></ul>
+<h3><span class="mw-headline" id="Variety_shows">Variety shows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D22&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>When I Open My Eyes</i> (ENA, 2024) - MC<sup class="reference" id="cite_ref-11"><a href="#cite_note-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup></li>
+<li><i>Jeongwaja</i> (YouTube, 2022–2025) - host</li></ul>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D23&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>His MBTI personality type is ISTJ.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup></li>
+<li>He started playing <a class="extiw" href="https://en.wikipedia.org/wiki/en:League_of_Legends" title="wikipedia:en:League of Legends">League of Legends</a> while he was in the military.<sup class="reference" id="cite_ref-idpp_1-2"><a href="#cite_note-idpp-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></li>
+<li>He was born on the exact same day as <a href="/wiki/CL" title="CL">CL</a>.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D24&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>Main article: <a href="/wiki/Lee_Changsub/Gallery" title="Lee Changsub/Gallery">Lee Changsub/Gallery</a></i></dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D25&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
+<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-idpp-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-idpp_1-0">1.0</a></sup> <sup><a href="#cite_ref-idpp_1-1">1.1</a></sup> <sup><a href="#cite_ref-idpp_1-2">1.2</a></sup></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=4z2-KAj3S0Q" rel="nofollow noreferrer noopener" target="_blank">YouTube: 돌아이돌 비투비 때문에 아이돌등판 편집하다 수명이 줄었어요…남은 삶 가불함 | BTOB | 노래 | The Song | IDDP | 서은광 이민혁 이창섭 임현식 프니엘 육성재</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1624455wpp/btob-parts-ways-with-cube-entertainment-after-11-years" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTOB Parts Ways With Cube Entertainment After 11 Years</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1628013wpp/btobs-changsub-signs-with-fantagio-says-he-will-prioritize-group-activities" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTOB’s Changsub Signs With Fantagio; Says He Will Prioritize Group Activities</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://entertain.naver.com/now/read?oid=421&amp;aid=0007335843" rel="nofollow noreferrer noopener" target="_blank">(KR) News1: [단독] 이창섭, 올해 열일 예고…4월 솔로 컴백</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/LeeCS_Official/status/1783366829747888314" rel="nofollow noreferrer noopener" target="_blank">@LeeCS_Official on Twitter (April 25, 2024)</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://twitter.com/LeeCS_Official/status/1827215761569681713" rel="nofollow noreferrer noopener" target="_blank">@LeeCS_Official on Twitter (August 24, 2024)</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external text" href="https://m.entertain.naver.com/article/109/0005142694" rel="nofollow noreferrer noopener" target="_blank">(KR) Osen: 이창섭, 데뷔 첫 솔로 정규 ‘1991’ 발매..깜짝 선공개곡 예고 [공식]</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external text" href="https://x.com/LeeCS_Official/status/1889642563499360541" rel="nofollow noreferrer noopener" target="_blank">@LeeCS_Official on X (February 12, 2025)</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10006682 under Writers &amp; Publishers)</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1681667wpp/watch-btobs-changsub-announced-as-1st-mentor-for-new-idol-audition-program-universe-league" rel="nofollow noreferrer noopener" target="_blank">Soompi: Watch: BTOB's Changsub Announced As 1st Mentor For New Idol Audition Program “Universe League”</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1649416wpp/btobs-changsub-and-jo-se-ho-confirmed-as-mcs-for-new-variety-show" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTOB’s Changsub And Jo Se Ho Confirmed As MCs For New Variety Show</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.allkpop.com/article/2020/03/k-pop-idols-who-have-revealed-their-mbti" rel="nofollow noreferrer noopener" target="_blank">Allkpop: K-Pop idols who have revealed their MBTI</a></span>
+</li>
+</ol></div></div>
+</div>
+<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLee_Changsub%3Fveaction%3Dedit%26section%3D26&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="col-break">
+<tbody><tr>
+<td style="width:50%;" valign="top">
+<dl><dt>Korean</dt></dl>
+<ul><li><a class="external text" href="https://www.instagram.com/lee_cs_btob/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></li>
+<li><a class="external text" href="https://www.tiktok.com/@leechangsub_official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></li>
+<li>Twitter
+<ul><li><a class="external text" href="https://twitter.com/LeeCS_Official" rel="nofollow noreferrer noopener" target="_blank">Official</a></li>
+<li><a class="external text" href="https://twitter.com/LeeCS_BTOB" rel="nofollow noreferrer noopener" target="_blank">Personal</a></li></ul></li>
+<li><a class="external text" href="https://www.youtube.com/@offclLEECHANGSUB" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></li></ul>
+</td>
+<td style="width:50%;" valign="top">
+<dl><dt>Chinese</dt></dl>
+<ul><li><a class="external text" href="https://weibo.com/leecsofficial" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></li></ul>
+<p>
+</p>
+</td></tr></tbody></table>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Lee_Changsub?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#42B4E6; color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:BTOB" title="Template:BTOB"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BTOB?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/BTOB" title="BTOB">BTOB</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Seo_Eunkwang" title="Seo Eunkwang">Eunkwang</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Minhyuk" title="Lee Minhyuk">Minhyuk</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Changsub</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lim_Hyunsik" title="Lim Hyunsik">Hyunsik</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Peniel" title="Peniel">Peniel</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yook_Sungjae" title="Yook Sungjae">Sungjae</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Jung_Ilhoon" title="Jung Ilhoon">Ilhoon</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:125px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Complete" title="Complete">Complete</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Brother_Act." title="Brother Act.">Brother Act.</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Be_Together" title="Be Together">Be Together</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Compilation albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Piece_of_BTOB_(album)" title="Piece of BTOB (album)">Piece of BTOB</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/BToday" title="BToday">BToday</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Born_to_Beat" title="Born to Beat">Born to Beat</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Born_to_Beat_(Asia_Special_Edition)" title="Born to Beat (Asia Special Edition)">Asia Special Edition</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Press_Play_(BTOB)" title="Press Play (BTOB)">Press Play</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Thriller" title="Thriller">Thriller</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Beep_Beep_(BTOB)" title="Beep Beep (BTOB)">Beep Beep</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Move_(BTOB)" title="Move (BTOB)">Move</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Winter%27s_Tale" title="The Winter's Tale">The Winter's Tale</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/I_Mean" title="I Mean">I Mean</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Remember_That" title="Remember That">Remember That</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/New_Men" title="New Men">New Men</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Feel%27eM" title="Feel'eM">Feel'eM</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/This_Is_Us" title="This Is Us">This Is Us</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Wind_and_Wish" title="Wind and Wish">Wind and Wish</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Special albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Hour_Moment" title="Hour Moment">Hour Moment</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/4U_:_Outside" title="4U : Outside">4U : Outside</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Insane_(BTOB)" title="Insane (BTOB)">Insane</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Father_(BTOB)" title="Father (BTOB)">Father</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Second_Confession" title="Second Confession">Second Confession</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Let%27s_Go_(BTOB)" title="Let's Go (BTOB)">Let's Go</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Someday_(BTOB)" title="Someday (BTOB)">Someday</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Feeling" title="The Feeling">The Feeling</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Friend_(BTOB)" title="Friend (BTOB)">Friend</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sorry_(BTOB)" title="Sorry (BTOB)">Sorry</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Blue_Moon_(Cinema_Ver.)" title="Blue Moon (Cinema Ver.)">Blue Moon (Cinema Ver.)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Please_Stay" title="Please Stay">Please Stay</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Be_Alright_(BTOB)" title="Be Alright (BTOB)">Be Alright</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Hi_Beautiful" title="Hi Beautiful">Hi Beautiful</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Collaboration singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvTG92ZV9WaXJ1cz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Love Virus (page does not exist)">Love Virus</span>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Christmas_Song_(Cube_Artists)" title="Christmas Song (Cube Artists)">Christmas Song</a>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvMjAxNl9Vbml0ZWRfQ3ViZV9Qcm9qZWN0X1BhcnRfMT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="2016 United Cube Project Part 1 (page does not exist)">2016 United Cube Project Part 1</span>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/One_(United_Cube)" title="One (United Cube)">One</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">OSTs</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvTWFuX2luX0xvdmVfT1NUP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Man in Love OST (page does not exist)">Man in Love OST Part.4</span>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvTW9uc3Rhcl9PU1Q/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Monstar OST (page does not exist)">Monstar OST Part.1</span>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvTW9uc3Rhcl9PU1Q/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Monstar OST (page does not exist)">Monstar OST Part.2</span>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvTW9uc3Rhcl9PU1Q/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Monstar OST (page does not exist)">Monstar OST Part.7</span>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sweet,_Savage_Family_OST" title="Sweet, Savage Family OST">Sweet, Savage Family OST Part 1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Telemonster_OST" title="Telemonster OST">Telemonster OST</a>"</span>  •  <span style="white-space:nowrap">"<a class="mw-redirect" href="/wiki/Cinderella_and_the_Four_Knights_OST" title="Cinderella and the Four Knights OST">Cinderella and the Four Knights OST Part.1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Miracle_OST" title="The Miracle OST">The Miracle OST Part.3</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:125px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/24/7_(BTOB)" title="24/7 (BTOB)">24/7</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/BTOB_Japan_Best_Album_2014-2017_%EF%BD%9E1096_Days%EF%BD%9E" title="BTOB Japan Best Album 2014-2017 ～1096 Days～">BTOB Japan Best Album 2014-2017 ～1096 Days～</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Special mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Outsider_(BTOB)" title="Outsider (BTOB)">Outsider</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:125px;;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Wow_(BTOB)" title="Wow (BTOB)">Wow</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mirai_(Ashita)" title="Mirai (Ashita)">Mirai (Ashita)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Natsuiro_My_Girl" title="Natsuiro My Girl">Natsuiro My Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dear_Bride" title="Dear Bride">Dear Bride</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/L.U.V" title="L.U.V">L.U.V</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Movie_-JPN_Ver.-" title="Movie -JPN Ver.-">Movie -JPN Ver.-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Brand_New_Days_~Donna_Mirai_wo~" title="Brand New Days ~Donna Mirai wo~">Brand New Days ~Donna Mirai wo~</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BTOB-BLUE" title="BTOB-BLUE">BTOB-BLUE</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB_4U" title="BTOB 4U">BTOB 4U</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/90TAN" title="90TAN">90TAN</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB_COMPANY" title="BTOB COMPANY">BTOB COMPANY</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.btobofficial.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> (<a class="external text" href="http://btobofficial.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/cube-btob" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BTOBofficial" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://united-cube.com/club/69u5jLGtTCyO8RPgtin7lg/feed/hPmZLNxMTcCi5rv9Yot1UQ#" rel="nofollow noreferrer noopener" target="_blank">Fanpage</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official_btob/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official_btob" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/OFFICIALBTOB" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/btobofficial_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/cubebtob" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/btob/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/officialbtob" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#E1DCD8; color:#000;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#E1DCD8; color:#000;;border:none;;"><a href="/wiki/Template:BTOB-BLUE" title="Template:BTOB-BLUE"><span style=";background:#E1DCD8; color:#000;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BTOB-BLUE?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#E1DCD8; color:#000;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/BTOB-BLUE" title="BTOB-BLUE">BTOB-BLUE</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Seo_Eunkwang" title="Seo Eunkwang">Eunkwang</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Changsub</strong></span>  •  <span style="white-space:nowrap"><a class="mw-redirect" href="/wiki/Im_Hyunsik" title="Im Hyunsik">Hyunsik</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yook_Sungjae" title="Yook Sungjae">Sungjae</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Stand_By_Me_(BTOB-BLUE)" title="Stand By Me (BTOB-BLUE)">Stand By Me</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/When_It_Rains_(BTOB-BLUE)" title="When It Rains (BTOB-BLUE)">When It Rains</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BTOB" title="BTOB">BTOB</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB_4U" title="BTOB 4U">BTOB 4U</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/90TAN" title="90TAN">90TAN</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB_COMPANY" title="BTOB COMPANY">BTOB COMPANY</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links<br/><small>(BTOB)</small></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.btobofficial.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> (<a class="external text" href="http://btobofficial.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/cube-btob" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BTOBofficial" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://united-cube.com/club/69u5jLGtTCyO8RPgtin7lg/feed/hPmZLNxMTcCi5rv9Yot1UQ#" rel="nofollow noreferrer noopener" target="_blank">Fanpage</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official_btob/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official_btob" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/OFFICIALBTOB" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> (<a class="external text" href="https://twitter.com/btobofficial_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.vlive.tv/channel/FD737" rel="nofollow noreferrer noopener" target="_blank">V Live</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/cubebtob" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/btob/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/officialbtob" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#063A4B; color:#CEB686;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#063A4B; color:#CEB686;;border:none;;"><a href="/wiki/Template:BTOB_4U" title="Template:BTOB 4U"><span style=";background:#063A4B; color:#CEB686;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:BTOB_4U?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#063A4B; color:#CEB686;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/BTOB_4U" title="BTOB 4U">BTOB 4U</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Seo_Eunkwang" title="Seo Eunkwang">Eunkwang</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Minhyuk" title="Lee Minhyuk">Minhyuk</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Changsub</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Peniel" title="Peniel">Peniel</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Inside_(BTOB_4U)" title="Inside (BTOB 4U)">Inside</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BTOB" title="BTOB">BTOB</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB-BLUE" title="BTOB-BLUE">BTOB-BLUE</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/90TAN" title="90TAN">90TAN</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTOB_COMPANY" title="BTOB COMPANY">BTOB COMPANY</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links<br/><small>(BTOB)</small></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.btobofficial.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> (<a class="external text" href="http://btobofficial.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="http://cafe.daum.net/cube-btob" rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/BTOBofficial" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://united-cube.com/club/69u5jLGtTCyO8RPgtin7lg/feed/hPmZLNxMTcCi5rv9Yot1UQ#" rel="nofollow noreferrer noopener" target="_blank">Fanpage</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/official_btob/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@official_btob" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/OFFICIALBTOB" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> (<a class="external text" href="https://twitter.com/btobofficial_jp" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.vlive.tv/channel/FD737" rel="nofollow noreferrer noopener" target="_blank">V Live</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/cubebtob" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/btob/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/officialbtob" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:linear-gradient(to right, #A8C7FA, #9419A7, #EE7F00); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:Fantagio" title="Template:Fantagio"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Fantagio?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/Fantagio" title="Fantagio">Fantagio</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Current</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/ASTRO" title="ASTRO">ASTRO</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/LUN8" title="LUN8">LUN8</a> <span style="font-size:85%;">(<a href="/wiki/LUN8wave" title="LUN8wave">LUN8wave</a>)</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Soloists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/MJ" title="MJ">MJ</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Cha_Eun_Woo" title="Cha Eun Woo">Cha Eun Woo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoon_San_Ha" title="Yoon San Ha">Yoon San Ha</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Ong_Seong_Wu" title="Ong Seong Wu">Ong Seong Wu</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoojung_(Weki_Meki)" title="Yoojung (Weki Meki)">Choi Yoojung</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">Lee Changsub</strong></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Actors</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SURPRISE_U" title="SURPRISE U">SURPRISE U</a> <span style="font-size:85%;">(<span class="new" data-uncrawlable-url="L3dpa2kvS2ltX0h5dW5fU2VvP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Kim Hyun Seo (page does not exist)">Kim Hyun Seo</span>, <span class="new" data-uncrawlable-url="L3dpa2kvWW9vbl9KZW9uZ19IeXVrP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Yoon Jeong Hyuk (page does not exist)">Yoon Jeong Hyuk</span>, <span class="new" data-uncrawlable-url="L3dpa2kvRXVuX0hhZV9TZW9uZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="Eun Hae Seong (page does not exist)">Eun Hae Seong</span>, <span class="new" data-uncrawlable-url="L3dpa2kvSmlfR2Vvbl9Xb28/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Ji Geon Woo (page does not exist)">Ji Geon Woo</span>)</span></span>  •  <span style="white-space:nowrap">Baek Yoon-sik</span>  •  <span style="white-space:nowrap"><a href="/wiki/Cha_Eun_Woo" title="Cha Eun Woo">Cha Eun Woo</a></span>  •  <span style="white-space:nowrap">Choi Jun-young</span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoojung_(Weki_Meki)" title="Yoojung (Weki Meki)">Choi Yoojung</a></span>  •  <span style="white-space:nowrap">Choi Yun-la</span>  •  <span style="white-space:nowrap"><a href="/wiki/Chu_Yejin" title="Chu Yejin">Chu Yejin</a></span>  •  <span style="white-space:nowrap">Han Gi-chan</span>  •  <span style="white-space:nowrap">Jin Su-hyun</span>  •  <span style="white-space:nowrap">Joe In</span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Min_Gyu" title="Jung Min Gyu">Jung Min Gyu</a></span>  •  <span style="white-space:nowrap">Kang Hae-lim</span>  •  <span style="white-space:nowrap">Kim Do-gyung</span>  •  <span style="white-space:nowrap"><a href="/wiki/Doyeon_(Weki_Meki)" title="Doyeon (Weki Meki)">Kim Doyeon</a></span>  •  <span style="white-space:nowrap">Kim Mi-hwa</span>  •  <span style="white-space:nowrap">Kim Nu-rim</span>  •  <span style="white-space:nowrap">Lee Jong-uk</span>  •  <span style="white-space:nowrap">Lim Hyun-sang</span>  •  <span style="white-space:nowrap">Moon Yoo-bin</span>  •  <span style="white-space:nowrap"><a href="/wiki/Ong_Seong_Wu" title="Ong Seong Wu">Ong Seong Wu</a></span>  •  <span style="white-space:nowrap">Park Ye-rin</span>  •  <span style="white-space:nowrap"><a href="/wiki/Jung_Min_Gyu" title="Jung Min Gyu">Jung Min Gyu</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/JinJin_%26_Rocky" title="JinJin &amp; Rocky">JinJin &amp; Rocky</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Moonbin_%26_Sanha" title="Moonbin &amp; Sanha">Moonbin &amp; Sanha</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Weki_Meki" title="Weki Meki">Weki Meki</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Artists</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Rocky" title="Rocky">Rocky</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Moon_Bin" title="Moon Bin">Moon Bin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Elly_(Weki_Meki)" title="Elly (Weki Meki)">Elly</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Sei_(Weki_Meki)" title="Sei (Weki Meki)">Sei</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lua_(Weki_Meki)" title="Lua (Weki Meki)">Lua</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Rina_(Weki_Meki)" title="Rina (Weki Meki)">Rina</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lucy_(Weki_Meki)" title="Lucy (Weki Meki)">Lucy</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Suyeon_(Weki_Meki)" title="Suyeon (Weki Meki)">Suyeon</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Former<br/><span style="font-size:85%;">(<a href="/wiki/Fantagio_Music" title="Fantagio Music">Fantagio Music</a>)</span></td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:90px;;">Groups</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/HELLOVENUS" title="HELLOVENUS">HELLOVENUS</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/5URPRISE" title="5URPRISE">5URPRISE</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Project groups</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/WJMK" title="WJMK">WJMK</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:90px;;">Artists</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Cha_In_Ha" title="Cha In Ha">Cha In Ha</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Seo_Young" title="Lee Seo Young">Lee Seo Young</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chae_Joo_Hwa" title="Chae Joo Hwa">Chae Joo Hwa</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lee_Hwa_Kyum" title="Lee Hwa Kyum">Lee Hwa Kyum</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yoo_Na_Gyul" title="Yoo Na Gyul">Yoo Na Gyul</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Projects</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/I-Teen" title="I-Teen">i-Teen</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/FM201.8" title="FM201.8">FM201.8</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://www.fantagio.kr/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://www.facebook.com/fantagio/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/fantagio_official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://tv.naver.com/fantagiomusic" rel="nofollow noreferrer noopener" target="_blank">Naver TV</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://twitter.com/fantagiogroup/" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/fantagio" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="http://www.youtube.com/user/officialfantagio/" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315221641
-Cache expiry: 1209600
-Reduced expiry: false
-Complications: []
-CPU time usage: 0.029 seconds
-Real time usage: 0.034 seconds
-Preprocessor visited node count: 103/1000000
-Post‐expand include size: 411/2097152 bytes
-Template argument size: 39/2097152 bytes
-Highest expansion depth: 5/100
+Cached time: 20250312105533
+Cache expiry: 1688671
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.260 seconds
+Real time usage: 0.308 seconds
+Preprocessor visited node count: 13280/1000000
+Post‐expand include size: 260512/2097152 bytes
+Template argument size: 173825/2097152 bytes
+Highest expansion depth: 24/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28/5000000 bytes
+Unstrip post‐expand size: 6984/5000000 bytes
+Lua time usage: 0.012/7.000 seconds
+Lua memory usage: 1727252/52428800 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   26.693      1 -total
- 89.35%   23.849      1 Template:Infobox_album
-  9.70%    2.589      1 Template:Stub
+100.00%  235.737      1 -total
+ 86.02%  202.786     15 Template:Navbox
+ 48.17%  113.566      1 Template:Infobox_person
+ 26.23%   61.825      1 Template:BTOB
+ 25.50%   60.122      1 Template:Navbox_with_collapsible_groups
+ 16.46%   38.797      2 Template:Cvt
+ 14.39%   33.934     33 Template:List
+ 12.77%   30.112      1 Template:Related_Wikis
+ 12.28%   28.947     34 Template:Element_List
+  9.11%   21.481      1 Template:Fantagio
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:4654-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315221641 and revision id 353710. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:11168-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312105533 and revision id 1185939. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2508,29 +2846,68 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
+<li class="category normal" data-name="1991 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:1991_births" title="Category:1991 births">1991 births</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Mini albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Mini_albums" title="Category:Mini albums">Mini albums</a></span>
+<li class="category normal" data-name="February births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:February_births" title="Category:February births">February births</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="FIESTAR" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:FIESTAR" title="Category:FIESTAR">FIESTAR</a></span>
+<li class="category normal" data-name="Citations needed" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Citations_needed" title="Category:Citations needed">Citations needed</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2016 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2016_releases" title="Category:2016 releases">2016 releases</a></span>
+<li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="2016 mini albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2016_mini_albums" title="Category:2016 mini albums">2016 mini albums</a></span>
+<li class="category normal" data-name="BTOB" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:BTOB" title="Category:BTOB">BTOB</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Male singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Male songwriters" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Male_songwriters" title="Category:Male songwriters">Male songwriters</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Male soloists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2018 debuts" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2018_debuts" title="Category:2018 debuts">2018 debuts</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Lee Changsub" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Lee_Changsub" title="Category:Lee Changsub">Lee Changsub</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="BTOB-BLUE" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:BTOB-BLUE" title="Category:BTOB-BLUE">BTOB-BLUE</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="BTOB 4U" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:BTOB_4U" title="Category:BTOB 4U">BTOB 4U</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Fantagio" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Fantagio" title="Category:Fantagio">Fantagio</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/Lee_Changsub">Bahasa Indonesia</a>
 </div>
 </div>
 <div class="license-description">
@@ -2711,7 +3088,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9BX0RlbGljYXRlX1NlbnNlP3RpdGxlPUFfRGVsaWNhdGVfU2Vuc2UmbW9iaWxlYWN0aW9uPXRvZ2dsZV92aWV3X21vYmlsZQ==">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9MZWVfQ2hhbmdzdWI/dGl0bGU9TGVlX0NoYW5nc3ViJm1vYmlsZWFjdGlvbj10b2dnbGVfdmlld19tb2JpbGU=">
 					View Mobile Site				</a>
 </div>
 </div>

@@ -11,7 +11,7 @@ from urllib.parse import urljoin, urlparse, urldefrag
 START_URL = "https://kpop.fandom.com/wiki/BTS"
 INDEX_FILE = "index.txt"
 OUTPUT_FOLDER = "downloaded_pages"
-MAX_PAGES = 100
+MAX_PAGES = 200
 CONCURRENT_REQUESTS = 10
 
 # Создаем папку для скачанных страниц
@@ -60,12 +60,13 @@ def extract_links(base_url: str, html: str) -> set:
         clean_link = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
 
         # Проверяем, не является ли ссылка файлом
-        if any(clean_link.lower().endswith(ext) for ext in excluded_extensions) or "file" in clean_link.lower():
+        if (any(clean_link.lower().endswith(ext) for ext in excluded_extensions) or "file" in clean_link.lower()):
             continue
 
         # Фильтруем только ссылки на страницы в "kpop.fandom.com/wiki"
         if (clean_link not in visited_urls and parsed.scheme in {"http", "https"} and
-                "kpop.fandom.com/wiki" in clean_link and "redirect" not in clean_link):
+                "kpop.fandom.com/wiki" in clean_link and "redirect" not in clean_link and
+                "category" not in clean_link.lower()):
             links.add(clean_link)
 
     return links

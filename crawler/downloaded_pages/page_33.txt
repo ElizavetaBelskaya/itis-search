@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Dear. (Davichi) | Kpop Wiki | Fandom</title>
+<title>2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly" | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dear_Davichi rootpage-Dear_Davichi skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-2023_NCT_127_7th_Anniversary_Fanmeeting_Once_Upon_a_7uly rootpage-2023_NCT_127_7th_Anniversary_Fanmeeting_Once_Upon_a_7uly skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1120,13 +1120,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1135,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,043</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2289,13 +2289,13 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
+<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
+<span>KiiiKiii</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/KiiiKiii">
-<span>KiiiKiii</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2304,18 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
-<span>The Ruby Experience</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Kim_Do_Hun">
-<span>Kim Do Hun</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
 <span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,19 +2353,54 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
-<span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">3 more</a>
-<div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:NCT_127" title="Category:NCT 127">NCT 127</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:Fanmeetings" title="Category:Fanmeetings">Fanmeetings</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2023_fanmeetings" title="Category:2023 fanmeetings">2023 fanmeetings</a>, <a data-tracking-label="categories-top-more-3" href="/wiki/Category:Beyond_LIVE" title="Category:Beyond LIVE">Beyond LIVE</a> </div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Davichi" title="Category:Davichi">Davichi</a> </li>
+<a data-tracking-label="lang-de" href="https://kpopwiki.fandom.com/de/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Deutsch</a>
+</li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2019_releases" title="Category:2019 releases">2019 releases</a> </li>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Français</a>
+</li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:2019_digital_singles" title="Category:2019 digital singles">2019 digital singles</a> </li>
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Bahasa Indonesia</a>
+</li>
+<li>
+<a data-tracking-label="lang-ko" href="https://kpop.fandom.com/ko/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">한국어</a>
+</li>
+<li>
+<a data-tracking-label="lang-ms" href="https://kpop.fandom.com/ms/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Bahasa Melayu</a>
+</li>
+<li>
+<a data-tracking-label="lang-pl" href="https://kpop.fandom.com/pl/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Polski</a>
+</li>
+<li>
+<a data-tracking-label="lang-pt-BR" href="https://kpop.fandom.com/pt-br/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Português do Brasil</a>
+</li>
+<li>
+<a data-tracking-label="lang-ro" href="https://kpop.fandom.com/ro/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Română</a>
+</li>
+<li>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Русский</a>
+</li>
+<li>
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Tagalog</a>
+</li>
+<li>
+<a data-tracking-label="lang-tr" href="https://kpop.fandom.com/tr/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Türkçe</a>
+</li>
+<li>
+<a data-tracking-label="lang-uk" href="https://kpop.fandom.com/uk/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Українська</a>
+</li>
+<li>
+<a data-tracking-label="lang-zh" href="https://kpop.fandom.com/zh/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">中文</a>
+</li>
 </ul>
-</div>
 </div>
 </div>
 </div>
@@ -2373,10 +2408,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Dear. (Davichi)</span> </h1>
+<span class="mw-page-title-main">2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2384,15 +2419,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Dear._(Davichi)?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Dear._(Davichi)?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Dear._(Davichi)?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2415,121 +2450,107 @@
 <div class="mw-body-content" id="mw-content-text"><!-- Google Tag Manager (noscript) -->
 <noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" style="display:none;visibility:hidden" width="0"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><dl><dd><span><i>For articles with the name Dear, see <a class="mw-disambig" href="/wiki/Dear" title="Dear">Dear</a>.</i></span></dd></dl>
-<p>
-<aside class="portable-infobox pi-background pi-border-color pi-theme-single pi-layout-default" role="region">
+<div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
+<aside class="portable-infobox pi-background pi-border-color pi-theme-concert pi-layout-default" role="region">
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/b/ba/Davichi_Dear._album_cover.png/revision/latest?cb=20191203173041" title="Davichi Dear. album cover">
-<img alt="Davichi Dear. album cover" class="pi-image-thumbnail" data-image-key="Davichi_Dear._album_cover.png" data-image-name="Davichi Dear. album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/b/ba/Davichi_Dear._album_cover.png/revision/latest/scale-to-width-down/268?cb=20191203173041" srcset="https://static.wikia.nocookie.net/kpop/images/b/ba/Davichi_Dear._album_cover.png/revision/latest/scale-to-width-down/268?cb=20191203173041 1x, https://static.wikia.nocookie.net/kpop/images/b/ba/Davichi_Dear._album_cover.png/revision/latest/scale-to-width-down/536?cb=20191203173041 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/d/d3/NCT_127_Once_Upon_a_7uly_Fanmeeting_poster.png/revision/latest?cb=20230619184051" title="NCT 127 Once Upon a 7uly Fanmeeting poster">
+<img alt="NCT 127 Once Upon a 7uly Fanmeeting poster" class="pi-image-thumbnail" data-image-key="NCT_127_Once_Upon_a_7uly_Fanmeeting_poster.png" data-image-name="NCT 127 Once Upon a 7uly Fanmeeting poster.png" data-relevant="1" height="382" src="https://static.wikia.nocookie.net/kpop/images/d/d3/NCT_127_Once_Upon_a_7uly_Fanmeeting_poster.png/revision/latest/scale-to-width-down/268?cb=20230619184051" srcset="https://static.wikia.nocookie.net/kpop/images/d/d3/NCT_127_Once_Upon_a_7uly_Fanmeeting_poster.png/revision/latest/scale-to-width-down/268?cb=20230619184051 1x, https://static.wikia.nocookie.net/kpop/images/d/d3/NCT_127_Once_Upon_a_7uly_Fanmeeting_poster.png/revision/latest/scale-to-width-down/536?cb=20230619184051 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name"><center>"Dear."</center></h2>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Davichi" title="Davichi">Davichi</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/NCT_127" title="NCT 127">NCT 127</a></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
-<h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">December 3, 2019</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="date">
+<h3 class="pi-data-label pi-secondary-font">Date(s)</h3>
+<div class="pi-data-value pi-font">July 16, 2023</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
-<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">Download, streaming</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="venue">
+<h3 class="pi-data-label pi-secondary-font">Venue</h3>
+<div class="pi-data-value pi-font">Jamsil Indoor Stadium</div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
-<h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Ballad</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="platform">
+<h3 class="pi-data-label pi-secondary-font">Platform</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Beyond_LIVE" title="Beyond LIVE">Beyond LIVE</a></div>
 </div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
-<h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">7:46</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
-<h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Stone_Music_Entertainment" title="Stone Music Entertainment">Stone Music Entertainment</a></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
-<h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Genie_Music" title="Genie Music">Genie Music</a></div>
-</div>
-<section class="pi-item pi-group pi-border-color">
-<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="writer">
-<h3 class="pi-data-label pi-secondary-font">Writer(s)</h3>
-<div class="pi-data-value pi-font">Davichi</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="composer">
-<h3 class="pi-data-label pi-secondary-font">Composer(s)</h3>
-<div class="pi-data-value pi-font">Cho Yeong-su</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="arranger">
-<h3 class="pi-data-label pi-secondary-font">Arranger(s)</h3>
-<div class="pi-data-value pi-font">Cho Yeong-su, Hang-il</div>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="shows">
+<h3 class="pi-data-label pi-secondary-font">Shows</h3>
+<div class="pi-data-value pi-font">1</div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color">
-<table class="pi-horizontal-group">
-<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
-<thead>
-<tr>
-<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="previous">Previous</th>
-<th class="pi-horizontal-group-item pi-data-label pi-secondary-font pi-border-color pi-item-spacing" data-source="next">Next</th>
-</tr>
-</thead>
+<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Chronology</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/(Vol.27)_You_Hee_yul%27s_Sketchbook_10th_Anniversary_Project_:_12th_Voice_%27Sketchbook_X_Davichi%27" title="(Vol.27) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'">(Vol.27) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'</a>"</td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/The_Late_Kim_Hyun_Sik%27s_30th_Anniversary_Memorial_Album_%22Making_Memories%22_Part._2" title="The Late Kim Hyun Sik's 30th Anniversary Memorial Album &quot;Making Memories&quot; Part. 2">The Late Kim Hyun Sik's 30th Anniversary Memorial Album "Making Memories" Part. 2</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous"><a href="/wiki/Beyond_LIVE_%E2%80%93_NCT_127_Online_Fanmeeting_%27Office_:_Foundation_Day%27" title="Beyond LIVE – NCT 127 Online Fanmeeting 'Office : Foundation Day'">Beyond LIVE – NCT 127 Online Fanmeeting 'Office : Foundation Day'</a></td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next"></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-
-"<b>Dear.</b>" (나의 오랜 연인에게) is the 16th digital single by <a href="/wiki/Davichi" title="Davichi">Davichi</a>. It was released on December 3, 2019.
+<b>2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"</b> is a fanmeeting held by <a href="/wiki/NCT_127" title="NCT 127">NCT 127</a>. It was held on July 16, 2023 at 4PM KST offline at Jamsil Indoor Stadium and online via <a href="/wiki/Beyond_LIVE" title="Beyond LIVE">Beyond LIVE</a>.
 </p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Dear. (나의 오랜 연인에게)" - 3:53</li>
-<li>"Dear. (Inst.)" - 3:53</li></ol>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FDear._%28Davichi%29%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On June 16, SM Entertainment announced NCT 127's fanmeeting to commemorate their 7th debut anniversary.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup> It was also announced that the fanmeeting will be live-streamed via <a href="/wiki/Beyond_LIVE" title="Beyond LIVE">Beyond LIVE</a>.
+</p>
+<h2><span class="mw-headline" id="Songs">Songs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Kick It"</li>
+<li>"City 127"</li>
+<li>"Angel"</li>
+<li>"Replay (PM 01:27)"</li>
+<li>"2 Baddies"</li>
+<li>"Black Clouds"</li>
+<li>"Pandora's Box"</li></ol>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2F2023_NCT_127_7th_Anniversary_Fanmeeting_%2522Once_Upon_a_7uly%2522%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.allkpop.com/article/2023/06/nct-127-nct-dream-announce-their-7th-anniversary-fan-meetings-once-upon-a-7uly-dream-land" rel="nofollow noreferrer noopener" target="_blank">Allkpop: NCT 127 &amp; NCT Dream announce their 7th anniversary fan meetings, 'Once Upon a 7uly' &amp; 'Dream Land'</a></span>
+</li>
+</ol></div></div>
 </div>
-</div>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Dear._(Davichi)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:radial-gradient(circle,#ffc0cb,#ffc0cb); color:#ffffff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:#ffffff;;border:none;;"><a href="/wiki/Template:Davichi" title="Template:Davichi"><span style=";color:#ffffff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:Davichi?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:#ffffff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/Davichi" title="Davichi">Davichi</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Lee_Hae_Ri" title="Lee Hae Ri">Lee Hae Ri</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kang_Min_Kyung" title="Kang Min Kyung">Kang Min Kyung</a></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Amaranth_(Davichi)" title="Amaranth (Davichi)">Amaranth</a></i> <small>(<i><a href="/wiki/Vivid_Summer_Edition" title="Vivid Summer Edition">Vivid Summer Edition</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Mystic_Ballad_Part.2" title="Mystic Ballad Part.2">Mystic Ballad Part.2</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/%2610" title="&amp;10">&amp;10</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Special_Best" title="Special Best">Special Best</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><span class="new" data-uncrawlable-url="L3dpa2kvU3RpdGNoP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Stitch (page does not exist)">Stitch</span></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Davichi_in_Wonderland" title="Davichi in Wonderland">Davichi in Wonderland</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Innocence" title="Innocence">Innocence</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Love_Delight" title="Love Delight">Love Delight</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/6,7" title="6,7">6,7</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Davichi_Hug" title="Davichi Hug">Davichi Hug</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/50_X_Half" title="50 X Half">50 X Half</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Season_Note" title="Season Note">Season Note</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Single albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvSSUyN2xsX0JlX0J5X1lvdXJfU2lkZT9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="I'll Be By Your Side (page does not exist)">I'll Be By Your Side</span>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Sad_Promise_(Remix)" title="Sad Promise (Remix)">Sad Promise (Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Love_Call_with_Davichi" title="Love Call with Davichi">Love Call with Davichi</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_S_Part.1" title="The S Part.1">The S Part.1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Mystic_Ballad_Part.1" title="Mystic Ballad Part.1">Mystic Ballad Part.1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Be_Warmed" title="Be Warmed">Be Warmed</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Memories_of_Summer" title="Memories of Summer">Memories of Summer</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Davichi_Code" title="Davichi Code">Davichi Code</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Again_(Davichi)" title="Again (Davichi)">Again</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Don%27t_Move" title="Don't Move">Don't Move</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Two_Lovers" title="Two Lovers">Two Lovers</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/At_This_Moment" title="At This Moment">At This Moment</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/D-Make" title="D-Make">D-Make</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/To_Me" title="To Me">To Me</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Nostalgia_(Davichi)" title="Nostalgia (Davichi)">Nostalgia</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Unspoken_Words" title="Unspoken Words">Unspoken Words</a>"</span>  •  <span style="white-space:nowrap">"<strong class="mw-selflink selflink">Dear.</strong>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Just_Hug_Me" title="Just Hug Me">Just Hug Me</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/First_Loss" title="First Loss">First Loss</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Everyday_Christmas" title="Everyday Christmas">Everyday Christmas</a>"</span>  •  <span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvQV9WZXJ5X1BlcnNvbmFsX1N0b3J5P2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="A Very Personal Story (page does not exist)">A Very Personal Story</span>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Color_Pink" title="Color Pink">Color Pink</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Women%27s_Generation" title="Women's Generation">Women's Generation</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Wonder_Woman_(collaboration)" title="Wonder Woman (collaboration)">Wonder Woman</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cho_Young_Soo_All_Star_-_Davichi" title="Cho Young Soo All Star - Davichi">Cho Young Soo All Star - Davichi</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Shin_Seung_Hun_20th_Anniversary_With_Davichi" title="Shin Seung Hun 20th Anniversary With Davichi">Shin Seung Hun 20th Anniversary With Davichi</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/SeeYa_%26_Davichi" title="SeeYa &amp; Davichi">SeeYa &amp; Davichi</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/We_Were_In_Love" title="We Were In Love">We Were In Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Cho_Young_Soo_All_Star_-_2BiC_%26_Davichi" title="Cho Young Soo All Star - 2BiC &amp; Davichi">Cho Young Soo All Star - 2BiC &amp; Davichi</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bikini" title="Bikini">Bikini</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/(Vol.26)_You_Hee_yul%27s_Sketchbook_10th_Anniversary_Project_:_12th_Voice_%27Sketchbook_X_Davichi%27" title="(Vol.26) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'">(Vol.26) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/(Vol.27)_You_Hee_yul%27s_Sketchbook_10th_Anniversary_Project_:_12th_Voice_%27Sketchbook_X_Davichi%27" title="(Vol.27) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'">(Vol.27) You Hee yul's Sketchbook 10th Anniversary Project : 12th Voice 'Sketchbook X Davichi'</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/The_Late_Kim_Hyun_Sik%27s_30th_Anniversary_Memorial_Album_%22Making_Memories%22_Part._2" title="The Late Kim Hyun Sik's 30th Anniversary Memorial Album &quot;Making Memories&quot; Part. 2">The Late Kim Hyun Sik's 30th Anniversary Memorial Album "Making Memories" Part. 2</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/WAKEONE" title="WAKEONE">WAKEONE</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://cafe.daum.net/-.-....." rel="nofollow noreferrer noopener" target="_blank">Daum Cafe</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/officialdavichi/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/davichi.official/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/officialDavichi" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Dear._(Davichi)?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#07080C; color:white"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;color:white;;border:none;;"><a href="/wiki/Template:NCT_127" title="Template:NCT 127"><span style=";color:white;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:NCT_127?action=edit" rel="noreferrer noopener" target="_blank"><span style=";color:white;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/NCT_127" title="NCT 127">NCT 127</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Johnny_(NCT)" title="Johnny (NCT)">Johnny</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Taeyong_(NCT)" title="Taeyong (NCT)">Taeyong</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Yuta" title="Yuta">Yuta</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Doyoung_(NCT)" title="Doyoung (NCT)">Doyoung</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jaehyun_(NCT)" title="Jaehyun (NCT)">Jaehyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Winwin" title="Winwin">Winwin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Jungwoo_(NCT)" title="Jungwoo (NCT)">Jungwoo</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Mark_(NCT)" title="Mark (NCT)">Mark</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Haechan" title="Haechan">Haechan</a><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Taeil_(NCT)" title="Taeil (NCT)">Taeil</a></span></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible mw-uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Regular-Irregular" title="NCT 127 Regular-Irregular">NCT #127 Regular-Irregular</a></i> <span style="font-size:85%;">(<i><a href="/wiki/NCT_127_Regulate" title="NCT 127 Regulate">NCT #127 Regulate</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Neo_Zone" title="NCT 127 Neo Zone">NCT #127 Neo Zone</a></i> <span style="font-size:85%;">(<i><a href="/wiki/NCT_127_Neo_Zone:_The_Final_Round" title="NCT 127 Neo Zone: The Final Round">NCT #127 Neo Zone: The Final Round</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sticker" title="Sticker">Sticker</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Favorite_(NCT_127)" title="Favorite (NCT 127)">Favorite</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/2_Baddies" title="2 Baddies">2 Baddies</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Ay-Yo" title="Ay-Yo">Ay-Yo</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Fact_Check" title="Fact Check">Fact Check</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Walk" title="Walk">Walk</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Live albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Neo_City_:_Seoul_%E2%80%93_The_Origin" title="Neo City : Seoul – The Origin">Neo City : Seoul – The Origin</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/NCT_127_(album)" title="NCT 127 (album)">NCT #127</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Limitless" title="NCT 127 Limitless">NCT #127 Limitless</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_Cherry_Bomb" title="NCT 127 Cherry Bomb">NCT #127 Cherry Bomb</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/NCT_127_We_Are_Superhuman" title="NCT 127 We Are Superhuman">NCT #127 We Are Superhuman</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Be_There_For_Me" title="Be There For Me">Be There For Me</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Taste_The_Feeling_(NCT_127)" title="Taste The Feeling (NCT 127)">Taste The Feeling</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Remix singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.1_:_Kick_It_Remixes" title="IScreaM Vol.1 : Kick It Remixes">iScreaM Vol.1 : Kick It Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.13_:_Sticker_Remixes" title="IScreaM Vol.13 : Sticker Remixes">iScreaM Vol.13 : Sticker Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.21_:_2_Baddies_Remixes" title="IScreaM Vol.21 : 2 Baddies Remixes">iScreaM Vol.21 : 2 Baddies Remixes</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.29_:_Fact_Check_Remixes" title="IScreaM Vol.29 : Fact Check Remixes">iScreaM Vol.29 : Fact Check Remixes</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Save" title="Save">Save</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Awaken" title="Awaken">Awaken</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Live albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/2nd_Tour_%27Neo_City_:_Japan_-_The_Link%27" title="2nd Tour 'Neo City : Japan - The Link'">2nd Tour 'Neo City : Japan - The Link'</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Chain" title="Chain">Chain</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Loveholic" title="Loveholic">Loveholic</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Touch_(Japanese_single)" title="Touch (Japanese single)">Touch</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/First_Love_(NCT_127)" title="First Love (NCT 127)">First Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sunny_Road" title="Sunny Road">Sunny Road</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Colors_(NCT_127)" title="Colors (NCT 127)">Colors</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">English</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Digital EPs</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Up_Next_Session:_NCT_127" title="Up Next Session: NCT 127">Up Next Session: NCT 127</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Highway_to_Heaven_(English_Version)" title="Highway to Heaven (English Version)">Highway to Heaven</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaboration singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Let%27s_Shut_Up_%26_Dance" title="Let's Shut Up &amp; Dance">Let's Shut Up &amp; Dance</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Online concerts</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/NCT_127_-_Beyond_the_Origin" title="NCT 127 - Beyond the Origin">Beyond the Origin</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japan showcases</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19KYXBhbl9TaG93Y2FzZV9Ub3VyXyUyMkNoYWluJTIyP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title='NCT 127 Japan Showcase Tour "Chain" (page does not exist)'>Chain</span></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">World tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/NCT_127_1st_Tour:_Neo_City_-_The_Origin" title="NCT 127 1st Tour: Neo City - The Origin">Neo City - The Origin</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN18ybmRfVG91cjpfTmVvX0NpdHlfLV9UaGVfQXdhcmRzP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="NCT 127 2nd Tour: Neo City - The Awards (page does not exist)">Neo City - The Awards</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_2nd_Tour:_Neo_City_-_The_Link" title="NCT 127 2nd Tour: Neo City - The Link">Neo City - The Link</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_3rd_Tour:_Neo_City_-_The_Unity" title="NCT 127 3rd Tour: Neo City - The Unity">Neo City - The Unity</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_127_4th_Tour:_Neo_City_-_The_Momentum" title="NCT 127 4th Tour: Neo City - The Momentum">Neo City - The Momentum</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19MaW1pdGxlc3NfLV9NaW5pX0Zhbl9NZWV0aW5nP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="NCT 127 Limitless - Mini Fan Meeting (page does not exist)">NCT 127 Limitless - Mini Fan Meeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN18xc3RfWWVhcl9Bbm5pdmVyc2FyeV9GYW5fRXZlbnQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="NCT 127 1st Year Anniversary Fan Event (page does not exist)">NCT 127 1st Year Anniversary Fan Event</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19GYW5fTWVldGluZz9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="NCT 127 Fan Meeting (page does not exist)">NCT 127 Fan Meeting</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUXzEyN19UaGVfSW50cm9kdWN0aW9uXyUyMkNvbm5lY3QlMjJfaW5fSmFwYW4/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title='NCT 127 The Introduction "Connect" in Japan (page does not exist)'>NCT 127 The Introduction "Connect" in Japan</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvTkNUemVuXzEyNy1KYXBhbl8xc3RfTWVldGluZ18yMDE5XyVFMiU4MCU5OFdlbGNvbWVfVG9fT3VyX1BsYXlncm91bmQlRTIlODAlOTk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="NCTzen 127-Japan 1st Meeting 2019 ‘Welcome To Our Playground’ (page does not exist)">NCTzen 127-Japan 1st Meeting 2019 ‘Welcome To Our Playground’</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvMjAxOV9OQ1RfMTI3X0Zhbm1lZXRpbmdfJUUyJTgwJTk4V2ludGVyXzEyN193aXRoX05DVHplbl8xMjclRTIlODAlOTk/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="2019 NCT 127 Fanmeeting ‘Winter 127 with NCTzen 127’ (page does not exist)">2019 NCT 127 Fanmeeting ‘Winter 127 with NCTzen 127’</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/Beyond_LIVE_%E2%80%93_NCT_127_Online_Fanmeeting_%27Office_:_Foundation_Day%27" title="Beyond LIVE – NCT 127 Online Fanmeeting 'Office : Foundation Day'">NCT 127 Online Fanmeeting 'Office : Foundation Day'</a></span>  •  <span style="white-space:nowrap"><strong class="mw-selflink selflink">2023 NCT 127 7th Anniversary Fanmeeting "Once Upon a 7uly"</strong></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Avex_Trax" title="wikipedia:en:Avex Trax">Avex Trax</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Capitol_Music_Group" title="wikipedia:en:Capitol Music Group">Capitol Music Group</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Caroline_Distribution" title="wikipedia:en:Caroline Distribution">Caroline</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT" title="NCT">NCT</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_U" title="NCT U">NCT U</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_DREAM" title="NCT DREAM">NCT DREAM</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/WayV" title="WayV">WayV</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_DOJAEJUNG" title="NCT DOJAEJUNG">NCT DOJAEJUNG</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/NCT_WISH" title="NCT WISH">NCT WISH</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SuperM" title="SuperM">SuperM</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:SM_Town" title="wikipedia:en:SM Town">SM Town</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/SMROOKIES" title="SMROOKIES">SM Rookies</a></span>  •  <span style="white-space:nowrap"><a class="extiw" href="https://en.wikipedia.org/wiki/en:Cultural_technology" title="wikipedia:en:Cultural technology">Cultural technology</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://nct127.smtown.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/NCT127.smtown" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/nct127/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/NCTsmtown_127" rel="nofollow noreferrer noopener" target="_blank">Twitter</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/nct127/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCk2E0dbAyEJWnrN2bbQOcbg" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250315052616
+Cached time: 20250312104057
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: []
-CPU time usage: 0.088 seconds
-Real time usage: 0.101 seconds
-Preprocessor visited node count: 3281/1000000
-Post‐expand include size: 57866/2097152 bytes
-Template argument size: 39765/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.207 seconds
+Real time usage: 0.229 seconds
+Preprocessor visited node count: 10118/1000000
+Post‐expand include size: 174921/2097152 bytes
+Template argument size: 132015/2097152 bytes
+Highest expansion depth: 26/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 28/5000000 bytes
+Unstrip post‐expand size: 702/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%   72.684      1 -total
- 69.26%   50.340      2 Template:Navbox
- 53.31%   38.749      1 Template:Davichi
- 31.96%   23.231      1 Template:Infobox_single
- 28.28%   20.553     10 Template:List
- 21.30%   15.482     10 Template:Element_List
-  6.54%    4.756      1 Template:Reflist
-  4.87%    3.541      1 Template:Tnavbar
-  3.92%    2.852      2 Template:Stub
-  3.31%    2.406      1 Template:For
+124.74%  222.466     11 Template:Navbox
+100.00%  178.339      1 -total
+ 48.04%   85.666      1 Template:NCT_127
+ 47.94%   85.498      1 Template:Infobox_concert
+ 46.84%   83.541      1 Template:Navbox_with_collapsible_groups
+ 33.34%   59.453      1 Template:Related_Wikis
+ 28.94%   51.620     21 Template:List
+ 14.41%   25.697     22 Template:Element_List
+  3.10%    5.528      1 Template:Reflist
+  1.90%    3.397      1 Template:Scroll_Box
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:47264-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250315052616 and revision id 350615. Rendering was triggered because: unknown
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:168949-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312104057 and revision id 666106. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2541,33 +2562,44 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="Discography article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
+<li class="category normal" data-name="NCT 127" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:NCT_127" title="Category:NCT 127">NCT 127</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Single article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Single_article_stubs" title="Category:Single article stubs">Single article stubs</a></span>
+<li class="category normal" data-name="Fanmeetings" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Fanmeetings" title="Category:Fanmeetings">Fanmeetings</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Digital_singles" title="Category:Digital singles">Digital singles</a></span>
+<li class="category normal" data-name="2023 fanmeetings" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2023_fanmeetings" title="Category:2023 fanmeetings">2023 fanmeetings</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Davichi" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Davichi" title="Category:Davichi">Davichi</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2019 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2019_releases" title="Category:2019 releases">2019 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2019 digital singles" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2019_digital_singles" title="Category:2019 digital singles">2019 digital singles</a></span>
+<li class="category normal" data-name="Beyond LIVE" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Beyond_LIVE" title="Category:Beyond LIVE">Beyond LIVE</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-de" href="https://kpopwiki.fandom.com/de/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Deutsch</a>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Français</a>
+<a data-tracking-label="lang-id" href="https://kpop.fandom.com/id/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Bahasa Indonesia</a>
+<a data-tracking-label="lang-ko" href="https://kpop.fandom.com/ko/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">한국어</a>
+<a data-tracking-label="lang-ms" href="https://kpop.fandom.com/ms/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Bahasa Melayu</a>
+<a data-tracking-label="lang-pl" href="https://kpop.fandom.com/pl/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Polski</a>
+<a data-tracking-label="lang-pt-BR" href="https://kpop.fandom.com/pt-br/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Português do Brasil</a>
+<a data-tracking-label="lang-ro" href="https://kpop.fandom.com/ro/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Română</a>
+<a data-tracking-label="lang-ru" href="https://kpop.fandom.com/ru/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Русский</a>
+<a data-tracking-label="lang-tl" href="https://kpop.fandom.com/tl/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Tagalog</a>
+<a data-tracking-label="lang-tr" href="https://kpop.fandom.com/tr/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Türkçe</a>
+<a data-tracking-label="lang-uk" href="https://kpop.fandom.com/uk/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">Українська</a>
+<a data-tracking-label="lang-zh" href="https://kpop.fandom.com/zh/wiki/2023_NCT_127_7th_Anniversary_Fanmeeting_%22Once_Upon_a_7uly%22">中文</a>
 </div>
 </div>
 <div class="license-description">
@@ -2748,7 +2780,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9EZWFyLl8oRGF2aWNoaSk/dGl0bGU9RGVhci5fJTI4RGF2aWNoaSUyOSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS8yMDIzX05DVF8xMjdfN3RoX0Fubml2ZXJzYXJ5X0Zhbm1lZXRpbmdfJTIyT25jZV9VcG9uX2FfN3VseSUyMj90aXRsZT0yMDIzX05DVF8xMjdfN3RoX0Fubml2ZXJzYXJ5X0Zhbm1lZXRpbmdfJTIyT25jZV9VcG9uX2FfN3VseSUyMiZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

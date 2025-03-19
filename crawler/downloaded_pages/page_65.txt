@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Jiny Kim | Kpop Wiki | Fandom</title>
+<title>Luhan | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Jiny_Kim rootpage-Jiny_Kim skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Luhan rootpage-Luhan skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,036</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,19 +2353,41 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1986_births" title="Category:1986 births">1986 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:May_births" title="Category:May births">May births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:April_births" title="Category:April births">April births</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">3 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">6 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:GLAM" title="Category:GLAM">GLAM</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Jiny_Kim" title="Category:Jiny Kim">Jiny Kim</a> </li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:EXO" title="Category:EXO">EXO</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Younique_Unit" title="Category:Younique Unit">Younique Unit</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:EXO-M" title="Category:EXO-M">EXO-M</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-8" href="/wiki/Category:Luhan" title="Category:Luhan">Luhan</a> </li>
 </ul>
 </div>
+</div>
+</div>
+</div>
+<div class="page-header__languages">
+<div class="wds-dropdown">
+<div class="wds-dropdown__toggle">
+			English<svg class="wds-icon wds-icon-tiny wds-dropdown__toggle-chevron"><use xlink:href="#wds-icons-dropdown-tiny"></use></svg> </div>
+<div class="wds-dropdown__content">
+<ul class="wds-list wds-is-linked">
+<li>
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/Luhan">Français</a>
+</li>
+<li>
+<a data-tracking-label="lang-pl" href="https://kpop.fandom.com/pl/wiki/Lu_Han">Polski</a>
+</li>
+</ul>
 </div>
 </div>
 </div>
@@ -2373,10 +2395,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Jiny Kim</span> </h1>
+<span class="mw-page-title-main">Luhan</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2384,15 +2406,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Jiny_Kim?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Luhan?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Jiny_Kim?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/Luhan?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Jiny_Kim?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Luhan?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2417,65 +2439,68 @@
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 <aside class="portable-infobox pi-background pi-border-color pi-theme-person pi-layout-default" role="region">
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Jiny Kim</h2>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Luhan</h2>
 <figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/8/82/Jiny_Kim_Instagram_Update_%28July_13%2C2021%29_01.png/revision/latest?cb=20210823072036" title="">
-<img alt="" class="pi-image-thumbnail" data-image-key="Jiny_Kim_Instagram_Update_%28July_13%2C2021%29_01.png" data-image-name="Jiny Kim Instagram Update (July 13,2021) 01.png" data-relevant="1" height="337" src="https://static.wikia.nocookie.net/kpop/images/8/82/Jiny_Kim_Instagram_Update_%28July_13%2C2021%29_01.png/revision/latest/scale-to-width-down/268?cb=20210823072036" srcset="https://static.wikia.nocookie.net/kpop/images/8/82/Jiny_Kim_Instagram_Update_%28July_13%2C2021%29_01.png/revision/latest/scale-to-width-down/268?cb=20210823072036 1x, https://static.wikia.nocookie.net/kpop/images/8/82/Jiny_Kim_Instagram_Update_%28July_13%2C2021%29_01.png/revision/latest/scale-to-width-down/535?cb=20210823072036 2x" width="270">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/4/47/Reloaded_Luhan_photo.png/revision/latest?cb=20160605164250" title="">
+<img alt="" class="pi-image-thumbnail" data-image-key="Reloaded_Luhan_photo.png" data-image-name="Reloaded Luhan photo.png" data-relevant="1" height="405" src="https://static.wikia.nocookie.net/kpop/images/4/47/Reloaded_Luhan_photo.png/revision/latest/scale-to-width-down/268?cb=20160605164250" srcset="https://static.wikia.nocookie.net/kpop/images/4/47/Reloaded_Luhan_photo.png/revision/latest/scale-to-width-down/268?cb=20160605164250 1x, https://static.wikia.nocookie.net/kpop/images/4/47/Reloaded_Luhan_photo.png/revision/latest/scale-to-width-down/536?cb=20160605164250 2x" width="270">
 </img></a>
-<figcaption class="pi-item-spacing pi-caption">Instagram Update (July 13, 2021)</figcaption>
+<figcaption class="pi-item-spacing pi-caption">Promotional photo for Reloaded I.</figcaption>
 </figure>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Background</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="other">
 <h3 class="pi-data-label pi-secondary-font">Other name(s)</h3>
-<div class="pi-data-value pi-font">Zinni <span style="font-size:85%;">(<a href="/wiki/GLAM" title="GLAM">GLAM</a>)</span></div>
+<div class="pi-data-value pi-font">Rok Ham (록함) <span style="font-size:85%;">(<a class="extiw" href="https://en.wikipedia.org/wiki/Hanja" title="wikipedia:Hanja">Korean reading</a>)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_name">
 <h3 class="pi-data-label pi-secondary-font">Birth name</h3>
-<div class="pi-data-value pi-font">Kim Jin Hee (김진희)</div>
+<div class="pi-data-value pi-font">Lù Hán (鹿晗)</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_date">
 <h3 class="pi-data-label pi-secondary-font">Birth date</h3>
-<div class="pi-data-value pi-font">May 8, 1986<span style="display:none"> (<span class="bday">1986-05-08</span>)</span><span class="noprint"> (age 38)</span></div>
+<div class="pi-data-value pi-font">April 20, 1990<span style="display:none"> (<span class="bday">1990-04-20</span>)</span><span class="noprint"> (age 34)</span></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="birth_place">
 <h3 class="pi-data-label pi-secondary-font">Birth place</h3>
-<div class="pi-data-value pi-font">Gwangju, South Korea</div>
+<div class="pi-data-value pi-font">Haidian District, Beijing, China</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="height">
 <h3 class="pi-data-label pi-secondary-font">Height</h3>
-<div class="pi-data-value pi-font">163 cm (5 ft 4 in)</div>
+<div class="pi-data-value pi-font">178 cm (5 ft 10 in)<sup class="reference" id="cite_ref-baidubaike_1-0"><a href="#cite_note-baidubaike-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="weight">
 <h3 class="pi-data-label pi-secondary-font">Weight</h3>
-<div class="pi-data-value pi-font">44 kg (97 lb)</div>
+<div class="pi-data-value pi-font">58.9 kg (130 lb)<sup class="reference" id="cite_ref-baidubaike_1-1"><a href="#cite_note-baidubaike-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="blood">
 <h3 class="pi-data-label pi-secondary-font">Blood type</h3>
-<div class="pi-data-value pi-font">A</div>
+<div class="pi-data-value pi-font">O<sup class="reference" id="cite_ref-baidubaike_1-2"><a href="#cite_note-baidubaike-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
 <h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Career</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="occupation">
 <h3 class="pi-data-label pi-secondary-font">Occupation</h3>
-<div class="pi-data-value pi-font">Longboarder <br/> Singer <span style="font-size:85%;">(former)</span></div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="group_debut">
-<h3 class="pi-data-label pi-secondary-font">Group debut</h3>
-<div class="pi-data-value pi-font">July 16, 2012</div>
+<div class="pi-data-value pi-font">Singer, actor</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="years">
 <h3 class="pi-data-label pi-secondary-font">Years active</h3>
-<div class="pi-data-value pi-font">2012-2015</div>
+<div class="pi-data-value pi-font">2011–present</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="agency">
 <h3 class="pi-data-label pi-secondary-font">Agency</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/Source_Music" title="Source Music">Source Music</a> <span style="font-size:85%;">(2012–2015)</span><br/><a class="mw-redirect" href="/wiki/Big_Hit" title="Big Hit">Big Hit</a> <span style="font-size:85%;">(2012–2015)</span></div>
+<div class="pi-data-value pi-font">LuHan Studio <small>(2015-present)</small> <br/> <a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a> <small>(2012-2014)</small></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="associated">
 <h3 class="pi-data-label pi-secondary-font">Associations</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/GLAM" title="GLAM">GLAM</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/EXO" title="EXO">EXO</a><br/><a href="/wiki/EXO-M" title="EXO-M">EXO-M</a><br/><a href="/wiki/Younique_Unit" title="Younique Unit">Younique Unit</a><br/><a class="mw-redirect" href="/wiki/SMTOWN" title="SMTOWN">SMTOWN</a></div>
+</div>
+</section>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Personal life</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="partner">
+<h3 class="pi-data-label pi-secondary-font">Partner</h3>
+<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/Guan_Xiaotong" title="wikipedia:Guan Xiaotong">Guan Xiaotong</a> <small>(2017-present)</small></div>
 </div>
 </section>
 <section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
@@ -2483,83 +2508,165 @@
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">SNS</caption>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.instagram.com/kitty_kim_/" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Instagram_Icon.png" data-image-name="Instagram Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/3/37/Instagram_Icon.png/revision/latest/scale-to-width-down/20?cb=20230524101827" width="20"/></a></span>   <span typeof="mw:File"><a href="https://www.youtube.com/channel/JINYKIM롱보드지니" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="YouTube_Icon.png" data-image-name="YouTube Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/c/c0/YouTube_Icon.png/revision/latest?cb=20190809234333" width="20"/></a></span> </td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="sns"> <span typeof="mw:File"><a href="https://www.weibo.com/1537790411" rel="nofollow noreferrer noopener" target="_blank"><img class="mw-file-element" data-image-key="Weibo_Icon.png" data-image-name="Weibo Icon.png" data-relevant="0" decoding="async" height="20" loading="lazy" src="https://static.wikia.nocookie.net/kpop/images/c/cc/Weibo_Icon.png/revision/latest?cb=20190807042546" width="20"/></a></span> </td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="pi-item pi-group pi-border-color pi-collapse pi-collapse-open">
+<table class="pi-horizontal-group pi-horizontal-group-no-labels">
+<caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Related Wikis</caption>
+<tbody>
+<tr>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="related"><p><a class="extiw" href="https://cpop.fandom.com/wiki/Lu_Han" title="w:c:cpop:Lu Han">C-Pop Wiki</a> • <a class="extiw" href="https://exo.fandom.com/wiki/Luhan" title="w:c:exo:Luhan">EXO Wiki</a> • <a class="extiw" href="https://produce-camp.fandom.com/wiki/Lu_Han" title="w:c:producecamp2020:Lu Han">Produce Camp 2020 Wiki</a> • <a class="extiw" href="https://smtown.fandom.com/wiki/Luhan" title="w:c:smtown:Luhan">SMTown Wiki</a></p></td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-</p><p><b>Jiny Kim</b> (김진이), formerly known as <b>Zinni</b> (지니), is a South Korean longboarder and former girl group idol. She is best known for her time as a member of <a href="/wiki/GLAM" title="GLAM">GLAM</a>.
+<b>Luhan</b> (루한) is a Chinese singer and actor. He is a former member of the boy group <a href="/wiki/EXO" title="EXO">EXO</a> and their subgroup <a href="/wiki/EXO-M" title="EXO-M">EXO-M</a>. He left the group after filing a lawsuit against <a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a> to terminate his contract in October 2014, which led him to leaving the group with fellow member <a href="/wiki/Kris_Wu" title="Kris Wu">Kris</a> who left a few months earlier.
+</p><p>Since leaving, he has been active in Mandopop/C-pop, releasing his first solo single "That Good Good". He was also a cast member of <i>Running Man China</i> until 2019.
 </p>
 <div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Career"><span class="tocnumber">1</span> <span class="toctext">Career</span></a>
+<li class="toclevel-1 tocsection-1"><a href="#Personal_life"><span class="tocnumber">1</span> <span class="toctext">Personal life</span></a>
 <ul>
-<li class="toclevel-2 tocsection-2"><a href="#2012–2015:_GLAM"><span class="tocnumber">1.1</span> <span class="toctext">2012–2015: GLAM</span></a></li>
+<li class="toclevel-2 tocsection-2"><a href="#Relationship"><span class="tocnumber">1.1</span> <span class="toctext">Relationship</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-3"><a href="#Gallery"><span class="tocnumber">2</span> <span class="toctext">Gallery</span></a>
+<li class="toclevel-1 tocsection-3"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
 <ul>
-<li class="toclevel-2 tocsection-4"><a href="#Promotional"><span class="tocnumber">2.1</span> <span class="toctext">Promotional</span></a></li>
-<li class="toclevel-2 tocsection-5"><a href="#Pictorial"><span class="tocnumber">2.2</span> <span class="toctext">Pictorial</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Chinese"><span class="tocnumber">2.1</span> <span class="toctext">Chinese</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Studio_albums"><span class="tocnumber">2.1.1</span> <span class="toctext">Studio albums</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Mini_albums"><span class="tocnumber">2.1.2</span> <span class="toctext">Mini albums</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Digital_singles"><span class="tocnumber">2.1.3</span> <span class="toctext">Digital singles</span></a></li>
 </ul>
 </li>
-<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Producing_and_writing_credits"><span class="tocnumber">3</span> <span class="toctext">Producing and writing credits</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trivia"><span class="tocnumber">4</span> <span class="toctext">Trivia</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Gallery"><span class="tocnumber">5</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Official_links"><span class="tocnumber">7</span> <span class="toctext">Official links</span></a></li>
 </ul>
 </div>
-<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span id="2012.E2.80.932015:_GLAM"></span><span class="mw-headline" id="2012–2015:_GLAM">2012–2015: GLAM</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On May 31, 2012, she was revealed as the 3rd member of the girl group <a href="/wiki/GLAM" title="GLAM">GLAM</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> She debuted on July 16, 2012 with the single "<a href="/wiki/Party_(XXO)" title="Party (XXO)">Party (XXO)</a>" under the stage name <i>Zinni</i>, as the group's Main Rapper &amp; Main Dancer, before the group disbanded in 2015.
-</p><p>After the disbandment of the group, Jiny pursued a career in skateboarding, specifically longboarding.
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Relationship">Relationship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On November 7, Chinese media announced that Luhan has registered his marriage with Guan Xiaotong, but Xiaotong's father has denied the rumors stating that they will reveal their marriage publicly when it happens.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
 </p>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Promotional">Promotional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="a2d1cd77d16e1a63710a9eaf7c9f0d13" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="GLAM_Zinni_Party_XXO_promotional_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:GLAM_Zinni_Party_XXO_promotional_photo.png" style="height:150px; width:150px;" title="GLAM Zinni Party XXO promotional photo.png (129 KB)"><noscript><img alt='"Party (XXO)"' class="thumbimage" data-caption='""' data-image-key="GLAM_Zinni_Party_XXO_promotional_photo.png" data-image-name="GLAM Zinni Party XXO promotional photo.png" data-relevant="1" height="221" src="https://static.wikia.nocookie.net/kpop/images/d/d1/GLAM_Zinni_Party_XXO_promotional_photo.png/revision/latest/scale-to-width-down/150?cb=20220913093957" style="" title="GLAM Zinni Party XXO promotional photo.png (129 KB)" width="150"/></noscript><img alt='"Party (XXO)"' class="thumbimage lazyload" data-caption='""' data-image-key="GLAM_Zinni_Party_XXO_promotional_photo.png" data-image-name="GLAM Zinni Party XXO promotional photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/d/d1/GLAM_Zinni_Party_XXO_promotional_photo.png/revision/latest/scale-to-width-down/150?cb=20220913093957" height="221" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="GLAM Zinni Party XXO promotional photo.png (129 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/Party_(XXO)" title="Party (XXO)">Party (XXO)</a>"</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="GLAM_Zinni_I_Like_That_promotional_photo_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:GLAM_Zinni_I_Like_That_promotional_photo_1.png" style="height:150px; width:150px;" title="GLAM Zinni I Like That promotional photo 1.png (518 KB)"><noscript><img alt='"I Like That" (1)' class="thumbimage" data-caption='"" (1)' data-image-key="GLAM_Zinni_I_Like_That_promotional_photo_1.png" data-image-name="GLAM Zinni I Like That promotional photo 1.png" data-relevant="1" height="194" src="https://static.wikia.nocookie.net/kpop/images/e/ef/GLAM_Zinni_I_Like_That_promotional_photo_1.png/revision/latest/scale-to-width-down/150?cb=20220913093738" style="" title="GLAM Zinni I Like That promotional photo 1.png (518 KB)" width="150"/></noscript><img alt='"I Like That" (1)' class="thumbimage lazyload" data-caption='"" (1)' data-image-key="GLAM_Zinni_I_Like_That_promotional_photo_1.png" data-image-name="GLAM Zinni I Like That promotional photo 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/ef/GLAM_Zinni_I_Like_That_promotional_photo_1.png/revision/latest/scale-to-width-down/150?cb=20220913093738" height="194" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="GLAM Zinni I Like That promotional photo 1.png (518 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/I_Like_That" title="I Like That">I Like That</a>" (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="GLAM_Zinni_I_Like_That_promotional_photo_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:GLAM_Zinni_I_Like_That_promotional_photo_2.png" style="height:150px; width:150px;" title="GLAM Zinni I Like That promotional photo 2.png (306 KB)"><noscript><img alt='"I Like That" (2)' class="thumbimage" data-caption='"" (2)' data-image-key="GLAM_Zinni_I_Like_That_promotional_photo_2.png" data-image-name="GLAM Zinni I Like That promotional photo 2.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/a/af/GLAM_Zinni_I_Like_That_promotional_photo_2.png/revision/latest/scale-to-width-down/150?cb=20220913093757" style="" title="GLAM Zinni I Like That promotional photo 2.png (306 KB)" width="150"/></noscript><img alt='"I Like That" (2)' class="thumbimage lazyload" data-caption='"" (2)' data-image-key="GLAM_Zinni_I_Like_That_promotional_photo_2.png" data-image-name="GLAM Zinni I Like That promotional photo 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/af/GLAM_Zinni_I_Like_That_promotional_photo_2.png/revision/latest/scale-to-width-down/150?cb=20220913093757" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="GLAM Zinni I Like That promotional photo 2.png (306 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/I_Like_That" title="I Like That">I Like That</a>" (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="GLAM_Zinni_In_Front_of_the_Mirror_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:GLAM_Zinni_In_Front_of_the_Mirror_promo_photo.png" style="height:150px; width:150px;" title="GLAM Zinni In Front of the Mirror promo photo.png (817 KB)"><noscript><img alt='"In Front of the Mirror"' class="thumbimage" data-caption='""' data-image-key="GLAM_Zinni_In_Front_of_the_Mirror_promo_photo.png" data-image-name="GLAM Zinni In Front of the Mirror promo photo.png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/6/62/GLAM_Zinni_In_Front_of_the_Mirror_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20220705190622" style="" title="GLAM Zinni In Front of the Mirror promo photo.png (817 KB)" width="150"/></noscript><img alt='"In Front of the Mirror"' class="thumbimage lazyload" data-caption='""' data-image-key="GLAM_Zinni_In_Front_of_the_Mirror_promo_photo.png" data-image-name="GLAM Zinni In Front of the Mirror promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/6/62/GLAM_Zinni_In_Front_of_the_Mirror_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20220705190622" height="200" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="GLAM Zinni In Front of the Mirror promo photo.png (817 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"<a href="/wiki/In_Front_of_the_Mirror" title="In Front of the Mirror">In Front of the Mirror</a>"</div></div></div>
-<h3><span class="mw-headline" id="Pictorial">Pictorial</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="1" hash="e6d851da56d5baf2189fecfa46213f59" id="gallery-1"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="GLAM_Zinni_Men-s_Health_-September_2012--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:GLAM_Zinni_Men%27s_Health_(September_2012).png" style="height:150px; width:150px;" title="GLAM Zinni Men's Health (September 2012).png (590 KB)"><noscript><img alt="Men’s Health (September 2012)" class="thumbimage" data-caption='&lt;i&gt;Men’s Health&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(September 2012)&lt;/span&gt;' data-image-key="GLAM_Zinni_Men%27s_Health_%28September_2012%29.png" data-image-name="GLAM Zinni Men's Health (September 2012).png" data-relevant="1" height="174" src="https://static.wikia.nocookie.net/kpop/images/4/4e/GLAM_Zinni_Men%27s_Health_%28September_2012%29.png/revision/latest/scale-to-width-down/150?cb=20220913102615" style="" title="GLAM Zinni Men's Health (September 2012).png (590 KB)" width="150"/></noscript><img alt="Men’s Health (September 2012)" class="thumbimage lazyload" data-caption='&lt;i&gt;Men’s Health&lt;/i&gt;&lt;br /&gt;&lt;span style="font-size:85%;"&gt;(September 2012)&lt;/span&gt;' data-image-key="GLAM_Zinni_Men%27s_Health_%28September_2012%29.png" data-image-name="GLAM Zinni Men's Health (September 2012).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4e/GLAM_Zinni_Men%27s_Health_%28September_2012%29.png/revision/latest/scale-to-width-down/150?cb=20220913102615" height="174" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="GLAM Zinni Men's Health (September 2012).png (590 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i>Men’s Health</i><br/><span style="font-size:85%;">(September 2012)</span></div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FJiny_Kim%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Chinese">Chinese</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i>Reloaded</i> (2015)</li>
+<li><i>XXVII+</i> (2017)</li></ul>
+<h4><span class="mw-headline" id="Mini_albums">Mini albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i>Reloaded I</i> (2015)</li>
+<li><i>Reloaded II</i> (2015)</li>
+<li><i>Reloaded+ </i> (2015)</li></ul>
+<h4><span class="mw-headline" id="Digital_singles">Digital singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"Your Song" (2015)</li>
+<li>"Football Gang" (2015)</li>
+<li>"Medals" (2015)</li>
+<li>"Promises" (2015)</li>
+<li>"Xperience" (2016)</li>
+<li>"Xplore" (2016)</li>
+<li>"Venture" (2017)</li>
+<li>"Imagination" (2017)</li>
+<li>"I" (2017)</li></ul>
+<h2><span class="mw-headline" id="Producing_and_writing_credits">Producing and writing credits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>All credits adapted from KOMCA, unless stated.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup></li></ul>
+<table class="wikitable" style="text-align:center;">
+<tbody><tr>
+<th align="center">Artist
+</th>
+<th align="center">Song
+</th>
+<th align="center">Album
+</th>
+<th align="center">Type
+</th></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2017
+</th></tr>
+<tr>
+<td><b>Himself</b>
+</td>
+<td>"Roleplay"
+</td>
+<td>"Venture"
+</td>
+<td>Writing
+</td></tr>
+<tr>
+<th colspan="4" style="text-align:center;">2018
+</th></tr>
+<tr>
+<td><b>Himself</b>
+</td>
+<td colspan="2">"The Moment"
+</td>
+<td>Writing
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Trivia">Trivia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D9&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>He was one of the Chinese members of EXO along with <a href="/wiki/Lay" title="Lay">Lay</a>, <a href="/wiki/Kris_Wu" title="Kris Wu">Kris</a> and <a href="/wiki/Tao" title="Tao">Tao</a>.</li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D10&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="fe9af9bcef4be03ff70fe4a048cb5c17" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_1.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 1.png (1.44 MB)"><noscript><img alt="Mama (1)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (1)" data-image-key="EXO_M_Luhan_Mama_concept_photo_1.png" data-image-name="EXO M Luhan Mama concept photo 1.png" data-relevant="1" height="258" src="https://static.wikia.nocookie.net/kpop/images/f/f6/EXO_M_Luhan_Mama_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20200723075659" style="" title="EXO M Luhan Mama concept photo 1.png (1.44 MB)" width="150"/></noscript><img alt="Mama (1)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (1)" data-image-key="EXO_M_Luhan_Mama_concept_photo_1.png" data-image-name="EXO M Luhan Mama concept photo 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/f/f6/EXO_M_Luhan_Mama_concept_photo_1.png/revision/latest/scale-to-width-down/150?cb=20200723075659" height="258" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 1.png (1.44 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_2.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 2.png (1.13 MB)"><noscript><img alt="Mama (2)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (2)" data-image-key="EXO_M_Luhan_Mama_concept_photo_2.png" data-image-name="EXO M Luhan Mama concept photo 2.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/b/bb/EXO_M_Luhan_Mama_concept_photo_2.png/revision/latest/scale-to-width-down/225?cb=20241201015416" style="" title="EXO M Luhan Mama concept photo 2.png (1.13 MB)" width="225"/></noscript><img alt="Mama (2)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (2)" data-image-key="EXO_M_Luhan_Mama_concept_photo_2.png" data-image-name="EXO M Luhan Mama concept photo 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/bb/EXO_M_Luhan_Mama_concept_photo_2.png/revision/latest/scale-to-width-down/225?cb=20241201015416" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 2.png (1.13 MB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (2)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_3-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_3.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 3.png (319 KB)"><noscript><img alt="Mama (3)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (3)" data-image-key="EXO_M_Luhan_Mama_concept_photo_3.png" data-image-name="EXO M Luhan Mama concept photo 3.png" data-relevant="1" height="180" src="https://static.wikia.nocookie.net/kpop/images/c/c0/EXO_M_Luhan_Mama_concept_photo_3.png/revision/latest/scale-to-width-down/150?cb=20241201015416" style="" title="EXO M Luhan Mama concept photo 3.png (319 KB)" width="150"/></noscript><img alt="Mama (3)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (3)" data-image-key="EXO_M_Luhan_Mama_concept_photo_3.png" data-image-name="EXO M Luhan Mama concept photo 3.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c0/EXO_M_Luhan_Mama_concept_photo_3.png/revision/latest/scale-to-width-down/150?cb=20241201015416" height="180" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 3.png (319 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (3)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_4-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_4.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 4.png (545 KB)"><noscript><img alt="Mama (4)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (4)" data-image-key="EXO_M_Luhan_Mama_concept_photo_4.png" data-image-name="EXO M Luhan Mama concept photo 4.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/5/55/EXO_M_Luhan_Mama_concept_photo_4.png/revision/latest/scale-to-width-down/202?cb=20241201015415" style="" title="EXO M Luhan Mama concept photo 4.png (545 KB)" width="202"/></noscript><img alt="Mama (4)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (4)" data-image-key="EXO_M_Luhan_Mama_concept_photo_4.png" data-image-name="EXO M Luhan Mama concept photo 4.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/55/EXO_M_Luhan_Mama_concept_photo_4.png/revision/latest/scale-to-width-down/202?cb=20241201015415" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 4.png (545 KB)" width="202"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (4)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_5-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_5.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 5.png (482 KB)"><noscript><img alt="Mama (5)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (5)" data-image-key="EXO_M_Luhan_Mama_concept_photo_5.png" data-image-name="EXO M Luhan Mama concept photo 5.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/0/09/EXO_M_Luhan_Mama_concept_photo_5.png/revision/latest/scale-to-width-down/191?cb=20241201015415" style="" title="EXO M Luhan Mama concept photo 5.png (482 KB)" width="191"/></noscript><img alt="Mama (5)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (5)" data-image-key="EXO_M_Luhan_Mama_concept_photo_5.png" data-image-name="EXO M Luhan Mama concept photo 5.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/0/09/EXO_M_Luhan_Mama_concept_photo_5.png/revision/latest/scale-to-width-down/191?cb=20241201015415" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 5.png (482 KB)" width="191"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (5)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_6-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_6.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 6.png (408 KB)"><noscript><img alt="Mama (6)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (6)" data-image-key="EXO_M_Luhan_Mama_concept_photo_6.png" data-image-name="EXO M Luhan Mama concept photo 6.png" data-relevant="1" height="158" src="https://static.wikia.nocookie.net/kpop/images/e/e3/EXO_M_Luhan_Mama_concept_photo_6.png/revision/latest/scale-to-width-down/150?cb=20241201015415" style="" title="EXO M Luhan Mama concept photo 6.png (408 KB)" width="150"/></noscript><img alt="Mama (6)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (6)" data-image-key="EXO_M_Luhan_Mama_concept_photo_6.png" data-image-name="EXO M Luhan Mama concept photo 6.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/e3/EXO_M_Luhan_Mama_concept_photo_6.png/revision/latest/scale-to-width-down/150?cb=20241201015415" height="158" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 6.png (408 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (6)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_7-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_7.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 7.png (401 KB)"><noscript><img alt="Mama (7)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (7)" data-image-key="EXO_M_Luhan_Mama_concept_photo_7.png" data-image-name="EXO M Luhan Mama concept photo 7.png" data-relevant="1" height="188" src="https://static.wikia.nocookie.net/kpop/images/7/70/EXO_M_Luhan_Mama_concept_photo_7.png/revision/latest/scale-to-width-down/150?cb=20241201015414" style="" title="EXO M Luhan Mama concept photo 7.png (401 KB)" width="150"/></noscript><img alt="Mama (7)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (7)" data-image-key="EXO_M_Luhan_Mama_concept_photo_7.png" data-image-name="EXO M Luhan Mama concept photo 7.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/7/70/EXO_M_Luhan_Mama_concept_photo_7.png/revision/latest/scale-to-width-down/150?cb=20241201015414" height="188" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 7.png (401 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (7)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_8-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_8.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 8.png (611 KB)"><noscript><img alt="Mama (8)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (8)" data-image-key="EXO_M_Luhan_Mama_concept_photo_8.png" data-image-name="EXO M Luhan Mama concept photo 8.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/5/50/EXO_M_Luhan_Mama_concept_photo_8.png/revision/latest/scale-to-width-down/166?cb=20241201015412" style="" title="EXO M Luhan Mama concept photo 8.png (611 KB)" width="166"/></noscript><img alt="Mama (8)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (8)" data-image-key="EXO_M_Luhan_Mama_concept_photo_8.png" data-image-name="EXO M Luhan Mama concept photo 8.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/50/EXO_M_Luhan_Mama_concept_photo_8.png/revision/latest/scale-to-width-down/166?cb=20241201015412" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 8.png (611 KB)" width="166"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (8)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_9-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_9.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 9.png (251 KB)"><noscript><img alt="Mama (9)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (9)" data-image-key="EXO_M_Luhan_Mama_concept_photo_9.png" data-image-name="EXO M Luhan Mama concept photo 9.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/8/83/EXO_M_Luhan_Mama_concept_photo_9.png/revision/latest/scale-to-width-down/150?cb=20241201015411" style="" title="EXO M Luhan Mama concept photo 9.png (251 KB)" width="150"/></noscript><img alt="Mama (9)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (9)" data-image-key="EXO_M_Luhan_Mama_concept_photo_9.png" data-image-name="EXO M Luhan Mama concept photo 9.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/8/83/EXO_M_Luhan_Mama_concept_photo_9.png/revision/latest/scale-to-width-down/150?cb=20241201015411" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 9.png (251 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (9)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_10-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_10.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 10.png (563 KB)"><noscript><img alt="Mama (10)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (10)" data-image-key="EXO_M_Luhan_Mama_concept_photo_10.png" data-image-name="EXO M Luhan Mama concept photo 10.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/2/2b/EXO_M_Luhan_Mama_concept_photo_10.png/revision/latest/scale-to-width-down/210?cb=20241201015410" style="" title="EXO M Luhan Mama concept photo 10.png (563 KB)" width="210"/></noscript><img alt="Mama (10)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (10)" data-image-key="EXO_M_Luhan_Mama_concept_photo_10.png" data-image-name="EXO M Luhan Mama concept photo 10.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/2/2b/EXO_M_Luhan_Mama_concept_photo_10.png/revision/latest/scale-to-width-down/210?cb=20241201015410" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 10.png (563 KB)" width="210"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (10)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_11-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_11.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 11.png (891 KB)"><noscript><img alt="Mama (11)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (11)" data-image-key="EXO_M_Luhan_Mama_concept_photo_11.png" data-image-name="EXO M Luhan Mama concept photo 11.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/e/e8/EXO_M_Luhan_Mama_concept_photo_11.png/revision/latest/scale-to-width-down/225?cb=20241201015411" style="" title="EXO M Luhan Mama concept photo 11.png (891 KB)" width="225"/></noscript><img alt="Mama (11)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (11)" data-image-key="EXO_M_Luhan_Mama_concept_photo_11.png" data-image-name="EXO M Luhan Mama concept photo 11.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/e8/EXO_M_Luhan_Mama_concept_photo_11.png/revision/latest/scale-to-width-down/225?cb=20241201015411" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 11.png (891 KB)" width="225"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (11)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_M_Luhan_Mama_concept_photo_12-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_M_Luhan_Mama_concept_photo_12.png" style="height:150px; width:150px;" title="EXO M Luhan Mama concept photo 12.png (402 KB)"><noscript><img alt="Mama (12)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (12)" data-image-key="EXO_M_Luhan_Mama_concept_photo_12.png" data-image-name="EXO M Luhan Mama concept photo 12.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/3/3b/EXO_M_Luhan_Mama_concept_photo_12.png/revision/latest/scale-to-width-down/150?cb=20241201015410" style="" title="EXO M Luhan Mama concept photo 12.png (402 KB)" width="150"/></noscript><img alt="Mama (12)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (12)" data-image-key="EXO_M_Luhan_Mama_concept_photo_12.png" data-image-name="EXO M Luhan Mama concept photo 12.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/3/3b/EXO_M_Luhan_Mama_concept_photo_12.png/revision/latest/scale-to-width-down/150?cb=20241201015410" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO M Luhan Mama concept photo 12.png (402 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i> (12)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_Luhan_XOXO_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_Luhan_XOXO_promo_photo.png" style="height:150px; width:150px;" title="EXO Luhan XOXO promo photo.png (3.51 MB)"><noscript><img alt="XOXO" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_XOXO_promo_photo.png" data-image-name="EXO Luhan XOXO promo photo.png" data-relevant="1" height="239" src="https://static.wikia.nocookie.net/kpop/images/a/a4/EXO_Luhan_XOXO_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075701" style="" title="EXO Luhan XOXO promo photo.png (3.51 MB)" width="150"/></noscript><img alt="XOXO" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_XOXO_promo_photo.png" data-image-name="EXO Luhan XOXO promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a4/EXO_Luhan_XOXO_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075701" height="239" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO Luhan XOXO promo photo.png (3.51 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/XOXO_(EXO)" title="XOXO (EXO)">XOXO</a></i></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_Luhan_XOXO_Repackage_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_Luhan_XOXO_Repackage_promo_photo.png" style="height:150px; width:150px;" title="EXO Luhan XOXO Repackage promo photo.png (1.69 MB)"><noscript><img alt="XOXO (Repackage)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_XOXO_Repackage_promo_photo.png" data-image-name="EXO Luhan XOXO Repackage promo photo.png" data-relevant="1" height="213" src="https://static.wikia.nocookie.net/kpop/images/c/c4/EXO_Luhan_XOXO_Repackage_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075701" style="" title="EXO Luhan XOXO Repackage promo photo.png (1.69 MB)" width="150"/></noscript><img alt="XOXO (Repackage)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_XOXO_Repackage_promo_photo.png" data-image-name="EXO Luhan XOXO Repackage promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/c/c4/EXO_Luhan_XOXO_Repackage_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075701" height="213" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO Luhan XOXO Repackage promo photo.png (1.69 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/XOXO_(Repackage)" title="XOXO (Repackage)">XOXO (Repackage)</a></i></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_Luhan_Miracles_in_December_promo_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_Luhan_Miracles_in_December_promo_photo.png" style="height:150px; width:150px;" title="EXO Luhan Miracles in December promo photo.png (1.36 MB)"><noscript><img alt="Miracles in December" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_Miracles_in_December_promo_photo.png" data-image-name="EXO Luhan Miracles in December promo photo.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/e/e5/EXO_Luhan_Miracles_in_December_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075659" style="" title="EXO Luhan Miracles in December promo photo.png (1.36 MB)" width="150"/></noscript><img alt="Miracles in December" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt;" data-image-key="EXO_Luhan_Miracles_in_December_promo_photo.png" data-image-name="EXO Luhan Miracles in December promo photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/e5/EXO_Luhan_Miracles_in_December_promo_photo.png/revision/latest/scale-to-width-down/150?cb=20200723075659" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO Luhan Miracles in December promo photo.png (1.36 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Miracles_in_December" title="Miracles in December">Miracles in December</a></i></div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="Overdose_Luhan_photo-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:Overdose_Luhan_photo.png" style="height:150px; width:150px;" title="Overdose Luhan photo.png (228 KB)"><noscript><img alt="Overdose (1)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (1)" data-image-key="Overdose_Luhan_photo.png" data-image-name="Overdose Luhan photo.png" data-relevant="1" height="225" src="https://static.wikia.nocookie.net/kpop/images/2/2d/Overdose_Luhan_photo.png/revision/latest/scale-to-width-down/150?cb=20160605163426" style="" title="Overdose Luhan photo.png (228 KB)" width="150"/></noscript><img alt="Overdose (1)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (1)" data-image-key="Overdose_Luhan_photo.png" data-image-name="Overdose Luhan photo.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/2/2d/Overdose_Luhan_photo.png/revision/latest/scale-to-width-down/150?cb=20160605163426" height="225" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="Overdose Luhan photo.png (228 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Overdose" title="Overdose">Overdose</a></i> (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="EXO_Luhan_Overdose_promo_photo_-2--png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:EXO_Luhan_Overdose_promo_photo_(2).png" style="height:150px; width:150px;" title="EXO Luhan Overdose promo photo (2).png (1.28 MB)"><noscript><img alt="Overdose (2)" class="thumbimage" data-caption="&lt;i&gt;&lt;/i&gt; (2)" data-image-key="EXO_Luhan_Overdose_promo_photo_%282%29.png" data-image-name="EXO Luhan Overdose promo photo (2).png" data-relevant="1" height="216" src="https://static.wikia.nocookie.net/kpop/images/4/4c/EXO_Luhan_Overdose_promo_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20200723075700" style="" title="EXO Luhan Overdose promo photo (2).png (1.28 MB)" width="150"/></noscript><img alt="Overdose (2)" class="thumbimage lazyload" data-caption="&lt;i&gt;&lt;/i&gt; (2)" data-image-key="EXO_Luhan_Overdose_promo_photo_%282%29.png" data-image-name="EXO Luhan Overdose promo photo (2).png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/4/4c/EXO_Luhan_Overdose_promo_photo_%282%29.png/revision/latest/scale-to-width-down/150?cb=20200723075700" height="216" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="EXO Luhan Overdose promo photo (2).png (1.28 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;"><i><a href="/wiki/Overdose" title="Overdose">Overdose</a></i> (2)</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D11&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
 <div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
 <div class="reflist" style="font-size: 12px; list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=JZY85BgLJu4&amp;ab_channel=GLAMofficialvideo" rel="nofollow noreferrer noopener" target="_blank">글램(GLAM) MTV 스팟 : 'ZINNI'편</a></span>
+<li id="cite_note-baidubaike-1"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-baidubaike_1-0">1.0</a></sup> <sup><a href="#cite_ref-baidubaike_1-1">1.1</a></sup> <sup><a href="#cite_ref-baidubaike_1-2">1.2</a></sup></span> <span class="reference-text"><a class="external text" href="https://baike.baidu.com/item/%E9%B9%BF%E6%99%97?fromModule=lemma_search-box" rel="nofollow noreferrer noopener" target="_blank">(ZH) Baidu Baike: Lu Han profile</a></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.youtube.com/watch?v=rNP7VvCfAos&amp;ab_channel=GLAMofficialvideo" rel="nofollow noreferrer noopener" target="_blank">YouTube: GLAM 3rd member : ZINNI</a></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1552929wpp/former-exo-member-luhan-reported-to-have-registered-marriage-girlfriends-father-denies-rumors" rel="nofollow noreferrer noopener" target="_blank">Soompi: Former EXO Member Luhan Reported To Have Registered Marriage + Girlfriend’s Father Denies Rumors</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.komca.or.kr/foreign2/eng/S01.jsp" rel="nofollow noreferrer noopener" target="_blank">KOMCA: Searching Works (search 10023501 under Writers &amp; Publishers)</a></span>
 </li>
 </ol></div></div>
 </div>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Jiny_Kim?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<h2><span class="mw-headline" id="Official_links">Official links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FLuhan%3Fveaction%3Dedit%26section%3D12&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="http://www.weibo.com/u/1537790411" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Luhan?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#FFF8E7; color:#000;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:EXO" title="Template:EXO"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:EXO?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/EXO" title="EXO">EXO</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Xiumin" title="Xiumin">Xiumin</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Suho" title="Suho">Suho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Lay" title="Lay">Lay</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Baekhyun" title="Baekhyun">Baekhyun</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chen" title="Chen">Chen</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Chanyeol" title="Chanyeol">Chanyeol</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/D.O." title="D.O.">D.O.</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kai_(EXO)" title="Kai (EXO)">Kai</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Sehun" title="Sehun">Sehun</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><strong class="mw-selflink selflink">Luhan</strong></span>  •  <span style="white-space:nowrap"><a href="/wiki/Kris_Wu" title="Kris Wu">Kris</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Tao" title="Tao">Tao</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/XOXO_(EXO)" title="XOXO (EXO)">EXO</a></i> <small>(<i><a href="/wiki/XOXO_(Repackage)" title="XOXO (Repackage)">XOXO (Repackage)</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Exodus" title="Exodus">Exodus</a></i> <small>(<i><a href="/wiki/Love_Me_Right" title="Love Me Right">Love Me Right</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Ex%27act" title="Ex'act">Ex'act</a></i> <small>(<i><a href="/wiki/Lotto_(EXO)" title="Lotto (EXO)">Lotto</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_War_(EXO)" title="The War (EXO)">The War</a></i> <small>(<i><a href="/wiki/The_War:_The_Power_of_Music" title="The War: The Power of Music">The War: The Power of Music</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Don%27t_Mess_Up_My_Tempo" title="Don't Mess Up My Tempo">Don't Mess Up My Tempo</a></i> <small>(<i><a href="/wiki/Love_Shot" title="Love Shot">Love Shot</a></i>)</small></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Obsession_(EXO)" title="Obsession (EXO)">Obsession</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Exist" title="Exist">Exist</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Live albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Exology_Chapter_1:_The_Lost_Planet" title="Exology Chapter 1: The Lost Planet">Exology Chapter 1: The Lost Planet</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/EXO_Planet_3_-_The_EXO%27rdium_(Dot)" title="EXO Planet 3 - The EXO'rdium (Dot)">EXO Planet #3 - The EXO'rdium (Dot)</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/EXO_Planet_4_-_The_E%E2%84%93yXiOn_(Dot)" title="EXO Planet 4 - The EℓyXiOn (Dot)">EXO Planet #4 - The EℓyXiOn (Dot)</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/EXO_Planet_5_%E2%80%93EXplOration%E2%80%93" title="EXO Planet 5 –EXplOration–">EXO Planet #5 –EXplOration–</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Mama_(EXO)" title="Mama (EXO)">Mama</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Overdose" title="Overdose">Overdose</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Special albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Miracles_in_December" title="Miracles in December">Miracles in December</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sing_For_You" title="Sing For You">Sing For You</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/For_Life" title="For Life">For Life</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Universe_(EXO)" title="Universe (EXO)">Universe</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Don%27t_Fight_The_Feeling" title="Don't Fight The Feeling">Don't Fight The Feeling</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/What_Is_Love_(EXO)" title="What Is Love (EXO)">What Is Love</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/History_(EXO)" title="History (EXO)">History</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Monster_(LDN_Noise_Creeper_Bass_Remix)" title="Monster (LDN Noise Creeper Bass Remix)">Monster (LDN Noise Creeper Bass Remix)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Power_(Remixes)" title="Power (Remixes)">Power (Remixes)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Let_Me_In_(EXO)" title="Let Me In (EXO)">Let Me In</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Hear_Me_Out" title="Hear Me Out">Hear Me Out</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Lightsaber" title="Lightsaber">Lightsaber</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Collaborations</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Dancing_King" title="Dancing King">Dancing King</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Countdown" title="Countdown">Countdown</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Love_Me_Right_%EF%BD%9ERomantic_Universe%EF%BD%9E" title="Love Me Right ～Romantic Universe～">Love Me Right ～Romantic Universe～</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Coming_Over" title="Coming Over">Coming Over</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bird_(EXO)" title="Bird (EXO)">Bird</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Bird_(EXO_Planet_5_-_EXplOration_-_in_Japan)" title="Bird (EXO Planet 5 - EXplOration - in Japan)">Bird (EXO Planet 5 - EXplOration - in Japan)</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Bird_(The_Best_Ver.)" title="Bird (The Best Ver.)">Bird (The Best Ver.)</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Promotional singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Lightsaber" title="Lightsaber">Lightsaber</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRVhPX2Zyb21fRXhvcGxhbmV0X05vLl8xXyVFMiU4MCU5M19UaGVfTG9zdF9QbGFuZXQ/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="EXO from Exoplanet No. 1 – The Lost Planet (page does not exist)">EXO from Exoplanet #1 – The Lost Planet</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRVhPX1BsYW5ldF9Oby5fMl8lRTIlODAlOTNfVGhlX0V4byUyN2x1eGlvbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="EXO Planet No. 2 – The Exo'luxion (page does not exist)">EXO Planet #2 – The Exo'luxion</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/EXO_Planet_No._3_%E2%80%93_The_Exo%27rdium" title="EXO Planet No. 3 – The Exo'rdium">EXO Planet #3 – The Exo'rdium</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRVhPX1BsYW5ldF9Oby5fNF8lRTIlODAlOTNfVGhlX0UlRTIlODQlOTN5WGlPbj9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="EXO Planet No. 4 – The EℓyXiOn (page does not exist)">EXO Planet #4 – The EℓyXiOn</span></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRVhPX1BsYW5ldF9Oby5fNV8lRTIlODAlOTNfVGhlX0VYcGwlQzMlOThyYXRpb24/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="EXO Planet No. 5 – The EXplØration (page does not exist)">EXO Planet #5 – The EXplØration</span></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Fanmeetings</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/EXO_2022_Debut_Anniversary_Fan_Event" title="EXO 2022 Debut Anniversary Fan Event">EXO 2022 Debut Anniversary Fan Event</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/2023_EXO_Fanmeeting_%22EXO%27_Clock%22" title="2023 EXO Fanmeeting &quot;EXO' Clock&quot;">2023 EXO Fanmeeting "EXO' Clock"</a></span>  •  <span style="white-space:nowrap"><span class="new" data-uncrawlable-url="L3dpa2kvRVhPX0NoYW5uZWxfJTIyVGhlX0Jlc3QlMjI/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title='EXO Channel "The Best" (page does not exist)'>EXO Channel "The Best"</span></span>  •  <span style="white-space:nowrap"><a href="/wiki/2024_EXO_Fan_Meeting_:_One" title="2024 EXO Fan Meeting : One">2024 EXO Fan Meeting : One</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/EXO-K" title="EXO-K">EXO-K</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/EXO-M" title="EXO-M">EXO-M</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/EXO-CBX" title="EXO-CBX">EXO-CBX</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/EXO-SC" title="EXO-SC">EXO-SC</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://exo.smtown.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> (<a class="external text" href="http://exo-jp.net" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="https://exo-l.smtown.com/Home" rel="nofollow noreferrer noopener" target="_blank">Fanclub</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/weareoneEXO/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/weareone.exo/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.tiktok.com/@weareone.exo_official" rel="nofollow noreferrer noopener" target="_blank">TikTok</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/weareoneEXO" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> (<a class="external text" href="https://twitter.com/EXO_NEWS_JP" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weibo.com/weareoneexo" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/exo/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/channel/UCzCedBCSSltI1TFd3bKyN6g" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312183954
+Cached time: 20250316135840
 Cache expiry: 1209600
 Reduced expiry: false
 Complications: [show‐toc]
-CPU time usage: 0.178 seconds
-Real time usage: 0.203 seconds
-Preprocessor visited node count: 2630/1000000
-Post‐expand include size: 2064/2097152 bytes
-Template argument size: 332/2097152 bytes
-Highest expansion depth: 14/100
+CPU time usage: 0.247 seconds
+Real time usage: 0.271 seconds
+Preprocessor visited node count: 7560/1000000
+Post‐expand include size: 145660/2097152 bytes
+Template argument size: 105374/2097152 bytes
+Highest expansion depth: 23/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 10255/5000000 bytes
-Lua time usage: 0.023/7.000 seconds
-Lua memory usage: 1726722/52428800 bytes
+Unstrip post‐expand size: 28590/5000000 bytes
+Lua time usage: 0.019/7.000 seconds
+Lua memory usage: 1726922/52428800 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  187.164      1 -total
- 83.80%  156.839      1 Template:Infobox_person
- 27.92%   52.256      1 Template:Related_Wikis
- 26.59%   49.775      2 Template:Cvt
-  5.98%   11.198      1 Template:Reflist
-  5.15%    9.636      1 Template:Birth_date_and_age
-  4.94%    9.248      1 Template:Scroll_Box
-  2.52%    4.719      2 Template:MONTHNAME
-  1.40%    2.621      2 Template:MONTHNUMBER
-  1.31%    2.447      1 Template:YouTube
+100.00%  215.728      1 -total
+ 58.61%  126.445      1 Template:Infobox_person
+ 48.03%  103.605      9 Template:Navbox
+ 24.23%   52.280      1 Template:EXO
+ 23.49%   50.680      1 Template:Navbox_with_collapsible_groups
+ 18.32%   39.517      2 Template:Cvt
+ 17.24%   37.185      1 Template:Related_Wikis
+  9.56%   20.615     16 Template:List
+  8.11%   17.500     17 Template:Element_List
+  4.12%    8.879      1 Template:Birth_date_and_age
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:100232-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312183954 and revision id 513906. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:5320-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250316135840 and revision id 1092651. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2571,33 +2678,53 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="container">
 <ul class="categories">
 <li class="special-categories-label"><a class="categoriesLink" href="/wiki/Special:Categories" title="Special:Categories">Categories</a><span>: </span></li>
-<li class="category normal" data-name="1986 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:1986_births" title="Category:1986 births">1986 births</a></span>
+<li class="category normal" data-name="1990 births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:1990_births" title="Category:1990 births">1990 births</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="May births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:May_births" title="Category:May births">May births</a></span>
+<li class="category normal" data-name="April births" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:April_births" title="Category:April births">April births</a></span>
 <span class="tool removeCategory"></span>
 </li>
 <li class="category normal" data-name="Person article stubs" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
 <span class="name"><a href="/wiki/Category:Person_article_stubs" title="Category:Person article stubs">Person article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Female singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Female_singers" title="Category:Female singers">Female singers</a></span>
+<li class="category normal" data-name="Male singers" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Male_singers" title="Category:Male singers">Male singers</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="GLAM" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:GLAM" title="Category:GLAM">GLAM</a></span>
+<li class="category normal" data-name="Male soloists" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Male_soloists" title="Category:Male soloists">Male soloists</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="Jiny Kim" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:Jiny_Kim" title="Category:Jiny Kim">Jiny Kim</a></span>
+<li class="category normal" data-name="EXO" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:EXO" title="Category:EXO">EXO</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Younique Unit" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Younique_Unit" title="Category:Younique Unit">Younique Unit</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="EXO-M" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:EXO-M" title="Category:EXO-M">EXO-M</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Luhan" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Luhan" title="Category:Luhan">Luhan</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
 </div>
 </nav>
+</div>
+</div>
+<div class="wds-collapsible-panel wds-is-collapsed page-footer__languages">
+<header aria-controls="collapsible-content-languages" aria-expanded="false" class="wds-collapsible-panel__header">
+			Languages			<svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-menu-control-small"></use></svg> </header>
+<div class="wds-collapsible-panel__content" id="collapsible-content-languages">
+<a data-tracking-label="lang-fr" href="https://k-pop.fandom.com/fr/wiki/Luhan">Français</a>
+<a data-tracking-label="lang-pl" href="https://kpop.fandom.com/pl/wiki/Lu_Han">Polski</a>
 </div>
 </div>
 <div class="license-description">
@@ -2778,7 +2905,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9KaW55X0tpbT90aXRsZT1KaW55X0tpbSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9MdWhhbj90aXRsZT1MdWhhbiZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>

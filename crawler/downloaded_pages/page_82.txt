@@ -3,7 +3,7 @@
 <html class="client-nojs sse-other" dir="ltr" lang="en">
 <head>
 
-<title>Right Place, Wrong Person | Kpop Wiki | Fandom</title>
+<title>I'm Your Boy | Kpop Wiki | Fandom</title>
 
 
 
@@ -48,7 +48,7 @@
 
 
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Right_Place_Wrong_Person rootpage-Right_Place_Wrong_Person skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-I_m_Your_Boy rootpage-I_m_Your_Boy skin-fandomdesktop action-view ooui-theme-fandomooui wiki-kpop theme-fandomdesktop-light" data-theme="light">
 <div class="notifications-placeholder">
 <div class="banner-notifications-placeholder">
 <div class="wds-banner-notification__container">
@@ -67,17 +67,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1115,18 +1115,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -1135,18 +1125,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -1176,17 +1176,17 @@
 </div>
 <div class="global-action__item sign-in">
 <div class="wds-dropdown sign-in__dropdown">
-<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person">
+<a class="global-action__link wds-button sign-in__anchor" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy">
 <span class="global-action__button-label sign-in__label">
 <svg class="wds-icon wds-icon-small sign-in__icon"><use xlink:href="#wds-icons-avatar"></use></svg>				Sign In			</span>
 </a>
 <div class="wds-dropdown__content wds-is-not-scrollable wds-is-right-aligned sign-in__dropdown-content" dir="ltr">
 <div class="sign-in__register-text">
 				Don't have an account?			</div>
-<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person" rel="nofollow">
+<a aria-label="Register" class="wds-button wds-is-full-width global-action__register-link" data-tracking-label="account.register" href="https://auth.fandom.com/register?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy" rel="nofollow">
 				Register			</a>
 <hr/>
-<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person" rel="nofollow">
+<a aria-label="Sign In" class="wds-button wds-is-full-width wds-is-secondary global-action__sign-in-link" data-tracking-label="account.sign-in" href="https://auth.fandom.com/signin?source=mw&amp;redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy" rel="nofollow">
 				Sign In			</a>
 </div>
 </div>
@@ -1250,7 +1250,7 @@
 					Kpop Wiki				</a>
 </div>
 <div class="page-counter">
-<div class="page-counter__value">27,039</div><div class="page-counter__label">pages</div> </div>
+<div class="page-counter__value">27,059</div><div class="page-counter__label">pages</div> </div>
 <div class="wiki-tools wds-button-group">
 <a class="wds-button wds-is-secondary is-hidden-on-smaller-breakpoints wiki-tools__search" data-tracking="search" href="/wiki/Special:Search" title="Search">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-magnifying-glass-small"></use></svg> </a>
@@ -2284,18 +2284,8 @@
 <div class="wds-is-not-scrollable wds-dropdown-level-nested__content">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
-<span>Debut's Plan</span>
-</a>
-</li>
-<li>
 <a data-tracking="custom-level-3" href="/wiki/Under_15">
 <span>Under 15</span>
-</a>
-</li>
-<li>
-<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
-<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
@@ -2304,18 +2294,28 @@
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/NEWBEAT">
-<span>NEWBEAT</span>
+<a data-tracking="custom-level-3" href="/wiki/Debut%27s_Plan">
+<span>Debut's Plan</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Jiyu_(KiiiKiii)">
-<span>Jiyu (KiiiKiii)</span>
+<a data-tracking="custom-level-3" href="/wiki/Hearts2Hearts">
+<span>Hearts2Hearts</span>
 </a>
 </li>
 <li>
-<a data-tracking="custom-level-3" href="/wiki/Ian_(Hearts2Hearts)">
-<span>Ian (Hearts2Hearts)</span>
+<a data-tracking="custom-level-3" href="/wiki/2025_Jisoo_Asia_Tour_%22Lights,_Love,_Action!%22">
+<span>2025 Jisoo Asia Tour "Lights, Love, Action!"</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/NJZ">
+<span>NJZ</span>
+</a>
+</li>
+<li>
+<a data-tracking="custom-level-3" href="/wiki/The_Ruby_Experience">
+<span>The Ruby Experience</span>
 </a>
 </li>
 </ul>
@@ -2344,7 +2344,7 @@
 <div class="page-side-tools">
 <button aria-label="Expand" class="page-side-tool content-size-toggle" name="content-size-toggle">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-zoom-in-small"></use></svg> </button>
-<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
+<a aria-label="Sign in to edit" class="page-side-tool page-side-edit" data-tracking-label="log-in-edit-side-tool" data-wds-tooltip="Sign in to edit" data-wds-tooltip-position="right" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit-side-tool">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg> </a>
 </div>
 </div>
@@ -2353,15 +2353,23 @@
 <div class="page-header__meta">
 <div class="page-header__categories">
 <span class="page-header__categories-in">in:</span>
-<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:RM" title="Category:RM">RM</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
+<a data-tracking-label="categories-top-more-0" href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a>, <a data-tracking-label="categories-top-more-1" href="/wiki/Category:SHINee" title="Category:SHINee">SHINee</a>, <a data-tracking-label="categories-top-more-2" href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a>, 			<div class="wds-dropdown page-header__categories-dropdown">
 <span>and</span>
-<a class="wds-dropdown__toggle" data-tracking="categories-more">2 more</a>
+<a class="wds-dropdown__toggle" data-tracking="categories-more">6 more</a>
 <div class="wds-dropdown__content page-header__categories-dropdown-content wds-is-left-aligned">
 <ul class="wds-list wds-is-linked">
 <li>
-<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2024_studio_albums" title="Category:2024 studio albums">2024 studio albums</a> </li>
+<a data-tracking-label="categories-top-more-3" href="/wiki/Category:2014_releases" title="Category:2014 releases">2014 releases</a> </li>
 <li>
-<a data-tracking-label="categories-top-more-4" href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a> </li>
+<a data-tracking-label="categories-top-more-4" href="/wiki/Category:2014_studio_albums" title="Category:2014 studio albums">2014 studio albums</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-5" href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-6" href="/wiki/Category:Japanese_studio_albums" title="Category:Japanese studio albums">Japanese studio albums</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-7" href="/wiki/Category:2014_Japanese_releases" title="Category:2014 Japanese releases">2014 Japanese releases</a> </li>
+<li>
+<a data-tracking-label="categories-top-more-8" href="/wiki/Category:2014_Japanese_studio_albums" title="Category:2014 Japanese studio albums">2014 Japanese studio albums</a> </li>
 </ul>
 </div>
 </div>
@@ -2371,10 +2379,10 @@
 <div class="page-header__bottom">
 <div class="page-header__title-wrapper">
 <h1 class="page-header__title" id="firstHeading">
-<span class="mw-page-title-main">Right Place, Wrong Person</span> </h1>
+<span class="mw-page-title-main">I'm Your Boy</span> </h1>
 </div>
 <div class="page-header__actions" id="p-views">
-<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
+<a class="wds-button wds-is-text page-header__action-button has-label" data-tracking-label="log-in-edit" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy%3Fveaction%3Dedit&amp;uselang=en" id="log-in-edit">
 <svg class="wds-icon wds-icon-small"><use xlink:href="#wds-icons-pencil-small"></use></svg>						Sign in to edit					</a>
 <div class="wds-dropdown">
 <div aria-controls="p-cactions" aria-label="Page Tools" class="wds-dropdown__toggle wds-button wds-is-text page-header__action-button" data-tracking-label="dropdown-actions" role="button">
@@ -2382,15 +2390,15 @@
 <div class="wds-dropdown__content wds-is-right-aligned wds-is-not-scrollable" id="p-cactions">
 <ul class="wds-list wds-is-linked">
 <li>
-<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/Right_Place,_Wrong_Person?action=history" id="ca-history">
+<a accesskey="h" data-tracking-label="ca-history-dropdown" href="/wiki/I%27m_Your_Boy?action=history" id="ca-history">
 											History										</a>
 </li>
 <li>
-<a data-tracking-label="ca-purge-dropdown" href="/wiki/Right_Place,_Wrong_Person?action=purge" id="ca-purge">
+<a data-tracking-label="ca-purge-dropdown" href="/wiki/I%27m_Your_Boy?action=purge" id="ca-purge">
 											Purge										</a>
 </li>
 <li>
-<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:Right_Place,_Wrong_Person?action=edit&amp;redlink=1" id="ca-talk">
+<a accesskey="t" class="new" data-tracking-label="ca-talk-dropdown" href="/wiki/Talk:I%27m_Your_Boy?action=edit&amp;redlink=1" id="ca-talk">
 											Talk (0)										</a>
 </li>
 </ul>
@@ -2415,48 +2423,87 @@
 <!-- End Google Tag Manager (noscript) -->
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p>
 <aside class="portable-infobox pi-background pi-border-color pi-theme-album pi-layout-default" role="region">
-<figure class="pi-item pi-image" data-source="image">
-<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/1/19/RM_Right_Place%2C_Wrong_Person_digital_album_cover.png/revision/latest?cb=20240524192942" title="RM Right Place, Wrong Person digital album cover">
-<img alt="RM Right Place, Wrong Person digital album cover" class="pi-image-thumbnail" data-image-key="RM_Right_Place%2C_Wrong_Person_digital_album_cover.png" data-image-name="RM Right Place, Wrong Person digital album cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/1/19/RM_Right_Place%2C_Wrong_Person_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240524192942" srcset="https://static.wikia.nocookie.net/kpop/images/1/19/RM_Right_Place%2C_Wrong_Person_digital_album_cover.png/revision/latest/scale-to-width-down/268?cb=20240524192942 1x, https://static.wikia.nocookie.net/kpop/images/1/19/RM_Right_Place%2C_Wrong_Person_digital_album_cover.png/revision/latest/scale-to-width-down/536?cb=20240524192942 2x" width="270">
+<div class="pi-image-collection wds-tabber" data-source="image">
+<div class="wds-tabs__wrapper">
+<ul class="wds-tabs">
+<li class="wds-tabs__tab wds-is-current">
+<span class="wds-tabs__tab-label">
+							Regular
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Limited A
+							
+						</span>
+</li>
+<li class="wds-tabs__tab">
+<span class="wds-tabs__tab-label">
+							Limited B
+							
+						</span>
+</li>
+</ul>
+</div>
+<div class="wds-tab__content wds-is-current">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/5/5c/SHINee_I%27m_Your_Boy_cover.png/revision/latest?cb=20170223114233" title="Regular">
+<img alt="Regular" class="pi-image-thumbnail" data-image-key="SHINee I'm Your Boy cover.png" data-image-name="SHINee I'm Your Boy cover.png" data-relevant="1" height="270" src="https://static.wikia.nocookie.net/kpop/images/5/5c/SHINee_I%27m_Your_Boy_cover.png/revision/latest/scale-to-width-down/268?cb=20170223114233" srcset="https://static.wikia.nocookie.net/kpop/images/5/5c/SHINee_I%27m_Your_Boy_cover.png/revision/latest/scale-to-width-down/268?cb=20170223114233 1x, https://static.wikia.nocookie.net/kpop/images/5/5c/SHINee_I%27m_Your_Boy_cover.png/revision/latest/scale-to-width-down/536?cb=20170223114233 2x" width="270">
 </img></a>
 </figure>
-<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">Right Place, Wrong Person</h2>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/8/86/SHINee_I%27m_Your_Boy_%28Limited_A%29.png/revision/latest?cb=20170223114259" title="Limited A">
+<img alt="Limited A" class="pi-image-thumbnail" data-image-key="SHINee I'm Your Boy (Limited A).png" data-image-name="SHINee I'm Your Boy (Limited A).png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/8/86/SHINee_I%27m_Your_Boy_%28Limited_A%29.png/revision/latest/scale-to-width-down/268?cb=20170223114259" srcset="https://static.wikia.nocookie.net/kpop/images/8/86/SHINee_I%27m_Your_Boy_%28Limited_A%29.png/revision/latest/scale-to-width-down/268?cb=20170223114259 1x, https://static.wikia.nocookie.net/kpop/images/8/86/SHINee_I%27m_Your_Boy_%28Limited_A%29.png/revision/latest/scale-to-width-down/536?cb=20170223114259 2x" width="270"/>
+</a>
+</figure>
+</div>
+<div class="wds-tab__content">
+<figure class="pi-item pi-image">
+<a class="image image-thumbnail" href="https://static.wikia.nocookie.net/kpop/images/3/38/SHINee_I%27m_Your_Boy_%28Limited_B%29.png/revision/latest?cb=20170223114433" title="Limited B">
+<img alt="Limited B" class="pi-image-thumbnail" data-image-key="SHINee I'm Your Boy (Limited B).png" data-image-name="SHINee I'm Your Boy (Limited B).png" data-relevant="1" height="200" src="https://static.wikia.nocookie.net/kpop/images/3/38/SHINee_I%27m_Your_Boy_%28Limited_B%29.png/revision/latest/scale-to-width-down/268?cb=20170223114433" srcset="https://static.wikia.nocookie.net/kpop/images/3/38/SHINee_I%27m_Your_Boy_%28Limited_B%29.png/revision/latest/scale-to-width-down/268?cb=20170223114433 1x, https://static.wikia.nocookie.net/kpop/images/3/38/SHINee_I%27m_Your_Boy_%28Limited_B%29.png/revision/latest/scale-to-width-down/536?cb=20170223114433 2x" width="270"/>
+</a>
+</figure>
+</div>
+</div>
+<h2 class="pi-item pi-item-spacing pi-title pi-secondary-background" data-source="name">I'm Your Boy</h2>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="type">
 <h3 class="pi-data-label pi-secondary-font">Type</h3>
 <div class="pi-data-value pi-font">Studio</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="artist">
 <h3 class="pi-data-label pi-secondary-font">Artist</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/RM" title="RM">RM</a></div>
+<div class="pi-data-value pi-font"><a href="/wiki/SHINee" title="SHINee">SHINee</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="released">
 <h3 class="pi-data-label pi-secondary-font">Released</h3>
-<div class="pi-data-value pi-font">May 24, 2024</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="format">
-<h3 class="pi-data-label pi-secondary-font">Format(s)</h3>
-<div class="pi-data-value pi-font">CD, QR, download, streaming</div>
+<div class="pi-data-value pi-font">September 24, 2014<br/>October 1, 2014 <small>(Korea)</small><br/>October 8, 2014 <small>(Taiwan)</small></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="recorded">
 <h3 class="pi-data-label pi-secondary-font">Recorded</h3>
-<div class="pi-data-value pi-font">2024</div>
-</div>
-<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="genre">
-<h3 class="pi-data-label pi-secondary-font">Genre</h3>
-<div class="pi-data-value pi-font">Hip-hop, alternative hip-hop, indie pop, alternative pop, alternative rock, R&amp;B, soul, progressive jazz</div>
+<div class="pi-data-value pi-font">2012-2014</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="length">
 <h3 class="pi-data-label pi-secondary-font">Length</h3>
-<div class="pi-data-value pi-font">34:31</div>
+<div class="pi-data-value pi-font">39:52</div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="label">
 <h3 class="pi-data-label pi-secondary-font">Label(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></div>
+<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/EMI_Records_Japan" title="wikipedia:EMI Records Japan">EMI Records Japan</a><br/><a class="mw-redirect" href="/wiki/SM_Entertainment_Japan" title="SM Entertainment Japan">SM Entertainment Japan</a></div>
 </div>
 <div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="distributor">
 <h3 class="pi-data-label pi-secondary-font">Distributor(s)</h3>
-<div class="pi-data-value pi-font"><a href="/wiki/YG_PLUS" title="YG PLUS">YG PLUS</a><br/><a href="/wiki/HYBE" title="HYBE">HYBE</a> <span style="font-size:85%;"> (physical)</span></div>
+<div class="pi-data-value pi-font"><a class="extiw" href="https://en.wikipedia.org/wiki/Universal_Music_Japan" title="wikipedia:Universal Music Japan">Universal Music Japan</a></div>
 </div>
+<section class="pi-item pi-group pi-border-color">
+<h2 class="pi-item pi-header pi-secondary-font pi-item-spacing pi-secondary-background">Credits</h2>
+<div class="pi-item pi-data pi-item-spacing pi-border-color" data-source="producer">
+<h3 class="pi-data-label pi-secondary-font">Producer(s)</h3>
+<div class="pi-data-value pi-font"><a href="/wiki/Lee_Soo_Man" title="Lee Soo Man">Lee Soo Man</a></div>
+</div>
+</section>
 <section class="pi-item pi-group pi-border-color">
 <table class="pi-horizontal-group">
 <caption class="pi-header pi-secondary-font pi-secondary-background pi-item-spacing">Release chronology</caption>
@@ -2468,118 +2515,75 @@
 </thead>
 <tbody>
 <tr>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Come_Back_to_Me_(RM)" title="Come Back to Me (RM)">Come Back to Me</a>"</td>
-<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">N/A</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="previous">"<a href="/wiki/Lucky_Star_(SHINee)" title="Lucky Star (SHINee)">Lucky Star</a>"</td>
+<td class="pi-horizontal-group-item pi-data-value pi-font pi-border-color pi-item-spacing" data-source="next">"<a href="/wiki/Your_Number" title="Your Number">Your Number</a>"</td>
 </tr>
 </tbody>
 </table>
 </section>
 </aside>
-<i><b>Right Place, Wrong Person</b></i> is the second full-length album by <a href="/wiki/RM" title="RM">RM</a>. It was released on May 24, 2024 with "Lost!" serving as the album's title track.
-</p><p>"<a href="/wiki/Come_Back_to_Me_(RM)" title="Come Back to Me (RM)">Come Back to Me</a>" was pre-released on May 10.
-</p><p>The physical album comes in four versions: A, B, C and Weverse Album (QR).
+<i><b>I'm Your Boy</b></i> is the third Japanese studio album by <a href="/wiki/SHINee" title="SHINee">SHINee</a>. It was released on September 24, 2014, with "Downtown Baby" being the lead promotional track for the album.
+</p><p>The album features the group's previous Japanese singles "<a href="/wiki/Boys_Meet_U_(single)" title="Boys Meet U (single)">Boys Meet U</a>", "<a href="/wiki/3_2_1" title="3 2 1">3 2 1</a>" and "<a href="/wiki/Lucky_Star_(SHINee)" title="Lucky Star (SHINee)">Lucky Star</a>", as well as the Japanese version of "Everybody" originally released as a B-side on the single "3 2 1".
 </p>
-<div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"/><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Reception"><span class="tocnumber">2</span> <span class="toctext">Reception</span></a>
-<ul>
-<li class="toclevel-2 tocsection-3"><a href="#Critical_reception"><span class="tocnumber">2.1</span> <span class="toctext">Critical reception</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Commercial_performance"><span class="tocnumber">2.2</span> <span class="toctext">Commercial performance</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-5"><a href="#Track_list"><span class="tocnumber">3</span> <span class="toctext">Track list</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Video_links"><span class="tocnumber">6</span> <span class="toctext">Video links</span></a></li>
-</ul>
-</div>
-<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>On April 26, 2024, it was announced he will be releasing his second full-length album <i>Right Place, Wrong Person</i> on May 24.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup>
+<h2><span class="mw-headline" id="Release">Release</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy%3Fveaction%3Dedit%26section%3D1&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The album was also released in two limited editions in Japan:
 </p>
-<h2><span class="mw-headline" id="Reception">Reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><i>Right Place, Wrong Person</i> was ranked #16 on the NME's 50 best album of 2024 list.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup>
-</p><p><i>Right Place, Wrong Person</i> was ranked #1 on the Billboard's top 25 best K-Pop albums of 2024 list.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup>
+<ul><li>The Limited A version features a 48-page photobook, the regular CD and a DVD including the music videos of "Boys Meet U", "3 2 1", "Everybody", "Lucky Star" and "Downtown Baby" as well as the movie of the special showcase "Boys Meet U".</li>
+<li>The Limited B version features a different 48-page photobook, the regular CD and a DVD including the music videos of "Boys Meet U", "3 2 1" and "Lucky Star", the dance music videos of "Everybody" and "Downtown Baby", the making-of of "Downtown Baby" music video, and a movie of the album jacket's photoshoot with a special interview.</li></ul>
+<p>The international iTunes deluxe edition of the album features the music videos of "Boys Meet U", "3 2 1", "Everybody", "Lucky Star" and "Downtown Baby".
 </p>
-<h3><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D4&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><i>Right Place, Wrong Person</i> hit #1 on the iTunes Top Albums charts in 59 regions, meanwhile "Lost!" reached #1 on the iTunes Top Songs charts in 73 regions.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup>
-</p><p>On May 31, <i>Right Place, Wrong Person</i> debuted at #37 on the United Kingdom Official Charts. Meanwhile, "Lost!" debuted at #93 on the Official Singles Chart and topped the Official Singles Sales Chart, the Official Singles Downloads Chart, and the Official Physical Singles Chart.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
-</p><p><i>Right Place, Wrong Person</i> debuted at #5 on the Billboard Top 200 Albums chart.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
-</p>
-<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D5&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ol><li>"Right People, Wrong Place" - 1:57</li>
-<li>"Nuts" - 3:14</li>
-<li>"Out Of Love" - 2:07</li>
-<li>"Domodachi" (feat. <a class="extiw" href="https://en.wikipedia.org/wiki/Little_Simz" title="wikipedia:Little Simz">Little Simz</a>) - 3:04</li>
-<li>"? (Interlude)" - 1:53</li>
-<li>"Groin" - 3:10</li>
-<li>"Heaven" - 3:14</li>
-<li>"Lost!" - 3:53</li>
-<li>"Around The World In A Day" (feat. <a class="extiw" href="https://en.wikipedia.org/wiki/Moses_Sumney" title="wikipedia:Moses Sumney">Moses Sumney</a>) - 4:17</li>
-<li>"ㅠㅠ (Credit Roll)" - 1:14</li>
-<li>"<a href="/wiki/Come_Back_to_Me_(RM)" title="Come Back to Me (RM)">Come Back to Me</a>" - 6:28</li></ol>
-<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D6&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="wikia-gallery wikia-gallery-caption-below wikia-gallery-position-left wikia-gallery-spacing-small wikia-gallery-border-small wikia-gallery-captions-center wikia-gallery-caption-size-medium" data-seq-no="0" hash="20b879251488abb990d43097832bd867" id="gallery-0"><div class="wikia-gallery-caption"></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="RM_Right_Place-_Wrong_Person_teaser-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:RM_Right_Place,_Wrong_Person_teaser.png" style="height:150px; width:150px;" title="RM Right Place, Wrong Person teaser.png (526 KB)"><noscript><img alt="Teaser" class="thumbimage" data-caption="Teaser" data-image-key="RM_Right_Place%2C_Wrong_Person_teaser.png" data-image-name="RM Right Place, Wrong Person teaser.png" data-relevant="1" height="150" src="https://static.wikia.nocookie.net/kpop/images/5/55/RM_Right_Place%2C_Wrong_Person_teaser.png/revision/latest/scale-to-width-down/265?cb=20240508154619" style="" title="RM Right Place, Wrong Person teaser.png (526 KB)" width="265"/></noscript><img alt="Teaser" class="thumbimage lazyload" data-caption="Teaser" data-image-key="RM_Right_Place%2C_Wrong_Person_teaser.png" data-image-name="RM Right Place, Wrong Person teaser.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/55/RM_Right_Place%2C_Wrong_Person_teaser.png/revision/latest/scale-to-width-down/265?cb=20240508154619" height="150" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="RM Right Place, Wrong Person teaser.png (526 KB)" width="265"/></a></div></div><div class="lightbox-caption" style="width:150px;">Teaser</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="RM_Right_Place-_Wrong_Person_promotion_scheduler-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:RM_Right_Place,_Wrong_Person_promotion_scheduler.png" style="height:150px; width:150px;" title="RM Right Place, Wrong Person promotion scheduler.png (2.73 MB)"><noscript><img alt="Promotion scheduler" class="thumbimage" data-caption="Promotion scheduler" data-image-key="RM_Right_Place%2C_Wrong_Person_promotion_scheduler.png" data-image-name="RM Right Place, Wrong Person promotion scheduler.png" data-relevant="1" height="267" src="https://static.wikia.nocookie.net/kpop/images/e/e6/RM_Right_Place%2C_Wrong_Person_promotion_scheduler.png/revision/latest/scale-to-width-down/150?cb=20240428144558" style="" title="RM Right Place, Wrong Person promotion scheduler.png (2.73 MB)" width="150"/></noscript><img alt="Promotion scheduler" class="thumbimage lazyload" data-caption="Promotion scheduler" data-image-key="RM_Right_Place%2C_Wrong_Person_promotion_scheduler.png" data-image-name="RM Right Place, Wrong Person promotion scheduler.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/e/e6/RM_Right_Place%2C_Wrong_Person_promotion_scheduler.png/revision/latest/scale-to-width-down/150?cb=20240428144558" height="267" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="RM Right Place, Wrong Person promotion scheduler.png (2.73 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Promotion scheduler</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="RM_Right_Place-_Wrong_Person_track_list-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:RM_Right_Place,_Wrong_Person_track_list.png" style="height:150px; width:150px;" title="RM Right Place, Wrong Person track list.png (251 KB)"><noscript><img alt="Track list" class="thumbimage" data-caption="Track list" data-image-key="RM_Right_Place%2C_Wrong_Person_track_list.png" data-image-name="RM Right Place, Wrong Person track list.png" data-relevant="1" height="186" src="https://static.wikia.nocookie.net/kpop/images/5/5c/RM_Right_Place%2C_Wrong_Person_track_list.png/revision/latest/scale-to-width-down/150?cb=20240517020246" style="" title="RM Right Place, Wrong Person track list.png (251 KB)" width="150"/></noscript><img alt="Track list" class="thumbimage lazyload" data-caption="Track list" data-image-key="RM_Right_Place%2C_Wrong_Person_track_list.png" data-image-name="RM Right Place, Wrong Person track list.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/5/5c/RM_Right_Place%2C_Wrong_Person_track_list.png/revision/latest/scale-to-width-down/150?cb=20240517020246" height="186" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="RM Right Place, Wrong Person track list.png (251 KB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">Track list</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="RM_Right_Place-_Wrong_Person_Lost_poster_1-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:RM_Right_Place,_Wrong_Person_Lost_poster_1.png" style="height:150px; width:150px;" title="RM Right Place, Wrong Person Lost poster 1.png (2.98 MB)"><noscript><img alt='"Lost!" poster (1)' class="thumbimage" data-caption='"Lost!" poster (1)' data-image-key="RM_Right_Place%2C_Wrong_Person_Lost_poster_1.png" data-image-name="RM Right Place, Wrong Person Lost poster 1.png" data-relevant="1" height="187" src="https://static.wikia.nocookie.net/kpop/images/b/ba/RM_Right_Place%2C_Wrong_Person_Lost_poster_1.png/revision/latest/scale-to-width-down/150?cb=20240523055959" style="" title="RM Right Place, Wrong Person Lost poster 1.png (2.98 MB)" width="150"/></noscript><img alt='"Lost!" poster (1)' class="thumbimage lazyload" data-caption='"Lost!" poster (1)' data-image-key="RM_Right_Place%2C_Wrong_Person_Lost_poster_1.png" data-image-name="RM Right Place, Wrong Person Lost poster 1.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/b/ba/RM_Right_Place%2C_Wrong_Person_Lost_poster_1.png/revision/latest/scale-to-width-down/150?cb=20240523055959" height="187" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="RM Right Place, Wrong Person Lost poster 1.png (2.98 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"Lost!" poster (1)</div></div><div class="wikia-gallery-item" style="width:152px; "><div class="thumb" style="height:152px;"><div class="gallery-image-wrapper accent" id="RM_Right_Place-_Wrong_Person_Lost_poster_2-png" style="position: relative; height:150px; width:150px;"><a class="image lightbox" href="/wiki/File:RM_Right_Place,_Wrong_Person_Lost_poster_2.png" style="height:150px; width:150px;" title="RM Right Place, Wrong Person Lost poster 2.png (1.07 MB)"><noscript><img alt='"Lost!" poster (2)' class="thumbimage" data-caption='"Lost!" poster (2)' data-image-key="RM_Right_Place%2C_Wrong_Person_Lost_poster_2.png" data-image-name="RM Right Place, Wrong Person Lost poster 2.png" data-relevant="1" height="187" src="https://static.wikia.nocookie.net/kpop/images/a/a5/RM_Right_Place%2C_Wrong_Person_Lost_poster_2.png/revision/latest/scale-to-width-down/150?cb=20240523055951" style="" title="RM Right Place, Wrong Person Lost poster 2.png (1.07 MB)" width="150"/></noscript><img alt='"Lost!" poster (2)' class="thumbimage lazyload" data-caption='"Lost!" poster (2)' data-image-key="RM_Right_Place%2C_Wrong_Person_Lost_poster_2.png" data-image-name="RM Right Place, Wrong Person Lost poster 2.png" data-relevant="1" data-src="https://static.wikia.nocookie.net/kpop/images/a/a5/RM_Right_Place%2C_Wrong_Person_Lost_poster_2.png/revision/latest/scale-to-width-down/150?cb=20240523055951" height="187" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" style="" title="RM Right Place, Wrong Person Lost poster 2.png (1.07 MB)" width="150"/></a></div></div><div class="lightbox-caption" style="width:150px;">"Lost!" poster (2)</div></div></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D7&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:auto; height:auto; overflow:auto; margin-bottom:3px; padding-left:0.5em; padding-right:0.5em; -moz-border-radius-topleft:0.5em; -moz-border-radius-bottomleft:0.5em; -webkit-border-top-left-radius:0.5em;">
-<div class="reflist" style="font-size: 12px; list-style-type: decimal;">
-<div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1657191wpp/btss-rm-to-release-2nd-solo-album-right-place-wrong-person" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTS’s RM To Release 2nd Solo Album "Right Place, Wrong Person"</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.nme.com/lists/end-of-year/best-albums-2024-3818995" rel="nofollow noreferrer noopener" target="_blank">NME: The 50 best albums of 2024</a></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.billboard.com/lists/best-kpop-albums-2024/" rel="nofollow noreferrer noopener" target="_blank">Billboard: The 25 Best K-Pop Albums of 2024: Staff Picks</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1663889wpp/btss-rm-tops-itunes-charts-across-the-globe-with-lost-and-right-place-wrong-person" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTS's RM Tops iTunes Charts Across The Globe With "LOST!" And "Right Place, Wrong Person"</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1665393wpp/btss-rm-earns-his-highest-debut-yet-on-uks-official-albums-chart-with-right-place-wrong-person" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTS's RM Earns His Highest Debut Yet On UK's Official Albums Chart With "Right Place, Wrong Person"</a></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external text" href="https://www.soompi.com/article/1665580wpp/btss-rm-achieves-his-highest-billboard-200-debut-biggest-u-s-opening-week-yet-with-right-place-wrong-person" rel="nofollow noreferrer noopener" target="_blank">Soompi: BTS's RM Achieves His Highest Billboard 200 Debut + Biggest U.S. Opening Week Yet With "Right Place, Wrong Person"</a></span>
-</li>
-</ol></div></div>
-</div>
-<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FRight_Place%2C_Wrong_Person%3Fveaction%3Dedit%26section%3D8&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=kq6UVL3H6SI" rel="nofollow noreferrer noopener" target="_blank">"Lost!" music video</a>
-<ul><li><a class="external text" href="https://www.youtube.com/watch?v=f1WPZG8Kc4o" rel="nofollow noreferrer noopener" target="_blank">MV teaser</a></li></ul></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=z7FiZTE1NiI" rel="nofollow noreferrer noopener" target="_blank">"Nuts" live video</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=ChAXAFqzBpw" rel="nofollow noreferrer noopener" target="_blank">"Groin" music video</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=bZPQImItCEg" rel="nofollow noreferrer noopener" target="_blank">"Domodachi" music video</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=4iHUTm1kpyU" rel="nofollow noreferrer noopener" target="_blank">"Around The World In A Day" music video</a></li>
-<li><a class="external text" href="https://www.youtube.com/watch?v=p6w64hIPloI" rel="nofollow noreferrer noopener" target="_blank">"Credit Roll" music video</a></li></ul>
-<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/Right_Place,_Wrong_Person?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
-<table cellspacing="0" class="navbox" style="font-size:12px;;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#1a5891; color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;background:#1a5891; color:#fff;;border:none;;"><a href="/wiki/Template:RM" title="Template:RM"><span style=";background:#1a5891; color:#fff;;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:RM?action=edit" rel="noreferrer noopener" target="_blank"><span style=";background:#1a5891; color:#fff;;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
-<a href="/wiki/RM" title="RM">RM</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Discography</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Indigo" title="Indigo">Indigo</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">Right Place, Wrong Person</strong></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Mixtapes</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/RM_(mixtape)" title="RM (mixtape)">RM</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Mono" title="Mono">Mono</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Digital singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Bicycle" title="Bicycle">Bicycle</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Come_Back_to_Me_(RM)" title="Come Back to Me (RM)">Come Back to Me</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Filmography</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Documentary</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/RM:_Right_People,_Wrong_Place" title="RM: Right People, Wrong Place">RM: Right People, Wrong Place</a></i></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Related topics</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/BigHit_Music" title="BigHit Music">BigHit Music</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/BTS" title="BTS">BTS</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:100px;text-align:center;;">Official links</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/rkive/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a></span></div></td></tr></tbody></table></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Track_list">Track list</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy%3Fveaction%3Dedit%26section%3D2&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol><li>"Downtown Baby" - 3:55</li>
+<li>"<a href="/wiki/Lucky_Star_(SHINee)" title="Lucky Star (SHINee)">Lucky Star</a>" - 3:23</li>
+<li>"Everybody" <small>(Japanese ver.)</small> - 4:09</li>
+<li>"Picasso" - 3:51</li>
+<li>"<a href="/wiki/3_2_1" title="3 2 1">3 2 1</a>" - 3:33</li>
+<li>"365" - 3:11</li>
+<li>"Sunny Day Hero" - 3:22</li>
+<li>"Perfect 10" - 2:44</li>
+<li>"Bounce" - 3:24</li>
+<li>"Dream Girl" <small>(Japanese ver.)</small> - 3:01</li>
+<li>"Colors of the Season" - 4:29</li>
+<li>"<a href="/wiki/Boys_Meet_U_(single)" title="Boys Meet U (single)">Boys Meet U</a>" - 2:47</li></ol>
+<h2><span class="mw-headline" id="Video_links">Video links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a class="mw-editsection-visualeditor" data-action="edit-section" data-testid="log-in-edit-section" data-tracking-label="log-in-edit-section" href="https://auth.fandom.com/signin?redirect=https%3A%2F%2Fkpop.fandom.com%2Fwiki%2FI%2527m_Your_Boy%3Fveaction%3Dedit%26section%3D3&amp;uselang=en" title="Sign in to edit"><svg class="wds-icon wds-icon-tiny"><use xlink:href="#wds-icons-pencil-tiny"></use></svg></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://www.youtube.com/watch?v=-9UZ7mtJyI8" rel="nofollow noreferrer noopener" target="_blank">"Downtown Baby" music video teaser</a></li></ul>
+<dl><dd><div class="notice metadata plainlinks" id="stub"><i>This article is a <a href="/wiki/Category:Article_stubs" title="Category:Article stubs">stub</a>. You can help Kpop Wiki by  <a class="text" href="https://kpop.fandom.com/wiki/I%27m_Your_Boy?action=edit" rel="noreferrer noopener" target="_blank">expanding it</a>.</i></div></dd></dl>
+<table cellspacing="0" class="navbox" style=";font-size:12px;"><tbody><tr><td style="padding:2px;"><table cellspacing="0" class="nowraplinks mw-collapsible mw-collapsed" style="width:100%;background:transparent;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";background:#88d8c0; color:#fff;"><div style="float:left; width:6em;text-align:left;"><div class="noprint plainlinksneverexpand navbar" style="background-color:transparent; padding:0; white-space:nowrap; font-weight:normal; font-size:xx-small; ;;border:none;;"><a href="/wiki/Template:SHINee" title="Template:SHINee"><span style=";;border:none;; background:transparent;" title="View this template">v</span></a> <span style="font-size:80%;">•</span> <a class="text" href="https://kpop.fandom.com/wiki/Template:SHINee?action=edit" rel="noreferrer noopener" target="_blank"><span style=";;border:none; background:transparent;" title="You can edit this template. Please use the preview button before saving.">e</span></a></div></div><span class="colorinherit" style="font-size:110%; margin-left:-80px;">
+<a href="/wiki/SHINee" title="SHINee">SHINee</a></span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-abovebelow" colspan="2" style=";font-weight:bold;"><span style="white-space:nowrap"><a href="/wiki/Onew" title="Onew">Onew</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Key" title="Key">Key</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Minho_(SHINee)" title="Minho (SHINee)">Minho</a></span>  •  <span style="white-space:nowrap"><a href="/wiki/Taemin_(SHINee)" title="Taemin (SHINee)">Taemin</a></span><br/><span style="font-weight:normal; font-style: italic;"><span style="white-space:nowrap"><a href="/wiki/Jonghyun" title="Jonghyun">Jonghyun</a></span></span></td></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible collapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Discography</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Korean</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:130px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_SHINee_World" title="The SHINee World">The SHINee World</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Amigo" title="Amigo">Amigo</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Lucifer" title="Lucifer">Lucifer</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Hello_(SHINee)" title="Hello (SHINee)">Hello</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Dream_Girl_-_The_Misconceptions_of_You" title="Dream Girl - The Misconceptions of You">Dream Girl</a></i> + <i><a href="/wiki/Why_So_Serious%3F_-_The_Misconceptions_of_Me" title="Why So Serious? - The Misconceptions of Me">Why So Serious?</a></i> <span style="font-size:85%;">(<i><a href="/wiki/The_Misconceptions_of_Us" title="The Misconceptions of Us">The Misconceptions of Us</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Odd" title="Odd">Odd</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Married_to_the_Music" title="Married to the Music">Married to the Music</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/1_of_1" title="1 of 1">1 of 1</a></i> <span style="font-size:85%;">(<i>1 and 1</i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/The_Story_of_Light" title="The Story of Light">The Story of Light</a></i> <span style="font-size:85%;">(<i><a href="/wiki/The_Story_of_Light_EP.1" title="The Story of Light EP.1">EP.1</a></i> / <i><a href="/wiki/The_Story_of_Light_EP.2" title="The Story of Light EP.2">EP.2</a></i> / <i><a href="/wiki/The_Story_of_Light_EP.3" title="The Story of Light EP.3">EP.3</a></i> / <i><a href="/wiki/The_Story_of_Light_Epilogue" title="The Story of Light Epilogue">Epilogue</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Don%27t_Call_Me_(SHINee)" title="Don't Call Me (SHINee)">Don't Call Me</a></i> <span style="font-size:85%;">(<i><a href="/wiki/Atlantis" title="Atlantis">Atlantis</a></i>)</span></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Hard" title="Hard">Hard</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:130px;;">Mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/Replay_(SHINee)" title="Replay (SHINee)">Replay</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Romeo_(SHINee)" title="Romeo (SHINee)">Romeo</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/2009,_Year_of_Us" title="2009, Year of Us">2009, Year of Us</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Sherlock" title="Sherlock">Sherlock</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Everybody" title="Everybody">Everybody</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:130px;;">Live albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><span class="new" data-uncrawlable-url="L3dpa2kvU0hJTmVlX1dvcmxkP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SHINee World (page does not exist)">SHINee World</span></i></span>  •  <span style="white-space:nowrap"><i><span class="new" data-uncrawlable-url="L3dpa2kvU0hJTmVlX1dvcmxkX0lJP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SHINee World II (page does not exist)">SHINee World II</span></i></span>  •  <span style="white-space:nowrap"><i><span class="new" data-uncrawlable-url="L3dpa2kvU0hJTmVlX1dvcmxkX0lJST9hY3Rpb249ZWRpdCZyZWRsaW5rPTE=" title="SHINee World III (page does not exist)">SHINee World III</span></i></span>  •  <span style="white-space:nowrap"><i><span class="new" data-uncrawlable-url="L3dpa2kvU0hJTmVlX1dvcmxkX0lWP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="SHINee World IV (page does not exist)">SHINee World IV</span></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:130px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvU2Fuc29fR2F0ZXVuX05lb18oTG92ZV9MaWtlX094eWdlbik/YWN0aW9uPWVkaXQmcmVkbGluaz0x" title="Sanso Gateun Neo (Love Like Oxygen) (page does not exist)">산소 같은 너 (Love Like Oxygen)</span>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:130px;;">Promotional singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<span class="new" data-uncrawlable-url="L3dpa2kvQm9keWd1YXJkP2FjdGlvbj1lZGl0JnJlZGxpbms9MQ==" title="Bodyguard (page does not exist)">Bodyguard</span>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:130px;;">Remix singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/IScreaM_Vol.7_:_Don%27t_Call_Me_Remixes" title="IScreaM Vol.7 : Don't Call Me Remixes">iScreaM Vol.7 : Don't Call Me Remixes</a>"</span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japanese</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";width:120px;;">Studio albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/The_First_(SHINee)" title="The First (SHINee)">The First</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Boys_Meet_U" title="Boys Meet U">Boys Meet U</a></i></span>  •  <span style="white-space:nowrap"><i><strong class="mw-selflink selflink">I'm Your Boy</strong></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/DxDxD" title="DxDxD">D×D×D</a></i></span>  •  <span style="white-space:nowrap"><i><a href="/wiki/Five" title="Five">FIVE</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Best albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/SHINee_The_Best_from_Now_On" title="SHINee The Best from Now On">SHINee The Best from Now On</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Mini albums</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/SuperStar_(SHINee)" title="SuperStar (SHINee)">SuperStar</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital mini albums</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><i><a href="/wiki/SHINee_The_Best_from_Now_On" title="SHINee The Best from Now On">From Now On</a></i></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Singles</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Replay_-Kimi_wa_Boku_no_Everything-" title="Replay -Kimi wa Boku no Everything-">Replay -Kimi wa Boku no Everything-</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Juliette_(Japanese_single)" title="Juliette (Japanese single)">Juliette</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lucifer_(Japanese_single)" title="Lucifer (Japanese single)">Lucifer</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sherlock_(Japanese_single)" title="Sherlock (Japanese single)">Sherlock</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Dazzling_Girl" title="Dazzling Girl">Dazzling Girl</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/1000_Years,_Always_By_Your_Side..." title="1000 Years, Always By Your Side...">1000 Years, Always By Your Side...</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Fire_(SHINee)" title="Fire (SHINee)">Fire</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Boys_Meet_U_(single)" title="Boys Meet U (single)">Boys Meet U</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/3_2_1" title="3 2 1">3 2 1</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Lucky_Star_(SHINee)" title="Lucky Star (SHINee)">Lucky Star</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Your_Number" title="Your Number">Your Number</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sing_Your_Song" title="Sing Your Song">Sing Your Song</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Because_of_You_(SHINee)" title="Because of You (SHINee)">Because of You</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Winter_Wonderland" title="Winter Wonderland">Winter Wonderland</a>"</span>  •  <span style="white-space:nowrap">"<a href="/wiki/Sunny_Side" title="Sunny Side">Sunny Side</a>"</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";width:120px;;">Digital singles</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">"<a href="/wiki/Super_Star_(SHINee_single)" title="Super Star (SHINee single)">Super Star</a>"</span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Concerts and tours</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="width:100%;;;;"><tbody><tr><td class="navbox-group" style=";;">Tours</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">SHINee World</span>  •  <span style="white-space:nowrap">SHINee World II</span>  •  <span style="white-space:nowrap">SHINee World III</span>  •  <span style="white-space:nowrap">SHINee World IV</span>  •  <span style="white-space:nowrap">SHINee World V</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Japan tours</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">SHINee World 2012</span>  •  <span style="white-space:nowrap">SHINee World 2013 ~Boys Meet U~</span>  •  <span style="white-space:nowrap">SHINee World 2014 ~I'm Your Boy~</span>  •  <span style="white-space:nowrap">SHINee World 2016 ~DxDxD~</span>  •  <span style="white-space:nowrap">SHINee World 2017 ~Five~</span>  •  <span style="white-space:nowrap">SHINee World The Best 2018 ~From Now On~</span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Fanmeetings</td><td class="navbox-list navbox-odd" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap">SHINee World J Presents ~SHINee Special Fan Event~</span>  •  <span style="white-space:nowrap"><a href="/wiki/SHINEE_World_J_Presents_%E3%80%9C_Bistro_de_SHINee_%E3%80%9C" title="SHINEE World J Presents 〜 Bistro de SHINee 〜">SHINee World J Presents ~Bistro de SHINee~</a></span></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-group" style=";;">Online concerts</td><td class="navbox-list navbox-even" style="text-align:left;border-left:2px solid #fdfdfd;width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/Beyond_LIVE_%E2%80%93_SHINee_:_SHINee_World" title="Beyond LIVE – SHINee : SHINee World">SHINee : SHINee World</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Related topics</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a href="/wiki/SM_Entertainment" title="SM Entertainment">SM Entertainment</a></span></div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td></td></tr><tr><td class="navbox-list navbox-even" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="width:100%;;;;"><tbody><tr><th class="navbox-title" colspan="2" style=";;text-align:center;"><div style="float:left; width:6em;text-align:left;"> </div><span style="font-size:100%; margin-left:-80px;">
+Official links</span></th></tr><tr style="height:2px;"><td></td></tr><tr><td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px;;;"><div style="padding:0em 0.25em"><span style="white-space:nowrap"><a class="external text" href="http://shinee.smtown.com/" rel="nofollow noreferrer noopener" target="_blank">Website</a> <small>(<a class="external text" href="http://www.shinee.jp/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.facebook.com/shinee/" rel="nofollow noreferrer noopener" target="_blank">Facebook</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.instagram.com/shinee/" rel="nofollow noreferrer noopener" target="_blank">Instagram</a> <small>(<a class="external text" href="https://www.instagram.com/shinee_jp_official/" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://twitter.com/SHINee" rel="nofollow noreferrer noopener" target="_blank">Twitter</a> <small>(<a class="external text" href="https://twitter.com/shinetter" rel="nofollow noreferrer noopener" target="_blank">Japanese</a>)</small></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.weibo.com/shinee" rel="nofollow noreferrer noopener" target="_blank">Weibo</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://weverse.io/shinee/feed" rel="nofollow noreferrer noopener" target="_blank">Weverse</a></span>  •  <span style="white-space:nowrap"><a class="external text" href="https://www.youtube.com/user/SHINee" rel="nofollow noreferrer noopener" target="_blank">YouTube</a></span></div></td></tr></tbody></table><div></div></td></tr></tbody></table></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Cached time: 20250312123727
+Cached time: 20250312223759
 Cache expiry: 1209600
 Reduced expiry: false
-Complications: [show‐toc]
-CPU time usage: 0.114 seconds
-Real time usage: 0.300 seconds
-Preprocessor visited node count: 2235/1000000
-Post‐expand include size: 21948/2097152 bytes
-Template argument size: 9884/2097152 bytes
-Highest expansion depth: 14/100
+Complications: []
+CPU time usage: 0.138 seconds
+Real time usage: 0.152 seconds
+Preprocessor visited node count: 7072/1000000
+Post‐expand include size: 169187/2097152 bytes
+Template argument size: 131430/2097152 bytes
+Highest expansion depth: 26/100
 Expensive parser function count: 0/100
 Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 11936/5000000 bytes
+Unstrip post‐expand size: 28/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  252.156      1 -total
- 61.42%  154.874      3 Template:Navbox
- 42.77%  107.850      1 Template:RM
- 24.75%   62.412      1 Template:Infobox_album
- 12.85%   32.403      6 Template:List
- 10.21%   25.736      1 Template:Tnavbar
-  8.07%   20.354      1 Template:Reflist
-  7.77%   19.598      6 Template:Element_List
-  7.14%   18.000      1 Template:Scroll_Box
-  6.55%   16.517      1 Template:Stub
+159.88%  180.632      9 Template:Navbox
+100.00%  112.977      1 -total
+ 69.41%   78.412      1 Template:SHINee
+ 67.23%   75.951      1 Template:Navbox_with_collapsible_groups
+ 31.15%   35.195     19 Template:List
+ 28.28%   31.952      1 Template:Infobox_album
+ 26.06%   29.444     20 Template:Element_List
+  3.69%    4.172      1 Template:List2
+  2.54%    2.872      1 Template:Tnavbar
+  2.03%    2.290      1 Template:Stub
 -->
-<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:221511-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312123727 and revision id 1097703. Rendering was triggered because: page-view
+<!-- Saved in parser cache with key 1.43.0_prod_kpop:pcache:idhash:11077-0!sseVary=RegularPage!FandomDesktop!LegacyGalleries and timestamp 20250312223759 and revision id 354512. Rendering was triggered because: page-view
  -->
 </div></div> </div>
 <div class="page-footer">
@@ -2595,20 +2599,36 @@ Transclusion expansion time report (%,ms,calls,template)
 <span class="name"><a href="/wiki/Category:Discography_article_stubs" title="Category:Discography article stubs">Discography article stubs</a></span>
 <span class="tool removeCategory"></span>
 </li>
-<li class="category normal" data-name="RM" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:RM" title="Category:RM">RM</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2024 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_releases" title="Category:2024 releases">2024 releases</a></span>
-<span class="tool removeCategory"></span>
-</li>
-<li class="category normal" data-name="2024 studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
-<span class="name"><a href="/wiki/Category:2024_studio_albums" title="Category:2024 studio albums">2024 studio albums</a></span>
+<li class="category normal" data-name="SHINee" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:SHINee" title="Category:SHINee">SHINee</a></span>
 <span class="tool removeCategory"></span>
 </li>
 <li class="category normal" data-name="Studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
 <span class="name"><a href="/wiki/Category:Studio_albums" title="Category:Studio albums">Studio albums</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2014 releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2014_releases" title="Category:2014 releases">2014 releases</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2014 studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2014_studio_albums" title="Category:2014 studio albums">2014 studio albums</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Japanese_releases" title="Category:Japanese releases">Japanese releases</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="Japanese studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:Japanese_studio_albums" title="Category:Japanese studio albums">Japanese studio albums</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2014 Japanese releases" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2014_Japanese_releases" title="Category:2014 Japanese releases">2014 Japanese releases</a></span>
+<span class="tool removeCategory"></span>
+</li>
+<li class="category normal" data-name="2014 Japanese studio albums" data-namespace="" data-outertag="" data-sortkey="" data-type="normal">
+<span class="name"><a href="/wiki/Category:2014_Japanese_studio_albums" title="Category:2014 Japanese studio albums">2014 Japanese studio albums</a></span>
 <span class="tool removeCategory"></span>
 </li>
 </ul>
@@ -2794,7 +2814,7 @@ Transclusion expansion time report (%,ms,calls,template)
 <div class="global-footer__bottom">
 <div>Kpop Wiki is a FANDOM Music Community.</div>
 <div>
-<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9SaWdodF9QbGFjZSxfV3JvbmdfUGVyc29uP3RpdGxlPVJpZ2h0X1BsYWNlJTJDX1dyb25nX1BlcnNvbiZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
+<a class="global-footer__switch-view global-footer__switch-to-mobile" data-switch-url="aHR0cHM6Ly9rcG9wLmZhbmRvbS5jb20vd2lraS9JJTI3bV9Zb3VyX0JveT90aXRsZT1JJTI3bV9Zb3VyX0JveSZtb2JpbGVhY3Rpb249dG9nZ2xlX3ZpZXdfbW9iaWxl">
 					View Mobile Site				</a>
 </div>
 </div>
