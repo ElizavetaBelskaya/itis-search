@@ -1,3 +1,4 @@
-aiohttp
-beautifulsoup4
-aiofiles
+aiohttp~=3.8.4
+beautifulsoup4~=4.11.1
+aiofiles~=23.1.0
+nltk~=3.9.1
