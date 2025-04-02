@@ -71,17 +71,17 @@ def main():
     total_tokens = 0
     total_lemmas = 0
 
-    for i, filename in enumerate(sorted(os.listdir(INPUT_DIR)), 1):
-        if filename.endswith('.txt'):
-            file_path = os.path.join(INPUT_DIR, filename)
-            try:
-                tokens_count, lemmas_count = process_page(file_path, i)
-                total_pages += 1
-                total_tokens += tokens_count
-                total_lemmas += lemmas_count
-                print(f"Обработана страница {i}: {tokens_count} токенов, {lemmas_count} лемм")
-            except Exception as e:
-                print(f"Ошибка при обработке {filename}: {str(e)}")
+    for i in range(1, 201):
+        filename = f'page_{i}.txt'
+        file_path = os.path.join(INPUT_DIR, filename)
+        try:
+            tokens_count, lemmas_count = process_page(file_path, i)
+            total_pages += 1
+            total_tokens += tokens_count
+            total_lemmas += lemmas_count
+            print(f"Обработана страница {i}: {tokens_count} токенов, {lemmas_count} лемм")
+        except Exception as e:
+            print(f"Ошибка при обработке {filename}: {str(e)}")
 
     print("\nИтоговая статистика:")
     print(f"Обработано страниц: {total_pages}")
