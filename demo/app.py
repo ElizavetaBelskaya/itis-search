@@ -7,8 +7,6 @@ import re
 app = Flask(__name__)
 
 search_engine = VectorSearchEngine(
-    index_file="../index/inverted_index.tsv",
-    lemmas_dir="../tokenizer-lemmatizer/lemmas",
     pages_dir="../crawler/downloaded_pages",
     tfidf_dir="../tf-idf/tfidf_lemmas"
 )

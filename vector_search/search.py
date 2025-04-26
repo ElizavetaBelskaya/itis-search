@@ -5,23 +5,13 @@ from bs4 import BeautifulSoup
 from nltk import word_tokenize
 
 class VectorSearchEngine:
-    def __init__(self, index_file, lemmas_dir, pages_dir, tfidf_dir):
-        self.index_file = index_file
-        self.lemmas_dir = lemmas_dir
+
+    def __init__(self, pages_dir, tfidf_dir):
         self.pages_dir = pages_dir
         self.tfidf_dir = tfidf_dir
-        self.inverted_index = self.load_inverted_index()
-        self.N = len([f for f in os.listdir(tfidf_dir) if f.startswith("tfidf_lemmas_")])
+        self.N = len([f for f in os.listdir(tfidf_dir) if f.startswith("tfidf_tokens_")])
         self.doc_vectors, self.idf = self.load_tfidf_vectors()
 
-    def load_inverted_index(self):
-        index = {}
-        with open(self.index_file, 'r', encoding='utf-8') as f:
-            next(f)
-            for line in f:
-                term, file_ids = line.strip().split("\t")
-                index[term] = set(map(int, file_ids.split()))
-        return index
 
     def load_tfidf_vectors(self):
         doc_vectors = {}
@@ -45,6 +35,7 @@ class VectorSearchEngine:
         # агрегируем IDF — можно взять среднее (если нужно), но берём первое значение
         idf = {term: vals[0] for term, vals in idf_accumulator.items()}
         return doc_vectors, idf
+
 
     def query_to_vector(self, query):
         tokens = word_tokenize(query.lower())
@@ -130,8 +121,6 @@ class VectorSearchEngine:
 
 if __name__ == '__main__':
     search_engine = VectorSearchEngine(
-        index_file="../index/inverted_index.tsv",
-        lemmas_dir="../tokenizer-lemmatizer/lemmas",
         pages_dir="../crawler/downloaded_pages",
         tfidf_dir="../tfidf_lemmas"
     )
