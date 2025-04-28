@@ -122,6 +122,6 @@ class VectorSearchEngine:
 if __name__ == '__main__':
     search_engine = VectorSearchEngine(
         pages_dir="../crawler/downloaded_pages",
-        tfidf_dir="../tfidf_lemmas"
+        tfidf_dir="../tf-idf/tfidf_lemmas"
     )
     search_engine.run_console()
